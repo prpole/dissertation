@@ -9,11 +9,17 @@ create speculative social ecologies. Ecotopian spaces often share common
 characteristics: social, economic, or (and?) ecological closure; an attention
 to energy throughput[^ln-throughput] that includes human actors; and response
 to a larger, contemporaneous political or social regime or movement. They often
-also share formal features: sections defined by ecotopian spaces are often
-sequestered in their own sections[^ln-narrative-sequester] and entrances and
-exits from such spaces often have a transformative or wish-fulfilling effect on
-plot and characters. Above all, ecotopian spaces articulate an environmental
-(if not always environmentalist) perspective through imagined material. 
+also share formal features: ecotopian spaces are often sequestered in their own
+sections,[^ln-narrative-sequester] and entrances and exits from such spaces
+often have a transformative or wish-fulfilling effect on plot and characters.
+Above all, ecotopian spaces articulate an environmental (if not always
+environmentalist) perspective through imagined material. Reading such spaces
+can reveal an important spatial aspect to a given text's imaginative
+capacities, but reading many of them historically can offer something larger to
+environmentalism and the environmental humanities. An implicit political
+argument underlies this project: that under conditions of impending crisis,
+contemporary environmentalism needs a utopian imaginary, and reading for
+ecotopian spaces can reveal material for this imaginary in unexpected places. 
 
 Though it might appear trans-historical, the ecotopian imagination in American
 literature is firmly historically situated, emerging when the frontier
@@ -36,7 +42,7 @@ either model---the frontier's "creative destruction" or the post-crisis
 creation that is *forced* by destruction; *which* model is determined by one's
 relationship to distributions of power, production, and abundance.
 
-These concepts might apply to any examination of Utopian literature or
+These concepts might apply to any examination of utopian literature or
 politics, but the ecotopian imagination uniquely privileges the role of human
 and social ecologies in this interaction, targeting the
 "metabolism"[^ln-metabolism] between human and non-human natures as the initial
@@ -73,7 +79,7 @@ deterministic forces of literary naturalism, or the traces of physical
 structure and infrastructure that define an imagined space. The introduction
 will conclude by outlining the individual chapters.
 
-### Chapter I: Ecotopian Naturalism: Determination and Ecological Praxis
+### Chapter I: Frontiers: Ecotopian Naturalism and Ecological Praxis
 
 This chapter will examine the ways that transformations in the ecology of an
 ecotopian space determine the shape of social systems and narrative form in the
@@ -112,7 +118,7 @@ of determinism with a more dialectical model.
 - Gilman: Herland, "The Yellow Wallpaper," 
 - Norris: The Octopus, The Pit, McTeague
 
-### Chapter II: Ecotopia and History: Cultural Appropriation and Cultural Reclamation
+### Chapter II: Cliff Cities: History, Cultural Appropriation, and Cultural Reclamation
 
 This chapter will examine Willa Cather's depiction of Ácoma Pueblo ruins in
 *Death Comes for the Archbishop* and *The Professor's House* alongside writers
@@ -126,7 +132,7 @@ spaces.
 
 In Cather's novels, Outland and Latour are both readers of culture as it is
 expressed in infrastructure---and not just readers, but *rereaders* who take
-these infrastructural signs and translate them for their own Utopian ends.  Out
+these infrastructural signs and translate them for their own utopian ends.  Out
 of the traces of Ácoma Pueblo ruins (or ruins based on them), they create
 ecotopian spaces that either permit the queering of domestic labor, in
 Outland's case, or resolve the tension between colonial conquest and religious
@@ -162,10 +168,7 @@ be a problem.
 - Leslie Marmon Silko: Ceremony, Almanac of the Dead(?)
 - Simon Ortiz: Selected Works (?) 
 
-note: these latter two writers produced most of their work in the 90s, so
-this will require me to think hard about the temporal bounds of the project.
-
-### Chapter III: Social Ecologies in Post-Plantation Fiction
+### Chapter III: Plantations: Social Ecologies and Historical Trauma
 
 This chapter is still under development while I revisit the texts. Ideally, I'd
 like to look at former plantations in post-Reconstruction Southern literature
@@ -173,28 +176,37 @@ as an environment in which the ecotopian imagination struggles against the
 rifts of historical trauma. This perspective would allow me to compare the
 exploitative, resource-based view of human and non-human nature with human
 ecologies represented through human-nature hybridity in texts like Chesnutt's
-*Conjure Woman* and Toomer's *Cane*. Hybridity in Chesnutt and Toomer 
+*Conjure Woman* and Toomer's *Cane*. Hybridity in Chesnutt and Toomer can be
+read as a metaphor for the human and social ecologies that arise out of
+conditions of forcible bondage to the land. In the post-Reconstruction period,
+as DuBois shows, assimilation of formerly enslaved communities into the system
+of capitalist agriculture often led merely to a different type of exploitation
+through predatory loans and land rents. In response to this new form
+exploitation, post-Reconstruction authors use hybridity to reimagine, in
+post-bondage conditions, the extra-economic social ecology that arose as a form
+of resistance under conditions of bondage. While it does not attempt to
+foreclose historical trauma, it does seek to imagine a continuation of
+place-based life beyond it.
 
-The disappearance of the frontier for the dissenting member of the
-post-slave-holding class means countenancing complicity in historical trauma;
-the ecotopian vision that results must offer a counterpoint to the exploitative
-environment of the plantation, which persists through legal inheritance of the
-fruits of that exploitation. In other words, the ecotopian space here is one
-that successfully hides or erases, making complicity disappear in the
-construction of a space to which ownership is irrelevant. The tension between
-landscapes and documents in Faulkner's "The Bear" is exemplary: the utopian
-function of "wilderness," as as a place that is unownable and illegible, is to
-blot out awareness of a form of ownership that cannot be countenanced.
-Ownership of land and people is based in legibility, as is dramatized in the
-narrative of reading ledgers and historical chronicles. The gradual
-becoming-legible of the wilderness culminates in its destruction, seeming to
-contrast the role of the written word in property and ownership with the
-unknowability of the "wilderness" in its idealized, American sense. But prior
-to the loss of the hunting ground, the relationship with the land seems to
-cause a suspension of historical tension and trauma. The very illegibility of
-the space, then, forms an extra-legal (and therefore extra-ownership and
-extra-enslavement) space in which historical crimes can be temporarily
-forgotten. 
+The disappearance of the frontier for the post-slave-holding class means having
+to acknowledge complicity in historical trauma; the ecotopian vision that
+results must offer a counterpoint to the exploitative environment of the
+plantation, which persists through legal inheritance of the fruits of that
+exploitation. In other words, the ecotopian space here is one that successfully
+hides or erases, making complicity disappear in the construction of a space to
+which ownership is irrelevant. The tension between landscapes and documents in
+Faulkner's "The Bear" is exemplary: the utopian function of "wilderness," as as
+a place that is unownable and illegible, is to blot out awareness of a form of
+ownership that cannot be countenanced.  Ownership of land and people is based
+in legibility, as is dramatized in the narrative of reading ledgers and
+historical chronicles. The gradual becoming-legible of the wilderness
+culminates in its destruction, seeming to contrast the role of the written word
+in property and ownership with the unknowability of the "wilderness" in its
+idealized, American sense. But prior to the loss of the hunting ground, the
+relationship with the land seems to cause a suspension of historical tension
+and trauma. The very illegibility of the space, then, forms an extra-legal (and
+therefore extra-ownership and extra-enslavement) space in which historical
+crimes can be temporarily forgotten. 
 
 #### Possible texts:
 
@@ -202,8 +214,41 @@ forgotten.
 - Faulkner: Absalom, "The Bear"
 - Toomer: *Cane*
 
+### Chapter IV: Parks (/Neighborhoods?/Tenements?): The Ecotopian Imagination in the City
 
-### Chapter IV OR Postscript/Chapter V: Nature Beyond Earth: Ecotopia on the High Frontier
+This chapter will probably address some of the issues of enclosure I brought up
+in my orals conversations, but it may also address some of the following: urban
+reform; garden cities; city parks; narrations of black migration north in the
+twentieth century; displacement of European peasant cultures onto an urban
+landscape. This text is essentially a placeholder while I develop my thinking
+on *Call It Sleep* and *Jews Without Money*, possibly alongside narratives of
+black migration from the south to northern urban enclaves like Harlem (texts
+TBD). 
+
+The main thing I'm pursuing in this chapter is how agrarian and rural social
+ecologies, when displaced into urban conditions, require an ecotopian
+reformation of space if they are to survive. In differentiating these moments
+from the "urban pastoral" and the "ghetto pastoral," I will also have an
+occasion to differentiate the ecotopian imagination from the pastoral in
+general. Because the most obviously "environmental" moments in Roth's and
+Gold's novels are essentially pastoral, however, it's unclear whether they'll
+be usable except in establishing the urban ecotopia negatively against the
+urban pastoral. This chapter may therefore end up being less "literary" than
+others, engaging more with theoretical texts and discussions of relevant issues
+in urban planning. The "garden city," for example, had a major influence on
+late-nineteenth- and early-twentieth-century urban planning and architecture,
+and may provide a useful angle from which to approach urban ecology in
+literature. The role of city parks in New York City immigrant novels (Gold) and
+Harlem-centric novels could also be set against the discourse around parks in
+urban planning. More research is required at this point to determine which
+would be most viable.
+
+#### Possible texts:
+
+- Henry Roth, *Call It Sleep*
+- Michael Gold, *Jews Without Money*
+
+### Postscript/Chapter V: Nature Beyond Earth: Ecotopia on the High Frontier
 
 The central tension of this chapter will be the concept of "nature" implied by
 the ecotopian imagination, ambiguous as it is on the division between human and
@@ -217,24 +262,24 @@ the vision of "spaceship earth" that became a major paradigm of sustainability
 in the last two decades of the twentieth century. Further, encounters with
 extra-terrestrial natures demands a reevaluation of the hierarchies according
 to which concepts of nature have been historically constructed. The loci of the
-spaceship and extra-terrestrial planet finally becomes test-cases for the
+spaceship and extra-terrestrial planet finally becomes test cases for the
 possibility of determination in complex systems: time and again in ecotopian
 novels of the high frontier, the ultimate limits of human management and
 domination are exposed as determined systems come into contact with systems
 that resist determination. It is necessary to discuss the science-fictional
 wing of the ecotopian imagination to show that "nature" in an ecotopian space
 always exists in a tension between the conscious interaction with systems that
-go beyond the human and the limits of human control.
+go beyond the human and the limits of human control in non-human systems.
 
-Possible texts:
+#### Possible texts:
 
-Kim Stanley Robinson: Mars Trilogy, 2312, Aurora?
-Octavia Butler: Dawn
-John Varley: Titan
-Robert A. Heinlein: The Moon is a Harsh Mistress, Farmer in the Sky
+- Kim Stanley Robinson: Mars Trilogy, 2312, Aurora?
+- Octavia Butler: Dawn
+- John Varley: Titan
+- Robert A. Heinlein: The Moon is a Harsh Mistress, Farmer in the Sky
 
 
-## Notes
+<!--- ### Notes --->
 
 [^ln-throughput]: *The Dictionary of Environment and Conservation* defines
 throughput as "Output relative to input; the amount that passes through a
@@ -251,4 +296,3 @@ Future*.
 [^ln-narrative-sequester]: See, for example, the "Tom Outland's Story" section
 of Cather's *The Professor's House*. 
 
-## References
