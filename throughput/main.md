@@ -1,5 +1,6 @@
 ---
 title: Throughput, or, Gestures Beyond Prometheanism
+geometry: margin=1in
 ---
 
 > [Throughput:] A measure of a computer’s overall performance, as measured by
@@ -18,9 +19,9 @@ phase and emit the least possible pollution in the consumption phase. (Carolyn
 Merchant, *Radical Ecologies*)
 
 Almost a thousand people stand on Olympus Mons, the tallest volcano in our
-solar system, and watch as an ice asteroid leaves a flaming streak in the newly
-minted Martian atmosphere. The asteroid has been commandeered by UN-approved
-robotic ships that have landed, burrowed themselves into a secure purchase, and
+solar system, and watch as an ice asteroid leaves a gash in the newly minted
+Martian atmosphere. The asteroid has been commandeered by UN-approved robotic
+ships that have landed, burrowed themselves into a secure purchase, and
 converted the material of the asteroid itself into the fuel necessary to alter
 its trajectory for this calculated near miss. The assembled crowd aren't in it
 for the fireworks, though. They are a thousand among many Earth expats who have
@@ -33,7 +34,7 @@ alterations as modest as the cultivation of ever-hardier bacteria to those as
 audacious as drilling "moholes" through the Martian crust to tap the heat at
 its core. By the end of the third book (*Blue Mars*), a third generation of
 humans native to Mars lounge on the beach of a Martian ocean. But just as
-important to the novel's mission are its economic, legal, political, and social
+important to the novel's mission are its economic, political, and social
 innovations. The creation of an atmosphere can only happen simultaneously with
 the challenge of what a Martian constitution will look like, or, more relevant
 to my purposes, of adapting Earth-based understandings of environmental
@@ -135,38 +136,83 @@ all the more mysterious.
 Something is needed to think through of each of these steps in the
 social-ecological balance sheet. I propose that it is a neglected middle-term,
 technology, which exists as a translator between abstract and material forms of
-throughput. But "technology" requires its own broad categories: our
-twenty-first-century data bias might cause us to think of technology solely in
-terms of the communication-network definition of throughput, namely, data
-transfer from one entity to another; but we have to also recognize that what
-matters most to material flows are what might be classified material or
-industrial technologies. Such technologies translate the material and energy of
-nonhuman natures into pollution, yes, but also into more meaningful alterations
-to the *oikos*. In other words, we need to think of throughput as in some way
-recursive, with outputs that change not only the next round of inputs but also
-"whatever happens in between." 
+throughput. But "technology" requires its own (still quite broad) categories
+wihtin it. Our twenty-first-century data bias might cause us to think of
+technology solely in terms of the communication-network definition of
+throughput, namely, data transfer from one entity to another; but we have to
+also recognize that what matters most to material flows are what might be
+classified material or industrial technologies. Such technologies translate the
+material and energy of nonhuman natures into pollution, yes, but also into more
+meaningful alterations to the *oikos*. In other words, we need to think of
+throughput as in some way recursive, with outputs that change not only the next
+round of inputs but also "whatever happens in between." 
+
+But this distinction between communication and material technologies still
+leaves us with a fundamental problem. It doesn't solve the problem of
+reconciling immaterial "information" and material systems, which is what
+technology as a "middle term" is meant to reconcile. 
+
+That's where Robinson's use of robotics comes into play. 
 
 ***
 
-This distinction between communication and material technologies, however,
-leaves us with a fundamental problem: how to reconcile conceptual and material
-systems in a way that lets us see the transformations inherent to social
-ecology more fully. I want to address an example of slippage between
-information throughput and material throughput that is explicitly concerned
-with social ecology: robotic industrial technologies in Kim Stanley Robinson's
-*Mars Trilogy*. Industrial robotics create an interface between material and
-information: programmed commands, which are merely particularly structured acts
-of communication, become coextensive with the  material transformations they
-cause. Such technologies bridge the assumed gap between environment and our
-understanding of environment, decreasing the distance between thought and
-matter, human and environment. 
+"Robotics" in Robinson's hands looks considerably different from the more
+famous version associated with, say, Isaac Asimov---humanoid robots whose goal
+is to serve in the way humans serve. In much of Robinson's work, robotics
+appears in the form of mobile industrial machinery that places an unfathomable
+transformative power in the hands of the programmer. This vision of industrial
+robotics creates an interface between material and information: programmed
+commands, which are merely particularly structured acts of communication,
+become coextensive with the material transformations they cause. Thus,
+Robinson's robotic manufacturing technologies bridge the assumed gap between
+environment and our understanding of environment by decreasing the distance
+between communication and transformative action---or, to translate, between
+structures in the mind and structures in matter. 
 
-This should sound like rank Prometheanism, or that "nature" is something to be
-conquered by human ingenuity and ever-more-developed tools. But the dead
-environment of Mars makes the relevance of nonhuman natures dubious at best,
-forcing us to reconsider the place of technology in ecological thinking. To put
-it simply, Robinson challenges us to go beyond Prometheanism in our thinking
-about nature and technology.
+We never get to see what this interface looks like, but it can be inferred that
+from a purely informational perspective, the throughput of this human-robotic
+interface has as much magnitude as it does complexity. From start to finish,
+the information being transferred is emphatically *not* where to place each
+plunge of the drill, but rather the transfer of a human user's conception of an
+outcome to the machine. As is required for "intelligence" in any artificial
+system, the details are determined by the robot receiving and interpreting
+feedback from the material reality it encounters. The result is that "creation"
+or transformation is merely a matter of communicating something feasible.
+
+One example of this process has already been presented---the robot landers that
+capture an ice asteroid. Very little is seen of that in the novel itself. One
+of the more explicit examples of how this form of technology actually works
+comes in a moment of crisis near the end of *Red Mars*: a water station that
+tapped in a major aquifer near a town has been sabotaged, and the hydrostatic
+pressure under the surface of Mars threatens a catastrophic explosion and the
+first Martian ocean where the town used to be. Any hope of preventing it relies
+on their ability to collapse an overhanging cliff face onto the site of the
+break to contain the pressure and plug up the hole---and to do so within a
+matter of hours. Nadia, a character particularly occupied with construction,
+takes over:
+
+> During the ride over she had directed all the town's construction robots from
+their hangar to the foot of the north wall, next to the water station; when the
+two rovers got there, they found a few of the faster robots had already
+arrived, and the rest were grinding over the canyon floor toward them. There
+was a small talus slope at the foot of the cliff.... Nadia linked into the
+earthmovers and bulldozers and gave them instructions to clear paths toward the
+talus; when that was done, tunnelers would bore straight into the cliff.... The
+slower robots arrived, bringing an array of explosives left over from the
+excavation of the town's foundation. Nadia went to work programming the
+vehicles to tunnel into the bottom of the cliff, and for most of an hour she
+was lost to the world.
+
+One of the more detailed acts of "construction" in the novel, 
+
+
+
+This should sound like rank Prometheanism, or the (often implicit) view that
+"nature" is something to be conquered by science, human ingenuity, and
+ever-more-developed tools. But the dead environment of Mars makes the relevance
+of nonhuman natures dubious at best, forcing us to reconsider the place of
+technology in ecological thinking. To put it simply, Robinson challenges us to
+go beyond Prometheanism in our thinking about nature and technology. 
 
 [^ln-halt]: *Halt and Catch Fire* is an AMC drama about the rise of personal
 computing in the early 1980s. In the show's fourth episode, breaking the
