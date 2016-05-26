@@ -50,144 +50,51 @@ limits of our environmental concepts and imagining the possibilities of human
 development without the constraints of Earth's particular biosphere. I want to
 isolate one product of this experimentation in particular for discussion here,
 namely, the role of technology in what we might call the "ecotopian
-imagination." But in the spirit of Robinson's own experimentation, I want to
+imagination." [But in the spirit of Robinson's own experimentation, I want to
 stage this discussion in the context of the multifaceted concept of
 "throughput," a term increasingly important to ecological economics and social
-ecology, but which also has unexamined relevance in discussions of technology. 
-
-***
-
-Before I can talk about Robinson's experiments with technology and
-environmental change, I have to introduce this protean term "throughput" that
-sits at the crux of technology, ecology, and economics. In a sense, the term is
-useful less in itself than as a point where these three fields come together.
-
-Definitions of the term proliferate, in part because of its basic simplicity.
-The shared ground of these definitions can be defined as follows: compare what
-goes in to what comes out, either in terms of quantity or time, and use that
-ratio to measure whatever happens in between. The variation occurs in the
-specific inputs, outputs, and "whatever happens in between"---and these
-elements are where it gets complicated. 
-
-Technologically speaking, the term seems hard to get excited about, a
-relatively simple metric akin to something like "horsepower" in a car. Someone
-interested in communication networks would talk about the rate of data transfer
-from point to point, as when the Webster Computer Dictionary defines it as data
-transfer between storage devices or "from one modem to another." But, as usual,
-introducing a human to the equation complicates things, as, for example, in the
-amount of time it takes a computer to process inputs and respond with an
-appropriate output. This "lag" between input and output was recently dramatized
-in TV's *Halt and Catch Fire*[^ln_halt] as the "Doherty Threshold," an ideal
-response time of less than 400ms, which is based loosely on an IBM document
-from 1982 mapping savings directly to miliseconds of lag (and therefore, we
-might say, information throughput from user to computer).[^ln_doherty] The
-question of the user will come up again when discussing the Mars Trilogy, but
-in its most basic form, information throughput's inputs and outputs are of the
-same order, information rendered as bits on a storage device.
-
-A purely ecological version of throughput is similarly modest, measuring the
-amount of energy or physical matter that passes through an ecological system.
-These material flows are determined by regional ecologies and the human systems
-of production that cut across them and alter them. Inputs into an ecological
-system include solar energy as well as human and nonhuman effluents that enter
-and modify the ecological system. Here, too, the inputs and outputs are the
-same: matter and energy. Introducing "information" into this system would be
-meaningless, just as the materiality of the storage device is merely a matter
-of hardware. 
-
-But in ecological economics, the term has gained an importance that it doesn't
-have in other fields, largely because it is able to deal with the hybridity
-this field demands. When throughput gets any more complicated than it is in
-computation and ecology---that is, if there is more variation between inputs,
-outputs, and "whatever happens in between"---the term can introduce a certain
-amount of slippage between systems that we imagine to be neatly separated.
-Carolyn Merchant, for example, provides a definition of throughput that is
-catered to social ecology (that hybrid of hybrids), in which material and
-conceptual transformations occur every step of the way. The input "of matter
-and energy" is imagined as *always* coming from nonhuman nature, "whatever
-happens in between" is designated as the human economy, and the output, what
-returns to the system, is always pollution, which can be materially similar to
-the inputs but is conceptually distinct, all the "nature" and neutral
-ecological value stripped away. Though imagined as a single "system," the
-process of throughput in ecological economics is actually marked by distinct
-conceptual systems from start to finish.
-
-It is not just that these systems are distinct that makes the
-ecological-economic version of throughput so difficult, but rather that each
-system (economics, ecology) is largely ignorant of those on either side of
-it---hence the necessity of the hybrid discipline. The challenge in reconciling
-these two definitions of "throughput" is to overcome a fundamental
-incommensurability in their terms. To the human economy, nonhuman nature is a
-positive externality, understood in the capitalist imagination as the "free
-gifts of nature" (to adopt Marx's phrasing), where "free" can be translated as
-'without economic existence.' It isn't "matter and energy" that flow, but
-value, and the increase in value follows no known laws of constraint within a
-purely economic system. Similarly, without a legal apparatus to make it so,
-pollution is merely what is expelled from the economic system as
-without-economic-meaning. But from the other side, looking purely from the
-vantage point of material flows, there is just no such thing as a human
-economy. Exchange value is notoriously immaterial, setting aside any material
-properties except insofar as they exist in the mind of the parties performing
-the exchange. And yet somehow, despite this mutual incommensurability, the
-inputs and outputs end up always as material flows in the social-ecological
-reckoning, rendering the abstract human sphere of "whatever happens in between"
-all the more mysterious.
-
-Something is needed to think through of each of these steps in the
-social-ecological balance sheet. I propose that it is a neglected middle-term,
-technology, which exists as a translator between abstract and material forms of
-throughput. But "technology" requires its own (still quite broad) categories
-wihtin it. Our twenty-first-century data bias might cause us to think of
-technology solely in terms of the communication-network definition of
-throughput, namely, data transfer from one entity to another; but we have to
-also recognize that what matters most to material flows are what might be
-classified material or industrial technologies. Such technologies translate the
-material and energy of nonhuman natures into pollution, yes, but also into more
-meaningful alterations to the *oikos*. In other words, we need to think of
-throughput as in some way recursive, with outputs that change not only the next
-round of inputs but also "whatever happens in between." 
-
-But this distinction between communication and material technologies still
-leaves us with a fundamental problem. It doesn't solve the problem of
-reconciling immaterial "information" and material systems, which is what
-technology as a "middle term" is meant to reconcile. 
-
-That's where Robinson's use of robotics comes into play. 
+ecology, but which also has unexamined relevance in discussions of technology.]
 
 ***
 
 "Robotics" in Robinson's hands looks considerably different from the more
 famous version associated with, say, Isaac Asimov---humanoid robots whose goal
-is to serve in the way humans serve. In much of Robinson's work, robotics
-appears in the form of mobile industrial machinery that places an unfathomable
-transformative power in the hands of the programmer. This vision of industrial
-robotics creates an interface between material and information: programmed
-commands, which are merely particularly structured acts of communication,
-become coextensive with the material transformations they cause. Thus,
-Robinson's robotic manufacturing technologies bridge the assumed gap between
-environment and our understanding of environment by decreasing the distance
-between communication and transformative action---or, to translate, between
-structures in the mind and structures in matter. 
+is to serve in the way humans serve, and whose fictional instantiations are
+usually taken as proxies for class struggle or enslavement.[^ln-robot-slaves]
+In much of Robinson's work, robots appear in the form of mobile industrial
+machinery that places an unfathomable transformative power in the hands of the
+programmer. This vision of industrial robotics creates an interface between
+materiality and information: programmed commands, which are merely particularly
+structured acts of communication, become coextensive with the material
+transformations they cause. Thus, Robinson's robotic manufacturing technologies
+bridge the assumed gap between environment and our understanding of environment
+by decreasing the distance between communication and transformative
+action---or, to translate, between structures in the mind and structures in
+matter. 
 
-We never get to see what this interface looks like, but it can be inferred that
-from a purely informational perspective, the throughput of this human-robotic
-interface has as much magnitude as it does complexity. From start to finish,
-the information being transferred is emphatically *not* where to place each
-plunge of the drill, but rather the transfer of a human user's conception of an
-outcome to the machine. As is required for "intelligence" in any artificial
-system, the details are determined by the robot receiving and interpreting
-feedback from the material reality it encounters. The result is that "creation"
-or transformation is merely a matter of communicating something feasible.
+We never get to see what this interface looks like precisely, but it can be
+inferred that it combines high-level human input with intelligent automation.
+From start to finish, the information being transferred is emphatically *not*
+where to place each plunge of the drill, but rather the transfer of a human
+user's construction plan to the machine. As is required for "intelligence" in
+any artificial system, the details are determined by the robot receiving and
+interpreting feedback from the material reality it encounters. The result is
+that "creation" and transformation are merely a matter of communicating some
+feasible thing one wants to happen in a structured way the robot can
+understand. The actual labor is reduced to making a good plan and figuring out
+how to relate it. In this particular industrial army, to put it another way,
+everyone is a general. 
 
 One example of this process has already been presented---the robot landers that
-capture an ice asteroid. Very little is seen of that in the novel itself. One
-of the more explicit examples of how this form of technology actually works
-comes in a moment of crisis near the end of *Red Mars*: a water station that
-tapped in a major aquifer near a town has been sabotaged, and the hydrostatic
-pressure under the surface of Mars threatens a catastrophic explosion and the
-first Martian ocean where the town used to be. Any hope of preventing it relies
-on their ability to collapse an overhanging cliff face onto the site of the
-break to contain the pressure and plug up the hole---and to do so within a
+capture an ice asteroid and bring it into the Martian atmosphere. Very little
+of this process is seen of that in the novel itself. One of the more explicit
+examples of how this form of technology actually works comes in a moment of
+crisis near the end of *Red Mars*. Someone sabotages a water station near a
+major town that taps into a large aquifer, and the hydrostatic pressure beneath
+the surface of the planet threatens a catastrophic explosion that would create
+the first Martian ocean where the town used to be. Any hope of preventing this
+relies on their ability to collapse an overhanging cliff face onto the site of
+the break to contain the pressure and plug up the hole---and to do so within a
 matter of hours. Nadia, a character particularly occupied with construction,
 takes over:
 
@@ -203,8 +110,60 @@ excavation of the town's foundation. Nadia went to work programming the
 vehicles to tunnel into the bottom of the cliff, and for most of an hour she
 was lost to the world.
 
-One of the more detailed acts of "construction" in the novel, 
+One of the more detailed acts of "construction" in the novel, it is a
+particularly telling portrait of what human labor looks like on Robinson's
+Mars. If we want to know what Nadia actually does, we can just look at the verb
+phrases of which she is the subject. By the time the cliff is brought down,
+Nadia has "directed," "linked into," and spent several hours "programming," all
+of which can be summed up by the phrase "gave them [the robots] instructions."
+Meanwhile, the robots were "grinding" out their efforts "to clear paths," "bore
+straight into the cliff," and thereby "tunnel" their way to Nadia's intended
+result. Comparing the sets of verbs, the division of labor is clear: Nadia does
+the thinking, the robots do the work. 
 
+No surprises here. But it's important that the robots are more intelligent than
+mere tools. The ability to "clear a path," imagined from a programmer's
+perspective like Nadia's, would require an ability to take in and synthesize
+feedback (literally, debris) encountered along the way. The division of labor
+Robinson imagines, then, relies on networks of communication for the
+transmission of instructions and complex intelligent systems to allow those
+instructions to stay on a high level of abstraction.[^ln-loa] This latter point
+is important, because maintaining a high level of abstraction in communicating
+instructions to a machine keeps those instructions in the language of the human
+imagination. The experience of reading these moments in Robinson's fiction is
+that we assume any concrete transformation to the environment that can be
+imagined can be made to happen. 
+
+Though this particularly violent moment of transformation is useful in
+revealing the narrative mechanism of thought and transformation, in most ways
+it is anomalous. Moments of crisis-aversion like this are few and discrete,
+whereas patient construction is continuous and defines the trilogy. The same
+methods that Nadia uses to plug up the punctured aquifer are used by all of the
+first hundred colonists to build their settlements and pursue their
+terraformation efforts. Communal shelters are built out of bricks from
+automated "brick factories," which are set up to convert the materials at hand
+in the inorganic rock surface of the planet (the regolith) into a usable form.
+Most exciting (if also most improbable) is the ability "to construct soil just
+like they had...magnesium bars" by converting leftover nitrogen into
+fertilizers to mix with the rocky regolith, supplementing soil brought from
+Earth along with the organic material of greenhouses with these human-produced
+mixtures. This process, too, is a matter of communicating the plan for
+constructing soil to a series of robots, now in the form of factories. But it
+is not a matter of pounding rock slurry into particularly useful shapes or
+collapsing geographical structures. It is the quiet work of creating the
+foundations for life, work that is usually automated but not intelligent,
+millennia of material flows. 
+
+The role of information transfer in this process, particularly the transmission
+of imagined structures, is largely left implicit. Among the trilogy's
+industrial fantasies is the process of reducing physical matter (air, dirt,
+anything) into basic elements, which can then be recombined to form new usable
+materials at the scale necessary for life on Mars. The chemicals in the Martian
+atmosphere are absorbed and sifted for the most useful elements by "air
+miners." These elements, along with those extracted from the regolith, are run
+through a maze of other chemical transformations to produce everything from
+water to ultralight metals that might crumble on Earth but are sufficiently
+sturdy for the low gravity of Mars. 
 
 
 This should sound like rank Prometheanism, or the (often implicit) view that
@@ -222,4 +181,6 @@ Doherty Threshold is taken as a major benchmark of their impending success.
 entitled "The Economic Value of Rapid Response Time."
 http://www.vm.ibm.com/devpages/jelliott/evrrt10.html
 
+[^ln-robot-slaves]: Follow up on refs from Imaginary Worlds
 
+[^ln-loa]: Do I need to explain what a high level of abstraction is?
