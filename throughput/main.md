@@ -110,7 +110,7 @@ excavation of the town's foundation. Nadia went to work programming the
 vehicles to tunnel into the bottom of the cliff, and for most of an hour she
 was lost to the world.
 
-One of the more detailed acts of "construction" in the novel, it is a
+One of the more detailed acts of "construction" in the novel, this moment is a
 particularly telling portrait of what human labor looks like on Robinson's
 Mars. If we want to know what Nadia actually does, we can just look at the verb
 phrases of which she is the subject. By the time the cliff is brought down,
@@ -121,18 +121,21 @@ straight into the cliff," and thereby "tunnel" their way to Nadia's intended
 result. Comparing the sets of verbs, the division of labor is clear: Nadia does
 the thinking, the robots do the work. 
 
-No surprises here. But it's important that the robots are more intelligent than
-mere tools. The ability to "clear a path," imagined from a programmer's
-perspective like Nadia's, would require an ability to take in and synthesize
-feedback (literally, debris) encountered along the way. The division of labor
-Robinson imagines, then, relies on networks of communication for the
-transmission of instructions and complex intelligent systems to allow those
-instructions to stay on a high level of abstraction.[^ln-loa] This latter point
-is important, because maintaining a high level of abstraction in communicating
-instructions to a machine keeps those instructions in the language of the human
-imagination. The experience of reading these moments in Robinson's fiction is
-that we assume any concrete transformation to the environment that can be
-imagined can be made to happen. 
+No surprises there. But it's important to note that the robots are more
+intelligent than mere tools. The ability to "clear a path," imagined from a
+programmer's perspective like Nadia's, would require an ability to take in and
+synthesize feedback (in this case, debris) encountered along the way, freeing
+the programmer from the necessity of accounting for each rock along the way, as
+she would in, say, a bulldozer. The division of labor Robinson imagines
+therefore relies on networks of communication for the transmission of
+instructions and complex intelligent systems to allow those instructions to
+stay on a high level of abstraction, excluding the minutiae of each
+step.[^ln-loa] This latter point is important, because maintaining a high level
+of abstraction in communicating instructions to a machine keeps those
+instructions in the language of the human imagination. As readers of these
+moments in Robinson's fiction, we come to assume any concrete transformation to
+the environment that can be imagined can be made to happen because the language
+of action and imagination are kept on the same plane. 
 
 Though this particularly violent moment of transformation is useful in
 revealing the narrative mechanism of thought and transformation, in most ways
@@ -145,33 +148,110 @@ automated "brick factories," which are set up to convert the materials at hand
 in the inorganic rock surface of the planet (the regolith) into a usable form.
 Most exciting (if also most improbable) is the ability "to construct soil just
 like they had...magnesium bars" by converting leftover nitrogen into
-fertilizers to mix with the rocky regolith, supplementing soil brought from
-Earth along with the organic material of greenhouses with these human-produced
-mixtures. This process, too, is a matter of communicating the plan for
+fertilizers that can be mixed with the rocky regolith, supplementing soil
+brought from Earth along with the organic material of greenhouses with these
+human-produced mixtures. This process, too, entails communicating the plan for
 constructing soil to a series of robots, now in the form of factories. But it
 is not a matter of pounding rock slurry into particularly useful shapes or
 collapsing geographical structures. It is the quiet work of creating the
-foundations for life, work that is usually automated but not intelligent,
-millennia of material flows. 
+foundations for life, work that is usually automated but not intelligent, the
+product of millennia of material flows. It is, in other words, the literal
+construction of nature.
 
-The role of information transfer in this process, particularly the transmission
-of imagined structures, is largely left implicit. Among the trilogy's
-industrial fantasies is the process of reducing physical matter (air, dirt,
-anything) into basic elements, which can then be recombined to form new usable
-materials at the scale necessary for life on Mars. The chemicals in the Martian
-atmosphere are absorbed and sifted for the most useful elements by "air
-miners." These elements, along with those extracted from the regolith, are run
-through a maze of other chemical transformations to produce everything from
-water to ultralight metals that might crumble on Earth but are sufficiently
-sturdy for the low gravity of Mars. 
+To summarize, then, these semi-intelligent industrial robots allow for the
+translation of imagined environments into material environments, establishing
+technology as an interface between an individual utopian imaginary and material
+praxis. But because these utopian imaginaries are concerned with the
+circulation of energy and physical material in an ecological system (however
+nascent), we have to rephrase this equation: technology is an interface between
+an individual *ecotopian* imaginary and *environmental* praxis. 
+
+For this translation to work narratively, the industrial robots have to be
+programmable in a relatively short amount of time by a single person. These
+features create the conduit between plan and reality, allowing us to
+imaginatively short circuit the robotic laborers and suppose that "thinking
+makes it so." Eliding the grittier engineering problems is a recurring fantasy
+in Robinson's work, even if he never loses sight of the material constraints
+his characters face. It is a fantasy that is most clearly expressed in his most
+recent novel, *Aurora* (2015). Admiring a particularly adept engineer, one
+character exclaims: "So she fixes things by thinking about them!" What is
+"fixed" in the Mars Trilogy is most often the inability of the atmosphere to
+support life.
+
+Breaking the barrier between human thought and environment, unlimited powers of
+environmental transformation---all of this should sound like rank
+Prometheanism, or the (often implicit) view that "nature" is something to be
+conquered by science, human ingenuity, and ever-more-developed tools. At the
+very least, it is anthropocentric. The measure of a suitable environment is its
+usefulness to this invasive species, the human. Not to mention that the vast
+determining power put in the hands of an individual organism seems anathemic to
+anything approaching ecology, in which, as a fundamental tenet, everything
+affects everything in a complex web of interconnections. It's hard to imagine a
+deep ecologist being very excited about any of these ideas.
+
+But what would a deep ecologist do without an ecology? The dead environment of
+Mars makes the relevance of concern for nonhuman natures dubious at best, and
+it forces us to ask some difficult questions about what the goals of
+environmental activism ultimately are on any planet---a question with clear
+implications for the environmental ethics of technology. Robinson stages this
+debate by embodying it in distinct characters, political affiliations, and
+ideologies that can be summed up as a debate between the "reds" and the
+"greens." Though this split might mean communist or environmentalist on Earth,
+on Mars it indicates one's support either for the maintenance of Mars in an
+untouched state or for the propagation of life and a robust ecology. It is a
+question that we simply have no need to pose without Mars or a planet like it,
+because on Earth there is no difference between these two goals. Introducing
+the Martian environment into the discussion, though, forces us to ask: is it
+limiting human impact (full stop) that we care about when we talk about
+conservation? Or do we care about limiting human impact only insofar as it
+limits the propagation of nonhuman life? And which *should* we care about?
+
+Perhaps for tactical reasons, conservationism on Earth usually leans heavily on
+the destruction of life as the reason to care about human influence on the
+ecology---and in too many cases, only on the destruction of life that we like
+the look of. But without life, conservation gives way as a framework to the
+question of whether purposive human determination of its environment is
+fundamentally unethical or distasteful. The debate plays out in Robinson's
+novel most explicitly between Sax (Saxifrage Russel, whose namesake is, to
+William Carlos Williams, "my flower that splits / rocks") and Ann Clayborne
+(whose surname seems to imply that she is the rock to be split). Sax is the
+main proponent of terraformation by any means necessary, while Ann advocates
+minimizing human impact in order to promote study of Mars as it *is*. Sax's
+argument is predictably life-centric:
+
+> The beauty of Mars exists in the human mind.... Without the human presence it
+is just a collection of atoms, no different than any other random speck of
+matter in the universe. It's we who understand it, and we who give it
+meaning.... That's what makes Mars beautiful. Not the basalt and the oxides.
+    ...And yet the whole meaning of the universe, its beauty, is contained in
+the consciousness of intelligent life. We are the consciousness of the
+universe, and our job is to spread that around, to go look at things, to
+live everywhere we can. It's too dangerous to keep the consciousness of the
+universe on only one planet, it could be wiped out. ...[I]t can be Mars and
+ours at the same time. And it will be. There is this about the human mind: if
+it can be done, it will be done. We can transform Mars and build it like you
+would build a cathedral, as a monument to humanity and the universe both.
+
+Ann's response is curt.
+
+> I think you value consciousness too high, and rock too little. We are not
+lords of the universe. We're one small part of it. We may be its consciousness,
+but being the consciousness of the universe does not mean turning it all into a
+mirror image of us. It means rather fitting into it as it is, and worshiping it
+with our attention. ...You've never even seen Mars.
+
+Neither argument is given a definitively privileged position in the trilogy.
+Even if Sax's ultimately carries the day, it is also clear that his perspective
+is in more danger of being complicit with capitalist exploitation of human and
+environment alike (by transnational corporations, or the "transnats"). 
+
+[ something about consciousness as a way of getting the information-material
+throughput thing going?? ]
 
 
-This should sound like rank Prometheanism, or the (often implicit) view that
-"nature" is something to be conquered by science, human ingenuity, and
-ever-more-developed tools. But the dead environment of Mars makes the relevance
-of nonhuman natures dubious at best, forcing us to reconsider the place of
-technology in ecological thinking. To put it simply, Robinson challenges us to
-go beyond Prometheanism in our thinking about nature and technology. 
+place of technology in ecological thinking. To put it simply, Robinson
+challenges us to go beyond Prometheanism in our thinking about nature and
+technology. 
 
 [^ln-halt]: *Halt and Catch Fire* is an AMC drama about the rise of personal
 computing in the early 1980s. In the show's fourth episode, breaking the

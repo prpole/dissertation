@@ -99,3 +99,15 @@ technology as a "middle term" is meant to reconcile.
 That's where Robinson's use of robotics comes into play. 
 
 
+[The role of information transfer in this process, particularly the transmission
+of imagined structures, is largely left implicit. Among the trilogy's
+industrial fantasies is the process of reducing physical matter (air, dirt,
+anything) into basic elements, which can then be recombined to form new usable
+materials at the scale necessary for life on Mars. The chemicals in the Martian
+atmosphere are absorbed and sifted for the most useful elements by "air
+miners." These elements, along with those extracted from the regolith, are run
+through a maze of other chemical transformations to produce everything from
+water to ultralight metals that might crumble on Earth but are sufficiently
+sturdy for the low gravity of Mars.] 
+
+
