@@ -178,6 +178,31 @@ character exclaims: "So she fixes things by thinking about them!" What is
 "fixed" in the Mars Trilogy is most often the inability of the atmosphere to
 support life.
 
+The vision of one who "fixes things by thinking about them" could be taken as a
+neat encapsulation of the utopian imaginary---not surprising, given that the
+phrase comes from one of the only self-identified utopian authors
+extant.[^ln-robinson-utopian] Focusing his utopian thinking on the material
+flows between the human and its surroundings, Robinson develops his version of
+an ecotopian imaginary, which we might define as the narrative construction of
+a speculative social ecology that present an alternative and challenge to the
+state of human ecology. But Robinson puts that same ecotopian function in the
+minds of his characters---and supplements it with the means necessary for
+meaningful environmental praxis---by using robotic technology as a narrative
+device for translating thought into physical transformations. At least on Mars,
+an ecotopian imaginary's only bridge to reality is formed by accepting the role
+of highly transformative material technologies and mobilizing them in pursuit
+of alternative social ecologies.
+
+But there are reasons to believe this conclusion is applicable to Earth, as
+well. Creating the conditions for an ecology where those conditions do not
+exist, as is the case in Mars terraformation, is not so different from
+imagining *fixes* when the conditions of life are spiraling out of balance.
+(Robinson himself says as much in his several novels related to
+terraformation.) When we reframe the question of transformative technologies in
+terms of Earthling environmentalism, though, things get much more complicated.
+
+***
+
 Breaking the barrier between human thought and environment, unlimited powers of
 environmental transformation---all of this should sound like rank
 Prometheanism, or the (often implicit) view that "nature" is something to be
@@ -189,7 +214,7 @@ anything approaching ecology, in which, as a fundamental tenet, everything
 affects everything in a complex web of interconnections. It's hard to imagine a
 deep ecologist being very excited about any of these ideas.
 
-But what would a deep ecologist do without an ecology? The dead environment of
+But what is a deep ecologist to do without an ecology? The dead environment of
 Mars makes the relevance of concern for nonhuman natures dubious at best, and
 it forces us to ask some difficult questions about what the goals of
 environmental activism ultimately are on any planet---a question with clear
@@ -223,7 +248,10 @@ argument is predictably life-centric:
 is just a collection of atoms, no different than any other random speck of
 matter in the universe. It's we who understand it, and we who give it
 meaning.... That's what makes Mars beautiful. Not the basalt and the oxides.
-    ...And yet the whole meaning of the universe, its beauty, is contained in
+
+[need the relevant bits of quote that talk about LIFE]
+
+> ...And yet the whole meaning of the universe, its beauty, is contained in
 the consciousness of intelligent life. We are the consciousness of the
 universe, and our job is to spread that around, to go look at things, to
 live everywhere we can. It's too dangerous to keep the consciousness of the
@@ -243,15 +271,36 @@ with our attention. ...You've never even seen Mars.
 Neither argument is given a definitively privileged position in the trilogy.
 Even if Sax's ultimately carries the day, it is also clear that his perspective
 is in more danger of being complicit with capitalist exploitation of human and
-environment alike (by transnational corporations, or the "transnats"). 
+environment alike (by transnational corporations, dubbed the "transnats"). But
+it does reveal an understanding of *transforming* the environment that would be
+surprising given the history of environmental transformations on Earth. This
+discussion reveals that the pro-transformation argument, while its ends may
+ultimately be anthropomorphic, are most directly committed to the propagation
+of a healthy ecosystem. The anti-transformation argument, which on Earth has
+also been framed as promoting a healthy ecosystem, on Mars precludes any
+ecosystem at all. It is no longer meaningful to speak of protecting nonhuman
+life from humans when humans have to *create* nonhuman life. Where "nature"
+fits into this argument becomes a very complicated question.
 
-[ something about consciousness as a way of getting the information-material
-throughput thing going?? ]
+Taken up and brought back to Earth, these questions force us to reconsider what
+a "green" technology might look like, and how it might be defined. Thus far,
+technologies dubbed "green" minimize impact, defining themselves as
+environmentally friendly in the degree to which they limit their transformation
+of the environment around them. And, on Earth (or any planet with a robust
+existing ecosystem), this limited transformation maps to promoting a healthy
+ecosystem. But if we grant that there is nothing theoretically impossible about
+a technology that is both transformative and proponent of a more robust
+ecosystem, we might start considering whether a "positive" green technology,
+one that makes changes for good rather than limiting changes for bad, can exist
+on Earth. It is not a matter of "improving on nature" (another charge yoked to
+Prometheanism), but creating the conditions in which unimproved "nature" can
+best flourish. 
 
+In other words, the uses to which Robinson puts technology in the Mars Trilogy
+and the rest of his terraformation novels present a technological ecotopia,
+implicitly arguing for an understanding of technology and environment that goes
+beyond critiques of Prometheanism. .... [Wrap up?]
 
-place of technology in ecological thinking. To put it simply, Robinson
-challenges us to go beyond Prometheanism in our thinking about nature and
-technology. 
 
 [^ln-halt]: *Halt and Catch Fire* is an AMC drama about the rise of personal
 computing in the early 1980s. In the show's fourth episode, breaking the
@@ -264,3 +313,5 @@ http://www.vm.ibm.com/devpages/jelliott/evrrt10.html
 [^ln-robot-slaves]: Follow up on refs from Imaginary Worlds
 
 [^ln-loa]: Do I need to explain what a high level of abstraction is?
+
+[^ln-robinson-utopian]: Cite "utopia and climate change" article
