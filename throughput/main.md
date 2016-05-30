@@ -8,27 +8,26 @@ geometry: margin=1in
 Almost a thousand people stand on Olympus Mons, the tallest volcano in our
 solar system, and watch as an ice asteroid leaves a gash in the newly minted
 Martian atmosphere. The asteroid has been commandeered by UN-approved robotic
-ships that have landed, burrowed themselves into a secure purchase, and
-converted the material of the asteroid itself into the fuel necessary to alter
-its trajectory for this calculated near miss. The assembled crowd aren't in it
-for the fireworks, though. They are a thousand among many Earth expats who have
-undertaken every project conceivable to turn Mars into a surrogate for Earth,
-the planet humanity has exhausted. This ice asteroid will add valuable heat and
-water into the Martian atmosphere, bringing it one step closer to being able to
-support life---even as it takes the planet one step further from what we think
-of as "Mars."
+ships that have landed and converted the material of the asteroid itself into
+fuel, altering its trajectory for this calculated near miss. The assembled
+crowd aren't in it for the fireworks, though. They are a thousand among many
+Earth expats who have undertaken every project conceivable to turn Mars into a
+surrogate for Earth, the planet humanity has exhausted. This ice asteroid will
+add valuable heat and water into the Martian atmosphere, bringing it one step
+closer to being able to support life---even as it takes the planet one step
+further from what we think of as "Mars."
 
-By the end of *Red Mars*, Kim Stanley Robinson's Nebula Award-winning novel
-that begins his trilogy of terraformation, we have witnessed atmospheric
-alterations as modest as the cultivation of ever-hardier bacteria to those as
-audacious as drilling enormous holes through the Martian crust to tap the heat
-closer to the planet's core. By the end of the third book (*Blue Mars*), a
-third generation of humans native to Mars lounge on the beach of a Martian
-ocean. But just as important to the novel's mission are its economic,
-political, and social innovations. The creation of an atmosphere can only
-happen simultaneously with the challenge of what a Martian constitution will
-look like, or, more relevant to my purposes, of adapting Earth-based
-understandings of environmental activism to a planet without a biosphere. 
+By the end of *Red Mars*, the first in Kim Stanley Robinson's Mars Trilogy, we
+have witnessed atmospheric alterations as modest as the cultivation of
+ever-hardier bacteria to those as audacious as drilling enormous holes through
+the Martian crust to tap the heat closer to the planet's core. By the end of
+the third book (*Blue Mars*), humans native to Mars lounge on the beach of a
+Martian ocean. But just as important to the novel's mission as these
+atmospheric changes are the economic, political, and philosophical shifts that
+come with them. The creation of an atmosphere can only happen simultaneously
+with the challenge of what a Martian constitution will look like, or, more
+relevant to my purposes, of adapting Earth-based understandings of
+environmental activism to a planet without a biosphere. 
 
 "Science fiction" and "sustainability" seem just about made for each other:
 both are vexed terms, and both take on arguably too much. The most serious
@@ -39,30 +38,29 @@ planet as a laboratory for social-ecological experiments, both testing the
 limits of our environmental concepts and imagining the possibilities of human
 development without the constraints of Earth's particular biosphere. I want to
 isolate one product of this experimentation in particular for discussion here,
-namely, the role of technology in what we might call the "ecotopian imaginary"
-of the novel. 
+namely, the role of technology in what we might call the novel's "ecotopian
+imaginary," or the utopian social ecology its narrative creates.
 
-I'll ask how and to what extent Robinson's ecotopian imaginary relies on his
-particular form of industrial robotic technology, defining an ecotopian
-imaginary as a form of narrative utopianism that speculatively generates
-alternative social ecologies. I ask this question not for its own sake, nor to
-participate in terraformation fantasies (much as I'd like to), but to consider
-the place of technology in utopian environmentalism and environmentalist
-discourse more generally. 
+I raise this topic not for its own sake, nor to participate in terraformation
+fantasies (much as I'd like to), but to consider the place of technology in
+utopian environmentalism and environmentalist discourse more generally. It has
+a particular importance as the state of the planet risks degrading beyond the
+point at which merely preventing further destruction, though necessary, is
+likely to be sufficient in dodging catastrophe. Much discussion of technology
+in environmentalist discourse, however, has been understandably suspicious of
+any technological "fix" to problems that many see as the fault of technological
+development in the first place. Perspectives  that emphasize technological
+development are often seen as (and often are) "Promethean," or in other words,
+based in the Baconian premise that "nature" is something to be mastered and
+bent to the human will. We are therefore left in a difficult bind. We may need
+an environmentalism capable of integrating industrial-scale technologies, but
+we can hardly be expected to trust the technophilic thinking that got us here
+in the first place. 
 
-It's a topic of particular importance as the state of the planet continues to
-degrade, risking going beyond the point at which preventing further
-destruction, though necessary, is likely to be sufficient in dodging
-catastrophe. Much discussion of technology in environmentalist discourse,
-however, has been rightly suspicious of any technological "fix" to problems
-that many see as the fault of technological development in the first place.
-Such perspectives are often seen as (and often are) "Promethean," or in other
-words, based in the Baconian premise that "nature" is something to be mastered
-and bent to the human will. 
-
-Robinson depicts a relationship between technological innovation and ecological
-stewardship that could redefine "green" technology from merely less destructive
-alternatives to methods and tools by which humans actively promote the
+The Mars Trilogy contains the beginnings of a reconciliation. Robinson depicts
+a relationship between technological innovation and ecological stewardship that
+could redefine "green" technology from being merely less destructive
+alternatives to being methods and tools by which humans actively promote the
 development of robust ecosystems. The perspective his narrative creates
 gestures beyond the Promethean, defining the usefulness of a particular
 technology in terms of its benefit to nonhuman natures rather than the other
