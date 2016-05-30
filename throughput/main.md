@@ -1,22 +1,9 @@
 ---
-title: Throughput, or, Gestures Beyond Prometheanism
+title: | 
+    Regreening Technology - Gestures Beyond Prometheanism in Kim Stanley
+    Robinson's *Mars Trilogy*
 geometry: margin=1in
 ---
-
-> [Throughput:] A measure of a computer’s overall performance, as measured by
-its capability to send data through all components of the system, including
-data storage devices such as disk drives.... In modems, the rate at which data
-moves from one modem to another.... (Webster's New World Computer Dictionary)
-
-> [Throughput:] Output relative to input; the amount that passes through a
-system from input to output. (Oxford Dictionary of Environment and
-Conservation)
-
-> ...throughput is the flow of matter and energy from nonhuman nature, through
-the human economy, and back to nature as pollution. A steady-state economy
-would use the lowest possible levels of materials and energy in the production
-phase and emit the least possible pollution in the consumption phase. (Carolyn
-Merchant, *Radical Ecologies*)
 
 Almost a thousand people stand on Olympus Mons, the tallest volcano in our
 solar system, and watch as an ice asteroid leaves a gash in the newly minted
@@ -25,78 +12,110 @@ ships that have landed, burrowed themselves into a secure purchase, and
 converted the material of the asteroid itself into the fuel necessary to alter
 its trajectory for this calculated near miss. The assembled crowd aren't in it
 for the fireworks, though. They are a thousand among many Earth expats who have
-undertaken every project conceivable to turn Mars into a surrogate for the
-planet they've allowed to be destroyed. 
+undertaken every project conceivable to turn Mars into a surrogate for Earth,
+the planet humanity has exhausted. This ice asteroid will add valuable heat and
+water into the Martian atmosphere, bringing it one step closer to being able to
+support life---even as it takes the planet one step further from what we think
+of as "Mars."
 
 By the end of *Red Mars*, Kim Stanley Robinson's Nebula Award-winning novel
 that begins his trilogy of terraformation, we have witnessed atmospheric
 alterations as modest as the cultivation of ever-hardier bacteria to those as
-audacious as drilling "moholes" through the Martian crust to tap the heat at
-its core. By the end of the third book (*Blue Mars*), a third generation of
-humans native to Mars lounge on the beach of a Martian ocean. But just as
-important to the novel's mission are its economic, political, and social
-innovations. The creation of an atmosphere can only happen simultaneously with
-the challenge of what a Martian constitution will look like, or, more relevant
-to my purposes, of adapting Earth-based understandings of environmental
-activism to a planet without a biosphere. 
+audacious as drilling enormous holes through the Martian crust to tap the heat
+closer to the planet's core. By the end of the third book (*Blue Mars*), a
+third generation of humans native to Mars lounge on the beach of a Martian
+ocean. But just as important to the novel's mission are its economic,
+political, and social innovations. The creation of an atmosphere can only
+happen simultaneously with the challenge of what a Martian constitution will
+look like, or, more relevant to my purposes, of adapting Earth-based
+understandings of environmental activism to a planet without a biosphere. 
 
 "Science fiction" and "sustainability" seem just about made for each other:
 both are vexed terms, and both take on arguably too much. The most serious
 examples of both require us to think through the intersections of technology,
-ecology, sociopolitical systems, and even the ontological status of the human.
+ecology, sociopolitical systems, and the place of the human in the universe.
 At the intersection of these two fields, Robinson uses the space of the "dead"
 planet as a laboratory for social-ecological experiments, both testing the
 limits of our environmental concepts and imagining the possibilities of human
 development without the constraints of Earth's particular biosphere. I want to
 isolate one product of this experimentation in particular for discussion here,
-namely, the role of technology in what we might call the "ecotopian
-imagination." [But in the spirit of Robinson's own experimentation, I want to
-stage this discussion in the context of the multifaceted concept of
-"throughput," a term increasingly important to ecological economics and social
-ecology, but which also has unexamined relevance in discussions of technology.]
+namely, the role of technology in what we might call the "ecotopian imaginary"
+of the novel. 
+
+I'll ask how and to what extent Robinson's ecotopian imaginary relies on his
+particular form of industrial robotic technology, defining an ecotopian
+imaginary as a form of narrative critical utopianism[^ln-critical-utopianism]
+that speculatively generates alternative social ecologies. I ask this question
+not for its own sake, nor to participate in terraformation fantasies (much as
+I'd like to), but to consider the place of technology in utopian
+environmentalism and environmentalist discourse more generally. 
+
+It's a topic of particular importance as the state of the planet continues to
+degrade, risking going beyond the point at which preventing further
+destruction, though necessary, is likely to be sufficient in dodging
+catastrophe. Much discussion of technology in environmentalist discourse,
+however, has been rightly suspicious of any technological "fix" to problems
+that many see as the fault of technological development in the first place.
+Such perspectives are often seen as (and often are) "Promethean," or in other
+words, based in the Baconian premise that "nature" is something to be mastered
+and bent to the human will. 
+
+Robinson depicts a relationship between technological innovation and ecological
+stewardship that could redefine "green" technology from merely less destructive
+alternatives to methods and tools by which humans actively promote the
+development of robust ecosystems. The perspective his narrative creates
+gestures beyond the Promethean, defining the usefulness of a particular
+technology in terms of its benefit to nonhuman natures rather than the other
+way around. It also recognizes the dangers inherent in capitalist appropriation
+of "greening," and the ecological dangers of geoengineering projects conceived
+as vehicles for capital investment. But at the center of this perspective is a
+more basic unity: the confluence of ecological, technological, and social
+imaginaries to form a critical ecotopianism.
+
+But before I can talk about any of this, I have to talk about robots.
 
 ***
 
 "Robotics" in Robinson's hands looks considerably different from the more
 famous version associated with, say, Isaac Asimov---humanoid robots whose goal
-is to serve in the way humans serve, and whose fictional instantiations are
-usually taken as proxies for class struggle or enslavement.[^ln-robot-slaves]
-In much of Robinson's work, robots appear in the form of mobile industrial
-machinery that places an unfathomable transformative power in the hands of the
-programmer. This vision of industrial robotics creates an interface between
-materiality and information: programmed commands, which are merely particularly
-structured acts of communication, become coextensive with the material
-transformations they cause. Thus, Robinson's robotic manufacturing technologies
-bridge the assumed gap between environment and our understanding of environment
-by decreasing the distance between communication and transformative
-action---or, to translate, between structures in the mind and structures in
-matter. 
+is to serve in the way humans serve each other, and whose fictional
+instantiations are usually taken as proxies for class struggle or
+enslavement.[^ln-robot-slaves] In much of Robinson's work, robots appear in the
+form of mobile industrial machinery that places an unfathomable transformative
+power in the hands of the programmer. These robots are rarely discussed in
+themselves, existing almost as a lacuna where labor and exploitation usually
+lie, between intention and realization. But what we do know is that a small
+group of people are able to effect the enormous transformations necessary for
+human inhabitation of Mars, and that most of the "work" is in deciding what
+ought to be changed and how. Robotic machinery, in other words, both frees the
+colonists up to imagine their alternative material environments and gives them
+the power to make those environments actual.
 
-We never get to see what this interface looks like precisely, but it can be
-inferred that it combines high-level human input with intelligent automation.
-From start to finish, the information being transferred is emphatically *not*
-where to place each plunge of the drill, but rather the transfer of a human
-user's construction plan to the machine. As is required for "intelligence" in
-any artificial system, the details are determined by the robot receiving and
-interpreting feedback from the material reality it encounters. The result is
-that "creation" and transformation are merely a matter of communicating some
-feasible thing one wants to happen in a structured way the robot can
-understand. The actual labor is reduced to making a good plan and figuring out
-how to relate it. In this particular industrial army, to put it another way,
-everyone is a general. 
+We never get to see what the human-robot interface looks like, precisely, but
+it can be inferred that it combines high-level human input with intelligent
+automation. From start to finish, the information being transferred is
+emphatically *not* information specifying where to place each plunge of the
+drill, but rather the transfer of a human user's construction plan to the
+machine. As is required for "intelligence" in any artificial system, the
+details are determined by the robot receiving and interpreting feedback from
+the material reality it encounters.[^ln-wiener] The result is that "creation"
+and transformation are merely a matter of communicating some feasible thing one
+wants to happen, and doing so in a structured way a robot can understand. The
+actual labor is reduced to making a good plan and figuring out how to relate
+it. In this particular industrial army, to put it another way, everyone is a
+general. 
 
 One example of this process has already been presented---the robot landers that
 capture an ice asteroid and bring it into the Martian atmosphere. Very little
-of this process is seen of that in the novel itself. One of the more explicit
-examples of how this form of technology actually works comes in a moment of
-crisis near the end of *Red Mars*. Someone sabotages a water station near a
-major town that taps into a large aquifer, and the hydrostatic pressure beneath
-the surface of the planet threatens a catastrophic explosion that would create
-the first Martian ocean where the town used to be. Any hope of preventing this
-relies on their ability to collapse an overhanging cliff face onto the site of
-the break to contain the pressure and plug up the hole---and to do so within a
-matter of hours. Nadia, a character particularly occupied with construction,
-takes over:
+of this process is seen in the novel itself, but one of the more explicit
+examples comes in a moment of crisis near the end of *Red Mars*. Someone
+sabotages a water station near a major town that taps into a large aquifer, and
+the hydrostatic pressure beneath the surface of the planet threatens a
+catastrophic explosion that would create the first Martian ocean where a major
+town used to be. Any hope of preventing this disaster relies on their ability
+to collapse an overhanging cliff onto the site of the break, containing the
+pressure and plugging up the hole---and to do so within a matter of hours.
+Nadia, a character particularly occupied with construction, takes over:
 
 > During the ride over she had directed all the town's construction robots from
 their hangar to the foot of the north wall, next to the water station; when the
@@ -110,36 +129,53 @@ excavation of the town's foundation. Nadia went to work programming the
 vehicles to tunnel into the bottom of the cliff, and for most of an hour she
 was lost to the world.
 
-One of the more detailed acts of "construction" in the novel, this moment is a
-particularly telling portrait of what human labor looks like on Robinson's
-Mars. If we want to know what Nadia actually does, we can just look at the verb
-phrases of which she is the subject. By the time the cliff is brought down,
-Nadia has "directed," "linked into," and spent several hours "programming," all
-of which can be summed up by the phrase "gave them [the robots] instructions."
-Meanwhile, the robots were "grinding" out their efforts "to clear paths," "bore
-straight into the cliff," and thereby "tunnel" their way to Nadia's intended
-result. Comparing the sets of verbs, the division of labor is clear: Nadia does
-the thinking, the robots do the work. 
+One of the more detailed acts of construction in the novel, this moment is a
+particularly telling portrait of what human labor looks like in the early
+stages of Robinson's Mars. If we want to know what Nadia actually does, we can
+just look at the verb phrases of which she is the subject. By the time the
+cliff is brought down, Nadia has "directed," "linked into," and spent several
+hours "programming," all of which can be summed up by the phrase "gave them
+[the robots] instructions." Meanwhile, the robots were "grinding" out their
+efforts "to clear paths," "bore straight into the cliff," and thereby "tunnel"
+their way to Nadia's intended result. The division of labor is clear: Nadia
+does the thinking, the robots do the work. 
 
-No surprises there. But it's important to note that the robots are more
-intelligent than mere tools. The ability to "clear a path," imagined from a
-programmer's perspective like Nadia's, would require an ability to take in and
-synthesize feedback (in this case, debris) encountered along the way, freeing
-the programmer from the necessity of accounting for each rock along the way, as
-she would in, say, a bulldozer. The division of labor Robinson imagines
-therefore relies on networks of communication for the transmission of
-instructions and complex intelligent systems to allow those instructions to
-stay on a high level of abstraction, excluding the minutiae of each
-step.[^ln-loa] This latter point is important, because maintaining a high level
-of abstraction in communicating instructions to a machine keeps those
-instructions in the language of the human imagination. As readers of these
-moments in Robinson's fiction, we come to assume any concrete transformation to
-the environment that can be imagined can be made to happen because the language
-of action and imagination are kept on the same plane. 
+No surprises here. But it's important to note that the robots are more
+intelligent than mere tools, fundamentally changing the nature of the human
+user's interaction with the machine. The ability to "clear a path," imagined
+from a programmer's perspective like Nadia's, would require an ability to take
+in and synthesize feedback (in this case, debris) encountered along the way,
+freeing the programmer from the necessity of accounting for each rock along the
+way, as she would in, say, a bulldozer. The same is true in any of the tasks to
+which the industrial robots are set, because so many of them contain shifting
+or unknown variables. The division of labor Robinson imagines therefore relies
+on advanced systems in two areas: networks of communication for the
+transmission of instructions and complex intelligent systems to allow those
+instructions to remain on a high level of abstraction, excluding the minutiae
+of each step. 
 
-Though this particularly violent moment of transformation is useful in
-revealing the narrative mechanism of thought and transformation, in most ways
-it is anomalous. Moments of crisis-aversion like this are few and discrete,
+This latter point, maintaining a high level of abstraction, is important,
+because doing so keeps the instructions to the machine in the language of the
+human imagination. In programming, a "level of abstraction" refers to the
+specificity with which a program is elaborated, from "move all the files into
+that folder and rename them one through ten" (high level of abstraction) to the
+same instruction in binary, directly altering the charge of the bits on the
+disk to achieve the same result (low level of abstraction). We can apply this
+to Nadia's own process of programming as the difference between telling a
+robotic machine to "build me a house" and programming each movement and
+manipulation of the machine's apparatus. Narratively and robotically, the level
+of abstraction of Robinson's robots is such that we see the plan form in the
+characters' minds, thus understanding how these transformations to the
+environment will take place. As readers of these moments, we come to assume any
+concrete transformation to the environment that can be imagined can be made to
+happen because the language of action and imagination are kept on the same
+plane. Imagined events blend with physical events, narratively and in the lives
+of the characters.
+
+Most of these acts of imaginative and physical "creation" don't look so much
+like destruction. Though this particularly violent moment of transformation is
+useful in revealing the narrative mechanism for linking thought and action, in
+most ways it is anomalous. Moments of crisis-aversion are few and discrete,
 whereas patient construction is continuous and defines the trilogy. The same
 methods that Nadia uses to plug up the punctured aquifer are used by all of the
 first hundred colonists to build their settlements and pursue their
@@ -148,27 +184,23 @@ automated "brick factories," which are set up to convert the materials at hand
 in the inorganic rock surface of the planet (the regolith) into a usable form.
 Most exciting (if also most improbable) is the ability "to construct soil just
 like they had...magnesium bars" by converting leftover nitrogen into
-fertilizers that can be mixed with the rocky regolith, supplementing soil
-brought from Earth along with the organic material of greenhouses with these
-human-produced mixtures. This process, too, entails communicating the plan for
-constructing soil to a series of robots, now in the form of factories. But it
-is not a matter of pounding rock slurry into particularly useful shapes or
-collapsing geographical structures. It is the quiet work of creating the
-foundations for life, work that is usually automated but not intelligent, the
-product of millennia of material flows. It is, in other words, the literal
-construction of nature.
-
-To summarize, then, these semi-intelligent industrial robots allow for the
-translation of imagined environments into material environments, establishing
-technology as an interface between an individual utopian imaginary and material
-praxis. But because these utopian imaginaries are concerned with the
-circulation of energy and physical material in an ecological system (however
-nascent), we have to rephrase this equation: technology is an interface between
-an individual *ecotopian* imaginary and *environmental* praxis. 
+fertilizers that can be mixed with the rocky regolith, supplementing soil from
+Earth and organic material of greenhouses with these human-produced mixtures.
+This process, too, entails communicating the plan for constructing soil to a
+series of robots, now in the form of factories. But it is not a matter of
+pounding rock slurry into particularly useful shapes or collapsing geographical
+structures. It is the quiet work of creating the foundations for life, work
+that is usually automatic but not intelligent, the product of millennia of
+material flows. It is, in other words, the literal construction of nature,
+effected by the translation of careful attention to nonhuman natures into an
+executable plan that allows those natures to flourish.
 
 For this translation to work narratively, the industrial robots have to be
-programmable in a relatively short amount of time by a single person. These
-features create the conduit between plan and reality, allowing us to
+programmable in a relatively short amount of time by a single person. We have
+to be able to witness the attention to nonhuman nature and its instantiation as
+a plan in order to fully realize the shape of an ecotopian imaginary, and this
+witnessing is easier when it's focused on a single subject. Robinson directs
+our attention to the plan rather than the execution, allowing us to
 imaginatively short circuit the robotic laborers and suppose that "thinking
 makes it so." Eliding the grittier engineering problems is a recurring fantasy
 in Robinson's work, even if he never loses sight of the material constraints
@@ -182,59 +214,76 @@ The vision of one who "fixes things by thinking about them" could be taken as a
 neat encapsulation of the utopian imaginary---not surprising, given that the
 phrase comes from one of the only self-identified utopian authors
 extant.[^ln-robinson-utopian] Focusing his utopian thinking on the material
-flows between the human and its surroundings, Robinson develops his version of
-an ecotopian imaginary, which we might define as the narrative construction of
-a speculative social ecology that present an alternative and challenge to the
-state of human ecology. But Robinson puts that same ecotopian function in the
-minds of his characters---and supplements it with the means necessary for
-meaningful environmental praxis---by using robotic technology as a narrative
-device for translating thought into physical transformations. At least on Mars,
-an ecotopian imaginary's only bridge to reality is formed by accepting the role
-of highly transformative material technologies and mobilizing them in pursuit
-of alternative social ecologies.
+flows between the human and its surroundings, Robinson develops *his* version
+of an ecotopian imaginary, elaborating a speculative social ecology that
+presents an alternative and challenge to the state of the ecology on Earth and
+pre-terraformation Mars. But he puts that same ecotopian capacity in the minds
+of his characters---and supplements it with the means necessary for meaningful
+environmental praxis---by using robotic technology as a narrative device for
+translating thought into physical transformations. At least on Mars, an
+ecotopian imaginary's only bridge to reality is formed by accepting the role of
+highly transformative material technologies and mobilizing them in pursuit of
+alternative social ecologies. It is not too strong to say that he uses his
+robotic technologies to make the Martians' ecotopian imaginaries matter.
 
-But there are reasons to believe this conclusion is applicable to Earth, as
-well. Creating the conditions for an ecology where those conditions do not
-exist, as is the case in Mars terraformation, is not so different from
-imagining *fixes* when the conditions of life are spiraling out of balance.
-(Robinson himself says as much in his several novels related to
-terraformation.) When we reframe the question of transformative technologies in
-terms of Earthling environmentalism, though, things get much more complicated.
+There are reasons to believe this conclusion is applicable to Earth as well as
+Mars. Creating the conditions for an ecology where those conditions do not
+exist already, as is the case in Mars terraformation, is not so different from
+imagining *fixes* where the conditions of life are spiraling out of balance.
+(Robinson himself hints as much throughout his several novels related to
+terraformation.) But when we reframe the question of transformative
+technologies in terms of Earthling environmentalism, things get much more
+complicated.
 
 ***
 
 Breaking the barrier between human thought and environment, unlimited powers of
 environmental transformation---all of this should sound like rank
-Prometheanism, or the (often implicit) view that "nature" is something to be
-conquered by science, human ingenuity, and ever-more-developed tools. At the
-very least, it is anthropocentric. The measure of a suitable environment is its
-usefulness to this invasive species, the human. Not to mention that the vast
-determining power put in the hands of an individual organism seems anathemic to
-anything approaching ecology, in which, as a fundamental tenet, everything
-affects everything in a complex web of interconnections. It's hard to imagine a
-deep ecologist being very excited about any of these ideas.
+Prometheanism, which again is the (often implicit) view that "nature" is
+something to be conquered by science, human ingenuity, and ever-more-developed
+tools. At the very least, mustn't it be anthropocentric? The measure of a
+suitable environment is, after all, its usefulness to this invasive species,
+the human. Not to mention that the vast determining power put in the hands of
+an individual organism seems anathemic to anything approaching ecology, in
+which, as a fundamental tenet, everything affects everything in a complex web
+of interconnections. 
 
-But what is a deep ecologist to do without an ecology? The dead environment of
-Mars makes the relevance of concern for nonhuman natures dubious at best, and
-it forces us to ask some difficult questions about what the goals of
-environmental activism ultimately are on any planet---a question with clear
-implications for the environmental ethics of technology. Robinson stages this
-debate by embodying it in distinct characters, political affiliations, and
-ideologies that can be summed up as a debate between the "reds" and the
-"greens." Though this split might mean communist or environmentalist on Earth,
-on Mars it indicates one's support either for the maintenance of Mars in an
-untouched state or for the propagation of life and a robust ecology. It is a
-question that we simply have no need to pose without Mars or a planet like it,
-because on Earth there is no difference between these two goals. Introducing
-the Martian environment into the discussion, though, forces us to ask: is it
-limiting human impact (full stop) that we care about when we talk about
-conservation? Or do we care about limiting human impact only insofar as it
-limits the propagation of nonhuman life? And which *should* we care about?
+Robinson's form of environmental thinking can be difficult to reconcile with
+environmentalist discourse more broadly because of a longstanding tendency to
+align technology or "technological fixes" with capitalist exploitation and
+human domination of the natural world, an alignment summarized by the term
+"Prometheanism." John Bellamy Foster, in *Marx's Ecology*, traces the roots of
+the term back to Proudhon, for whom Prometheus was a figure exemplifying the
+triumphal human translation of nature into economic value.[^ln-foster] The term
+has since been mobilized in a critique of Prometheanism, which resists the
+dangerous sense that we can just invent our way out of any problems a
+high-consumption lifestyle naturally creates---and that there's therefore no
+reason to reduce consumption or worry about exploitation. [ Need to discuss
+John Dryzek's *The Politics of the Earth* here, where the critique of
+Prometheanism (and maybe the term?) originate. ] 
+
+So, it's hard to imagine a deep ecologist being very excited about any of these
+ideas. But what would a deep ecologist do with a planet that doesn't have an
+ecology? The dead environment of Mars makes the relevance of concern for
+nonhuman natures dubious at best, and it forces us to ask some difficult
+questions about what the goals of environmental activism ultimately are on any
+planet---a question with clear implications for the environmental ethics of
+technology. Robinson stages this debate by embodying it in distinct characters,
+political affiliations, and ideologies that can be summed up as a debate
+between the "reds" and the "greens." Though this split might mean communist or
+environmentalist on Earth, on Mars it indicates one's support either for the
+maintenance of Mars in an untouched state or for the propagation of life and a
+robust ecology. It is a question that we simply have no need to pose without
+Mars or a planet like it, because on Earth there is no difference between these
+two goals. Introducing the Martian environment into the discussion, though,
+forces us to ask: when we talk about conservation, is it limiting the human's
+impact on its environment (full stop) that we care about? Or do we care about
+limiting human impact only insofar as it impedes the propagation of nonhuman
+life? And which *should* we care about?
 
 Perhaps for tactical reasons, conservationism on Earth usually leans heavily on
 the destruction of life as the reason to care about human influence on the
-ecology---and in too many cases, only on the destruction of life that we like
-the look of. But without life, conservation gives way as a framework to the
+ecology. But without life, the "conservation" framework gives way to the
 question of whether purposive human determination of its environment is
 fundamentally unethical or distasteful. The debate plays out in Robinson's
 novel most explicitly between Sax (Saxifrage Russel, whose namesake is, to
@@ -249,16 +298,13 @@ is just a collection of atoms, no different than any other random speck of
 matter in the universe. It's we who understand it, and we who give it
 meaning.... That's what makes Mars beautiful. Not the basalt and the oxides.
 
-[need the relevant bits of quote that talk about LIFE]
-
 > ...And yet the whole meaning of the universe, its beauty, is contained in
 the consciousness of intelligent life. We are the consciousness of the
-universe, and our job is to spread that around, to go look at things, to
-live everywhere we can. It's too dangerous to keep the consciousness of the
-universe on only one planet, it could be wiped out. ...[I]t can be Mars and
-ours at the same time. And it will be. There is this about the human mind: if
-it can be done, it will be done. We can transform Mars and build it like you
-would build a cathedral, as a monument to humanity and the universe both.
+universe, and our job is to spread that around, to go look at things, to live
+everywhere we can. It's too dangerous to keep the consciousness of the universe
+on only one planet, it could be wiped out. ...If there are lakes, or forests,
+or glaciers, how does that diminish Mars's beauty? I don't think it does. I
+think it only enhances it. It adds life, the most beautiful system of all.
 
 Ann's response is curt.
 
@@ -268,38 +314,57 @@ but being the consciousness of the universe does not mean turning it all into a
 mirror image of us. It means rather fitting into it as it is, and worshiping it
 with our attention. ...You've never even seen Mars.
 
-Neither argument is given a definitively privileged position in the trilogy.
-Even if Sax's ultimately carries the day, it is also clear that his perspective
-is in more danger of being complicit with capitalist exploitation of human and
-environment alike (by transnational corporations, dubbed the "transnats"). But
-it does reveal an understanding of *transforming* the environment that would be
-surprising given the history of environmental transformations on Earth. This
-discussion reveals that the pro-transformation argument, while its ends may
-ultimately be anthropomorphic, are most directly committed to the propagation
-of a healthy ecosystem. The anti-transformation argument, which on Earth has
-also been framed as promoting a healthy ecosystem, on Mars precludes any
-ecosystem at all. It is no longer meaningful to speak of protecting nonhuman
-life from humans when humans have to *create* nonhuman life. Where "nature"
-fits into this argument becomes a very complicated question.
+Neither the argument for nor against environmental transformation is given a
+definitively privileged position in the trilogy, which is clearly much more
+interested in the tension between them. While Sax's ultimately carries the day,
+it is also clear that his perspective is in more danger of being complicit with
+capitalist exploitation of human and environment alike (by transnational
+corporations, dubbed the "transnats"). Unlike on Earth, where intentional
+environmental alterations are usually made to better access resources, the
+pro-transformation argument on Mars is most directly committed to the
+propagation of a healthy ecosystem. In contrast, the anti-transformation
+argument, which on Earth is framed as promoting a healthy ecosystem, precludes
+any ecosystem at all in the Martian context. The Promethean argument is turned
+upside-down: it is no longer meaningful to speak of protecting nonhuman life
+from humans when human intervention is necessary for nonhuman life to flourish.
+Where "nature" fits into this argument becomes a very complicated question
+indeed.
 
 Taken up and brought back to Earth, these questions force us to reconsider what
 a "green" technology might look like, and how it might be defined. Thus far,
-technologies dubbed "green" minimize impact, defining themselves as
-environmentally friendly in the degree to which they limit their transformation
-of the environment around them. And, on Earth (or any planet with a robust
-existing ecosystem), this limited transformation maps to promoting a healthy
-ecosystem. But if we grant that there is nothing theoretically impossible about
-a technology that is both transformative and proponent of a more robust
-ecosystem, we might start considering whether a "positive" green technology,
-one that makes changes for good rather than limiting changes for bad, can exist
-on Earth. It is not a matter of "improving on nature" (another charge yoked to
-Prometheanism), but creating the conditions in which unimproved "nature" can
-best flourish. 
+technologies dubbed "green" minimize impact, defined as "environmentally
+friendly" in the degree to which they limit their transformation of the
+environment around them. And when a healthy global ecology exists, limiting
+transformation is indeed coextensive with promoting nonhuman life. One would be
+hard pressed to find someone willing to describe the Earth's global ecology
+"healthy" in 2016, however. The dead planet is a particularly useful figure for
+the dying planet---not only as a cautionary tale, but also as a space to think
+through our approach to the parts we have already killed. 
+
+---
+
+If we grant that there is nothing theoretically impossible about a technology
+that is both transformative and proponent of a more robust ecosystem, we might
+start considering whether a "positive" green technology, one that makes changes
+for good rather than limiting changes for bad, can and should be pursued on
+Earth. It is not a matter of "improving on nature" (another charge yoked to
+Prometheanism), but of creating the conditions in which unimproved "nature" can
+best flourish. Robinson shows his hand time and again in his terraformation
+novels when his Martian terraformers return to "Terra," only to realize that
+Terra itself has come to need terraformation. Indeed, *Aurora*, written two
+decades later, can almost be read as a response to potential misunderstandings
+of the Mars Trilogy that would take terraformation as an alternative to taking
+care of the Earth, chastising any expansionist view (like Sax's, perhaps) that
+takes the fantasy of going somewhere else as permission not to fix one's own
+planet, to which one is inextricably bound. Time and again, Robinson's
+terraformers participate in some form of large-scale ecological restoration on
+Earth combined with the hard intellectual work of promoting ecological
+consciousness. But the 
 
 In other words, the uses to which Robinson puts technology in the Mars Trilogy
 and the rest of his terraformation novels present a technological ecotopia,
 implicitly arguing for an understanding of technology and environment that goes
-beyond critiques of Prometheanism. .... [Wrap up?]
+beyond the argument for or against Prometheanism. .... [Wrap up?]
 
 
 [^ln-halt]: *Halt and Catch Fire* is an AMC drama about the rise of personal
@@ -315,3 +380,10 @@ http://www.vm.ibm.com/devpages/jelliott/evrrt10.html
 [^ln-loa]: Do I need to explain what a high level of abstraction is?
 
 [^ln-robinson-utopian]: Cite "utopia and climate change" article
+
+[^ln-critical-utopianism]: Find the ref for this term, probably in the
+bioregionalism and utopia article. Likely Suvin or Wegner
+
+[^ln-wiener]: feedback in Norbert wiener?
+
+[^ln-foster]: *Marx's Ecology* 129. 

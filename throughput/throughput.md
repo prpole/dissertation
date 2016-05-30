@@ -1,4 +1,245 @@
 
+> [Throughput:] A measure of a computer’s overall performance, as measured by
+its capability to send data through all components of the system, including
+data storage devices such as disk drives.... In modems, the rate at which data
+moves from one modem to another.... (Webster's New World Computer Dictionary)
+
+> [Throughput:] Output relative to input; the amount that passes through a
+system from input to output. (Oxford Dictionary of Environment and
+Conservation)
+
+> ...throughput is the flow of matter and energy from nonhuman nature, through
+the human economy, and back to nature as pollution. A steady-state economy
+would use the lowest possible levels of materials and energy in the production
+phase and emit the least possible pollution in the consumption phase. (Carolyn
+Merchant, *Radical Ecologies*)
+
+
+> [Throughput:] A measure of a computer’s overall performance, as measured by
+its capability to send data through all components of the system, including
+data storage devices such as disk drives.... In modems, the rate at which data
+moves from one modem to another.... (Webster's New World Computer Dictionary)
+
+> [Throughput:] Output relative to input; the amount that passes through a
+system from input to output. (Oxford Dictionary of Environment and
+Conservation)
+
+> ...throughput is the flow of matter and energy from nonhuman nature, through
+the human economy, and back to nature as pollution. A steady-state economy
+would use the lowest possible levels of materials and energy in the production
+phase and emit the least possible pollution in the consumption phase. (Carolyn
+Merchant, *Radical Ecologies*)
+
+
+> [Throughput:] A measure of a computer’s overall performance, as measured by
+its capability to send data through all components of the system, including
+data storage devices such as disk drives.... In modems, the rate at which data
+moves from one modem to another.... (Webster's New World Computer Dictionary)
+
+> [Throughput:] Output relative to input; the amount that passes through a
+system from input to output. (Oxford Dictionary of Environment and
+Conservation)
+
+> ...throughput is the flow of matter and energy from nonhuman nature, through
+the human economy, and back to nature as pollution. A steady-state economy
+would use the lowest possible levels of materials and energy in the production
+phase and emit the least possible pollution in the consumption phase. (Carolyn
+Merchant, *Radical Ecologies*)
+
+
+> [Throughput:] A measure of a computer’s overall performance, as measured by
+its capability to send data through all components of the system, including
+data storage devices such as disk drives.... In modems, the rate at which data
+moves from one modem to another.... (Webster's New World Computer Dictionary)
+
+> [Throughput:] Output relative to input; the amount that passes through a
+system from input to output. (Oxford Dictionary of Environment and
+Conservation)
+
+> ...throughput is the flow of matter and energy from nonhuman nature, through
+the human economy, and back to nature as pollution. A steady-state economy
+would use the lowest possible levels of materials and energy in the production
+phase and emit the least possible pollution in the consumption phase. (Carolyn
+Merchant, *Radical Ecologies*)
+
+
+> [Throughput:] A measure of a computer’s overall performance, as measured by
+its capability to send data through all components of the system, including
+data storage devices such as disk drives.... In modems, the rate at which data
+moves from one modem to another.... (Webster's New World Computer Dictionary)
+
+> [Throughput:] Output relative to input; the amount that passes through a
+system from input to output. (Oxford Dictionary of Environment and
+Conservation)
+
+> ...throughput is the flow of matter and energy from nonhuman nature, through
+the human economy, and back to nature as pollution. A steady-state economy
+would use the lowest possible levels of materials and energy in the production
+phase and emit the least possible pollution in the consumption phase. (Carolyn
+Merchant, *Radical Ecologies*)
+
+
+> [Throughput:] A measure of a computer’s overall performance, as measured by
+its capability to send data through all components of the system, including
+data storage devices such as disk drives.... In modems, the rate at which data
+moves from one modem to another.... (Webster's New World Computer Dictionary)
+
+> [Throughput:] Output relative to input; the amount that passes through a
+system from input to output. (Oxford Dictionary of Environment and
+Conservation)
+
+> ...throughput is the flow of matter and energy from nonhuman nature, through
+the human economy, and back to nature as pollution. A steady-state economy
+would use the lowest possible levels of materials and energy in the production
+phase and emit the least possible pollution in the consumption phase. (Carolyn
+Merchant, *Radical Ecologies*)
+
+
+> [Throughput:] A measure of a computer’s overall performance, as measured by
+its capability to send data through all components of the system, including
+data storage devices such as disk drives.... In modems, the rate at which data
+moves from one modem to another.... (Webster's New World Computer Dictionary)
+
+> [Throughput:] Output relative to input; the amount that passes through a
+system from input to output. (Oxford Dictionary of Environment and
+Conservation)
+
+> ...throughput is the flow of matter and energy from nonhuman nature, through
+the human economy, and back to nature as pollution. A steady-state economy
+would use the lowest possible levels of materials and energy in the production
+phase and emit the least possible pollution in the consumption phase. (Carolyn
+Merchant, *Radical Ecologies*)
+
+
+> [Throughput:] A measure of a computer’s overall performance, as measured by
+its capability to send data through all components of the system, including
+data storage devices such as disk drives.... In modems, the rate at which data
+moves from one modem to another.... (Webster's New World Computer Dictionary)
+
+> [Throughput:] Output relative to input; the amount that passes through a
+system from input to output. (Oxford Dictionary of Environment and
+Conservation)
+
+> ...throughput is the flow of matter and energy from nonhuman nature, through
+the human economy, and back to nature as pollution. A steady-state economy
+would use the lowest possible levels of materials and energy in the production
+phase and emit the least possible pollution in the consumption phase. (Carolyn
+Merchant, *Radical Ecologies*)
+
+
+> [Throughput:] A measure of a computer’s overall performance, as measured by
+its capability to send data through all components of the system, including
+data storage devices such as disk drives.... In modems, the rate at which data
+moves from one modem to another.... (Webster's New World Computer Dictionary)
+
+> [Throughput:] Output relative to input; the amount that passes through a
+system from input to output. (Oxford Dictionary of Environment and
+Conservation)
+
+> ...throughput is the flow of matter and energy from nonhuman nature, through
+the human economy, and back to nature as pollution. A steady-state economy
+would use the lowest possible levels of materials and energy in the production
+phase and emit the least possible pollution in the consumption phase. (Carolyn
+Merchant, *Radical Ecologies*)
+
+
+> [Throughput:] A measure of a computer’s overall performance, as measured by
+its capability to send data through all components of the system, including
+data storage devices such as disk drives.... In modems, the rate at which data
+moves from one modem to another.... (Webster's New World Computer Dictionary)
+
+> [Throughput:] Output relative to input; the amount that passes through a
+system from input to output. (Oxford Dictionary of Environment and
+Conservation)
+
+> ...throughput is the flow of matter and energy from nonhuman nature, through
+the human economy, and back to nature as pollution. A steady-state economy
+would use the lowest possible levels of materials and energy in the production
+phase and emit the least possible pollution in the consumption phase. (Carolyn
+Merchant, *Radical Ecologies*)
+
+
+> [Throughput:] A measure of a computer’s overall performance, as measured by
+its capability to send data through all components of the system, including
+data storage devices such as disk drives.... In modems, the rate at which data
+moves from one modem to another.... (Webster's New World Computer Dictionary)
+
+> [Throughput:] Output relative to input; the amount that passes through a
+system from input to output. (Oxford Dictionary of Environment and
+Conservation)
+
+> ...throughput is the flow of matter and energy from nonhuman nature, through
+the human economy, and back to nature as pollution. A steady-state economy
+would use the lowest possible levels of materials and energy in the production
+phase and emit the least possible pollution in the consumption phase. (Carolyn
+Merchant, *Radical Ecologies*)
+
+
+> [Throughput:] A measure of a computer’s overall performance, as measured by
+its capability to send data through all components of the system, including
+data storage devices such as disk drives.... In modems, the rate at which data
+moves from one modem to another.... (Webster's New World Computer Dictionary)
+
+> [Throughput:] Output relative to input; the amount that passes through a
+system from input to output. (Oxford Dictionary of Environment and
+Conservation)
+
+> ...throughput is the flow of matter and energy from nonhuman nature, through
+the human economy, and back to nature as pollution. A steady-state economy
+would use the lowest possible levels of materials and energy in the production
+phase and emit the least possible pollution in the consumption phase. (Carolyn
+Merchant, *Radical Ecologies*)
+
+
+> [Throughput:] A measure of a computer’s overall performance, as measured by
+its capability to send data through all components of the system, including
+data storage devices such as disk drives.... In modems, the rate at which data
+moves from one modem to another.... (Webster's New World Computer Dictionary)
+
+> [Throughput:] Output relative to input; the amount that passes through a
+system from input to output. (Oxford Dictionary of Environment and
+Conservation)
+
+> ...throughput is the flow of matter and energy from nonhuman nature, through
+the human economy, and back to nature as pollution. A steady-state economy
+would use the lowest possible levels of materials and energy in the production
+phase and emit the least possible pollution in the consumption phase. (Carolyn
+Merchant, *Radical Ecologies*)
+
+
+> [Throughput:] A measure of a computer’s overall performance, as measured by
+its capability to send data through all components of the system, including
+data storage devices such as disk drives.... In modems, the rate at which data
+moves from one modem to another.... (Webster's New World Computer Dictionary)
+
+> [Throughput:] Output relative to input; the amount that passes through a
+system from input to output. (Oxford Dictionary of Environment and
+Conservation)
+
+> ...throughput is the flow of matter and energy from nonhuman nature, through
+the human economy, and back to nature as pollution. A steady-state economy
+would use the lowest possible levels of materials and energy in the production
+phase and emit the least possible pollution in the consumption phase. (Carolyn
+Merchant, *Radical Ecologies*)
+
+
+> [Throughput:] A measure of a computer’s overall performance, as measured by
+its capability to send data through all components of the system, including
+data storage devices such as disk drives.... In modems, the rate at which data
+moves from one modem to another.... (Webster's New World Computer Dictionary)
+
+> [Throughput:] Output relative to input; the amount that passes through a
+system from input to output. (Oxford Dictionary of Environment and
+Conservation)
+
+> ...throughput is the flow of matter and energy from nonhuman nature, through
+the human economy, and back to nature as pollution. A steady-state economy
+would use the lowest possible levels of materials and energy in the production
+phase and emit the least possible pollution in the consumption phase. (Carolyn
+Merchant, *Radical Ecologies*)
+
+
+
 ***
 
 Before I can talk about Robinson's experiments with technology and
