@@ -351,4 +351,12 @@ through a maze of other chemical transformations to produce everything from
 water to ultralight metals that might crumble on Earth but are sufficiently
 sturdy for the low gravity of Mars.] 
 
+[^ln-halt]: *Halt and Catch Fire* is an AMC drama about the rise of personal
+computing in the early 1980s. In the show's fourth episode, breaking the
+Doherty Threshold is taken as a major benchmark of their impending success.
+
+[^ln-doherty]: The document survives on IBM's website, a figure from a document
+entitled "The Economic Value of Rapid Response Time."
+http://www.vm.ibm.com/devpages/jelliott/evrrt10.html
+
 

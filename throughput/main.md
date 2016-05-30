@@ -1,6 +1,6 @@
 ---
 title: | 
-    Regreening Technology - Gestures Beyond Prometheanism in Kim Stanley
+    Regreening Technology&#58; Gestures Beyond Prometheanism in Kim Stanley
     Robinson's *Mars Trilogy*
 geometry: margin=1in
 ---
@@ -44,11 +44,11 @@ of the novel.
 
 I'll ask how and to what extent Robinson's ecotopian imaginary relies on his
 particular form of industrial robotic technology, defining an ecotopian
-imaginary as a form of narrative critical utopianism[^ln-critical-utopianism]
-that speculatively generates alternative social ecologies. I ask this question
-not for its own sake, nor to participate in terraformation fantasies (much as
-I'd like to), but to consider the place of technology in utopian
-environmentalism and environmentalist discourse more generally. 
+imaginary as a form of narrative utopianism that speculatively generates
+alternative social ecologies. I ask this question not for its own sake, nor to
+participate in terraformation fantasies (much as I'd like to), but to consider
+the place of technology in utopian environmentalism and environmentalist
+discourse more generally. 
 
 It's a topic of particular importance as the state of the planet continues to
 degrade, risking going beyond the point at which preventing further
@@ -252,15 +252,15 @@ Robinson's form of environmental thinking can be difficult to reconcile with
 environmentalist discourse more broadly because of a longstanding tendency to
 align technology or "technological fixes" with capitalist exploitation and
 human domination of the natural world, an alignment summarized by the term
-"Prometheanism." John Bellamy Foster, in *Marx's Ecology*, traces the roots of
-the term back to Proudhon, for whom Prometheus was a figure exemplifying the
-triumphal human translation of nature into economic value.[^ln-foster] The term
-has since been mobilized in a critique of Prometheanism, which resists the
-dangerous sense that we can just invent our way out of any problems a
-high-consumption lifestyle naturally creates---and that there's therefore no
-reason to reduce consumption or worry about exploitation. [ Need to discuss
-John Dryzek's *The Politics of the Earth* here, where the critique of
-Prometheanism (and maybe the term?) originate. ] 
+"Prometheanism." John Bellamy Foster traces the roots of the term back to
+Proudhon, for whom Prometheus was a figure exemplifying the triumphal human
+translation of nature into economic value.[^ln-foster] The term has since been
+mobilized in a critique of Prometheanism, which resists the dangerous sense
+that we can just invent our way out of any problems a high-consumption
+lifestyle naturally creates---and that there's therefore no reason to reduce
+consumption or worry about exploitation. [ Need to discuss John Dryzek's *The
+Politics of the Earth* here, where the critique of Prometheanism (and maybe the
+term?) originates. ] 
 
 So, it's hard to imagine a deep ecologist being very excited about any of these
 ideas. But what would a deep ecologist do with a planet that doesn't have an
@@ -341,49 +341,73 @@ hard pressed to find someone willing to describe the Earth's global ecology
 the dying planet---not only as a cautionary tale, but also as a space to think
 through our approach to the parts we have already killed. 
 
----
+***
 
 If we grant that there is nothing theoretically impossible about a technology
 that is both transformative and proponent of a more robust ecosystem, we might
 start considering whether a "positive" green technology, one that makes changes
-for good rather than limiting changes for bad, can and should be pursued on
-Earth. It is not a matter of "improving on nature" (another charge yoked to
-Prometheanism), but of creating the conditions in which unimproved "nature" can
-best flourish. Robinson shows his hand time and again in his terraformation
-novels when his Martian terraformers return to "Terra," only to realize that
-Terra itself has come to need terraformation. Indeed, *Aurora*, written two
-decades later, can almost be read as a response to potential misunderstandings
-of the Mars Trilogy that would take terraformation as an alternative to taking
-care of the Earth, chastising any expansionist view (like Sax's, perhaps) that
-takes the fantasy of going somewhere else as permission not to fix one's own
-planet, to which one is inextricably bound. Time and again, Robinson's
-terraformers participate in some form of large-scale ecological restoration on
-Earth combined with the hard intellectual work of promoting ecological
-consciousness. But the 
+for the better in addition to limiting changes for the worse, can and should be
+pursued on Earth. It would not be a matter of "improving on nature" (another
+charge yoked to Prometheanism), but of creating the conditions in which
+unimproved nature can best flourish. Robinson invites us to consider how his
+insights would play out on earth: time and again in his terraformation novels,
+his extraterrestrial expats arrive on "Terra," only to realize that Terra
+itself has come to need terraformation. Indeed, *Aurora*, written two decades
+later, can almost be read as a response to potential misappropriations of the
+Mars Trilogy that would cite terraformation as an alternative to taking care of
+the Earth.  The novel chastises expansionist views (like Sax's, perhaps) that
+take the fantasy of going somewhere else as permission to forget about the
+planet of one's origin, to which he repeatedly suggests one is inextricably
+bound. In several cases (*2312*, *Aurora*) Robinson's terraformers participate
+in some form of large-scale ecological restoration on Earth combined with the
+differently challenging, intellectual work of adapting their ecological
+consciousness. These projects do not always result in a perfect reconstruction
+of some Edenic, pre-human state; the flooded landscapes that host them make
+this impossible. Nevertheless these Terran ecological restoration projects look
+promising, and their promise relies on an ability to deploy the technologies
+and knowledge developed for terraformation on their home soil---not to mention
+a version of environmental praxis that combines technological innovation with
+ecological thinking. 
 
-In other words, the uses to which Robinson puts technology in the Mars Trilogy
-and the rest of his terraformation novels present a technological ecotopia,
-implicitly arguing for an understanding of technology and environment that goes
-beyond the argument for or against Prometheanism. .... [Wrap up?]
+Among the most notable aspects of this reworked, anti-Promethean vision of
+technology is the space it creates for the development of an ecotopian
+imaginary. If it is permissible to consider large-scale transformation of
+lifeless or dying environments in order to promote the (re)generation of
+nonhuman life there, some positive vision of what is technically possible and
+ecologically desirable will be required. It is essential to condemn simple
+greenwashing of actually Promethean approaches to technology, oppose
+technological fixes that take unconscionable risks with human and nonhuman
+life, and recognize that "transformation" can just be unfettered economic
+growth in a flimsy disguise. But it is worth asking if (and when, and how) it
+is possible repurpose the means of destruction that have been unleashed on
+*this* environment to help it begin repairing itself. Robinson suggests that
+maybe there is a way to promote this type of vitality, even where doing so
+won't keep things as they are or return things to precisely how they were. If
+he's wrong, fine---he remains a utopian. But if he's right, he makes the space
+for someone who "fixes things by thinking about them" to make quite a
+difference indeed.
 
+[^ln-robot-slaves]: See Gregory Jerome Hampton's take, for example, in a
+[recent interview by Eric
+Molinsky](http://www.imaginaryworldspodcast.org/the-robot-uprising.html).
+Molinsky, Eric. "The Robot Uprising." *Imaginary Worlds* 41: 2016. Web. 30 May
+2016.
 
-[^ln-halt]: *Halt and Catch Fire* is an AMC drama about the rise of personal
-computing in the early 1980s. In the show's fourth episode, breaking the
-Doherty Threshold is taken as a major benchmark of their impending success.
+[^ln-robinson-utopian]: In his recent article, "Remarks on Utopia in the Age of
+Climate Change," Robinson explains himself: "despite my uneasiness concerning
+utopias as a literary genre, I have nevertheless been writing them for a long
+time. I am one of the very few serial offenders, you might say, at least in
+modern times." Robinson, Kim Stanley. "Remarks on Utopia in the Age of Climate
+Change." Utopian Studies 27.1 (2016): 1-15. Web.
 
-[^ln-doherty]: The document survives on IBM's website, a figure from a document
-entitled "The Economic Value of Rapid Response Time."
-http://www.vm.ibm.com/devpages/jelliott/evrrt10.html
+[^ln-wiener]: My thinking on this version of robotics in influenced by Norbert
+Wiener's classic discussion of cybernetics in *The Human Use of Human Beings*:
+"For any machine subject to a varied external environment to act effectively it
+is necessary that information concerning the results of its own actions be
+furnished to it as part of the information on which it must continue to act.
+...This control of a machine on the basis of its *actual* performance rather
+than its *expected* performance is known as *feedback*" (24). Weiner, Norbert.
+*The Human Use of Human Beings*. 1950. New York: Da Capo Press, 1988. Print.
 
-[^ln-robot-slaves]: Follow up on refs from Imaginary Worlds
-
-[^ln-loa]: Do I need to explain what a high level of abstraction is?
-
-[^ln-robinson-utopian]: Cite "utopia and climate change" article
-
-[^ln-critical-utopianism]: Find the ref for this term, probably in the
-bioregionalism and utopia article. Likely Suvin or Wegner
-
-[^ln-wiener]: feedback in Norbert wiener?
-
-[^ln-foster]: *Marx's Ecology* 129. 
+[^ln-foster]: See *Marx's Ecology* 129. Foster, John Bellamy. *Marx's Ecology*.
+New York: Monthly Review Press, 2000. Print. 
