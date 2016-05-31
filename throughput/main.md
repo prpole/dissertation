@@ -249,33 +249,59 @@ of interconnections.
 Robinson's form of environmental thinking can be difficult to reconcile with
 environmentalist discourse more broadly because of a longstanding tendency to
 align technology or "technological fixes" with capitalist exploitation and
-human domination of the natural world, an alignment summarized by the term
-"Prometheanism." John Bellamy Foster traces the roots of the term back to
-Proudhon, for whom Prometheus was a figure exemplifying the triumphal human
-translation of nature into economic value.[^ln-foster] The term has since been
-mobilized in a critique of Prometheanism, which resists the dangerous sense
-that we can just invent our way out of any problems a high-consumption
-lifestyle naturally creates---and that there's therefore no reason to reduce
-consumption or worry about exploitation. [ Need to discuss John Dryzek's *The
-Politics of the Earth* here, where the critique of Prometheanism (and maybe the
-term?) originates. ] 
+human domination of the natural world, or what John Dryzek calls the
+"Promethean" perspective. Technology is not inherently Promethean as Dryzek
+defines the term, which refers more to an understanding of the human-nature
+relationship: 
 
-So, it's hard to imagine a deep ecologist being very excited about any of these
-ideas. But what would a deep ecologist do with a planet that doesn't have an
-ecology? The dead environment of Mars makes the relevance of concern for
-nonhuman natures dubious at best, and it forces us to ask some difficult
+> Prometheans have unlimited confidence in the ability of humans and their
+technologies to overcome any problems presented to them---including what can
+now be styled environmental problems....In their more extreme moments,
+Prometheans believe that a total control of nature is within our grasp, once
+nature is fully understood....[^ln-dryzek-1] 
+
+It is a perspective that justifies endless growth with a belief that any
+limitations can ultimately be overcome by the total transmutability of matter
+(here is where technological fixes come in), creating an inexhaustible supply
+of natural resources. We can just invent our way out of any problems a
+high-consumption lifestyle naturally creates, says the Promethean---and
+therefore, there's no reason to reduce consumption or worry about exploitation.
+Other understandings of the term are similarly economically inflected. John
+Bellamy Foster traces the roots of the term back to Proudhon, for whom
+Prometheus was a figure exemplifying the triumphal human translation of nature
+into economic value.[^ln-foster] The more definitions one reads, the more
+Prometheanism comes to sound like another name for capitalism. 
+
+Even if these are essentially arguments about economic perspectives of nature,
+their emphasis on technology has led to some slippage between critiques of the
+Promethean perspective and technology itself. Dryzek points out that
+Prometheans talk about nature as though it is a machine, made of "simple
+components---ultimately, simple resources" that can be "pieced together" to fix
+any problem.[^ln-dryzek-2] Among the assumptions Dryzek brings into the orbit
+of a technocentric approach to nature is that it is "seen in inert, passive
+terms," also a feature of other similar critiques.[^ln-merchant] All of this
+taken into consideration, it's hard to imagine, say, a deep ecologist being
+very excited about factories that grind an environment into its component parts
+and spit it out, brand new and inherently changed, on the other side. 
+
+But what would a deep ecologist do with a planet that doesn't have an ecology,
+that might actually *be* best understood as, if not dead or inert, than at
+least without life? The environment of Mars makes the relevance of concern for
+nonhuman natures much more complicated, and it forces us to ask some difficult
 questions about what the goals of environmental activism ultimately are on any
 planet---a question with clear implications for the environmental ethics of
-technology. Robinson stages this debate by embodying it in distinct characters,
-political affiliations, and ideologies that can be summed up as a debate
-between the "reds" and the "greens." Though this split might mean communist or
+technology. 
+
+Robinson stages this debate by embodying it in distinct characters, political
+affiliations, and ideologies, all of which can be summed up as a debate between
+the "reds" and the "greens." Though this split might mean communist or
 environmentalist on Earth, on Mars it indicates one's support either for the
 maintenance of Mars in an untouched state or for the propagation of life and a
 robust ecology. It is a question that we simply have no need to pose without
 Mars or a planet like it, because on Earth there is no difference between these
 two goals. Introducing the Martian environment into the discussion, though,
 forces us to ask: when we talk about conservation, is it limiting the human's
-impact on its environment (full stop) that we care about? Or do we care about
+impact on its environment (full stop) that we care about?  Or do we care about
 limiting human impact only insofar as it impedes the propagation of nonhuman
 life? And which *should* we care about?
 
@@ -409,3 +435,10 @@ than its *expected* performance is known as *feedback*" (24). Weiner, Norbert.
 
 [^ln-foster]: See *Marx's Ecology* 129. Foster, John Bellamy. *Marx's Ecology*.
 New York: Monthly Review Press, 2000. Print. 
+
+[^ln-dryzek-1]: Dryzek 45-50. Dryzek, John. *The Politics of the Earth:
+Environmental Discourses*. New York: Oxford UP, 1997. Print.
+
+[^ln-dryzek-2]: Dryzek 52. 
+
+[^ln-merchant]: Find merchant quote about inert matter.
