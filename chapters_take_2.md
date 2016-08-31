@@ -270,63 +270,86 @@ movements and institutional history.
 
 ### Chapter III: Nature without Science: Epistemological Resistance and Generic Marginalization
 
-My third chapter will consider the naturalist concept of environmental
-determinism outside of a scientific context, and in doing so it will test the
-limits of some of naturalism's fundamental philosophical premises when they are
-applied beyond the genre's "traditional" purview (which is overwhelmingly white
-and either Northeastern or Western). Charles W. Chesnutt's *The Conjure Woman,
-and Other Conjure Tales* (1899) poses a direct confrontation of epistemologies
-when a Northern agriculturalist, [],  moves to the South and buys a former
-plantation, in the process encountering an understanding of ecological
-embeddedness based in conjuration and hoodoo. Chesnutt positions a hoodoo-based
-form of environmental determinism as a direct challenge to []'s rationalist
-epistemology, seeming <!--defend reading of chesnutt as naturalist-->....
-Chesnutt's speculative act is not focused on the future of the environment
-itself, as in some of this study's other core texts; rather, he narrates
-a history of the plantation in terms that, from a rationalist standpoint, can
-only be understood as counterfactual or fantastic, and he does so to consider
-how conflicting conceptions of nature will coexist in the post-Reconstruction
-South. .... <!--the effects of this epistemological debate on naturalism
-& environmental determinism-->
+My third chapter will consider the possibility of non-scientific epistemologies
+in the purview of naturalism and SF, arguing that limiting the definition of
+naturalism to texts that enthusiastically accept Darwinism and SF to texts that
+commit to the scientific method would leave out important contributions to both
+genres. The naturalist concept of environmental determinism, for example, can
+and does exist outside of a scientific context. Juxtaposing scientific and
+non-scientific versions of environmental determinism in a naturalist context,
+we can test the limits of some of the genre's fundamental philosophical
+premises when they are applied beyond its "traditional" purview (whose authors
+are overwhelmingly white, are often either Northeastern or Western, and could
+be accused of scientism). 
+
+This chapter's central texts will be "The Goophered Grapevine" and "Po' Sandy"
+from Charles W. Chesnutt's *The Conjure Woman, and Other Conjure Tales* (1899);
+although Chesnutt is often read as a realist, he has been included in some
+discussions of naturalism[^ln-chesnutt-naturalist] that are attempting to
+expand the field, and he meets the criteria of a naturalist text I define
+above. The stories pose a direct confrontation of epistemologies when
+a Northern agriculturalist moves south to turn a former plantation into
+a vineyard, and in the process encounters an understanding of ecological
+embeddedness based in conjuration and hoodoo. Chesnutt puts hoodoo-based
+environmental determinism as a direct challenge to the agriculturalist's
+rationalist epistemology through the vehicle of the Northerner's skepticism:
+each story is presented as fact by Julius McAdoo, a former slave and narrator
+of the tales of conjuration, but doubted by its recipients and Julius is given
+a motive for making each story up. Leaving the stories veracity unresolvable
+calls into question the types of knowledge practiced in the story's teller, but
+also its doubter. He represents the discord between the two groups as primarily
+over what counts as environmental knowledge as it intersects with conflicting
+plans for land use. In "The Goophered Grapevine," the fate of the plants,
+inhabitants of the vineyard, and agricultural schemes involving either depend
+on the existence of a goopher placed on the land years ago, and therefore on
+the ability of individual humans to be fully embedded in their immediate
+environment. In "Po' Sandy," a slave's "escape" by becoming a tree is set
+alongside Julius's (possible) attempt to reserve a space for a black religious
+group as parallel forms of resistance. Chesnutt's speculative act is therefore
+not focused on the future of the environment itself, as in some of this study's
+other core texts; rather, he creates a conflict of forms of knowledge to
+consider how conflicting conceptions of nature will coincide with land-use
+conflicts  in the post-Reconstruction South. The debate over the changing
+status of nature---to paraphrase Fleissner's definition of naturalism---is only
+made possible by the irreconcilable conflict of these forms of knowledge. 
 
 Chesnutt's example will serve as a jumping-off point to consider how a doctrine
 of scientific, and especially explicitly Darwinian, understanding of nature has
-been used to marginalize the works of indigenous peoples and people of color in
-much the same way that the process has occurred in environmentalism more
-broadly. Building on the work of environmental justice scholars such as Carolyn
-Finney and Joan Martinez-Alier, I will consider how environmental speculation
-can be used to foreground the very epistemological conflicts that have informed
-conservative definitions of both naturalism and speculative fiction.
-
-Chesnutt; who else? Afrofuturism? Indigenous sf?
+been used to marginalize the naturalist and SF works of indigenous peoples and
+people of color in much the same way that the process has occurred in
+environmentalism more broadly. Building on the work of environmental justice
+scholars such as Carolyn Finney and Joan Martinez-Alier, I will consider how
+environmental speculation can be used to foreground the very epistemological
+conflicts that have informed conservative definitions of both naturalism and
+speculative fiction.
 
 
 ### Chapter IV: The Intergalactic Spatial Fix: Planetarity, Scale, and World(s) Systems
 
 My final chapter will examine the role of the global imagination in naturalist
 environmental speculation, taking as its central text Frank Norris's unfinished
-*Epic of the Wheat* (*The Octopus* and *The Pit*) to ask how the rise of the
-global economy gives rise to speculation as a mode of ecological thinking. In
-Norris's case, the semi-mystical, semi-sentient character of "The Wheat" is
-a narrative mechanism that makes it possible to depict the world
-ecology,[^ln-world-ecology] an intersection of economic and ecological forces
-on a global scale. In *The Octopus*, The Wheat uses a complex juxtaposition of
-narrative scales, in which local events and struggles are motivated by global
-resource networks, to compare the effects of economic and ecological "forces"
-on human lives. Though the action is centered in the San Joaquin Valley in
-California, the motivating events are all driven by the changing price of wheat
-according to global distribution schemes. At the same time, the novel goes out
-of its way to examine several different farming techniques as they interact
-with these global markets---from sustainable crop rotations to more
-exploitative methods that are compared to mining. The result is that the
-novel's global sense of resource markets has visible effects on local
-ecologies. In *The Pit*, Norris articulates the means by which these markets
-are manipulated while showing the extent to which commodity futures
-dematerialize the commodity itself---thereby allowing for unlimited
-exploitation. Across the two novels, The Wheat becomes a mechanism used to
-depict the dangers this ignorance of the ecological effects of a global market:
-it embodies natural limitations itself, the very limitations that markets
-attempt always to exceed.
+*Epic of the Wheat* (*The Octopus*, *The Pit*, and the never-started *The
+Wolf*) to ask how the rise of the global economy gives rise to speculation as
+a mode of thinking about the planet ecologically. In Norris's case, the
+semi-mystical, semi-sentient character of "The Wheat" is a narrative mechanism
+that makes it possible to depict the world ecology,[^ln-world-ecology] an
+intersection of economic and ecological forces on a global scale. In *The
+Octopus*, The Wheat uses a complex juxtaposition of narrative scales, in which
+local events and struggles are motivated by global resource networks, to
+compare the effects of economic and ecological "forces" on human lives. Though
+the action is centered in the San Joaquin Valley in California, the motivating
+events are all driven by the changing price of wheat according to global
+distribution schemes. At the same time, the novel goes out of its way to
+examine several different farming techniques as they interact with these global
+markets---from sustainable crop rotations to more exploitative methods that are
+compared to mining. The result is that the novel's global sense of resource
+markets has visible effects on local ecologies. In *The Pit*, Norris
+articulates the means by which these markets are manipulated while showing the
+extent to which commodity futures dematerialize the commodity itself---thereby
+allowing for unlimited exploitation. Across the two novels, The Wheat becomes
+a mechanism used to depict the dangers this ignorance of the ecological effects
+of a global market: it embodies natural limitations itself, the very
+limitations that markets attempt always to exceed.
 
 I will attempt to position this strain of naturalist thought as a precursor to
 David Harvey's concept of the "spatial fix" and the recent conversation around
