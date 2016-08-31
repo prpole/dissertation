@@ -303,6 +303,51 @@ Chesnutt; who else? Afrofuturism? Indigenous sf?
 
 ### Chapter IV: The Intergalactic Spatial Fix: Planetarity, Scale, and World(s) Systems
 
+My final chapter will examine the role of the global imagination in naturalist
+environmental speculation, taking as its central text Frank Norris's unfinished
+*Epic of the Wheat* (*The Octopus* and *The Pit*) to ask how the rise of the
+global economy gives rise to speculation as a mode of ecological thinking. In
+Norris's case, the semi-mystical, semi-sentient character of "The Wheat" is
+a narrative mechanism that makes it possible to depict the world
+ecology,[^ln-world-ecology] an intersection of economic and ecological forces
+on a global scale. In *The Octopus*, The Wheat uses a complex juxtaposition of
+narrative scales, in which local events and struggles are motivated by global
+resource networks, to compare the effects of economic and ecological "forces"
+on human lives. Though the action is centered in the San Joaquin Valley in
+California, the motivating events are all driven by the changing price of wheat
+according to global distribution schemes. At the same time, the novel goes out
+of its way to examine several different farming techniques as they interact
+with these global markets---from sustainable crop rotations to more
+exploitative methods that are compared to mining. The result is that the
+novel's global sense of resource markets has visible effects on local
+ecologies. In *The Pit*, Norris articulates the means by which these markets
+are manipulated while showing the extent to which commodity futures
+dematerialize the commodity itself---thereby allowing for unlimited
+exploitation. Across the two novels, The Wheat becomes a mechanism used to
+depict the dangers this ignorance of the ecological effects of a global market:
+it embodies natural limitations itself, the very limitations that markets
+attempt always to exceed.
+
+I will attempt to position this strain of naturalist thought as a precursor to
+David Harvey's concept of the "spatial fix" and the recent conversation around
+the "world ecology" among [] and others. In emphasizing the spatial limitations
+of the planet, Norris echoes Harvey's theory that capital maintains itself by
+opening new areas of the globe as markets, but that it is an inherently
+unsustainable strategy; London follows suit to an even greater extent in *The
+Iron Heel*, in which his protagonist makes a case for a socialist revolution
+based on very similar principles. Similarly, the attempt to incorporate local
+ecological change and global market behavior into a single theory anticipates
+the concept of the "world ecology," which is based on very similar principles.
+
+I will conclude by showing how all of this world-ecological thinking leads
+directly to narratives of terraformation, represented primarily (but not
+exclusively) by Kim Stanley Robinson's *Mars Trilogy*---a trilogy to which
+world systems theory is certainly relevant, as Robinson would have studied it
+under his graduate advisor Fredric Jameson. I will argue that terraformation
+narratives arise as a response to the crisis fears inherent in world-ecological
+thought, and that the narrative strategies used to depict vastly different
+scales persist from literary naturalism to contemporary speculative fiction.
+
 
 [^ln-trexler]: I borrow the term "Anthropocene fictions" from Adam
 @trexler_anthropocene_2015's book of the same name (2015).
