@@ -38,7 +38,10 @@ internationally in *The Pit* and *The Financier*, respectively. The more
 general consciousness of this state of affairs, in which capital flowed freely
 across borders from about 1870 until it began to be regulated around the time
 of the First World War, is evident in the French Chamber of Deputies decision
-to outlaw any imports of capital [@streeter_globalization_2010 94-5]. 
+to outlaw any imports of capital [@streeter_globalization_2010 94-5]. <!--
+details come from from histories of globalization... streeter et al.
+Globalization and Autonomy; others; see if it would make sense to include
+Wenzel Planet Vs. Globe here, need at least footnote for the distinction-->
 
 Of the other consciousness, the *planet* as a final limit, Gilman's isolated
 spur of rock is the chief literary representative in this period, drawing from
@@ -47,36 +50,49 @@ institutionalized conservation movement. Among her most cherished
 correspondents and friends was Lester Ward, who, though best known as the
 founder of modern sociology, was also a geologist and paleobotanist, at one
 time serving as the Chief Paleontologist of the U.S. Geological Survey
-[@burnham_lester_1956 2, @ross_man_1975 51]. Ward stands on one hand as a
-contributor to American conservationism, particularly in his work with Major
-John Wesley Powell: Ward's mentor and the director of the U.S. Geological
-Survey, Powell was an influential early voice of conservation, laying the
-groundwork for the Reclamation Act of 1902 and training the scientists who
-would carry the torch of responsible resource use into the twentieth century
-[@ross_man_1975 51, 53, 57, 59]. But on the other hand, Ward articulates a
-vision of the human's place in nature that seems contrary to the spirit of
+[@burnham_lester_1956 2, @ross_man_1975 51]. Ward is on one hand a contributor
+to American conservationism, particularly in his work with Major John Wesley
+Powell: Ward's mentor and the director of the U.S. Geological Survey, Powell
+was an influential early voice of conservation, laying the groundwork for the
+Reclamation Act of 1902 and training the scientists who would carry the call
+for responsible resource use into the twentieth century [@ross_man_1975 51, 53,
+57, 59; see also @stegner_beyond_1992]. But on the other hand, Ward articulates
+a vision of the human's place in nature that seems contrary to the spirit of
 limitation that has motivated the modern Anthropocene movement. In Ward's view,
 the human is both the end-product of evolution and the agent that takes over
 where evolution leaves off---both part of nature and the end of it. This
 complicated dual role justifies the "laying open of her [nature's] bowels" for
 experimentation, an explicitly Baconian perspective that understands the human
 as the rightful "master" of non-human organisms and processes
-[@ward_dynamic_1926 11-2]. Ward had a great influence on Gilman's thinking in
-the composition of *Herland*, as Cynthia J. Davis has shown [@davis_his_2003].
-But for Gilman, "influence" is more visible and influential than it might be
-for other authors. In *The Man-Made World, or Our Androcentric Culture*, Gilman
-articulates a vision of engaged fiction that would forward the ideas of other
-works, "teach[ing] not by preaching but by truly re-presenting" [qtd. in
-@davis_his_2003 73]. This is an effective summary of her approach in *Herland*.
-While the sociological and evolutionary elements of this influence have been
-discussed by Davis and others, Ward's ecological thinking had no less of a role
-in forming Gilman's novel. She does not reproduce Ward's thinking exactly,
-however. Rather, her fictional extrapolations from his theories navigates a
-tension between absolute limits of and absolute control over the planet and its
-processes.
+[@ward_dynamic_1926 11-2]. The Wardian view of nature promotes absolute mastery
+without exploitation---Prometheanism in the name of stewardship.[^prometheanism]
 
-[ details from histories of globalization... streeter et al. Globalization and
-Autonomy; others]. 
+[^prometheanism]: explain prometheanism; use robinson article.
+
+The same perspective can be attributed to Gilman. Ward had a great influence on
+Gilman's thinking in the composition of *Herland*, as Cynthia J. Davis has
+shown [@davis_his_2003]. But for Gilman, "influence" is more visible and
+determinative than it might be for other authors. In *The Man-Made World, or
+Our Androcentric Culture*, Gilman articulates a vision of engaged fiction that
+would forward the ideas of other works, "teach[ing] not by preaching but by
+truly re-presenting" [qtd. in @davis_his_2003 73]. This is an effective summary
+of her approach in *Herland*. While the sociological and evolutionary elements
+of this influence have been discussed by Davis and others, Ward's ecological
+thinking had no less of a role in forming Gilman's novel. She does not
+reproduce Ward's thinking exactly, however. Rather, her fictional extrapolation
+of his theories in *Herland* dramatizes a tension between absolute limits of and
+absolute control over the planet and its processes. 
+
+This tension between limitation and control has hardly been resolved in the
+century since *Herland* first appeared in Gilman's self-published monthly
+journal, *The Forerunner*. To read *Herland* ecocritically now, in the dawn not
+of the Anthropocene but of our consciousness of it, is to recognize this
+enclosed garden civilization as a fictional laboratory for the scientific,
+sociological, and ethical issues that define thinking about the Anthropocene.
+More specifically, her and Ward's ambivalence regarding the status of the human
+in nature---to put it somewhat reductively, as destroyer or savior---prefigures
+a contemporary controversy over the possibility of a "good Anthropocene." 
+
 
 ## outline-ish
 
