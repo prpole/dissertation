@@ -91,7 +91,60 @@ enclosed garden civilization as a fictional laboratory for the scientific,
 sociological, and ethical issues that define thinking about the Anthropocene.
 More specifically, her and Ward's ambivalence regarding the status of the human
 in nature---to put it somewhat reductively, as destroyer or savior---prefigures
-a contemporary controversy over the possibility of a "good Anthropocene." 
+a contemporary controversy over the possibility of a "good Anthropocene."
+[need to contextualize why I'm about to go on this little journey in terms of
+Gilman]
+
+At its most basic, the "good Anthropocene" movement is what it sounds like. It
+suggests that there is some version of the Anthropocene that would result not
+in catastrophe for humans and non-human nature, but that embracing human
+guidance of the planetary ecology could ultimately be beneficial for all
+involved. There are many visions of what a "good" Anthropocene would mean, but
+they come together in rejecting the catastrophic or "dystopian" visions of our
+environmental future, seeking instead ways to use technological and social
+innovations to reduce further damage and even repair the damage that has been
+done---to turn the Anthropocene into "a more just, prosperous, and ecologically
+diverse" epoch. The most radical and controversial articulation of the "good
+Anthropocene," and probably the most widely circulated, has been "An
+Ecomodernist Manifesto" (2015). The signatories of the manifesto argue that the
+route to "decoupling human development from environmental impacts" is
+(counterintuitively and, many would say, counterfactually) "intensifying many
+human activities---particularly farming, energy extraction, forestry, and
+settlement." Concentrating these activities in smaller areas, they reason, will
+allow us to leave more land completely wild; but their emphasis is always on
+the Promethean faith in humanity's ability to tinker its way out of any
+limitations, or in their words, "putting humankind's extraordinary powers" to
+work. In short, they celebrate human technological triumphs over nature,
+rehearsing a familiar narrative of a liberatory technology that frees humanity
+from the drudgery of agricultural labor.[^ln-ecomodern-responses] 
+
+[^ln-ecomodern-responses]: The responses to this manifesto will be discussed in
+more detail later, but have tended to bring existing critiques of modernism to
+bear on this new instantiation of it. The apparent ease with which the
+Anthropocene is able to become a "good" thing elides differential risk and
+responsibility as well as a long history of disenfranchisement from land and
+resources. Ecomodernism, in other words, is just a way to prop up a facile
+progressivism in green clothing. See Latour, Crist, and Collard et al.
+
+The Ecomoderns should not be taken as the sole representatives of "good
+Anthropocene" thinking, however, by either the concept's supporters or its
+critics. Other approaches to the concept are less comfortable with this
+triumphalism, focusing more on the need to resist catastrophism and to promote
+forms of resilience and transition instead. In the words of Bennett et al.
+(2016), "The future does not have to be bleak. ...Whether or not one agrees
+with these [dystopian] characterizations, extrapolations of current,
+maladaptive trends into a bleak future run the risk of becoming
+self-fulfilling, because people base their actions on what they believe about
+society and their future" (441). They continue to offer a range of solutions
+that acknowledge the need for social and economic transition to a greater
+degree than the authors of "An Ecomodernist Manifesto," creating a database of
+"seeds" (initiatives) in a taxonomy of approaches and areas of intended impact.
+While unlikely to evade social and environmentalist critique, this version of
+the "good Anthropocene" at least includes new forms of "equitable opportunities
+for decision making" in its range of goals, as well as initiatives that explore
+ways to repurpose traditional sustainable agriculture techniques (443-5). It
+is, in other words, a "good Anthropocene" that leans on plurality rather than
+a universalist progressive narrative.
 
 
 ## outline-ish
@@ -152,6 +205,11 @@ penchant for systems thinking to project speculative futures, futures that
 ultimately rely on a faith in collective action. 
 
 
+2. Lester Ward, John Wesley Powell, and the Good Anthropocene
+
+3. Herland, Ambient Labor, and Garden Ecologies
+
+4. Utopian Naturalism <!--(return to the Good Anthropocene)-->
 
 New Questions
 =============
