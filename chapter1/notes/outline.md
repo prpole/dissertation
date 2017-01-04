@@ -90,33 +90,38 @@ of the Anthropocene but of our consciousness of it, is to recognize this
 enclosed garden civilization as a fictional laboratory for the scientific,
 sociological, and ethical issues that define thinking about the Anthropocene.
 More specifically, her and Ward's ambivalence regarding the status of the human
-in nature---to put it somewhat reductively, as destroyer or savior---prefigures
-a contemporary controversy over the possibility of a "good Anthropocene."
-[need to contextualize why I'm about to go on this little journey in terms of
-Gilman]
+in nature---to put it somewhat reductively, either as destroyer or
+savior---prefigures a contemporary controversy over the possibility of a "good
+Anthropocene." Both center on the same question: should our absolute control
+over non-human nature be understood as a justified evolutionary step, or does
+the very premise of absolute control violate the material and ethical
+limitations of the planet? [need to contextualize why I'm about to go on this
+little journey in terms of Gilman?]
 
-At its most basic, the "good Anthropocene" movement is what it sounds like. It
-suggests that there is some version of the Anthropocene that would result not
-in catastrophe for humans and non-human nature, but that embracing human
-guidance of the planetary ecology could ultimately be beneficial for all
-involved. There are many visions of what a "good" Anthropocene would mean, but
-they come together in rejecting the catastrophic or "dystopian" visions of our
-environmental future, seeking instead ways to use technological and social
-innovations to reduce further damage and even repair the damage that has been
-done---to turn the Anthropocene into "a more just, prosperous, and ecologically
-diverse" epoch. The most radical and controversial articulation of the "good
-Anthropocene," and probably the most widely circulated, has been "An
-Ecomodernist Manifesto" (2015). The signatories of the manifesto argue that the
-route to "decoupling human development from environmental impacts" is
-(counterintuitively and, many would say, counterfactually) "intensifying many
-human activities---particularly farming, energy extraction, forestry, and
-settlement." Concentrating these activities in smaller areas, they reason, will
-allow us to leave more land completely wild; but their emphasis is always on
-the Promethean faith in humanity's ability to tinker its way out of any
-limitations, or in their words, "putting humankind's extraordinary powers" to
-work. In short, they celebrate human technological triumphs over nature,
-rehearsing a familiar narrative of a liberatory technology that frees humanity
-from the drudgery of agricultural labor.[^ln-ecomodern-responses] 
+The former perspective is at the heart of any robust defense of the "good
+Anthropocene." At its most basic, the "good Anthropocene" movement is what it
+sounds like. It suggests that there is some version of the Anthropocene that
+would result not in catastrophe for humans and non-human nature, and that
+embracing human guidance of the planetary ecology could ultimately be
+beneficial for all involved. There are many visions of what a "good"
+Anthropocene would mean, but they come together in rejecting the catastrophic
+or "dystopian" visions of our environmental future, seeking instead ways to use
+technological and social innovations to reduce further damage and even repair
+the damage that has been done---to turn the Anthropocene into "a more just,
+prosperous, and ecologically diverse" epoch. The most radical and controversial
+articulation of the "good Anthropocene," and probably the most widely
+circulated, has been "An Ecomodernist Manifesto" (2015). The signatories of the
+manifesto argue that the route to "decoupling human development from
+environmental impacts" is (counterintuitively and, many would say,
+counterfactually) "intensifying many human activities---particularly farming,
+energy extraction, forestry, and settlement." Concentrating these activities in
+smaller areas, they reason, will allow us to leave more land completely wild;
+but their emphasis is always on the Promethean faith in humanity's ability to
+tinker its way out of any limitations, or in their words, "putting humankind's
+extraordinary powers" to work. In short, they celebrate human technological
+triumphs over nature, rehearsing a familiar narrative of a liberatory
+technology that frees humanity from the drudgery of agricultural
+labor.[^ln-ecomodern-responses] 
 
 [^ln-ecomodern-responses]: The responses to this manifesto will be discussed in
 more detail later, but have tended to bring existing critiques of modernism to
@@ -126,8 +131,8 @@ responsibility as well as a long history of disenfranchisement from land and
 resources. Ecomodernism, in other words, is just a way to prop up a facile
 progressivism in green clothing. See Latour, Crist, and Collard et al.
 
-The Ecomoderns should not be taken as the sole representatives of "good
-Anthropocene" thinking, however, by either the concept's supporters or its
+The Ecomoderns should not be taken as the sole representatives of the "good
+Anthropocene," however, by either the concept's supporters or its
 critics. Other approaches to the concept are less comfortable with this
 triumphalism, focusing more on the need to resist catastrophism and to promote
 forms of resilience and transition instead. In the words of Bennett et al.
@@ -145,6 +150,71 @@ for decision making" in its range of goals, as well as initiatives that explore
 ways to repurpose traditional sustainable agriculture techniques (443-5). It
 is, in other words, a "good Anthropocene" that leans on plurality rather than
 a universalist progressive narrative.
+
+And yet, even the pluralist "good Anthropocene" leaves unanswered the most
+fundamental questions of ethical and material limitations to a "progress"
+premised on human domination of nature. Ethically, the good Anthropocene is
+defined by the old (but undismissable) problem of anthropocentrism. As Bruno
+Latour points out in his response, the Manifesto "is written entirely as if
+humans were still alone on stage, the only being who out of its own free will
+is in charge of apportioning space, land, money and value to the old Mother
+Nature....[T]he ecomodernists are also *uchronists*, as if they were living at
+a time when they alone were in command" (223). On the contrary, the
+Anthropocene "modifies the scale, the speed, the rhythm and, more importantly,
+the distribution of active agents in any political conversation we have about
+the entanglement of humans and non-humans" (222-3). In this version of the
+Anthropocene, more redolent of the Anthropocene conversation in general, the
+centrality of humans to the epoch does not bespeak absolute control. Rather, at
+center stage is the rapidity with which human action, whether intentional or
+a product simply of scale, can influence non-human organisms and communities in
+ways we could never predict, let alone hope to marshal. The recognition of this
+kind of entanglement has compelled Donna Haraway to set aside the Anthropocene
+moniker entirely in favor of what she calls the "Chthulucene," a "name for the
+dynamic ongoing sym-chthonic forces and powers of which people are a part" and
+which demands "intense commitment and collaborative work and play with other
+[non-human] terrans" (160). The problem with even imagining the level of
+control Ecomoderns assume out of hand is that it hubristically simplifies these
+entanglements, reducing a vast multitude of actors to a single, determining
+one. 
+
+The ethical problem of entanglement quickly becomes a matter of cold, wet fact,
+however, as recognizing this multitude of actors determines how one sees the
+material limitations to economic growth. Among the Manifesto's most peculiar
+claims is that "there is still remarkably little evidence that human population
+and economic expansion will outstrip the capacity to grow food or procure
+critical material resources in the foreseeable future." This notion can only be
+maintained within the limited frame of the economist's graph. As Eileen Crist
+points out, the Manifesto only admits for evidence certain "insuperable
+obstacle[s]" to growth, "such as a hard agronomic boundary in food production
+or the depletion of some indispensable and non-substitutable resource" (251).
+These variables leave out the very real disappearance of biodiversity in an
+unheard of scale, mass extinctions on a scale that would usually be understood
+as an epoch-defining catastrophe. As Crist reminds us, "mass extinction does
+not have a technical solution" (250-1, 247). And yet even the economist's
+variables should not be so easily passed over. Absolute agronomic limits may
+not have been encountered yet, but rapid ecological collapses in response to
+climate change could bring those limits rapidly into play. 
+
+Gilman, in her extrapolations on Ward's theories and in her own right, should
+be seen as part of the deep philosophical history of the "good Anthropocene,"
+both in its vision of human control as an evolutionary imperative and in the
+ethical problems it embodies. In some ways, however, her foundation surpasses
+both Ward and the contemporary "good Anthropocene" arguments a century later.
+Gilman's version of a good Anthropocene is premised on a web of mutual
+determination among physical environment, the economic base, and social
+structure, arguing for a more nuanced understanding of "progress" that relies
+on refinement rather than growth. [ Details, write this up after I've written
+the chapter ]. Despite this apparent foresight, however, it also foreshadows
+the hubris and ethical problems that mar the very notion of a "good"
+Anthropocene a century later. [ More details, on population control, consensus,
+and anthropocentric ethics ] These contradictions cut to the heart of the
+naturalist philosophy in the way they deal with environmental determinism.
+Granting the fundamental premise of determinism, she complicates it by placing
+the human at both ends of the equation, as both a guide for the "forces" that
+determine ecological development and one of many elements of the system those
+forces determine. This principle of codetermination constitutes a form of
+Utopian Naturalism that both characterizes the contemporary good Anthropocene
+debate and exposes its philosophical limits.
 
 
 ## outline-ish
