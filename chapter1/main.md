@@ -214,23 +214,24 @@ control Ecomoderns assume out of hand is that it hubristically simplifies these
 entanglements, reducing a vast multitude of actors to a single, determining
 one. 
 
-The ethical problem of entanglement quickly becomes a matter of cold, wet fact,
-however, as recognizing this multitude of actors determines how one sees the
-material limitations to economic growth. Among the Manifesto's most peculiar
-claims is that "there is still remarkably little evidence that human population
-and economic expansion will outstrip the capacity to grow food or procure
-critical material resources in the foreseeable future." This notion can only be
-maintained within the limited frame of the economist's graph. As Eileen Crist
-points out, the Manifesto only admits for evidence certain "insuperable
-obstacle[s]" to growth, "such as a hard agronomic boundary in food production
-or the depletion of some indispensable and non-substitutable resource" (251).
-These variables leave out the very real disappearance of biodiversity in an
-unheard of scale, mass extinctions on a scale that would usually be understood
-as an epoch-defining catastrophe. As Crist reminds us, "mass extinction does
-not have a technical solution" (250-1, 247). And yet even the economist's
-variables should not be so easily passed over. Absolute agronomic limits may
-not have been encountered yet, but rapid ecological collapses in response to
-climate change could bring those limits rapidly into play. 
+The ethical problem with ignoring entanglement quickly becomes a matter of
+cold, wet fact, however, as recognizing this multitude of actors determines how
+one sees the material limitations to economic growth. Among the Manifesto's
+most peculiar claims is that "there is still remarkably little evidence that
+human population and economic expansion will outstrip the capacity to grow food
+or procure critical material resources in the foreseeable future." This notion
+can only be maintained within the limited frame of the economist's graph. As
+Eileen Crist points out, the Manifesto only admits for evidence certain
+"insuperable obstacle[s]" to growth, "such as a hard agronomic boundary in food
+production or the depletion of some indispensable and non-substitutable
+resource" (251). These variables leave out the very real disappearance of
+biodiversity in an unheard of scale, mass extinctions on a scale that would
+usually be understood as an epoch-defining catastrophe. As Crist reminds us,
+"mass extinction does not have a technical solution" (250-1, 247). And yet even
+the economist's variables should not be so easily passed over. Absolute
+agronomic limits may not have been encountered yet, but rapid ecological
+collapses in response to climate change could bring those limits rapidly into
+play. 
 
 Gilman, in her extrapolations on Ward's theories and in her own right, should
 be seen as part of the deep philosophical history of the "good Anthropocene,"
@@ -255,102 +256,7 @@ debate and exposes its philosophical limits.
 
 
 # Old
-
-[^ln-artobjects]: Need to confirm and cite.
-
-[Though the most popular of her novels, *Herland* remains somewhat marginal
-outside of Gilman scholarship. Critics often prefer the narrative richness and
-psychological focus of “The Yellow Wallpaper” (1892), the story of a woman
-whose confinement to the home, embodied in the design of the titular wallpaper,
-drives her to madness. The plot of *Herland*, in contrast, is in many ways
-traditional utopian fare in the vein of Thomas More, Edward Bellamy, or William
-Morris. The three male protagonists, Vandyck (the narrator), Terry, and Jeff,
-discover a country that has been lost to the rest of the world for two thousand
-years, a civilization entirely of women who reproduce parthenogenetically: each
-woman conceives asexually unless she wills herself not to. After a brief
-imprisonment and an abortive escape attempt, the men are assimilated into the
-society of Herland and set about learning its ways. They discover a system of
-ecological socialism that emphasizes the efficient use of resources and rewards
-social duty over individual achievement, and is defined above all by communal
-motherhood as a social paradigm as well as a basis for a social ecology. 
-
-Just readng the predominant criticism of Herland, though, one would be forgiven
-for overlooking the novel's relevance to social ecology and ecocriticism.
-*Herland* was unearthed in 1979 **(confirm!! look at the sources again!)** from
-the archived anonymity of Gilman's self-published journal *The Forerunner*
-primarily because of its discussion of gender. It was a proto-feminist work
-that had been buried along with the work of many other women whose thinking was
-well ahead of their generation's, and only some seventy years after its
-composition could it assume its rightful place in (or at least near) the
-American literary canon.[^feminist-revival] The problem, though, was the
-novel's conservativism in comparison with the critical projects that might be
-expected to champion it: if *Herland* was written too early to be well
-received, it was rediscovered too late. After an initial critical interest in
-the project, the work was rightly deemed not particularly useful to feminism as
-it stood. The "matriarchy" Gilman glorifies is a little too heavy on
-motherhood, and by the 1980s, to celebrate such a society as "feminist" would
-have been to accept a massive step backwards---not to mention the undercurrents
-of eugenics and racial nationalism that rightly revile modern readers.
-*Herland*, then, is useful as a historical snapshot of an early utopian
-feminist thinker, but it is showing its age, too much so to be held up as
-anything but a very complicated model.[^feminist-reception]]
-
-This critical history, necessarily somewhat reduced, obscures a less dominant
-strand of Gilman's thinking that is no less exciting, and potentially of much
-greater use---and it is evident in the representation of the novel with which I
-began. Gilman's speculative world can be reconsidered as an example of the
-American ecotopian imagination: a process by which speculative social ecologies
-develop in response to the divide between human systems and the ecologies that
-contain them. Beneath the main line of *Herland*'s feminist argument there is
-an equally serious set of premises concerning the imbrication of economy and
-ecology, built environment with natural environment, and human evolution with
-the evolution of the earth. Following these subtle arguments to their
-conclusion can offer a new reading of the novel as one of transition from a
-state of civilization-as-we've-known-it to a steady-state human ecology in
-perfect harmony: a society that has organized itself from below to pursue
-*development without growth*. In short, it is worth taking up *Herland* again
-now to ask if it can be more useful to the environmental humanities today than
-it was for feminism in the '80s.
-
-The short answer is that it certainly can be. Gilman was writing from and to a
-considerably less full world than the one we have now, and yet she seems to be
-thinking through the full-world problems most characteristic of the the later
-twentieth century and beyond. Several viewpoints from the other side of
-Gilman's century seem to describe a basis for her project almost perfectly.
-Carolyn Merchant's *Radical Ecology*, for example, sees two fundamental
-"contradictions" in the ecological moment of 1989, the first arising "from
-tensions between the economic forces of production and local ecological
-conditions, the second from tensions between reproduction and production" (9).
-In *Herland*, as I will show, resolving both contradictions becomes part of a
-single process in which human production *and* reproduction are considered as
-part of the same economy, and also as part of the regional ecology. The urgent
-awareness of the Anthropocene has shown the necessity for human development to
-be understood in terms of its influence on planetary development---for, as
-Dipesh Chakrabarty puts it, we "now wield a geological force"
-[@chakrabarty_climate_2009 206]; Gilman's Herlanders anticipate a cultural
-solution to this problem long before its terms became clear, understanding
-their existence in terms of *coexistence*, their evolution as *coevolution*.
-And now, when it is becoming clear that environmental justice is often
-inseparable from economoic justice,[^environmental-social-economic-justice]
-*Herland* puts forward one model of a systemic address to both, even if she
-forces us to ask important and challenging questions about the ethics and
-viability of her solution.
-
-[^environmental-social-economic-justice]: Merchant, Adamson, Env justice reader
-
-Now, then, is the right moment to put *Herland* in the context of the joint
-ecological and economic crises that have defined most of the hundred-year
-interval between 1915 and the present. Doing so will hardly constitute the
-first environmental reading of *Herland*, for there are several accomplished
-precedents.[^prior-art] But to ask "Why this reading now?" demands a particular
-response: it demands that one ask what alternatives *Herland* posits, what
-economic and ecological systems it concocts in its speculative, ecotopian
-crucible and how they fit in after more than a century's development in
-environmental thinking. It demands that the novel be read in the interstices of
-ecology and economics then and now. 
-
-[^ln-prior-art]: Esp. chang, Fleissner
-
+<!-- old intro 
 In what follows, I will argue that Charlotte Perkins Gilman uses the garden as
 a framing device to depict a system in which management of environment replaces
 the market cycle of production and consumption, collective sustenance becomes
@@ -375,71 +281,63 @@ literary naturalism.
 general silence between Marxist criticism and Gilman scholarship. Walter Benn
 Michaels’s reading of “The Yellow Wallpaper” in *The Gold Standard and the
 Logic of Literary Naturalism* is an immediate and notable exception to this
-silence. 
+silence. -->
+
+### Lester Ward on the Human's Place in Ecology
+
+<!-- The goal here will be to place Ward's ideas into the broader history of
+thinking about humans and nature: the way he builds on the Baconian tradition
+and 18th-century visions of the wilderness as savage and cultivation as
+"improvement" (can follow up on Wulf for sources here); but more important to
+place the newness of Ward's theories on display, specifically his evolutionary
+imperative for control and the fact that sociology is a natural offshoot of
+ecology in his view. By thinking of things like economies, religions, and
+cultures as subfields of ecology (is that too strong?), Ward opens up the
+possibility for a web of interconnection among these apparently distinct
+realms. A move prepared for by "Nature's Economy." See Worster for additional
+commentary on Ward in ecological context. 5-10 pp?-->
 
 ### The Garden and the Full World
 
-In this light, what rises to the fore of Gilman's utopia is the notion that a
-society can be organized according the principles of a garden. For much of her
-life, Gilman kept a garden of her own---a “vegetable garden mind you!, not
-merely flowers”---at one point as a means of subsistence in the lean years of
-her later life, at another as what she referred to as a “sanitarium” (*Selected
-Letters* 180, 281, 284). The relevance of subsistence gardens to *Herland* is
-clear: in all its appearances in the novel, the garden is a space that is
-simultaneously built and natural, a source of food and material goods that is
-neither agricultural nor industrial and yet is not entirely distinct from
-either. 
+<!-- how do I need to frame this section? First, need to develop the place of
+Ward in context, both his contemporaries and 2016ers. (That's the previous
+section). Then here I need to make a more specific case about how the full
+world stand-in is determining the cultural-economic-ecological web. Ergo,
+Gilman is showing us how to live in a full world, and her answer is control.-->
 
-Though this blending can certainly be seen (and has been before) as an example
-of what Leo Marx has termed "the middle landscape,"[^ln-chang] it
-insufficiently accounts for the complexities of Gilman's ecotopian paradigm. A
-materialist focus in Gilman's version of the garden as well as her focus on
-communal labor and communal governance brings out the social and
-infrastructural import Marx's paradigm obscures. Unlike @marx's middle
-landscape, Gilman's garden is conceived as a commons, a public space whose
-maintenance and ownership are shared by all members of society. The communal
-construction of environment her paradigm implies includes the communal
-construction of culture, and as such it is central to all aspects of life in
-Herland. Gilman's garden would therefore be better considered in terms of Joni
-Adamson's understanding of the "garden ethic" and "garden metaphor," which she
-derives from the work of Simon Ortiz and Leslie Marmon Silko as well as Acoma
-oral tradition [@adamson 68, 183, 57]. 
+<!-- old text, weave in to new section above-->In this light, what rises to the
+fore of Gilman's utopia is the notion that a society can be organized according
+the principles of a garden. 
 
-[^ln-chang]: Cf. Li-Wen @chang_economics_2010's "Economics, Evolution, and
-Feminism in Charlotte Perkins Gilman's Utopian Fiction" (343).
+Gilman develops Ward's concepts of [ concepts ] primarily through the vehicle
+of the garden. For much of her life, Gilman kept a garden of her own---a
+“vegetable garden mind you!, not merely flowers”---at one point as a means of
+subsistence in the lean years of her later life, at another as what she
+referred to as a “sanitarium” (*Selected Letters* 180, 281, 284). The relevance
+of subsistence gardens to *Herland* is clear: in all its appearances in the
+novel, the garden is a space that is simultaneously built and natural, a source
+of food and material goods that is neither agricultural nor industrial and yet
+is not entirely distinct from either. As an imagined society, Herland also
+echoes the principles of containment and control inherent to her view of
+gardening: it exists in a small and clearly demarcated space, and it is only
+able to exist there by careful control over its elements and how they interact.
+The society's chief concern is in maintaining this existence by managing what
+we would now call its "ecological footprint"---or the amount of land required
+to sustain the lifestyle of its population.[^ln-ecological-footprint] Unlike
+the Ecomoderns, however, Gilman does not imagine a technological fix to the
+conditions of scarcity that define Herland, or not exactly. She instead uses
+the garden as a paradigm for the controlled interaction of Herland's economy,
+ecology, and social structures, communally managed by Herlanders to achieve the
+best possible lifestyle given their finite landmass and resources. In other
+words, her approach combines the environmentalist's concern with limits and the
+"good Anthropocene" commitment to make human control over the environment as
+benign as possible for all organisms involved. 
 
-Admittedly, Adamson lands on a paradigm that sounds very similar to Leo Marx's,
-as it defines a meeting place between the natural and the cultural, the human
-and the environment. She even refers to it throughout the book as "the middle
-place," although there appear to be no explicit references between her model
-and Marx's. But where Marx's middle landscape is predicated on
-expansionism,[^ln-marx-expansionism] Adamson seeks garden ethics like Ortiz's
-that "[teach] us to live more responsibly in the specific places we inhabit,"
-and her version of the gardener "endeavors to understand how nature's
-large-scale patterns work in specific places" [@adamson 68, 184]. The emphasis
-on the local and responsibility to one's immediate environment is an
-inexcludable criterion in approaching a society defined by strict geographic
-limitations, as Herland is. Just as crucially, Adamson's garden is a place
-where nature and culture do not just meet and blend, but are actually mutually
-determining. Nature guided by cultural practices is still admitted as nature,
-but she also attends carefully to the ways in which the "Acoma people," for
-example, "come to understand the natural world through working in their
-gardens," leading to a relationship in which "culture emerges from nature"
-(53). Conditions of scarcity, both in historical and speculative terms, demand
-a greater degree of attention to the way that culture adapts to nature, not
-just the reverse.
+[^ln-ecological-footprint]: Give examples here... Earth currently needs
+something like 2.5 Earths, America needs so much, China needs so much, while
+"undeveloped" countries use much less.
 
-[^ln-marx-expansionism]: edenic garden depends on plenty; jefferson; etc.
-
-Adamson's version of the middle landscape is so useful as a way of considering
-*Herland*, then, not merely because it opens up the garden as a space of
-interaction between human and non-human environments---Leo Marx also does that.
-Rather, Adamson's garden lets us think of the garden explicitly as a continuum
-of materiality and cultural forms that is a fundamental part of Gilman's
-ecotopian vision. It not only *lets* us consider this continuum: it demands
-that we do so in response to the realities of a steady-state or closed system.
-
-The economy of Herland is perhaps the aspect of this society most transformed
+The economy of Herland is perhaps the aspect of this society most of transformed
 by the garden's material-cultural logics, and it is therefore the clearest
 angle from which to see its peculiarities and complex structure. One passage,
 in which a Herlander describes realizing her place in the community and with
@@ -461,58 +359,67 @@ trees---thousands of bushels of nuts,---and make years and years of trouble for
 us.’…I grew a foot, it seemed to me, and determined then and there to be a
 forester.” (123)
 
-On the narrative level, this passage reverses the expectation of total,
-unquestioned conservationism in all cases, disclosing instead the ideology of
-environmental management more typical of forestry.[^ln-forestry] The tender,
-careful handling of the frail creature will ultimately culminate, we realize,
-in the its death, as well as the last stage in a deliberate extinction of the
-entire species. This reversal effectively replaces uncomplicated reverence for
-the "natural world" with a commitment to transform the “natural” into the
-system that most benefits humans. Understanding that the obernut moth limits
-the propagation of the obernut, and realizing that the obernut is Herland’s
-“best food-nut,” they create a situation in which nurturing the environment
-they have crafted will mean nurturing themselves (123). But the means of this
-ecological management also contains some of the basic problematics of a Herland
-forestry more broadly conceived. They hardly seem to blink at the forced
-extinction of a species for the benefit of the human Herlanders. If *Herland*
-would be less than palatable to sentimental, bourgeois conservationism, it
-would be anathema to the deep ecologist's fundamental axiom: the inherent value
-of every living thing, regardless of its use as a resource.
+<!-- reframe this reading in terms of the control/knowledge/Prometheanism
+paradigm--> On the narrative level, this passage reverses the expectation of
+total, unquestioned conservationism in all cases, disclosing instead the
+ideology of environmental management more typical of forestry.[^ln-forestry]
+The tender, careful handling of the frail creature will ultimately culminate,
+we realize, in the its death, as well as the last stage in a deliberate
+extinction of the entire species. This reversal effectively replaces
+uncomplicated reverence for the "natural world" with a commitment to transform
+the “natural” into the system that most benefits humans. Understanding that the
+obernut moth limits the propagation of the obernut, and realizing that the
+obernut is Herland’s “best food-nut,” they create a situation in which
+nurturing the environment they have crafted will mean nurturing themselves
+(123). But the means of this ecological management also contains some of the
+basic problematics of a Herland forestry more broadly conceived. They hardly
+seem to blink at the forced extinction of a species for the benefit of the
+human Herlanders. If *Herland* would be less than palatable to sentimental,
+bourgeois conservationism, it would be anathema to the deep ecologist's
+fundamental axiom: the inherent value of every living thing, regardless of its
+use as a resource.
 
 [^ln-forestry]: Forestry from Leopold, Merchant
 
 The full world determines not only the Herlanders' management of their
-"resources," but their very self-conception. Their system of ecological
-management reaches beyond direct interactions between the human and environment
-as in the treatment an obernut moth, determining also the human concepts of
-labor, professional identity, and the economy. The forester, Ellador, is
-telling the story of her professional self-realization---the moment when she
-conceives of herself in terms of her role in the economy---but the nature of
-the work is such that this moment is inseparable from the realization of her
-place (albeit by way of a larger system) in the *ecology*. Considered in terms
-of labor, a “forester” such as Ellador is a peculiar entity: she is not quite
-an agricultural producer, and yet her actions contribute to the sufficient
-supply of food. She is not exactly employed by the state, and yet her function
-to the community is clear. Her duties are framed in terms of maintaining the
-environment, and yet in doing so she is also maintaining herself---both
-materially, by providing food for herself and others, and psychologically, by
-coming into her identity. The mutually determining cultural and material forms
-take labor as their point of confluence, the site of their mutual
-determination.[^ln-ambient-labor-preview]
+"resources," but their very self-conception.<!-- why does this matter? I think
+this is the cultural/economic part of the web. But it also speaks to the fate
+of the individual (and humanism, freedom) in this system--> Their system of
+ecological management reaches beyond direct interactions between the human and
+environment as in the treatment an obernut moth, determining also the human
+concepts of labor, professional identity, and the economy. The forester,
+Ellador, is telling the story of her professional self-realization---the moment
+when she conceives of herself in terms of her role in the economy---but the
+nature of the work is such that this moment is inseparable from the realization
+of her place (albeit by way of a larger system) in the *ecology*. Considered in
+terms of labor, a “forester” such as Ellador is a peculiar entity: she is not
+quite an agricultural producer, and yet her actions contribute to the
+sufficient supply of food. She is not exactly employed by the state, and yet
+her function to the community is clear. Her duties are framed in terms of
+maintaining the environment, and yet in doing so she is also maintaining
+herself---both materially, by providing food for herself and others, and
+psychologically, by coming into her identity. The mutually determining cultural
+and material forms take labor as their point of confluence, the site of their
+mutual determination.[^ln-ambient-labor-preview]
 
 [^ln-ambient-labor-preview]: This concept will be elaborated further in the
 "Ambient Labor" section below.
 
-The ambiguity of this form of labor (can taking care of oneself be considered
-*labor*?) is resolved by understanding the way the garden structure is applied
-to an economic system. What I am calling *Herland*'s "garden economy" comes
-into focus when the labor actually performed by Herlanders is taken into
-account on the level of the entire society: it is a system in which the thing
-produced is environment, not commodity; in which, as a result, production and
-consumption disappear as discrete entities; and which culminates in the gradual
-subsumption of labor into being.
+The ambiguity of this form of labor<!--need to connect this to the full world
+thing more explicitly... is ambient labor necessary to avoid the kind of
+intensification that leads to exploitation? Is it a way out of capitalism?-->
+(can taking care of oneself be considered *labor*?) is resolved by
+understanding the way the garden structure is applied to an economic system.
+What I am calling *Herland*'s "garden economy" comes into focus when the labor
+actually performed by Herlanders is taken into account on the level of the
+entire society: it is a system in which the thing produced is environment, not
+commodity; in which, as a result, production and consumption disappear as
+discrete entities; and which culminates in the gradual subsumption of labor
+into being.
 
-One result of this collapse of environmental production into self-sustenance is
+<!-- focus on this in women and economics, also her socialism? Opporunity to
+extend the connection of her economic programs to her ecological ones--> One
+result of this collapse of environmental production into self-sustenance is
 that the perpetuation of society through procreation becomes an economic
 activity---and thereby seems to offer a resolution to Merchant's "second
 contradiction" between production and reproduction some seventy years before
@@ -530,7 +437,8 @@ conceit) is explicable less as a product of divine intervention than as an
 extension of the garden economy. Reproduction in the desired proportions takes
 on the same inevitability and automatism of production, becoming a feature of
 carefully (and communally) controlled conditions rather than a sum of
-uncoordinated individual choice.
+uncoordinated individual choice. <!--push harder on the reproduction thing as
+it relates to the steady-state system-->
 
 [^ln-systems-prior]: This aspect of the novel has been much discussed in Gilman
 scholarship, as has the understanding of motherhood as an ecological and
@@ -539,6 +447,8 @@ Katherine Fusco’s “Systems, Not Men: Producing People in *Herland*,” and K
 Graehme Hall’s “Mothers and Children: ‘Rising with the Restless Tide’ in
 *Herland*.”
 
+<!--perhaps a place to explore the web of determination; should also bring in
+context of naturalism here if possible to prepare for the final section?-->
 Gilman extends the mutual determination of nature and culture to its logical
 conclusion by exploring a process of literal and cultural *coevolution*, not
 between two discreet species of organism (as commonly occurs in the non-human
@@ -548,8 +458,8 @@ the rest of the slippage between organism and environment in the novel, she
 assumes a semi-Lamarckian stance of species development that emphasizes the
 role of environment in physical evolution. Like Lamarck, she considers the
 possibility that acquired traits can be passed on to other generations, which
-gives environmental determinants an outsized influence on the development of a
-species. Taking environment as a significant determining factor in evolution
+gives environmental determinants an outsized influence on the development of
+a species. Taking environment as a significant determining factor in evolution
 also brings the creation of culture into the evolutionary equation: Gilman uses
 education, a fundamental part of the Herland culture, as a way to guide the
 management of the physical environment, depicting a society that, in
@@ -575,6 +485,10 @@ a discussion of the speculative world itself---and in this case, how the
 construction of that world constitutes a type of argumentation.
 
 ### World-Building as Argumentation
+
+<!-- the topic in the heading doesn't help me anymore. But I should at least
+incorporate some of the stuff at the end about the way they organize their
+space---cities, etc. This is relevant to the full world stuff above-->
 
 Some more detail is in order about the work and the environment it depicts,
 because in narrative terms, the landscape of *Herland* works as quite a bit
