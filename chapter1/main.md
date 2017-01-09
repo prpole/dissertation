@@ -465,6 +465,8 @@ realizing that the obernut is Herland’s “best food-nut,” they create
 a situation in which nurturing the environment they have crafted will mean
 nurturing themselves (123). 
 
+<!-- pick up here-->
+
 Of course, this type of ecological management also contains some of the basic
 problems of a Herland forestry more broadly conceived, problems that fall along
 the same lines as the ethical and material complaints leveled at proponents of
