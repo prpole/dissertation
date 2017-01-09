@@ -19,7 +19,7 @@ scarcity. The soil has been improved and the wildlife managed with such care
 that no farming or harvesting is necessary---the land *provides*, without the
 coercion of agricultural labor. Nobody seems to direct the maintenance of this
 environment, and yet it is maintained by the effortless and seemingly automatic
-contributions of Herland’s people. Some keep careful watch for destructive
+contributions of Herland's people. Some keep careful watch for destructive
 elements of the ecology, others construct careful art objects that embody a
 culture of environmental care.[^ln-artobjects] Still others run communal eating
 houses that completely fulfill Herland's need for meals just as reliably and
@@ -298,7 +298,7 @@ possibility for a web of interconnection among these apparently distinct
 realms. A move prepared for by "Nature's Economy." See Worster for additional
 commentary on Ward in ecological context. 5-10 pp?-->
 
-### The Garden, the Full World and Ambient Labor
+### The Garden, the Full World, and Ambient Labor
 
 <!-- how do I need to frame this section? First, need to develop the place of
 Ward in context, both his contemporaries and 2016ers. (That's the previous
@@ -326,52 +326,64 @@ conditions of scarcity that define Herland, or not exactly. She instead uses
 the garden as a paradigm for the controlled interaction of Herland's economy,
 ecology, and social structures, communally managed by Herlanders to achieve the
 best possible lifestyle given their finite landmass and resources. In other
-words, her approach combines the environmentalist's concern with limits and the
-"good Anthropocene" commitment to make human control over the environment as
-benign as possible for all organisms involved. 
+words, the "garden" paradigm combines the environmentalist's concern with
+limits and the "good Anthropocene" commitment to make human control over the
+environment as benign as possible for all organisms involved. 
 
 [^ln-ecological-footprint]: Give examples here... Earth currently needs
 something like 2.5 Earths, America needs so much, China needs so much, while
 "undeveloped" countries use much less.
 
 The tension between limitation and control is in part embodied in *Herland*'s
-setting---the landscape here is quite a bit more than background. As in many
-utopian novels, the author provides a detailed description of the physical
-world as a way of (quite literally) preparing the ground for the social
-arguments that are to come by prefiguring those arguments in natural
-description, and even using the land itself as a kind of argument. Gilman's is
-a particularly cartographical overview, delivered as the three male
-protagonists view Herland from a biplane, hoping to get “the lay of the land”
-before they descend (41). This vantage point allows them to see in one glance
-an argument in the terrain itself, though they do not recognize it as such.
-World construction is carefully controlled, in Gilman's narrative, to create
-the kind of "nature" that she is most interested in discussing.
+setting, which in *Herland* is more than mere background. As do the authors of
+many utopian novels, Gilman uses the physical world to (quite literally)
+prepare the ground for the social arguments to come, prefiguring those
+arguments in natural description and even using the landforms themselves as
+vehicles for argument. Gilman's is a particularly cartographical overview,
+delivered as the three male protagonists view Herland from a biplane, hoping to
+get “the lay of the land” before they descend (41). This vantage point allows
+them to see in one glance the argument in the terrain, though they do not
+recognize it as such. Gilman's own world construction is carefully controlled
+to create the kind of "nature" that she is most interested in discussing,
+anticipating the way Herlanders themselves will manipulate their physical
+environment to achieve an ecological ideal.
 
-The most obvious physical feature of Herland is its strict physical containment
-by natural boundaries. From above, they see that the land is confined to
-a triangular “high-standing spur” rising out of the “dark green sea of crowding
-forest” around it (41). The sense of obstruction established by the imposing
-forest is reinforced on the far end by “white-crowned peaks in the distance,
-themselves probably inaccessible.” The bounds of Herland are clearly defined,
-and with them the scope of the systems that define it. Their cultural and
-economic isolation is assumed, but so, to a certain extent, is their ecological
-sequestration. The natural disaster that locks the Herlanders into a kind of
-natural terrarium also, presumably, prevents other life from interacting with
-life outside of Herland. In other words, the same factors that keep Herland off
+The aspect of their ideal that is most obviously embodied in the physical space
+of Herland is containment, enforced by severe natural boundaries. From above,
+they see that the land is confined to a triangular “high-standing spur” rising
+out of the “dark green sea of crowding forest” around it (41). The sense of
+obstruction established by the imposing forest is reinforced on the far end by
+“white-crowned peaks in the distance, themselves probably inaccessible.” The
+bounds of Herland are clearly defined, and with them the scope of the systems
+that define it. Their cultural and economic isolation is assumed, as is their
+ecological sequestration. The natural disaster that locks the Herlanders into
+a kind of natural terrarium also prevents organisms outside this "high-standing
+spur" from interacting with life outside of Herland---it must, as it is an
+apparently functional assumption the Herlanders use in their ecological
+equations. To use a contemporary term, the same factors that keep Herland off
 the map make it a distinct bioregion---a term that implies autonomy and closure
 of both infrastructural and natural physical features.[^bioregionalism]
 
-Gilman also quietly keeps the closest thing to wilderness out of the way of
-nature that is useful. Natural proliferation is not allowed to interfere with
-daily life. Turning to the land itself from its boundaries, she says, “It
-appeared to be well forested about the edges, but in the interior there were
-wide plains, and everywhere parklike meadows and open places”; in addition,
-“closely cultivated gardens” mark the interior plains (42, 47). Vandyck notes
-the presence of cities without giving a sense of their number or spatial
+[^ln-bioregionalism]: point to some research on bioregions, also show that it
+is probably another fantasy in real life but works conceptually/in fiction
+
+Gilman's organization of distinct types of natural space within these
+boundaries emphasizes her narrative shaping of space as well as the extent of
+Herlanders' environmental management. Each type of region occurs where it will
+be most useful to the human inhabitants of Herland, though it is unclear how
+much of this is the result of intentional influence and how much would be
+considered "natural." Describing Herland from the boundaries in, Vandyck says,
+“It appeared to be well forested about the edges, but in the interior there
+were wide plains, and everywhere parklike meadows and open places”; in
+addition, “closely cultivated gardens” mark the interior plains (42, 47). He
+notes the presence of cities without giving a sense of their number or spatial
 orientation, but there are indications later that similar small cities are
-spread throughout the country.[^ln-small-cities] As one might expect, there is
-not one single, sprawling urban center to Herland, nor the corresponding
-relationship to urban and rural divisions of labor. Instead, there appear to be
+spread throughout the country.[^ln-small-cities] These cities seem to be the
+organizing principle of the space, but not in the same pattern of development
+that would create the metropolis and suburb in the real world. As one might
+expect given the trend of integrating the built and natural environments, there
+is not one single, sprawling urban center to Herland, nor the corresponding
+separation of urban and rural divisions of labor. Instead, there appear to be
 small towns in a loosely unified political relationship. For this loose
 associative structure to work as a nationalized unit in the apparent absence of
 any transportation technology, natural barriers in the interior have to be kept
@@ -383,36 +395,49 @@ management also prevents the trees from impeding travel through the interior.
 This practical function is underscored by the presence of “clean, well-built
 roads,” the unhindered view from “the edge of the open country” through field
 glasses, and the speed with which three Herlanders on foot are able to distance
-themselves from the male intruders (42, 47). Open space combines with
-infrastructural, visual, and physical links to unite the disparate groups of
-Herlanders apparently contained in clusters of semiautonomous urban spaces. 
+themselves from the male intruders (42, 47). Open space is carefully preserved
+in service of the infrastructural, visual, and physical links that unite the
+disparate groups of Herlanders who seem to be clustered in semiautonomous urban
+spaces. 
 
-[^ln-small-cities]: See, for example, the men’s lecture circuit
+[^ln-small-cities]: See, for example, the men's lecture circuit
 partway through the novel (109-11). 
 
 This deliberate organization of the land into forest, open space, and urban
-space is foregrounded from the beginning, and it is partially this division,
-the strategic use and removal of impediments, that gives Vandyck the sense that
-the land “looked like an enormous park, only that it was even more evidently an
-enormous garden” (42). The organization also subtly introduces the entirely
-managed character of the country, and establishes from the beginning a
-teleological understanding of space---of a land that is constructed for a
-purpose, in contrast to actual wilderness. A doubling of world construction
-unique to the utopian novel is in evidence here, and it takes on a clear
-function when considered as an ecotopian paradigm: perspectives on the land are
-reified in the way that interaction with the land occurs, and in this case, in
-the way in which the land is shaped. Such shaping happens physically for the
-Herlanders, but for Gilman it is almost a rhetorical shaping that is merely
-rendered as setting. 
+space subtly introduces the "garden" paradigm of space, emphasizing
+containment, management, and a teleological understanding of space---of a land
+that is constructed for a purpose, in contrast to actual wilderness, which is
+both a détante of dueling evolutionary imperatives and a web of
+interdependence---but wild either way. Here, in contrast, natural spaces are
+reifications of perspectives on nature itself, which occur in the way that
+interaction with the land occurs, and in this case, in the way in which the
+land is shaped physically and narratively. 
 
-<!--end previous "world building" section-->
+<!-- transition from control-limitation/world-construction subsection to
+economy/ambient labor section-->
 
-The economy of Herland is the site where the tripartite web of ecology,
-economy, and social structure becomes clearest. One passage, in which
-a Herlander describes realizing her role in the community and the ecology,
-defines especially clearly the general shape of the Herlanders' relationship
-with environment, and it is particularly revealing of the way that relationship
-determines the nature of the economy and the status of labor:
+It is hard to maintain, however, any distinction of "perspectives on nature"
+from perspectives on human economic and social systems in Herland. It would be
+more accurate to say that these carefully shaped landscapes embody *Herland*'s
+understanding of the web of mutual determination that always unites these
+systems, but does so especially clearly here. Understanding this
+interdependence causes Herlanders to transform their system of labor and
+economics as well as their physical landscape, and this combination of
+transformations allows them to survive the problems of a full world with scarce
+resources. 
+
+Thinking about Herland through an economic lens is the clearest way to
+demonstrate this interdependence, precisely because it is so difficult: normal
+economic categories fail to describe the system, and new ones are required. The
+meaning of "labor" in a world without money is always going to be ambiguous,
+but here the blending between economic, ecological, and social structures adds
+an additional level of difficulty. The wholesale transition of Herland' natural
+environment to an orderly progression of ecological zones appears to have
+happened through a process that shares the characteristics of a natural ecological
+progression (with humans included in the ecology, of course), a massive public
+works project, and transformations in the social understanding of individuals
+and communities. The way these elements come together is particularly clear
+when the Herlander Ellador describes the process of becoming a forester:
 
 > “It was a butterfly that made me a forester,” said Ellador. “I was about eleven
 years old, and I found a big purple and green butterfly on a low flower. I
