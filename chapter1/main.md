@@ -7,6 +7,8 @@ bibliography: gilman.bib
 csl: csl/mla.csl
 ...
 
+### Introduction
+
 In her utopian novel *Herland* (1915), Charlotte Perkins Gilman creates “a land
 in a state of perfect cultivation, where even the forests looked as if they
 were cared for; a land that looked like an enormous park, only that it was even
@@ -298,13 +300,107 @@ possibility for a web of interconnection among these apparently distinct
 realms. A move prepared for by "Nature's Economy." See Worster for additional
 commentary on Ward in ecological context. 5-10 pp?-->
 
+The deep roots of the "Good Anthropocene" controversy can be found in the work
+of Lester F. Ward and the moment of ecological thinking he represents---a
+moment defined by the contrasting poles of limitation, established by the
+revolutionary work of George Perkins Marsh, and human mastery of nature, more
+in step with the overwhelming Victorian trend toward
+"civilization."[^ln-victorian-ecology] Indeed, comparing the "bad" and "good"
+Anthropocenes with this moment of conflict over the human makes one feel that
+we have been having the same argument for a century and a half. [section
+thesis; make sure to point out that I'm talking mostly about DS because that's
+what Gilman read]
+
+[^ln-victorian-ecology]: On Marsh's general influence, see Marsh's *Man and
+Nature: Or, Physical Geography as Modified by Human Action* and David
+Lowenthal's introduction to the Belknap Press edition. Lowenthal argues
+elsewhere that Marsh should be seen as an early marker of Anthropocene
+awareness: @lowenthal_origins_2016, largely because of his anticipation of the
+human as a geological force and his emphasis on the destructive outcomes of
+human scale and interference. .
+
+
+<!-- Marsh paragraph --> Marsh's *Man and Nature* (1864), "the most influential
+text of its time next to Darwin's *On the Origin of Species*," made him "the
+first to realize that man's environmental impacts were not only enormous and
+horrific, but perhaps irreversibly cataclysmic" [@lowenthal_origins_2016 56].
+Building on the first inklings of climate science[^ln-humboldt-climate-science]
+in Alexander von Humboldt's *Personal Narrative of Travels to the Equinoctal
+Regions of America* (18--), Marsh demonstrates that human influence across
+"woods," "waters," and "sands" has been universally malignant, notwithstanding
+the modest success of reforestation efforts [@marsh_man_1965 13, 175-7; 43-4].
+His relevance to thinking about limitation and conservation in the Anthropocene
+has been bolstered by his conclusion that "human action must rank among
+geological influences," a simple statement that anticipates the defining tenet
+of the Anthropocene [@marsh_man_1965 464]. 
+
+[^ln-humboldt-climate-science]: The argument for Humboldt as an early climate
+science belongs to Andrea Wulf's *The Invention of Nature* (2016). 
+
+<!--Marsh, Powell, Ward-->Ward was very probably familiar with Marsh's work
+directly, but was at least familiar with the body of ideas his work represented
+through Major John Wesley Powell. Powell was at the head of the U.S. Geological
+Survey at a time when its aims were defined by the nascent conservation
+movement Marsh's work had, in large part, sparked [@worster_river_2000 484]. In
+all likelihood, Powell read *Man and Nature*---the work's influence alone is
+enough to make a confident inference; John R. Ross, though citing no evidence
+himself, claims that "Powell read Marsh's work and remembered the lessons" in
+his early surveys [@ross_man_1975 52-3]. Regardless, the movement Marsh's work
+spawned defined the parameters within which Powell's own work in the Geological
+Survey proceeded, not least when Ward joined the agency in 1881. Ward's own
+work for the survey was defined by these conservation-minded goals, but there
+was a more general exchange of ideas between Powell and Ward that would define
+Ward's early work: *Dynamic Sociology* is dedicated to Major Powell, and Powell
+gave Ward his position in part to support him while he completed his book
+[@ross_man_1975 51-2]; Donald Worster describes Ward as almost "a brother with
+whom [Powell] sometimes argued intensely" (442). Ward also cites Powell's
+thoughts on ethnology and religion in *Dynamic Sociology* [@ward_dynamic_1926
+II:254-8]. To place Ward, Powell, and Marsh in too close an intellectual
+proximity would be a mistake, but Marsh's brand of conservation and his
+awareness of the deleterious influence of human activity on nature defined the
+intellectual environment with which Ward's theories would either have to
+integrate or contend.
+
+<!-- Ward adhering to and breaking from ecology/conservation-->To a significant
+degree, Ward should be understood as breaking from this early wave of
+conservation, insofar as he sees (contrary to Marsh) human control of nature as
+not only largely benign, but right and proper. Donald Worster places Ward in
+the company of those in "the late Victorian age, from the 1860s to the end of
+the century" for whom "there appeared an unusually fierce determination to make
+the civilizing process stick good and tight, once and for all," to the point of
+employing the "aggressive, resolute, even violent force of Culture to harness
+and subdue the nature" that was "menacing," immoral, and simply uncouth
+[@worster_nature's_1985 170-5] Just as it would be a mistake to align Ward with
+his conservationist mentors, though, writing off their influence entirely (as
+often happens in discussions of Ward) would elide an important element of
+ecological consciousness in Ward's work. Worster frames this ecological
+consciousness as "an ecological counterpart" to Ward's "social ideals," but in
+fact it would be more accurate to say that his sociology arises out of
+a rigorous training in the natural sciences.[^ln-worster-apologia] Indeed,
+according to Ward, the social sciences should consciously follow on the
+discoveries and methods of the natural sciences. Discussing economics, for
+example, he laments erroneous assumptions that could have been avoided "had
+sociology been thoroughly grounded in biology, as Comte so justly insisted that
+it should be" [@ward_dynamic_1926 87]. This aside confirms---and confirms as
+deliberate---what is already clear in *Dynamic Sociology*: that Ward's
+sociology is built on a foundation of knowledge we now recognize as the
+beginnings of ecology. 
+
+[^ln-worster-apologia]: This relationship is much clearer in Worster's later
+work on Major Powell, which is more concerned with *Dynamic Sociology* than
+with Ward's later works [@worster_river_2000 440-8]. It is no coincidence that
+a discussion of Ward's earlier works would note the ecological influence on his
+sociology, as *Dynamic Sociology* was written during a period of Powell's
+intellectual and financial support.
+
+<!--Ward on carrying capacity... use this to play out the conflict-->The place
+where Marsh's and Powell's conservationism exerts the clearest influence on
+*Dynamic Sociology* is in Ward's discussion of carrying capacity as a factor
+that limits human growth but is also determined by human activity. 
+
 ### The Garden, the Full World, and Ambient Labor
 
-<!-- how do I need to frame this section? First, need to develop the place of
-Ward in context, both his contemporaries and 2016ers. (That's the previous
-section). Then here I need to make a more specific case about how the full
-world stand-in is determining the cultural-economic-ecological web. Ergo,
-Gilman is showing us how to live in a full world, and her answer is control.-->
+<!-- need to define/introduce full world concept (sources???)-->
 
 Gilman develops Ward's concepts of [ concepts ] primarily through the vehicle
 of the garden. For much of her life, Gilman kept a garden of her own---a
@@ -465,8 +561,6 @@ realizing that the obernut is Herland’s “best food-nut,” they create
 a situation in which nurturing the environment they have crafted will mean
 nurturing themselves (123). 
 
-<!-- pick up here-->
-
 Of course, this type of ecological management also contains some of the basic
 problems of a Herland forestry more broadly conceived, problems that fall along
 the same lines as the ethical and material complaints leveled at proponents of
@@ -529,11 +623,6 @@ make them difficult to distinguish.[^ln-ambient-labor-preview]
 "Ambient Labor" section below.
 
 
-
-<!--need to connect this to the full world thing more explicitly... is ambient
-labor necessary to avoid the kind of intensification that leads to
-exploitation? Is it a way out of capitalism?-->
-
 Though not every Herlander is a forester, Ellador seems to be an example of
 labor in general as it exists in Herland. Gilman creates a system in which the
 thing produced is environment, not commodity; in which, as a result, production
@@ -541,77 +630,157 @@ and consumption disappear as discrete entities; and which culminates in the
 gradual subsumption of labor into being. The result is what I will call
 a system of *ambient labor*.
 
-<!-- should I weave the ambient labor section in here, in full?  probs -->
-
-
-[**Get Hegel in there? Hegel, self-consciousness section, "Fear" on the
-construction of the thing as a form of communal self-consciousness.**]
+<!-- ambient labor section-->
 
 Gilman develops her system of ambient labor in the absence of the wage labor,
 replacing the money economy with a "garden economy," or controlled exchange of
-energy and nutrients (in the form of labor and food).  When they work, they
-work *on* the land, and not just in the locative sense: it is the object and
-product of their labor, both the raw and refined material. Further, working on
-the land in this way is their means of working on themselves as an intentional
-society. The solution to the ever-present problem of resource distribution is
-solved by a Bellamy-like nationalization of the economy with a very
-un-Bellamy-like casual application.[^bellamy] There are no chits for
-a determined allocation of goods, in other words, but merely an automatic
-provision by the environment itself. Everything is like an apple on the branch,
-waiting to be plucked. There is also no rigid allocation of tasks, for everyone
-in some sense is working on the same thing---again, on Herland itself. Everyone
-finds their way to a task according to their inclination, and all of these
+energy and nutrients (in the form of labor and food) towards a definite
+*telos*. I leave the term *ambient* intentionally ambiguous to denote the
+labor's status as part of the environment---it is something in the background,
+itself ambient---and its orientation towards the environment---towards that
+which is ambient---in terms of production and consumption. Gilman does not
+theorize Herland's form of labor directly, but the ambient labor system can be
+inferred from what she does show us of the economy and the roles within it.
+There seems to be no rigid allocation of tasks, for everyone in some sense is
+working on the same thing---again, on Herland itself. Everyone finds their way
+to a task according to their inclination, like Ellador does, and all of these
 tasks are understood according to their influence on the material and social
-ecology. As a whole, these subtle changes institute a new paradigm for both
-sides of the economic equation. Instead of a market cycle or the capitalist
-working day, a state of ambient production and consumption governs the rhythms
-of Herland.  [The ambiguity in the term *ambient* is intentional here: the task
-is everpresent and goes largely unnoticed as such; the product of labor itself
-is also ambient in that environment itself is the thing produced and consumed.]
+ecology. The labor's own "ambience," then, is a product of its focus on
+everything else that is ambient rather than a focused economic goal for
+individual gain. When they work, they work *on* the land, and not just in the
+locative sense: it is the object and product of their labor, both raw material
+and product, rather than a mere uncounted resource in the production of
+a commodity. Further, working on the land in this way is their means of working
+on themselves as a society, making changes to the social and economic structure
+by transforming their environment. As a whole, these subtle changes institute
+a new paradigm for both sides of the economic equation. Instead of a market
+cycle or the capitalist working day, a state of ambient production and
+consumption governs the rhythms of Herland.[^ln-ambience-morton]
 
-The evidence of ambient labor is to be found in the setting itself and the way
-in which it is "cultivated"---as with the object of labor, it is never the
-single crop that is cultivated, but the entire system. There is no purely built
-or purely natural environment. Only the liminal space, unique to Herland,
-between produced and wild. Nowhere is this contrast of cultivated natural space
-with actual wildness more evident than within the forest itself, where it is
-underscored by the voiced amazement of the three male outsiders. In Vandyck’s
-initial impressions, he points out with astonishment that “even the forests
-looked as if they were cared for” (42). Later, Terry says, “I never saw a
-forest so petted, even in Germany. Look, there’s not a dead bough---the vines
-are trained---actually!...[The trees are f]ood-bearing, practically all of
-them....  The rest splendid hard-wood. Call this a forest? It’s a truck farm!”
-(44). The word “cultivated” is repeated many times with reference to every
-aspect of the landscape, flora and fauna alike, as well as the tiny gardens
-that dot the open plains---at one point the forests are referred to simply as
-“the cultivated area” (66). The forested area is not the tangled thicket,
-wilderness embodied, as it is in the world beyond. It is instead the
-breadbasket of the rest of the country, or as Terry puts it, a “truck farm."
-This somewhat dated term indicates by definition produce grown for
-non-commercial purposes, via definitions of “truck” as bartered (and thus
-non-market) goods (“truck,” *OED*). The agricultural system encompasses the
-economic system, not the other way around.
+[^ln-ambience-morton]: really do need to talk about Timothy Morton here,
+"Ecology without Nature".
+
+<!-- this should be in a consumption sectioon?? The solution to the
+ever-present problem of resource distribution is to by a Bellamy-like
+nationalization of the economy with a very un-Bellamy-like casual
+application.[^bellamy] There are no chits for a determined allocation of goods,
+in other words, but merely an automatic provision by the environment itself.
+Everything is like an apple on the branch, waiting to be plucked. -->
+
+Evidence of ambient labor is to be found in the setting itself and the way in
+which it is "cultivated"---it is never the single crop that is cultivated, but
+the entire system.[^ln-producing-systems] The combination of ubiquity and
+gentleness in this systemic intervention means there is no purely built or
+purely natural environment, but only the liminal space between the produced and
+the wild. Nowhere is this contrast of cultivated natural space with actual
+wildness more evident than within the forest itself, where it is underscored by
+the voiced amazement of the three male outsiders. In Vandyck’s initial
+impressions, he points out with astonishment that “even the forests looked as
+if they were cared for” (42). Later, Terry says, “I never saw a forest so
+petted, even in Germany. Look, there’s not a dead bough---the vines are
+trained---actually!...[The trees are f]ood-bearing, practically all of them....
+The rest splendid hard-wood. Call this a forest? It's a truck farm!” (44). The
+word “cultivated” is repeated many times with reference to every aspect of the
+landscape, flora and fauna alike, as well as the tiny gardens that dot the open
+plains---at one point the forests are referred to simply as “the cultivated
+area” (66). The forested area is not the tangled thicket, wilderness embodied,
+as it is in the world beyond. It is instead the breadbasket of the rest of the
+country, or as Terry puts it, a "truck farm." This term, now slightly archaic,
+indicates by definition produce grown for non-commercial purposes, via
+definitions of “truck” as bartered (and thus non-market) goods (“truck,”
+*OED*). But it is also not an exploitative model of agricultural development,
+as is evident from the words used to describe the actual interventions on the
+part of human Herlanders. The forests are not planted or culled but "petted,"
+or indulged in their natural growth and proliferation; similarly, the vines are
+"trained," a term of domestication but not exploitation. The agricultural
+system encompasses the economic system, not the other way around.
+
+<!-- worth checking in with Anthropocene stuff here? Could say 'this is
+important cuz some people say the Anthropocene should begin with agriculture;
+revising agricultural methods is therefore one way of asserting control over
+anthropogenic transformation; maybe after ambient labor section-->
+
+[^ln-producing-systems]: See Katherine Fusco, "Systems, Not Men: Producing
+People in Charlotte Perkins Gilman’s *Herland*" for a similar argument about
+the reproductive part of this process.
+
+Of course, decentralizing economic gain disrupts the terms used to discuss
+production. Any attempt to describe the industry of Herland leads one to ask:
+What do the Herlanders actually produce?[^ln-shishin] The only tenable answer
+is that they produce their environment, and solely their environment. This is
+no system of industrialized agriculture, but more of a totalizing permaculture.
+When Vandyck learns more about the cultivation that constitutes “foresting," he
+discovers that the process entails less planting of produce than creation of
+a desirable environment entire. In some cases this has led to “the deliberate
+replanting of an entire forest area with different kinds of trees”---an
+unimaginably vast displacement that nevertheless results in a functioning
+ecosystem, and one that, with respect to the needs of the Herland people, has
+been improved (104). Like Ward, Gilman exhibits a fixation on "improving" the
+natural environment that is a remnant of Enlightenment thinking about nature.
+But rather than replacing natural systems with human systems in the name of
+"improvement," the Herlanders hope to improve both by integrating them,
+creating ecological balance in a system that includes the built environment as
+well as natural space. 
+
+Unlike an "improvement" measured in economic output, hers is measured in
+ecological effects. The way their built and natural environments relate can be
+deduced by the absence, in Herland's development, of the most invasive
+developments of the nineteenth and early twentieth centuries. The lack of
+industrialization, for one, implies that their waste material will be of a kind
+that can return to the cycles from which it came. Most of the byproducts of
+their production can probably just be composted, as we can see from the
+attention given to soil conditions. Gilman specifies that “an increasingly
+valuable soil [is] built, instead of the progressive impoverishment so often
+seen in the rest of the world” (105). The development of the environment is
+allowed to proceed without direct human activity, but the conditions are set
+such that this natural development adheres to a desirable course. The
+environment that determines this growth (the soil) is altered so that
+development is both bolstered and guided by the combination of Herland’s
+natural and built environments. As a result, the only necessary human
+intervention is too incidental to be understood as labor---as is the case for
+Ellador, the forester discussed in the introduction. In the case of the
+production of soil, the main place of intervention would be in byproducts of
+consumption---compostable scraps and human excrement---which come with
+necessary vital processes. Composting and waste management are defined by
+systemic interventions that either leverage or strategically prevent the
+natural activity of the ecosystem's organisms. Instead of understanding
+production on the level of the product, they produce process; where the rapidly
+industrializing society of 1915 America was defined by systems of production,
+Gilman's alternative opts for the production of systems.[^ln-fusco]
+
+[^ln-fusco]: For more on systems as a paradigm of production, personhood, and
+society in *Herland*, and more specifically the relevance of Frederick Winslow
+Taylor's *The Principles of Scientific Management*, @fusco_systems_2009.
+
+[^ln-shishin]: Alex Shishin also asks this question, with a different but
+related answer: “If such an industrial base exists in Herland, we do not see
+it, nor hear or smell it. The same pleasant condition---a pronounced lack of
+industrial pollution and ugliness---is present in the two seminal utopian
+novels which preceded Herland: Edward Bellamy's *Looking Backward* (1888) and
+William Morris's *News from Nowhere* (1890). But while Bellamy and Morris offer
+explanations for this, Gilman does not” (“Gender and Industry in *Herland*"
+101). 
 
 What might be seen as an idealistic and utopian model is, in narrative context,
 just the most rational response to extreme scarcity. The exclusive localism and
-closed-system dynamics that I am arguing can be useful to the twenty-first
-centur are forced on the Herlanders so suddenly that it almost extinguishes
-them: there used to be free passage to the sea, but natural disasters close it
-off conclusively and limit them only to what they can produce in their regional
-ecology (81). In these conditions, the market system fails. The cultivation the
-Herlanders develop instead is therefore associated with subsistence in the
-absence of market-based distribution of goods. Just as the land has shifted in
-reality in response to the capitalist system of agriculture, it is evident that
-the Herland ecology has developed in mutual codetermination with what is at
-first conditions of extreme scarcity but becomes, under the guidance of a
-developing ambient labor, the conditions of post-scarcity. The forest is a
-case-study in the resulting environment, as the *usefulness* that defines it is
-what has allowed the Herlanders to flourish on a “little shut-in piece of land
+closed-system dynamics that seem most relevant to the twenty-first century are
+forced on the Herlanders so suddenly that they are almost extinguished: there
+was once free passage to the sea, but natural disasters close it off
+conclusively and limit them only to what they can produce in their regional
+ecology (81). In these conditions, the market system fails. The system of
+cultivation through ambient labor that the Herlanders develop instead is
+therefore a means of subsistence without resorting to a market-based
+distribution of goods that they recognize will always outgrow its container.
+Herland begins in conditions of extreme scarcity but attains, under the
+guidance of a developing ambient labor, the conditions of post-scarcity.
+Persisting in a full world requires the ecological economics of *usefulness*
+that defines Herland forestry, but only the low-impact intervention of ambient
+labor has allowed the Herlanders to flourish on a “little shut-in piece of land
 where one would have thought an ordinary people would have been starved out
 long ago or reduced to an annual struggle for life” (104). The non-market
 interaction of cultivation and wildness has lifted the Herlanders out of simple
 necessity, making plenty and freedom from scarcity a constitutive element of
-the wilderness.[^ln-wilderness-scarcity]
+the environment itself.[^ln-wilderness-scarcity]
 
 [^ln-wilderness-scarcity]: Li-Wen Chang also notes this peculiar character of
 the wilderness, saying that “nature and culture nurture each other” in the
@@ -625,109 +794,71 @@ distinction between biological and mechanical reproduction through her
 insistence that the proper way to understand a person is as both product and
 part of a system” (427).
 
-Their relationship to their environment also changes the nature of consumption,
-which gradually has to account for the availability of every necessary good.
-The way this peculiar coexistence of the managed and the natural affects
-consumption patterns is revealed during the men's attempt to escape captivity:
-Vandyck says, “Mighty lucky it was that we could live off the country as we
-did. Even that margin of forest seemed rich in food-stuffs” (67). On one hand,
-the idea of living “off the country” invokes an inapplicable paradigm of
-hunter-gatherer like woodsmanship, a product of Vandyck's own misunderstanding
-of the nature of Herland's environment. But what his statement also underscores
-is that the land itself has become a kind of pantry without ceasing to be an
-exterior space. Consumption in Herland is rendered as an interaction with
-environment and “the land,” but the possibility of “liv[ing] off” it does not
-constitute an achievement as it might in a survivalist wilderness adventure.
-Instead, the land provides. Interestingly, plentiful access to resources leaves
-the act of consumption largely un-narrated here and throughout the novel.
-Except for the passing reference to the "obernut" in Ellador's tale of
-professional identification, Gilman does not describe the presumably unique
-products of this foreign ecosystem. The eliding, collective reference to
-"food-stuffs" is paradigmatic of her references to food in general: it is never
-more than a category, an acknowledge necessity. In Herland one seems to *find*
-food without searching for it, eliminating in the same stroke the array of
-choices that defines consumerism and the struggle to attain sustenance that
-defines survivalism. This is the sense in which consumption in *Herland* is
-"ambient." Vandyck's easy "liv[ing] off the country" sets the tone for all
-references to consumption in *Herland*---the depiction of plenty without waste,
-of the immediate satisfaction of wants by goods that are always already at
-hand, recurs throughout.[^ln-consumption-nakedness]
 
-[^ln-consumption-nakedness]:See also the resolution of the men’s nakedness by
-perfectly fitting, perfectly functional, and deliberately anti-fashionable
-clothing when they awake as prisoners (55) 
+Production is only one half of the economic equation, however, and arguably not
+the most pressing one in the context of the full world. The Herlanders'
+relationship to their environment also changes the nature of consumption, which
+becomes as unfocused and free from market logic as production. The way this
+peculiar coexistence of the managed and the natural affects consumption
+patterns is revealed during the men's attempt to escape captivity. On the run,
+Vandyck experiences consumption in a post-money, post-scarcity environment,
+saying, “Mighty lucky it was that we could live off the country as we did. Even
+that margin of forest seemed rich in food-stuffs” (67). The land itself has
+become a kind of pantry without ceasing to be an exterior space. Consumption in
+Herland is rendered as an interaction with “the country,” but the possibility
+of “liv[ing] off” it does not constitute an achievement as it might in
+a survivalist wilderness adventure. Instead, the land provides. 
 
-The corresponding change in the production paradigm is more difficult to trace.
-Any attempt to describe the industry of Herland leads one to ask: What do the
-Herlanders actually produce?[^ln-shishin] The only tenable answer is that they
-produce their environment, and solely their environment. This is no system of
-industrialized agriculture, but more of a totalizing permaculture. When Vandyck
-learns more about the cultivation that constitutes “foresting” as a profession,
-he discovers that the process entails less planting of produce than creation of
-a desirable environment entire. In some cases this has led to “the deliberate
-replanting of an entire forest area with different kinds of trees”---an
-unimaginably vast displacement that nevertheless results in a functioning
-ecosystem, and one that, with respect to the needs of the Herland people, has
-been improved (104). In many other cases, environmental improvement runs still
-deeper, creating ecological balance in a system that includes the built
-environment and urban space. The way their built and natural environments
-relate can be deduced by certain absences in Herland's development. The lack of
-industrialization, for one, implies that their waste material will be of a kind
-that can return to the cycles from which it came. Most of the byproducts of
-their production can probably just be composted. Indeed, the attention given to
-soil conditions suggests that it almost certainly is: Gilman specifies that “an
-increasingly valuable soil [is] built, instead of the progressive
-impoverishment so often seen in the rest of the world” (105). The development
-of the environment is allowed to proceed without direct human activity, but the
-conditions are set such that this natural development adheres to a desirable
-course. The environment that determines this growth (the soil) is altered so
-that development is both bolstered and guided by the combination of Herland’s
-natural and built environments. As a result, the only necessary human
-intervention is too incidental to be understood as labor---as is the case for
-Ellador, the forester discussed in the introduction. In the case of the
-production of soil, the main place of intervention is in via byproducts of
-consumption---compostable scraps and human excrement---which come with
-necessary vital processes. Composting and waste management are defined by
-systemic interventions that either leverage or strategically prevent the
-natural activity of the ecosystem’s organisms. Instead of understanding
-production on the level of the product, they produce process; where the rapidly
-industrializing society of 1915 America was defined by systems of production,
-Gilman’s alternative opts for the production of systems.[^ln-fusco]
-
-[^ln-fusco]: For more on systems as a paradigm of production, personhood, and
-society in *Herland*, and more specifically the relevance of Frederick Winslow
-Taylor’s *The Principles of Scientific Management*, see Katherine Fusco’s
-“Systems, Not Men.”] 
-
-[^ln-shishin]: Alex Shishin also asks this question, with a different but
-related answer: “If such an industrial base exists in Herland, we do not see
-it, nor hear or smell it. The same pleasant condition---a pronounced lack of
-industrial pollution and ugliness---is present in the two seminal utopian
-novels which preceded Herland: Edward Bellamy's *Looking Backward* (1888) and
-William Morris's *News from Nowhere* (1890). But while Bellamy and Morris offer
-explanations for this, Gilman does not” (“Gender and Industry in *Herland*"
-101). 
+Consumption fades into the background as a result, in the world of the novel as
+well as narratively. Plentiful access to resources leaves the act of
+consumption largely un-narrated throughout. In other naturalist novels,
+commodities and their consumption become indicators of one's place in the money
+economy and, therefore, the capitalist social structure, resulting in litanies
+of goods and prices. Lily Bart's main relationship to plant life is in striving
+to keep "fresh flowers for luncheon...jonquils or lilies-of-the-valley," and
+her family's inability to provide the "two dollars a dozen" to do so is used
+early in the novel to mark their fall from financial grace [@wharton_house_1990
+27]. Clyde of Dreiser's *An American Tragedy* muses "that if only he
+had a better collar" he would enter the milieu of those more happy and
+successful, that to be one of them meant "that you possessed all of these
+luxuries" and "went how, where, and when you pleased" (13, 43). Except for the
+passing reference to the "obernut" in Ellador's tale of professional
+identification, Gilman does not describe the presumably unique products of this
+foreign ecosystem, though we know eating occurs mostly in communal eating
+houses, and the only time clothes come up is when the Herlanders supply them
+with a "thicker variety of union suit" (55). The eliding, collective reference
+to "food-stuffs" is paradigmatic of her references to food in general: it is
+never more than a category, an acknowledge but unfetishized necessity. In
+Herland one seems to *find* food without searching for it, eliminating in the
+same stroke the array of choices that defines consumerism and the struggle to
+attain sustenance that defines survivalism. This is the sense in which
+consumption in *Herland* is "ambient." Vandyck's easy "liv[ing] off the
+country" sets the tone for all references to consumption in *Herland*---the
+depiction of plenty without waste, of the immediate satisfaction of wants by
+goods that are always already at hand, recurs
+throughout.
 
 The ambient paradigm of production frees Herlanders from commodity production
-and the exploitative traps inherent therein. The way this reduction of
-unnecessary labor comes about becomes especially clear when framed by the
-theory of value in Karl Marx’s *Capital*, published slightly fewer than fifty
-years before *Herland*. In the labor theory of value, the exchange value of a
-commodity is defined by the cost necessary to reproduce the means of
-production---which includes the sustenance of the laborers---plus the surplus
-value, which derives from the unpaid labor that occurs after the laborers have
-done enough to provide for their physical necessities.[^ln-8-9-capital]
-When the only thing produced is a communally held environment, though, the
-workers’ aggregate labor does nothing more than reproduce the means of
-production. This is more than to say that they only work as long as is
-necessary for their own sustenance; rather, they create a situation that gives
-them what they need without the necessity of labor beyond a constantly
-diminishing minimum. Labor is required to create that situation, but the goal
-of labor is always the reduction of further labor rather than the increase of
-profitability. Past this point, the entire economy---which here, in the absence
-of a market, consists only of the production of use value[^ln-use-value]---is subsumed
-by the ecology, with the exception of minor ecological interventions like
-Ellador’s encounter with the obernut. 
+and the exploitative traps inherent in commodity-based consumption. The way
+this reduction of unnecessary labor comes about becomes especially clear when
+framed by the labor theory of value---a theory that Gilman was not more than
+passingly familiar with but was central to the socialism of other naturalist
+authors, especially Jack London.[^ln-jack-london-socialism] In the labor theory
+of value, the exchange value of a commodity is defined by the cost necessary to
+reproduce the means of production---which includes the sustenance of the
+laborers---plus the surplus value, which derives from the unpaid labor that
+occurs after the laborers have done enough to provide for their physical
+necessities.[^ln-8-9-capital] When the only thing produced is a communally held
+environment, though, the workers' aggregate labor does nothing more than
+reproduce the means of production: the self-perpetuating ecology, which
+includes human laborers. That it is self-perpetuating means that the amount of
+work needed for their sustenance is constantly diminishing, as they go from
+setting up the ecology to making Ellador-like tweaks, which happen
+incidentally. The goal of labor is always the reduction of further labor rather
+than the increase of profitability. Past this point, the entire economy---which
+here, in the absence of a market, consists only of the production of use
+value[^ln-use-value]---is subsumed by the exchange of energy and material that
+defines the Herland ecology. 
 
 [^ln-8-9-capital]: See chapters eight and nine and the first section of chapter
 ten of *Capital* volume one (133-151).
@@ -742,43 +873,39 @@ extent that labor does exist in Herland, it appears to take this form
 exclusively, except that the modification takes as its product ecological
 systems rather than commodities.
 
+[^ln-jack-london-socialism]: On Jack London's socialism and reading of Marx,
+see [@raskin_jack_2005].
+
 With both production and consumption becoming incorporated into part of the
 larger environment, the processes enter a different sort of relationship with
 each other than the one that characterizes, for example, supply and demand. The
 relationship that results comes into particular focus in the context of
 Gilman's other attempts to address this problem, albeit by different means.
-Walter Benn Michaels, in his reading of “The Yellow Wallpaper,” describes a
-system that is in many ways a market version of the Herland garden economy;
-many of the problems he points out are resolved in *Herland* by the removal of
-the market from Herland entirely. Michaels argues that in “The Yellow
-Wallpaper,” published in 1892, the woman’s body becomes a site “simultaneously
-of production and consumption…rewritten as the utopian body of the market
-economy” in which “products not only exist to be consumed, but coming into
-existence they already are consumed.” The simultaneous buying and selling,
-producing and consuming of the self is conditional to *owning* that self,
-making “exchange…the condition of [one’s] existence.” This “triumphant
+Walter Benn Michaels, in his reading of “The Yellow Wallpaper,” describes
+a system that is in many ways a market version of the Herland garden economy;
+many of the problems he points out in "The Yellow Wallpaper" are resolved in
+*Herland* by the removal of the market entirely. Michaels argues that in “The
+Yellow Wallpaper,” published in 1892, the woman’s body becomes a site
+“simultaneously of production and consumption…rewritten as the utopian body of
+the market economy” in which “products not only exist to be consumed, but
+coming into existence they already are consumed.” The simultaneous buying and
+selling, producing and consuming of the self is conditional to *owning* that
+self, making “exchange…the condition of [one’s] existence.” This “triumphant
 omnipresence of market relations” is, for Michaels, the cause of the
 character’s nervous breakdown: the narrator’s “marking” the yellow wallpaper
-that is the object of her constant, compulsive meditation and simultaneously
+that is the object of her constant, compulsive meditation, and simultaneously
 being “marked” by it in turn both indicates the logic of the market economy and
-is the main feature of the narrator’s madness (*The Gold Standard* 13). The
+is the main feature of the narrator's madness (*The Gold Standard* 13). The
 system depicted in *Herland* shares this simultaneity and omnipresence of
-production and consumption---but it exists without market relations and without
-breakdown. Framing the built environment with the managed natural environment
-turns the conditions of a collapse into the conditions of an ideal society,
-replacing market forces with ecological balance. Money, exchange, and the
-marketplace are entirely absent from the narrative: unlike almost every other
-conspicuous absence, each of which is foregrounded by discussion between the
-outsiders and Herlanders, money never comes up in Herland.[^ln-money] Without a
-market economy in which the product is always “already consumed,” goods are
-always already produced *and* consumed: consumption exists in complex
-interrelation with production as part of the ecology. 
+production and consumption---but it exists without market relations and,
+consequently, without breakdown. Replacing economic exchange into ecological
+exchange and replacing wage labor with ambient labor turns the conditions of
+a collapse into the conditions of an ecotopian ideal. Without a market economy
+in which the product is always “already consumed,” goods are always already
+produced *and* consumed: consumption exists in complex interrelation with
+production as part of the ecology. 
 
-[^ln-money]: Prior to their foray money is mentioned indirectly, but only as a
-feature of the world beyond Herland: Terry’s family wealth bankrolls the
-expedition and provides the biplane (33).
-
-The reproduction of one’s own labor through self-sustenance, as the means by
+The reproduction of one's own labor through self-sustenance, as the means by
 which this simultaneous production and consumption occurs, is sufficient
 contribution to the Herland ecology---and as such, it is a Herlander’s only
 economic obligation. Ecology is a mutuality of being, an involuntary
@@ -792,6 +919,48 @@ describes, stabilizing it against disruption from without. Environmental
 production provides Herlanders with freedom from market exploitation and makes
 the welfare of the individual subject essential to the health of the system
 that contains it.
+
+<!-- term presents itself: a just distribution of biopower -->
+
+Of course, saying that Gilman splits from economics entirely would not be
+strictly true. Rather, she splits from any economics existing in 1915. From our
+vantage point a century later, it would be more accurate to say that she has
+imagined life in a world that implicitly anticipates ecological economics.
+According to Joan Martinez-Alier, ecological economics 
+
+> sees the economy not as a circuit or spiral of exchange value,
+a merry-go-round of producers and consumers, but instead as an entropic flow of
+energy and materials that runs through the economy. An economic history
+...inspired by ecological economics would study, for example, the energy
+systems of humanity. (173)
+
+A "reproductive approach" to ecological economics "studies the social,
+temporal, and spatial conditions under which the economy (which absorbs
+resources and excretes residues) is encased within the evolving ecosystems"
+(173). These descriptions of ecological economics would serve just as well as
+blurbs for *Herland* from an ecological perspective. And yet, texts included in
+surveys of ecological economics do not usually predate the 1970s, and are more
+commonly from the 1980s and on (Shmelev 3-8). It required more hindsight,
+generally speaking, to formulate an ecological economic system that could act
+as 
+
+> a response to the pressing environmental problems of the twentieth century
+and the inability of neoclassical economic theory to solve them or provide
+adequate explanations for the unprecedented decline in biodiversity, the
+changing climate, increased generation of waste, all caused by the pursuit of
+economic growth. (Shmelev 3)
+
+Gilman should then be considered as an intellectual precursor to this economic
+formulation of a response to the conditions that are now known as the
+Anthropocene, and more generally result from the problems of a full
+world.[^ln-martinez-alier-ee-precursors]
+
+[^ln-martinez-alier-ee-precursors]: Most of the other precursors to ecological
+economics were occupied with the question of how to unite the laws of
+thermodynamics with economic and sociological laws. Martinez-Alier and John
+Bellamy Foster cite Sergei Podolinsky as an early pioneer in this area, in part
+because he was a correspondent of Marx and Engels. [@guha_varieties_1997 172,
+@foster_marx's_2000]
 
 <!-- end old ambient labor section -->
 
@@ -808,34 +977,46 @@ system---along with the capitalist logic of exploitation. She implicitly
 identifies market logic as incompatible with her steady-state system.
 
 
-<!-- old text, weave in to new section above -->
+<!-- pick up here-->
+
+### Reproduction, Refinement, Expansion
 
 <!-- does it make sense to have an "expansion" section here, and work in the
-carrying capacity stuff?
+carrying capacity stuff? Yarp, unless it would be better to either 1. bring it
+together with the domestic labor stuff or 2. with the metabolic
+rift/coevolution stuff-->
 
 <!-- focus on this in women and economics, also her socialism? Opporunity to
 extend the connection of her economic programs to her ecological ones; moving
-on to reproduction as an extension of this low-impact economic equation--> One
-result of this collapse of environmental production into self-sustenance is
-that the perpetuation of society through procreation becomes an economic
-activity---and thereby seems to offer a resolution to Merchant's "second
-contradiction" between production and reproduction some seventy years before
-Merchant identified it. As she does more directly elsewhere in nonfiction
-writings like *Women and Economics* (1898), in *Herland* Gilman presents
-motherhood as an economically valuable contribution to the collective. It is
-also, as is crucial in her system, depersonalized, and is therefore subject to
-division of labor just like every other economic activity.[^ln-systems-prior]
-When a division of economic labor is expanded to include ecology, though---what
-an ecological economist might call ecological services and ecological
-labor---incorporating human reproduction into the economic division of labor
-also subsumes it into the managed regional ecology. In this context, the
-magical, parthenogenetic reproductive capacity (*Herland*'s main speculative
-conceit) is explicable less as a product of divine intervention than as an
-extension of the garden economy. Reproduction in the desired proportions takes
-on the same inevitability and automatism of production, becoming a feature of
-carefully (and communally) controlled conditions rather than a sum of
-uncoordinated individual choice. <!--push harder on the reproduction thing as
-it relates to the steady-state system-->
+on to reproduction as an extension of this low-impact economic equation--> 
+
+Understanding Herland as a precursor to ecological economics and as a primarily
+ecological text goes against the grain of the bulk of Gilman scholarship, but
+it by no means contradicts it. The subjects more common to Herland
+criticism---domestic reform, gynaecocentric evolutionary theory, and
+reproduction as labor---all work hand in hand with her environmental program.
+In this light, ambient labor and environmental stewardship can be seen as an
+eruption of ecological consciousness into an already rich body of work, spurred
+by her own long history as a gardener and her encounters with Ward's ecological
+sociology.
+
+Reproduction, for example, sheds its normal associations in *Herland* and
+becomes yet another ecological-economic process. As she does more directly
+elsewhere in nonfiction writings like *Women and Economics* (1898), *Herland*
+defines motherhood as an economically valuable contribution to the collective.
+It is also, as is crucial in her system, depersonalized, and is therefore
+subject to division of labor just like every other economic
+activity.[^ln-systems-prior] When a division of economic labor is expanded to
+include ecology, though---what an ecological economist might call ecological
+services and ecological labor---incorporating human reproduction into the
+economic division of labor also subsumes it into the managed regional ecology.
+In this context, the magical, parthenogenetic reproductive capacity
+(*Herland*'s main speculative conceit) is explicable less as a product of
+divine intervention than as an extension of the garden economy. Reproduction in
+the desired proportions takes on the same inevitability and automatism of
+production, becoming a feature of carefully (and communally) controlled
+conditions rather than a sum of uncoordinated individual choice. <!--push
+harder on the reproduction thing as it relates to the steady-state system-->
 
 [^ln-systems-prior]: This aspect of the novel has been much discussed in Gilman
 scholarship, as has the understanding of motherhood as an ecological and
@@ -843,6 +1024,11 @@ systemic process. See Alex Shishin’s “Gender and Industry in Herland,”
 Katherine Fusco’s “Systems, Not Men: Producing People in *Herland*,” and K.
 Graehme Hall’s “Mothers and Children: ‘Rising with the Restless Tide’ in
 *Herland*.”
+
+[^ln-reproduction-contradiction]: a little bit from Merchant here... ---and
+thereby seems to offer a resolution to Merchant's "second contradiction"
+between production and reproduction some seventy years before Merchant
+identified it
 
 <!--perhaps a place to explore the web of determination; should also bring in
 context of naturalism here if possible to prepare for the final section?-->
@@ -874,12 +1060,12 @@ Simply put, Gilman has developed a garden system that is able to operate in
 conditions of extreme spatial and ecological limitation by rejecting the
 concomitance of growth and development and refusing the separation of human and
 non-human systems, whether those systems are flows of energy, ecological
-systems, or even evolutionary ones. In the following sections, the specifics of
+systems, or even evolutionary ones. [In the following sections, the specifics of
 how she incorporates human labor into an ecology (both socially and materially)
 will be expanded upon significantly. But to discuss a vision of near-total
 environmental determinism like this one, discussing social structures requires
 a discussion of the speculative world itself---and in this case, how the
-construction of that world constitutes a type of argumentation.
+construction of that world constitutes a type of argumentation.]
 
 
 
