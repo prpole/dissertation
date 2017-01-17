@@ -459,17 +459,75 @@ relations to the world around it. (14)
 The Baconian imperative to "interpret" nature without "serving" it is expressed
 here as a surpassing of limits, but surpassing limits is paradoxically entwined
 with being aware of them. Ward's technological triumphalism is expressed here
-as growth through careful study---presumably a study that would include the
-negative effects of that growth if and when they are encountered. This is not
-a situation that Ward appears to anticipate, however, because of his faith in
-scientific knowledge and the transformations it can lead to.
+as growth through careful study, presumably a study that would include the
+negative effects of that growth if and when they are encountered. Indeed,
+Ward's desire for humanity to surpass all limits is not without qualification:
+he acknowledges that "the rapid multiplication of individuals could not long
+continue and would not be economically desirable," rendering the "large amount
+of friction that currently exists" between humanity and its environments as
+a check against ruination (15-6). But despite these Malthusian misgivings, Ward
+still frames limitation in general as a source of "a vast amount of physical
+and mental suffering" that our intelligence should liberate us from. 
 
 <!-- government as a surprising stage in evolution, as guiding force and
-product-->Among the transformations with which Ward's sociological system is
-most concerned is the development of government and community.
+product-->Not all human ingenuity is technological in Ward's mind, however, nor
+is physical technology even the most important development. The greatest
+achievement of an evolutionary system based on increasing organization is even
+more organization, in the form of communities and government. Ward sees
+government as a development of an evolutionary imperative toward "[a]ltruistic
+morality," which "arises as soon as intelligence begins to counteract the
+natural influences which restrict population" and lead to suffering (14).
+It is an "egoistic altruism, protecting others for the benefit of self," but
+the benefits of this altruism are still essentially communal (14). Propagation
+beyond limits relies on this communal instinct:
 
+> One of the secrets of the success of the human race in peopling the entire
+globe has been this moral sense which protects others where natural laws would
+destroy them. Government, which has this extra-natural protection for its
+object, had its rise in this altruistic sentiment.... (14)
+
+Intelligence, though it is a product of evolution's tendency toward greater
+organization, works against the main driver of Darwinian evolution, natural
+selection and the "friction" between an organism and its environment. The means
+by which these environmental influences are managed is government protection.
+ 
 <!--contrast with Spencer, primarily using Worster and Ward, Spencer if
-necessary. Hint at relevance to naturalism-->
+necessary. Hint at relevance to naturalism-->Ward's emphasis on the altruistic
+and communal side of survival and natural selection sets him apart from other
+evolutionary commentators and theorists of the period, most notably Herbert
+Spencer, a widely read social Darwinist who influenced many American literary
+naturalists (particularly Dreiser). The fundamental points on which Ward and
+Spencer differ are the applicability of biological evolutionary theory and
+competition---the messy randomness and the "survival of the fittest"---to the
+affairs of humanity. Ward complained that Spencer's relentless focus on biology
+failed to take into account the peculiarities of human mind, insofar as he
+"failed to make [psychology] the basis of either his sociology or his ethics"
+[@ward_psychological_1893 464]. As a result, Spencer sets forth the "underlying
+principles" for the "Physiocrats" whose "writings...constitute the warp of
+modern individualism"---a group in which he includes Adam Smith, Malthus, and
+Ricardo [@ward_psychological_1893 464]. The "Physiocratic" view is one that
+assumes human enterprises follow the same rules as biological evolution, while
+also assuming that biological evolution results in the most efficient outcomes
+(which Ward also disputes). Competition, in this view, ultimately leads to
+stability and optimization. Placing this view in ecological context, Worster
+relates Spencer's view of evolution to Frederic Clements's theory of the
+"climax community"---or a stable community of organisms that results from
+innumerable generations of struggle for survival: "It was the paradoxical
+belief of both of these men [Spencer and Clements] that the war of each against
+all for the essentials of life results in a more harmonious social or
+ecological organism" [@worster_nature's_1985 214]. Ward, in contrast, rejected
+both the necessity of competition and the efficiency of natural evolution over
+artificial organization.[^ln-davis] He favored purposive and altruistic
+transformation of nature and society alike through conscious reforms rather
+than the assertion of individual imperatives until they are halted by hard
+natural limits.
+
+[^ln-davis]: Cynthia J. Davis relates Ward's belief that "natural
+competition...checked rather than enhanced evolution" to his belief in reform:
+"As did many progressives...he resisted biological determinism and embraced
+Lamarckianism, as the belief in the biological transmission of *acquired*
+traits helped explain variation and emphasized human agency" [@davis_his_2003
+75]. 
 
 <!-- put in context of Gilman/Ward contextual scholarship-->
 
