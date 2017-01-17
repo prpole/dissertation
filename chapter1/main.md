@@ -393,10 +393,88 @@ a discussion of Ward's earlier works would note the ecological influence on his
 sociology, as *Dynamic Sociology* was written during a period of Powell's
 intellectual and financial support.
 
-<!--Ward on carrying capacity... use this to play out the conflict-->The place
-where Marsh's and Powell's conservationism exerts the clearest influence on
-*Dynamic Sociology* is in Ward's discussion of carrying capacity as a factor
-that limits human growth but is also determined by human activity. 
+Nevertheless, these ecological beginnings were not enough to keep Ward from
+a Baconian vision of science as a tool for mastering nature and exceeding
+limits---Ward cites Bacon approvingly to say that "Nature can only be conquered
+by obeying her" (13). In a moment of seeming humility for the species, Ward
+calls the human "an integral part of this great unconscious creative whole
+called nature, only a minute fraction of which can by any possible means be
+brought within the range of his experience" (11). But to Ward, the intelligence
+and teleological capacity of humanity at once makes us the apex of all natural
+systems and gives us the right to take over for natural processes. It is as if
+nature developed humanity as its head, and naturally we have since taken
+control of the organisms and processes that produced us. This conclusion
+derives from the theory that evolution has a "tendency to organization," and
+that "consciousness and intelligence are products of [this] organization";
+additionally, "teleological action has...kept pace with the degree of
+intelligence" (10). While "nature's processes are not teleologic but genetic,"
+humans differ in that their "conscious action is...teleological" (9). But
+nature's activity *becomes* teleological in that the human, still understood as
+part of nature, uses purpose and science to guide natural development. The
+human thus becomes part of the evolutionary process---or rather, in Ward's
+eyes, *could* and *should* be, but only when humans assume the mantle.
+A Darwinian to a point, Ward understands that "Mind is found only at the end of
+the series, and not at the beginning. It is the distinctive attribute of the
+creature, and not of the creator. It resides in man, and not in nature"
+(10-11). He breaks from Darwinian evolution in positing the possibility of
+understanding human activity as part of the evolutionary process---including
+artificial selection as well as natural selection as an evolutionary mechanism. 
+
+<!--Ward on carrying capacity... use this to play out the conflict-->Blending
+human and nature in this way makes the idea of "natural limits" to growth
+difficult to maintain. Just like the proponents of a good Anthropocene, Ward
+acknowledges limits only on the way to exulting in humanity's ability to
+surpass them---despite, or perhaps because, his theories are grounded in an
+ecology that takes the human as part of its purview. A particularly telling
+example arises in his discussion of carrying capacity, or the number of a given
+species an environment is able to support (taking into consideration factors
+such as climate, resource availability, space, and other species). Ward does
+not use the term carrying capacity, even though it was beginning to be used in
+some agricultural and botanical contexts---it would not enter more general use
+until either Aldo Leopold employed it in 1933 or, more probably, in post-war
+ecology [@robbins_carrying_2006]. But, whether he came to it independently or
+whether the concept was more mobile than the term,  Ward is certainly talking
+about carrying capacity in all but name: 
+
+> [I]n the uncontrolled operation of natural laws, beings capable of feeling
+are liable to injury. In an ever-changing environment, that degree of
+correspondence can never be reached in which no friction can occur. It is this
+perpetual conflict of every species with its adverse surroundings, this
+grinding at the outer boundaries of its sphere of activity, which constantly
+keeps its numbers down to moderate limits and its members restricted to
+definite geographical areas. (14)
+
+Thus it is for other species, anyway. For the human, a superior degree of
+adaptation, driven directly by a superior intelligence, increases the ratio of
+those who "make it" many times over---the limits of nature are always
+surpassed, but without (apparently) backlash of famine or despoliation:
+
+> In man this ratio [of non-survival] is less than in any other animal, and it
+is this which has enabled him, to so much greater an extent than any other
+animal, to increase his numbers and expand his territorial limits. This has
+been due to his superior sagacity and cunning, to his intelligence....
+[Humanity's gains] must be attributed to an increased acquaintance with its
+relations to the world around it. (14)
+
+The Baconian imperative to "interpret" nature without "serving" it is expressed
+here as a surpassing of limits, but surpassing limits is paradoxically entwined
+with being aware of them. Ward's technological triumphalism is expressed here
+as growth through careful study---presumably a study that would include the
+negative effects of that growth if and when they are encountered. This is not
+a situation that Ward appears to anticipate, however, because of his faith in
+scientific knowledge and the transformations it can lead to.
+
+<!-- government as a surprising stage in evolution, as guiding force and
+product-->Among the transformations with which Ward's sociological system is
+most concerned is the development of government and community.
+
+<!--contrast with Spencer, primarily using Worster and Ward, Spencer if
+necessary. Hint at relevance to naturalism-->
+
+<!-- put in context of Gilman/Ward contextual scholarship-->
+
+<!-- return to good Anthropocene to drive home the relevance of this context?
+But prepare for Gilman to break from it-->
 
 ### The Garden, the Full World, and Ambient Labor
 
