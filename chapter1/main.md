@@ -3,7 +3,7 @@ title: Gilman’s Garden&#58; *Herland*'s Centenary and the Environmental Humani
 author: Phillip R. Polefrone
 fontsize: 12pt
 geometry: margin=1in
-bibliography: gilman.bib
+bibliography: bibliography.bib
 csl: csl/mla.csl
 ...
 
@@ -491,48 +491,142 @@ organization, works against the main driver of Darwinian evolution, natural
 selection and the "friction" between an organism and its environment. The means
 by which these environmental influences are managed is government protection.
  
-<!--contrast with Spencer, primarily using Worster and Ward, Spencer if
-necessary. Hint at relevance to naturalism-->Ward's emphasis on the altruistic
-and communal side of survival and natural selection sets him apart from other
-evolutionary commentators and theorists of the period, most notably Herbert
-Spencer, a widely read social Darwinist who influenced many American literary
+<!--set up contrast with spencer-->Ward's emphasis on the altruistic
+and communal side of evolution sets him apart from other evolutionary
+commentators and theorists of the period, most notably Herbert Spencer,
+a widely read social Darwinist who influenced many American literary
 naturalists (particularly Dreiser). The fundamental points on which Ward and
 Spencer differ are the applicability of biological evolutionary theory and
 competition---the messy randomness and the "survival of the fittest"---to the
 affairs of humanity. Ward complained that Spencer's relentless focus on biology
 failed to take into account the peculiarities of human mind, insofar as he
 "failed to make [psychology] the basis of either his sociology or his ethics"
-[@ward_psychological_1893 464]. As a result, Spencer sets forth the "underlying
-principles" for the "Physiocrats" whose "writings...constitute the warp of
-modern individualism"---a group in which he includes Adam Smith, Malthus, and
-Ricardo [@ward_psychological_1893 464]. The "Physiocratic" view is one that
-assumes human enterprises follow the same rules as biological evolution, while
-also assuming that biological evolution results in the most efficient outcomes
-(which Ward also disputes). Competition, in this view, ultimately leads to
-stability and optimization. Placing this view in ecological context, Worster
+[@ward_psychological_1893 464]. As a result, Spencer's work set forth the
+"underlying principles" for the "Physiocrats" whose "writings...constitute the
+warp of modern individualism"---a group in which he includes Adam Smith,
+Malthus, and Ricardo [@ward_psychological_1893 464]. The "Physiocratic" view is
+one that assumes human enterprises follow the same rules as biological
+evolution, while also assuming that biological evolution results in the most
+efficient outcomes. 
+
+<!--ward against competition, efficiency of nature-->Ward disputes both
+assumptions. Competition, from the Physiocratic perspective, ultimately leads
+to stability and optimization. Placing this view in ecological context, Worster
 relates Spencer's view of evolution to Frederic Clements's theory of the
 "climax community"---or a stable community of organisms that results from
 innumerable generations of struggle for survival: "It was the paradoxical
 belief of both of these men [Spencer and Clements] that the war of each against
 all for the essentials of life results in a more harmonious social or
-ecological organism" [@worster_nature's_1985 214]. Ward, in contrast, rejected
-both the necessity of competition and the efficiency of natural evolution over
-artificial organization.[^ln-davis] He favored purposive and altruistic
-transformation of nature and society alike through conscious reforms rather
-than the assertion of individual imperatives until they are halted by hard
-natural limits.
-
-[^ln-davis]: Cynthia J. Davis relates Ward's belief that "natural
+ecological organism" [@worster_nature's_1985 214]. Ward rejected this
+competitive individualism. Cynthia J. Davis relates Ward's belief that "natural
 competition...checked rather than enhanced evolution" to his belief in reform:
 "As did many progressives...he resisted biological determinism and embraced
 Lamarckianism, as the belief in the biological transmission of *acquired*
 traits helped explain variation and emphasized human agency" [@davis_his_2003
-75]. 
+75]. Emphasizing human agency is necessary in Ward's system because, in his
+view, human intervention is the route to efficiency---precisely because
+competition can be replaced by cooperation. In nature, "Even the vegetation is
+at war, and the result of that strife is immensely to lower the possible
+standard of every living species of plant" [@ward_dynamic_1926 87-8].
+Artificially guided development is a way to take humans out of that war---with
+each other and with the rest of nature.
 
-<!-- put in context of Gilman/Ward contextual scholarship-->
+<!-- development of human structures from within-->A peaceful coexistence
+is not imagined as an automatic effect of human intelligence, however. The
+Hobbesian "war of all against all" is still posited as a paradigm for
+understanding human interactions with each other and with the environment, as
+is the case in Spencer; in contrast to Spencer, however, Ward takes it as an
+insufferable status quo that humanity must develop its way out of through
+communal purposive action. In fact, herein lies "the very great hope of social
+science":
 
-<!-- return to good Anthropocene to drive home the relevance of this context?
-But prepare for Gilman to break from it-->
+> [The sociologist] learns that within that great group of phenomena subject to
+human control, and under the subordinate head of direct teleological phenomena,
+stand the phenomena which result from the operation of the *social forces*, and
+in this fact resides the entire possibility of an artificial social progress.
+[@ward_dynamic_1926 II:104]
+
+Organization and altruism present a way out of the grim, Spencerian vision of
+a social Darwinist universe that has defined many readings of literary
+naturalism. Ward urges purposive and altruistic transformation of nature and
+society alike through conscious guidance, rather than the assertion of
+individual imperatives (so-called "rational" action[^ln-hardin]) until that
+individual is halted by hard natural limits. But in order for this progress to
+occur, human societies have to learn to transform themselves just like they
+transform communities of other species. "That the same laws have operated in
+the super-organic as in the organic world is quite obvious," he writes. "Not
+only the progress out of barbarism into civilization, but the march of
+civilization itself, has been attended with the same incidents that
+characterize the development of a species or of an individual" (88). He goes on
+to relate human wars and economic struggles with the Hobbesian war of nature,
+but only as a way of calling for a development into a more harmonious
+situation. The human is both the subject and object of this teleological
+evolutionary paradigm, and government is the mechanism of change.
+
+[^ln-hardin]: "Rational" in a purely economistic sense, deriving from Adam
+Smith, in which rationality means pursuing individual gain in all cases.
+A well-known application of that form of "rational" action can be found in
+Garret Hardin's famous essay, "The Tragedy of the Commons," in which the
+rational herdsman is shown to deplete the common fields, to the ruination of
+all, rather than cooperate with his neighbors [@hardin_tragedy_1964]. Elinor
+Ostrom's Nobel-winning work on the managed commons refutes this view of
+rationality in terms Ward would likely have appreciated
+[@elinor_governing_1990]. Hardin would later revise his work to acknowledge the
+possibility of a managed commons. See also [@nixon_neoliberalism_2009].
+
+<!--Ward's system as it relates to environmental destruction--> That Gilman
+drew liberally from this body of ideas is well known, as is the extent to which
+she developed them in order to incorporate them in her own body of
+work.[^ln-ward-gilman-scholarship] One passage of *Dynamic Sociology* in
+particular appears to have stood out to Gilman's ecological sensibilities: when
+Ward discusses areas of "natural" wastefulness in modern human societies, he
+includes what we would now think of as a lack of sustainable development. In
+the first place, Ward does not consider nature itself an efficient or
+sustainable system: "Nature acts on the assumption that her resources are
+inexhaustible" [@ward_dynamic_1926 87]. This also appears to include the human
+as part of nature, however, as he continues that the "same wasteful methods
+prevail in society as in the animal and vegetable kingdoms" [@ward_dynamic_1926
+88]. Natural limits to growth reemerge here, not as a feature of the land or
+the planetary ecology itself, but as a factor of human ignorance and
+wastefulness---the part of the human that is still closest to "nature":
+
+> The natural resources of the earth are squandered with a wanton disregard of
+the future. The forests are cut down to supply temporary wants, consumed by
+escaping campfires, or purposely cleared for tillage, until the habitable
+portions of the earth are successively transformed into lifeless deserts. The
+soil is rapidly exhausted by the first occupants, who know only the immediate
+present. The wild animals useful to man are soon extinguished by the heartless
+destruction of the fertile females and helpless young. [@ward_dynamic_1926 89]
+
+A Marsh-like awareness of systemic environmental destruction emerges at the end
+of the most ecologically relevant portion of Ward's first work, an unexpected
+elegy for needlessly wasted life and squandered fruitfulness. Perhaps
+surprisingly (to a contemporary reader, at least), Ward's solution is again not
+to become more like nature, but to root out what "nature" remains in us. Even
+more curiously, Ward's lament for environmental destruction slips into
+a critique of economic inequality:
+
+> Labor and capital, whose dependence upon each other is absolute, are
+constantly found in open hostility, which greatly reduces productiveness of
+both. Exchange of products is largely carried on by redundant third parties,
+who, through no fault of their own, are allowed to absorb the largest share of
+the wealth produced.... Wealth is not only unequally but inequitably
+distributed. In short, all the functions of society are performed in a sort of
+chance way, which is precisely the reverse of economical, but wholly analogous
+to the natural processes of the lower organic world. [@ward_dynamic_89]
+
+Labor and capital are just one more battle in the war of all against all. Ward
+does not quite go as far as naming capitalism as the cause of the environmental
+destruction he decries above, but he puts the failures of unsustainable
+development and the failures of labor relations down to the same essential lack
+of "telic" refinement. Gilman would make the connection more explicit.
+
+[^ln-ward-gilman-scholarship]: See especially [@davis_his_2003] and
+[@allen_overthrow_2004]. [Should probably include more; see Allen for more
+sources on this]
+
+<!-- Necessary to return to good Anthropocene to drive home the relevance of
+this context?-->
 
 ### The Garden, the Full World, and Ambient Labor
 
@@ -1114,198 +1208,6 @@ identifies market logic as incompatible with her steady-state system.
 
 
 <!-- pick up here-->
-
-### Reproduction, Refinement, Expansion
-
-<!-- does it make sense to have an "expansion" section here, and work in the
-carrying capacity stuff? Yarp, unless it would be better to either 1. bring it
-together with the domestic labor stuff or 2. with the metabolic
-rift/coevolution stuff-->
-
-<!-- focus on this in women and economics, also her socialism? Opporunity to
-extend the connection of her economic programs to her ecological ones; moving
-on to reproduction as an extension of this low-impact economic equation--> 
-
-Understanding Herland as a precursor to ecological economics and as a primarily
-ecological text goes against the grain of the bulk of Gilman scholarship, but
-it by no means contradicts it. The subjects more common to Herland
-criticism---domestic reform, gynaecocentric evolutionary theory, and
-reproduction as labor---all work hand in hand with her environmental program.
-In this light, ambient labor and environmental stewardship can be seen as an
-eruption of ecological consciousness into an already rich body of work, spurred
-by her own long history as a gardener and her encounters with Ward's ecological
-sociology.
-
-Reproduction, for example, sheds its normal associations in *Herland* and
-becomes yet another ecological-economic process. As she does more directly
-elsewhere in nonfiction writings like *Women and Economics* (1898), *Herland*
-defines motherhood as an economically valuable contribution to the collective.
-It is also, as is crucial in her system, depersonalized, and is therefore
-subject to division of labor just like every other economic
-activity.[^ln-systems-prior] When a division of economic labor is expanded to
-include ecology, though---what an ecological economist might call ecological
-services and ecological labor---incorporating human reproduction into the
-economic division of labor also subsumes it into the managed regional ecology.
-In this context, the magical, parthenogenetic reproductive capacity
-(*Herland*'s main speculative conceit) is explicable less as a product of
-divine intervention than as an extension of the garden economy. Reproduction in
-the desired proportions takes on the same inevitability and automatism of
-production, becoming a feature of carefully (and communally) controlled
-conditions rather than a sum of uncoordinated individual choice. <!--push
-harder on the reproduction thing as it relates to the steady-state system-->
-
-[^ln-systems-prior]: This aspect of the novel has been much discussed in Gilman
-scholarship, as has the understanding of motherhood as an ecological and
-systemic process. See Alex Shishin’s “Gender and Industry in Herland,”
-Katherine Fusco’s “Systems, Not Men: Producing People in *Herland*,” and K.
-Graehme Hall’s “Mothers and Children: ‘Rising with the Restless Tide’ in
-*Herland*.”
-
-[^ln-reproduction-contradiction]: a little bit from Merchant here... ---and
-thereby seems to offer a resolution to Merchant's "second contradiction"
-between production and reproduction some seventy years before Merchant
-identified it
-
-<!--perhaps a place to explore the web of determination; should also bring in
-context of naturalism here if possible to prepare for the final section?-->
-Gilman extends the mutual determination of nature and culture to its logical
-conclusion by exploring a process of literal and cultural *coevolution*, not
-between two discreet species of organism (as commonly occurs in the non-human
-natural world), but between the human and its environment entire. The
-evolutionary system that Gilman accepts is an idiosyncratic one. In line with
-the rest of the slippage between organism and environment in the novel, she
-assumes a semi-Lamarckian stance of species development that emphasizes the
-role of environment in physical evolution. Like Lamarck, she considers the
-possibility that acquired traits can be passed on to other generations, which
-gives environmental determinants an outsized influence on the development of
-a species. Taking environment as a significant determining factor in evolution
-also brings the creation of culture into the evolutionary equation: Gilman uses
-education, a fundamental part of the Herland culture, as a way to guide the
-management of the physical environment, depicting a society that, in
-determining its environment’s development, simultaneously guides its *own*
-development. The resultant coevolutionary system foregrounds the interaction of
-the human with the natural world in its conception of a continued human
-evolution. By depicting this process as a result of social reform and control
-of the built environment, Gilman frames her work as well as that of her
-contemporary feminist reformers as interventions in the evolutionary process.
-She goes further still in illustrating the dialectical evolutionary paradigm
-that enables the existence of *Herland* in what should be conditions of extreme
-scarcity. 
-
-Simply put, Gilman has developed a garden system that is able to operate in
-conditions of extreme spatial and ecological limitation by rejecting the
-concomitance of growth and development and refusing the separation of human and
-non-human systems, whether those systems are flows of energy, ecological
-systems, or even evolutionary ones. [In the following sections, the specifics of
-how she incorporates human labor into an ecology (both socially and materially)
-will be expanded upon significantly. But to discuss a vision of near-total
-environmental determinism like this one, discussing social structures requires
-a discussion of the speculative world itself---and in this case, how the
-construction of that world constitutes a type of argumentation.]
-
-
-
-
-### Domestic versus Ambient Labor
-
-To produce only environment and to live instead of work: these concepts in many
-ways sound like the kind of domesticity that Gilman abhorred and spent
-much of her career attempting to reform. The terms of her ecological economy
-even borrow from and contribute to the terms of domesticity at the turn of the
-twentieth century. But it is not in acquiescence to domesticity that she
-engages it: rather, it is precisely this reappropriation of housework
-into the sphere of the economy that defines Gilman’s rejoinder to existing
-domesticity. To be understood, Gilman’s economic paradigm of
-environmental production has finally to be considered alongside her lifelong
-pursuit of domestic reform.
-
-Throughout Gilman’s career, she sharply criticized the relegation of women to
-the domestic sphere and the exploitation inherent in domestic
-labor;[^ln-gilman-on-domestic-labor] among the most programmatic of the results
-was her part in the campaign for the kitchenless household. In *Women and
-Economics*, she argues that “change in the economic position of woman from
-dependence to independence must bring with it a rearrangement of these home
-interests and industries” (224). Thus, she lays out a vision of
-“apartments…without kitchens” except those “belonging to the house from which
-meals could be served to the families in their rooms or in a common
-dining-room,” hoping thereby to liberate the “hundreds of thousands of women in
-New York City alone who are wage-earners, and who also have families”
-(242-3).[^ln-domestic-labor-refs] In a strikingly similar passage in *Herland*,
-Van says, “For food we either went to any convenient eating-house, ordered a
-meal brought in, or took it with us to the woods, always and equally good”
-(144). The relevance of this domestic reform advocacy to the utopian vision of
-Herland is unsurprising, but what *Herland* adds to the conversation is a
-consideration of these communal spaces as part of the larger, self-sustaining
-system. The communal kitchens are what nourish and revitalize the soil that in
-turn produces the material that those kitchens and their dependents need to
-survive. The stated goal of Gilman’s domestic reform---of incorporating
-domestic labor into the sphere of the economy by opening it to division of
-labor[^ln-division-labor-refs]---becomes in *Herland* an
-incorporation of domestic labor into ecological management. In this ecological
-garden economy, environmental production *is* that economized version of
-domesticity.
-
-[^ln-gilman-on-domestic-labor]: See especially *Women and Economics*, *The
-Home: Its Work and Influence*, and “The Waste of Private Housekeeping.” For the
-wider context of domestic reform in Gilman’s work and in the context of the
-early twentieth century, see Yvonne Gaudelieus’s “Kitchenless Houses and Homes:
-Charlotte Perkins Gilman and the Reform of Architectural Space,” Polly Wynn
-Allen’s *Building Domestic Liberty*, and Dolores Hayden’s “Two Utopian
-Feministsand Their Campaigns for Kitchenless Houses.”
-
-[^ln-domestic-labor-refs]: See also Allen’s *Building Domestic Liberty*: “By
-the middle of the nineteenth century, roughly one-third of American women
-entered the paid labor force on a temporary basis, usually until they married.
-Only the poorest women---immigrants, widows, and free blacks---engaged in a
-lifelong effort to make ends meet financially by working outside of their
-homes” (12).
-
-[^ln-division-labor-refs]: See Chang, especially 323-4; and Fusco 420-1.
-
-Indeed, since the closed ecological system that defines Herland eliminates the
-distinction between interior and exterior space, the garden model of society
-delineates a vision of a productive home, the spatial equivalent of
-living-as-labor. The complicated lines of home and world are born out by a
-conversation between Terry, the mouthpiece of domestic imprisonment, and Jeff,
-the character who eventually becomes a male Herlander and appears to speak the
-Herland party line: 
-
-> “*Home!*” [Terry] sneered. “There isn’t a home in the whole pitiful place.”
-
-> “There isn’t anything else, and you know it,” Jeff retorted hotly. (121)
-
-In Jeff’s explanation, “home” means so much that it has, to Terry, effectively
-become meaningless. Home is defined in contradistinction to economic labor by
-the masculinist Terry, and the conversation can be taken as Gilman’s narrative
-staging of the housework-as-labor question. If foresting is both the base of
-the Herland economy and part of making dinner, can it be called housework? If
-the kitchen and pantry circumscribe the world, is everything housework? The
-rhetorical question that Gilman repeatedly included in lectures to women’s
-clubs becomes paramount: “Shall the home be our world? or the world our home?”
-(qtd. in Allen 18). The means of eliminating this distinction in *Herland*, in
-the context of what has been shown above, is its inclusion in a system larger
-than itself. The imprisonment implicit in the first of Gilman’s options---“the
-home be[ing] our world”---is based on the exclusion of that space from the
-systems beyond it. But taking the “world [as] our home” implies the application
-of a domestic paradigm of labor to a larger system.[^ln-expanding-domestic] The
-blending of interior and exterior space also requires the interrelation of the
-systems that define both. The exterior struggle of *nomia* and *logia*, of
-mastery and the non-participation implied in study, is resolved by a paradigm
-of productive domesticity only if the walls of the home are allowed to
-encompass the world, thereby bringing that world under the sway of its laws.
-Put another way, *Herland*’s garden system can be seen as a way of making
-economy, ecology, and domesticity resolve each other.
-
-[^ln-expanding-domestic]: It is in this sense, as Jennifer Fleissner argues,
-that the expanded home of *Herland* offers a kind of solution to the
-“naturalist” domesticity-as-degeneration of “The Yellow Wallpaper,” and the
-garden of *Herland* fixes the image of the gated garden of the earlier short
-story’s setting (Fleissner 87, 95). The impossible labor of ordering that leads
-to the “Wallpaper” narrator’s breakdown, she points out, becomes an effective
-ordering of the *Herland* garden. This shift to effectiveness can be seen, I am
-suggesting, as a product of domestic labor’s inclusion in the at once
-ecological and economic system.
-
 ### Coevolution and the Metabolic Rift 
 
 What, then, is the place of the human in the environment in *Herland*---that of
@@ -1348,7 +1250,8 @@ interrelation of three elements in Gilman’s version of evolution: genetic
 inheritance, environmental influence, and education. Here and throughout the
 novel, none of these elements becomes central enough to be seen as a
 mechanistic determinant; the exploration of each must necessarily take place in
-terms of its interaction with the others.
+terms of its interaction with the others.<!-- all of this should be framed as
+extremely dangerous; this part needs to become a "problems" section-->
 
 [^ln-ramsbeck]: See Beth Sutton-Ramsbeck’s note on on the passage in *Herland
 and Related Writings* (103 note 1).
@@ -1397,7 +1300,7 @@ are encouraged over those that are discouraged allows Gilman to avoid the overt
 brutality that she would later embrace regarding literal gardening.
 Accordingly, the role of the human as simultaneous producer and product of the
 environment is more complicated as it appears in *Herland* than this later
-depiction of the gardener’s task.
+depiction of the gardener's task. <!-- get rid of the apology-->
 
 [^ln-eugenics-criticism]: The topic of eugenics, along with the question of
 race in Gilman more generally, has been a major and controversial topic of
@@ -1443,22 +1346,27 @@ becomes clear: it sets to one side biological differentiation by
 reproductive selection, as if she is isolating the variable of environment to
 better argue for its effect on evolutionary development. Purely biological
 determinism is ruled out as an explanation for evolution except to the extent
-that biological difference is itself determined by environment.
+that biological difference is itself determined by environment.<!--what's the
+poit of all this? I think it has to be about the type of change that is
+encouraged; talking about awareness of limits and environment means that an
+evolutionary paradigm of development is possible without any reference to
+eugenics-->
 
 [^ln-lamarck-giraffe]: The famous example of the giraffe stretching its neck
 for food is particularly illustrative of this point: according to Lamarck, the
 giraffe’s neck is long because of generations of stretching to find the best
 leaves (Lamarck 122).
 
-The unique relationship of human and environment that appears in *Herland* is
-brought into focus by a contemporaneous article that Gilman published in
-*Circle Magazine* in 1908, entitled “Modern Beatitudes---The Newness of the
-Earth.” Here she suggests that the earth and the human species are both mere
-children, as yet relatively undeveloped but constantly growing into balance
-with one another. The evolution of the human race is framed here as a gradual
-accretion of understanding as to the effects of human activity on the
-earth---or an understanding of what has since scaled up to become the
-anthropocene---coupled with a mass-adaptation based on that understanding.
+<!-- this exposes the vision of coevolutionary progress--> The unique
+relationship of human and environment that appears in *Herland* is brought into
+focus by a contemporaneous article that Gilman published in *Circle Magazine*
+in 1908, entitled “Modern Beatitudes---The Newness of the Earth.” Here she
+suggests that the earth and the human species are both mere children, as yet
+relatively undeveloped but constantly growing into balance with one another.
+The evolution of the human race is framed here as a gradual accretion of
+understanding as to the effects of human activity on the earth---or an
+understanding of what has [since scaled up to become the
+Anthropocene]---coupled with a mass-adaptation based on that understanding.
 After describing the gradual exhaustion of the earth’s resources by “our
 present methods,” Gilman reassures us that the process will not continue to its
 catastrophic conclusion, for we 
@@ -1470,38 +1378,47 @@ children; young with the splendid hope and courage of youth, but not with the
 weakness and irresponsibility of infancy.…All we have to do is to apply
 ourselves to study the conditions of life on earth, and learn to meet them.
 
-Humanity is saved, in this account, by its inevitable development into a wiser,
-gentler race. Progress in this vision is not social Darwinist Herbert Spencer’s steady march
-from simplicity to complexity or the continued expansion of the race to the
-edges of the earth. It is instead a renunciation of wastefulness and
-destructive behavior, which is to be replaced by the more careful management of
-the natural environment. “There is absolutely nothing prevent us,” she
-continues in clear anticipation of *Herland*, “from reforesting our
-hills, checking our floods, preserving our soils, maintaining the balance of
-nature plus the art and skill and learning of mankind.” The paradigm of the
-human struggling against the natural world is replaced by the simultaneous
-development of both realms. By framing this development in terms of the growth
-of the race, she implies a vision of *coevolution* defined by an increase in
-balance, not an opposition to be resolved by conflict: refinement replaces
-dominance and expansion. Development without growth has been the key to
-Herland's continued existence; it predates *Herland* in Gilman's thinking as a
-concept for the entire planet.
+<!--this is explicitly Wardian; draw lines --> Humanity is saved, in this
+account, by its inevitable development into a wiser, gentler race. Progress in
+this vision is not social Darwinist Herbert Spencer’s steady march from
+simplicity to complexity or the continued expansion of the race to the edges of
+the earth. It is instead a renunciation of wastefulness and destructive
+behavior, which is to be replaced by the more careful management of the natural
+environment. <!-- emphasis on limits; she has more faith in reforestation
+efforts, etc. --> “There is absolutely nothing prevent us,” she continues in
+clear anticipation of *Herland*, “from reforesting our hills, checking our
+floods, preserving our soils, maintaining the balance of nature plus the art
+and skill and learning of mankind.” The paradigm of the human struggling
+against the natural world is replaced by the simultaneous development of both
+realms. By framing this development in terms of the growth of the human
+species---and indeed, of the planetary system as a whole---she implies a vision
+of *coevolution* defined by an increase in balance, not an opposition to be
+resolved by conflict: refinement replaces dominance and expansion. Development
+without growth has been the key to Herland's continued existence; [it predates
+*Herland* in Gilman's thinking as a concept for the entire planet.]
 
-This system of non-competitive coevolution is at the foundation of Gilman’s
-garden society, but can be seen as part of a much larger sociological and scientific
-trajectory beginning in the nineteenth century. Though she was not influenced
-by Marx---she was vocal about her distaste for Marx and Marxism, perhaps not
-least because of the depiction of women in his work[^ln-gilman-marxism]---his concept of the “metabolism” between humanity and
-nature nevertheless bears strong resemblance to the coevolutionary paradigm in
-*Herland*. Marx’s social metabolism (*Stoffwechsel*) is at the center of John
-Bellamy Foster’s book *Marx’s Ecology*, in which he demonstrates the influence
-of a materialist conception of the natural world on Marx’s thinking, and rebuts
-claims that Marx is an anti-ecological proponent of industrial development at
-the expense of the natural world. The metabolism of human and nature
-constitutes a set of “evolving material relations” in which the human’s
-simultaneous dependence on and alteration of its environment determine the
-circular, material exchange between them (Foster 11, 155-60). Labor becomes, in
-Marx’s view, 
+<!-- need to decide: is this context or is it central to my understanding of
+her? Could definitely put this in the larger prehistory of ecological
+economics; see Foster and Burkett on Podolinski; but what is it giving me?
+A coevolutionary paradigm, but I need to be making my way to action. Maybe that
+action against the rift becomes action that transforms the human, in that we
+are understanding the human as part of the larger system that is being
+transformed-->This system of non-competitive coevolution is at the foundation
+of Gilman’s garden society, but can be seen as part of a much larger
+sociological and scientific trajectory beginning in the nineteenth century.
+Though she was not influenced by Marx---she was vocal about her distaste for
+Marx and Marxism, in large part because of the depiction of women and women's
+labor in his work[^ln-gilman-marxism]---his concept of the “metabolism” between
+humanity and nature nevertheless bears strong resemblance to the coevolutionary
+paradigm in *Herland*. Marx’s social metabolism (*Stoffwechsel*) is at the
+center of John Bellamy Foster’s book *Marx’s Ecology*, in which he demonstrates
+the influence of a materialist conception of the natural world on Marx’s
+thinking, and rebuts claims that Marx is an anti-ecological proponent of
+industrial development at the expense of the natural world. The metabolism of
+human and nature constitutes a set of “evolving material relations” in which
+the human’s simultaneous dependence on and alteration of its environment
+determine the circular, material exchange between them (Foster 11, 155-60).
+Labor becomes, in Marx’s view, 
 
 > a process between man and nature…by which man, through his own actions,
 mediates, regulates and controls the metabolism between himself and
@@ -1510,7 +1427,7 @@ nature and changes it, and in this way he simultaneously changes his own
 nature. (qtd. in Foster 157)
 
 For labor to be an effective mediation of the system, though, it must be
-“actual labor,” which produces only the material wealth of use-values (157). In
+“actual labor,” which produces only the material wealth of use-value (157). In
 other words, it has to be a system like Herland’s that eschews the market
 entirely. The material interchange that defines this concept derives in large
 part from the rise of “energetics” in the physical sciences in the 1840s and
@@ -1523,7 +1440,7 @@ production and disharmony between the built and natural environments, two of
 the concepts most heavily revised in Gilman’s system of coevolution, are the
 factors that Marx identifies as disruptors of the metabolism. 
 
-[ln-gilman-marxism]: See for example Denise D. Knight’s biography of Gilman:
+[^ln-gilman-marxism]: See for example Denise D. Knight’s biography of Gilman:
 “With other socialists of her background and inclinations, Charlotte distrusted
 Marx and preferred to rely on the intellectual labors of a native-born
 intelligentsia that included herself.…For the most part, she sought her desired
@@ -1539,26 +1456,26 @@ for Marxism has kept it out of much Gilman scholarship, the similarity of the
 concept of the “metabolism” discussed below is extremely useful comparatively,
 both in bringing out the specifics and implications of Gilman’s own ecology and
 placing her in the larger intellectual context of her time (even the parts of
-that context that she herself might not place herself in).
+that context that she might not place herself in).
 
 Considering this metabolic system in relation to *Herland*, we see the
 relationship of Gilman’s evolutionary system to the garden environment and the
 consequent system of labor, and specifically the way world-building and
-community-building are related dialectically through labor. Environmental
-management, achieved through a reversion to the “actual labor” that produces
-only use-value, is a means of guiding the complex material interchange
-essential to the coevolution of the Herlanders and Herland. In order to effect
-meaningful change on this front, the Herlanders have to change their own
-practices and culture, which they do in part by altering their material
-environment. 
+community-building are related dialectically through labor.<!--simplify
+sentence--> Environmental management, achieved through a reversion to the
+“actual labor” that produces only use-value, is a means of guiding the complex
+material interchange essential to the coevolution of the Herlanders and
+Herland. In order to effect meaningful change on this front, the Herlanders
+have to change their own practices and culture, which they do in part by
+altering their material environment. 
 
 But the determining factors in this relationship with environment are not
 exclusively physical. The physical is mediated by the cultural, and the
 cultural place of environment is, as one might suspect, just as rigorously and
-systemically guided as the material ecology.  Education forms the final piece
+systemically guided as the material ecology. Education forms the final piece
 of Gilman's coevolutionary system and is the means by which it is developed and
 maintain across generations, allowing individual social and cultural
-adaptations to environment to accrue over time.[^ln-simone] The Herlanders
+adaptations to the environment to accrue over time.[^ln-simone] The Herlanders
 model and reinforce the dialectic with environment through a ludic system of
 education that is just as "ambient" as their system of labor. When asked about
 Herland schools, the Herlander Somel says, “With the babies…we first provide an
@@ -1571,7 +1488,8 @@ affects that environment, just as Gilman describes in “Modern Beatitudes.”
 [^ln-simone]: For a broader view of gilman’s interest in education reform, see
 Deborah M. De Simone’s “Charlotte Perkins Gilman and Educational Reform.”
 
-Moreover, the second stage of education is achieved through *games* that
+<!-- why bother with games? What's the point here? Is it just more ambient
+labor stuff?-->Moreover, the second stage of education is achieved through *games* that
 “develop the faculties [they] wish to encourage.” Games are shown to be
 foundations of pedagogy---and, thus, social determinants---in the incident near
 the beginning of the novel in which the men’s escape attempt is interrupted by
@@ -1614,7 +1532,7 @@ like competition, which disrupt the managed ecology of the garden, while it
 reinforces the gardener’s mentality of cyclical action and cooperative
 development. Social evolution brings the development of society into line with
 the development of the environment, managing the material interchange of human
-and nature.
+and nature.<!--repetitive unless I can find a purpose...-->
 
 Coevolution is the foundation of Gilman’s garden---a “vegetable garden mind
 you!, not merely flowers”: it allows identity of sustenance with the sustained,
@@ -1632,10 +1550,11 @@ from one side by ethical problems and from the other by retrospective
 scientific inaccuracy. To begin on an ethical (and negative) level, this
 tripartite system does not enable us to dismiss the problematics of race and
 eugenics in *Herland*, but they may complicate the understanding of the system
-in the same way that understanding Gilman’s reliance of Lester F. Ward does;
+in the same way that understanding Gilman’s reliance on Lester F. Ward does;
 recognizing such connections allows us to better place Gilman in an
 historicizing context, even if it does not (and should not) allow us to hold
-her system up as an exact roadmap.
+her system up as an exact roadmap. <!--yeah this doesn't matter; talk more
+about ethics and the due process problem-->
 
 This speculative evolutionary system does come into useful focus, however, when
 we consider it in terms of the utopian function of the novel. If we
@@ -1647,10 +1566,11 @@ evolutionary narrative becomes more conceivable. The next section will bring
 the issues of labor and evolution discussed above to bear on *Herland*’s
 ecotopian function, asking how its utopian response to the common tropes of
 American literary naturalism can bring it into greater contact with the
-concerns of the Environmental Humanities.
+concerns of the Environmental Humanities. <!--connect with good anthro
+instead-->
 
 [^ln-jameson]: See “On Interpretation” in Jameson’s *The Political
-Unconscious*.
+Unconscious*.<!--should include quote, who knows what this means-->
 
 ### Utopian Naturalism and the Environmental Humanities
 
@@ -2001,3 +1921,189 @@ transition
 
 [^li-wen-chang]: summarize the part of chang's argument dealing with the middle
 landscape
+
+### Appendix 
+
+<!--
+
+### Reproduction, Refinement, Expansion
+
+
+Understanding Herland as a precursor to ecological economics, or even reading
+for its ecological implications, might seem to go against the grain of the bulk of Gilman
+scholarship, but it by no means contradicts it. The subjects more common to
+Herland criticism---domestic reform, gynaecocentric evolutionary theory, and
+reproduction as labor---all work hand in hand with her environmental program.
+In this light, ambient labor and environmental stewardship can be seen as an
+eruption of ecological consciousness into an already rich body of work, spurred
+by her own long history as a gardener and her encounters with Ward's ecological
+sociology.
+
+Reproduction, for example, sheds its normal
+associations in *Herland* and becomes yet another ecological-economic process.
+As she does more directly elsewhere in nonfiction writings like *Women and
+Economics* (1898), in *Herland* Gilman defines motherhood as an economically
+valuable contribution to the collective. It is also, as is crucial in her
+system, depersonalized, and is therefore subject to division of labor just like
+every other economic activity.[^ln-systems-prior] When a division of economic
+labor is expanded to include ecology, taking into account, what an ecological
+economist might call ecological services and ecological labor, incorporating
+human reproduction into the economic division of labor also subsumes it into
+the managed regional ecology. In this context, the magical, parthenogenetic
+reproductive capacity (*Herland*'s speculative conceit) is explicable less as
+a product of divine intervention than as an extension of the garden
+economy. Reproduction in the desired
+proportions takes on the same inevitability and automatism of production,
+becoming a feature of carefully (and communally) controlled conditions rather
+than a sum of uncoordinated individual choice. 
+
+[^ln-systems-prior]: This aspect of the novel has been much discussed in Gilman
+scholarship, as has the understanding of motherhood as an ecological and
+systemic process. See Alex Shishin’s “Gender and Industry in Herland,”
+Katherine Fusco’s “Systems, Not Men: Producing People in *Herland*,” and K.
+Graehme Hall’s “Mothers and Children: ‘Rising with the Restless Tide’ in
+*Herland*.”
+
+[^ln-reproduction-contradiction]: a little bit from Merchant here... ---and
+thereby seems to offer a resolution to Merchant's "second contradiction"
+between production and reproduction some seventy years before Merchant
+identified it
+
+Gilman extends the mutual determination of nature and culture to its logical
+conclusion by exploring a process of literal and cultural *coevolution*, not
+between two discreet species of organism (as commonly occurs in the non-human
+natural world), but between the human and its environment entire. The
+evolutionary system that Gilman accepts is an idiosyncratic one. In line with
+the rest of the slippage between organism and environment in the novel, she
+assumes a semi-Lamarckian stance of species development that emphasizes the
+role of environment in physical evolution. Like Lamarck, she considers the
+possibility that acquired traits can be passed on to other generations, which
+gives environmental determinants an outsized influence on the development of
+a species. Taking environment as a significant determining factor in evolution
+also brings the creation of culture into the evolutionary equation: Gilman uses
+education, a fundamental part of the Herland culture, as a way to guide the
+management of the physical environment, depicting a society that, in
+determining its environment’s development, simultaneously guides its *own*
+development. The resultant coevolutionary system foregrounds the interaction of
+the human with the natural world in its conception of a continued human
+evolution. By depicting this process as a result of social reform and control
+of the built environment, Gilman frames her work as well as that of her
+contemporary feminist reformers as interventions in the evolutionary process.
+She goes further still in illustrating the dialectical evolutionary paradigm
+that enables the existence of *Herland* in what should be conditions of extreme
+scarcity. 
+
+Simply put, Gilman has developed a garden system that is able to operate in
+conditions of extreme spatial and ecological limitation by rejecting the
+concomitance of growth and development and refusing the separation of human and
+non-human systems, whether those systems are flows of energy, ecological
+systems, or even evolutionary ones. [In the following sections, the specifics of
+how she incorporates human labor into an ecology (both socially and materially)
+will be expanded upon significantly. But to discuss a vision of near-total
+environmental determinism like this one, discussing social structures requires
+a discussion of the speculative world itself---and in this case, how the
+construction of that world constitutes a type of argumentation.]
+
+
+
+
+### Domestic versus Ambient Labor
+
+To produce only environment and to live instead of work: these concepts in many
+ways sound like the kind of domesticity that Gilman abhorred and spent
+much of her career attempting to reform. The terms of her ecological economy
+even borrow from and contribute to the terms of domesticity at the turn of the
+twentieth century. But it is not in acquiescence to domesticity that she
+engages it: rather, it is precisely this reappropriation of housework
+into the sphere of the economy that defines Gilman’s rejoinder to existing
+domesticity. To be understood, Gilman’s economic paradigm of
+environmental production has finally to be considered alongside her lifelong
+pursuit of domestic reform. 
+
+Throughout Gilman’s career, she sharply criticized the relegation of women to
+the domestic sphere and the exploitation inherent in domestic
+labor;[^ln-gilman-on-domestic-labor] among the most programmatic of the results
+was her part in the campaign for the kitchenless household. In *Women and
+Economics*, she argues that “change in the economic position of woman from
+dependence to independence must bring with it a rearrangement of these home
+interests and industries” (224). Thus, she lays out a vision of
+“apartments…without kitchens” except those “belonging to the house from which
+meals could be served to the families in their rooms or in a common
+dining-room,” hoping thereby to liberate the “hundreds of thousands of women in
+New York City alone who are wage-earners, and who also have families”
+(242-3).[^ln-domestic-labor-refs] In a strikingly similar passage in *Herland*,
+Van says, “For food we either went to any convenient eating-house, ordered a
+meal brought in, or took it with us to the woods, always and equally good”
+(144). The relevance of this domestic reform advocacy to the utopian vision of
+Herland is unsurprising, but what *Herland* adds to the conversation is a
+consideration of these communal spaces as part of the larger, self-sustaining
+system. The communal kitchens are what nourish and revitalize the soil that in
+turn produces the material that those kitchens and their dependents need to
+survive. The stated goal of Gilman’s domestic reform---of incorporating
+domestic labor into the sphere of the economy by opening it to division of
+labor[^ln-division-labor-refs]---becomes in *Herland* an
+incorporation of domestic labor into ecological management. In this ecological
+garden economy, environmental production *is* that economized version of
+domesticity.
+
+[^ln-gilman-on-domestic-labor]: See especially *Women and Economics*, *The
+Home: Its Work and Influence*, and “The Waste of Private Housekeeping.” For the
+wider context of domestic reform in Gilman’s work and in the context of the
+early twentieth century, see Yvonne Gaudelieus’s “Kitchenless Houses and Homes:
+Charlotte Perkins Gilman and the Reform of Architectural Space,” Polly Wynn
+Allen’s *Building Domestic Liberty*, and Dolores Hayden’s “Two Utopian
+Feministsand Their Campaigns for Kitchenless Houses.”
+
+[^ln-domestic-labor-refs]: See also Allen’s *Building Domestic Liberty*: “By
+the middle of the nineteenth century, roughly one-third of American women
+entered the paid labor force on a temporary basis, usually until they married.
+Only the poorest women---immigrants, widows, and free blacks---engaged in a
+lifelong effort to make ends meet financially by working outside of their
+homes” (12).
+
+[^ln-division-labor-refs]: See Chang, especially 323-4; and Fusco 420-1.
+
+Indeed, since the closed ecological system that defines Herland eliminates the
+distinction between interior and exterior space, the garden model of society
+delineates a vision of a productive home, the spatial equivalent of
+living-as-labor. The complicated lines of home and world are born out by a
+conversation between Terry, the mouthpiece of domestic imprisonment, and Jeff,
+the character who eventually becomes a male Herlander and appears to speak the
+Herland party line: 
+
+> “*Home!*” [Terry] sneered. “There isn’t a home in the whole pitiful place.”
+
+> “There isn’t anything else, and you know it,” Jeff retorted hotly. (121)
+
+In Jeff’s explanation, “home” means so much that it has, to Terry, effectively
+become meaningless. Home is defined in contradistinction to economic labor by
+the masculinist Terry, and the conversation can be taken as Gilman’s narrative
+staging of the housework-as-labor question. If foresting is both the base of
+the Herland economy and part of making dinner, can it be called housework? If
+the kitchen and pantry circumscribe the world, is everything housework? The
+rhetorical question that Gilman repeatedly included in lectures to women’s
+clubs becomes paramount: “Shall the home be our world? or the world our home?”
+(qtd. in Allen 18). The means of eliminating this distinction in *Herland*, in
+the context of what has been shown above, is its inclusion in a system larger
+than itself. The imprisonment implicit in the first of Gilman’s options---“the
+home be[ing] our world”---is based on the exclusion of that space from the
+systems beyond it. But taking the “world [as] our home” implies the application
+of a domestic paradigm of labor to a larger system.[^ln-expanding-domestic] The
+blending of interior and exterior space also requires the interrelation of the
+systems that define both. The exterior struggle of *nomia* and *logia*, of
+mastery and the non-participation implied in study, is resolved by a paradigm
+of productive domesticity only if the walls of the home are allowed to
+encompass the world, thereby bringing that world under the sway of its laws.
+Put another way, *Herland*’s garden system can be seen as a way of making
+economy, ecology, and domesticity resolve each other.
+
+[^ln-expanding-domestic]: It is in this sense, as Jennifer Fleissner argues,
+that the expanded home of *Herland* offers a kind of solution to the
+“naturalist” domesticity-as-degeneration of “The Yellow Wallpaper,” and the
+garden of *Herland* fixes the image of the gated garden of the earlier short
+story’s setting (Fleissner 87, 95). The impossible labor of ordering that leads
+to the “Wallpaper” narrator’s breakdown, she points out, becomes an effective
+ordering of the *Herland* garden. This shift to effectiveness can be seen, I am
+suggesting, as a product of domestic labor’s inclusion in the at once
+ecological and economic system.
+-->
