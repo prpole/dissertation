@@ -9,6 +9,21 @@ csl: csl/mla.csl
 
 ### Introduction
 
+<!--
+
+In *Herland*, Gilman offers an anticipation of "good Anthropocene" thinking,
+acknowledging the scale of human influence on the environment while suggesting
+that this influence should be guided rather than lessened. But Gilman's good
+Anthropocene realizes what more contemporary formulations of it too often miss:
+namely, that if embracing human control of natural systems can lead to a more
+sustainable world ecology, it will take a rethinking of the fundamental human
+categories that have been most impactful. The Herlanders' reevaluation of
+labor, value, and inhabitation become the basis of their survival in the face
+of circumstances comparable to those of a full, overtaxed, and deteriorating
+planet. 
+
+-->
+
 In her utopian novel *Herland* (1915), Charlotte Perkins Gilman creates “a land
 in a state of perfect cultivation, where even the forests looked as if they
 were cared for; a land that looked like an enormous park, only that it was even
@@ -33,61 +48,123 @@ and “tangled” vegetation that Gilman sees in the world beyond (67). The land
 has evolved beyond competition and into a freedom attainable only through
 cooperation.
 
-*Herland* is often read primarily for its "gynaecocentric" (?) evolutionary
-theory and its vision of a society populated only of women---and understandably
-so; this is the explicit centerpiece of the novel. No less central, but much
-less discussed, are the novel's insights into the role of the human activity in
-shaping natural systems. The Herland environment is marked by benign but
-absolute human control over the natural environment. While there is very little
-agriculture or cultivation in the traditional sense, Herlanders have chosen to
-retain and support certain elements of the ecosystem while systematically
-reducing or removing others, resulting in a food-production system that is able
-to persist without maintenance or replanting---more reminiscent of permaculture
-than any of the prevailing horticultural models of the time. Herland is a
-woman-made Eden, but it is also what Leo Marx calls a "middle landscape," a
-place that is symbolically "created by mediation between art and nature,"
-eschewing both back-to-the-land primitivism and technological futurism to
-create a zone in which nature and culture are mutually supportive.
-[@marx_machine_2000 71; see also @chang_economics_2010 342-3] And yet, this
-mid-century ecocritical paradigm is not enough to account for *Herland*'s
-social-ecological imagination, nor why this imagination should be of concern
-now, a century after its publication. The turn in the ecocritical conversation
-following the discovery of the Anthropocene allows us to place this marginal
-work in a new context, and it also brings Gilman's ideas into clearer focus.
+*Herland* is often read primarily for its "gynaecocentric" evolutionary theory
+and its vision of a society populated only of women---and understandably so;
+this is the explicit centerpiece of the novel. <!-- summary -->The short novel
+consciously follows the utopian structure that has been standard since Thomas
+More: an isolated country is discovered by a small expedition, at which point
+narrative gives way to an essayistic elaboration of a society that compares
+favorably with the conditions of the author's own time and place. In *Herland*,
+Vandyck (the narrator), Jeff, and Terry discover Herland by accident on
+a scientific expedition through remote, unidentified regions (unidentified,
+Vandyck says, for the protection of Herland). After launching a second
+expedition with a small aircraft, they go beyond Herland's formerly impassable
+boundaries, become imprisoned after refusing to be taken in by the Herlanders,
+and remain in gentle confinement as they learn the secrets of the country. As
+they become fluent in the language and are allowed to move more freely, they
+learn that Herland is a society consisting only of women who reproduce
+parthenogenetically (from an unfertilized egg). Two thousand years before
+Vandyck and company's arrival, the nation that preceded Herland was decimated
+by war and retreated to the mountainous region that would become Herland.
+A volcano eruption filled in the mountain pass that was their single means of
+egress, trapping them indefinitely. The nation was a slave-holding one, and its
+enslaved population used their opportunity to kill the nation's unenslaved men;
+the women, who vastly outnumbered the remaining men, retaliated in kind. With
+only women left, they resigned themselves to watch the end of their
+civilization, unable to escape. One day, a young woman spontaneously became
+pregnant parthenogenetically, bearing five children, who themselves bore five
+children, and so on until a desirable population was reached (these magical
+women only reproduce if they desire to). All of Herland is descended from this
+single woman. In their Herland residency, the men learn from the Herland way of
+life, and except for the irredeemably chauvinistic Terry, all come away deeply
+influenced by the women of Herland and their values. After being self-published
+in Gilman's one-woman journal, *The Forerunner*, in 1915, it was largely
+forgotten until it was revived by feminist critics in the 1980s. 
 
-What makes Herland especially relevant to Anthropocene studies in particular is
-the fact that this anthropocentric ecological management arises out of a
-catastrophic geological event, population pressures, and the limits of a
-suddenly full world. Herland is situated on a triangular, “high-standing spur”
-rising out of the “dark green sea of crowding forest” around it, isolated and
-inaccessible to the rest of the world (41). As one of the Herlanders explains,
-it was once open and able to participate in economic and ecological exchange,
-but war and an earthquake sealed it off completely two thousand years before
-the narration begins [Herland x]. From that moment, it becomes a world in
-miniature, an open-air pseudo-biosphere that will support its human population
-with the resources available to it or not at all.
+No less central, but much less discussed, are the novel's insights into the
+role of human activity in shaping natural systems. The Herland environment is
+marked by benign but absolute human control over the natural environment. While
+there is very little agriculture or cultivation in the traditional sense,
+Herlanders have chosen to retain and support certain elements of the ecosystem
+while systematically reducing or removing others, resulting in
+a food-production system that is able to persist largely without intensive crop
+planting---a system more reminiscent of permaculture than any of the prevailing
+horticultural models of the time. Herland is a woman-made Eden: what Leo Marx
+calls a "middle landscape," or a place that is symbolically "created by
+mediation between art and nature," eschewing both back-to-the-land primitivism
+and technological futurism to create a zone in which nature and culture are
+mutually supportive. [@marx_machine_2000 71; see also @chang_economics_2010
+342-3] And yet, Marx's mid-century ecocritical paradigm, now dated, would
+paradoxically be further from the state of ecocritical discourse than
+*Herland*, despite being published almost half a century later. In the
+social ecology of Herland, Gilman poses problems that prefigure the debates
+that define ecocriticism in the Anthropocene. 
+
+In Gilman's understanding of the relationship between humanity and natural
+world, "the Anthropocene already appears as an object of thought and action in
+all but name" (as McKenzie Wark says of Bogdanov and Platonov, Marxist writers
+working contemporaneously with Gilman or just after) [@wark_molecular_2015 xx].
+The world isand defined by human action, but this very fact, and the
+existential threat it implies, causes an awakening of ecological consciousness
+that seeks to mitigate the worst of humanity's effects. What makes Herland
+especially relevant to Anthropocene discourse is the fact that this
+anthropocentric ecological management arises out of a catastrophic geological
+event, population pressures, and the limits of a suddenly full world. Herland
+is situated on a triangular, “high-standing spur,” a "piece of geography [that]
+stands up like a basalt column" in a “dark green sea of crowding forest,”
+isolated and inaccessible to the rest of the world [@gilman_herland_2008 41,
+67]. Once open and able to participate in economic and ecological exchange, the
+nation's tumultuous history of war and geological instability turn it into
+a world in miniature, an open-air biosphere that will support its human
+population with the resources available to it or not at all.
+
+<!-- naturalism: determinism -->Herland's narrative, then, is an early, utopian
+form of ecofeminist literature, but it also challenges the logic that is often
+seen as underpinning its genre. The environment that Gilman creates in the
+background of her narrative demonstrates that the naturalist logic of
+"determinism," at least as it has been formulated by twentieth-century critics,
+is in need of an ecocritical reevaluation. Traditionally, the determinism of
+American literary naturalism is unidirectional, with the human (as individual
+and as a species) defined by external forces.[^ln-naturalist-determinism] The
+tension between the "country" and the "city" becomes a war of influences on
+a typological character, demonstrating only how natural and built environments
+exert influence on the humans who inhabit them. Gilman's system is similarly
+concerned with environmental influences on human development, but she explores
+these influences while demonstrating that---intentionally or unintentionally,
+individually or as a whole---humans and their actions also determine the shape
+of the very forces that, in turn, determine them. There is no determinism but
+mutual determinism, no evolution but coevolution, both in Gilman's naturalism
+and in the Anthropocene. And like Anthropocene discourse since the turn of the
+millennium, Gilman's vision of the human's place in nature finds
+a contradiction between an impulse to manage "natural" systems to prevent
+catastrophe and an awareness that human influence is itself a cause of
+environmental crisis.
+
+[^ln-naturalist-determinism]: Go into detail here, maybe import some into the
+paragraph proper: Mitchell's 'Determined Fictions,' Peyser, the whole
+mid-century milieu.
 
 In its sudden transition to a closed system, Herland evokes the world that was
-beginning to become visible from Gilman's vantage in 1915, when consciousness
-of the globe as a trading paradigm was arising in tandem with consciousness of
-the planet as an ultimate limit to resource exploitation and growth. Among
-naturalists, Norris and Dreiser were especially attuned to the global
-consciousness of trade, beginning to narrate the open movement of capital
-internationally in *The Pit* and *The Financier*, respectively. The more
-general consciousness of this state of affairs, in which capital flowed freely
-across borders from about 1870 until it began to be regulated around the time
-of the First World War, is evident in the French Chamber of Deputies decision
-to outlaw any imports of capital [@streeter_globalization_2010 94-5]. <!--
-details come from from histories of globalization... streeter et al.
+beginning to become visible from Gilman's vantage in 1915 and is inescapable
+now. Consciousness of the globe as a trading paradigm was arising in tandem
+with consciousness of the planet as an ultimate limit to resource exploitation
+and growth. Among naturalists, Norris and Dreiser were especially attuned to
+the global consciousness of trade, beginning to narrate the open movement of
+capital internationally in *The Pit* and *The Financier*, respectively. The
+more general consciousness of this state of affairs, in which capital flowed
+freely across borders from about 1870 until it began to be regulated around the
+time of the First World War, is evident in the French Chamber of Deputies
+decision to outlaw any imports of capital [@streeter_globalization_2010 94-5].
+<!-- details come from from histories of globalization... streeter et al.
 Globalization and Autonomy; others; see if it would make sense to include
 Wenzel Planet Vs. Globe here, need at least footnote for the distinction-->
 
-Of the other consciousness, the *planet* as a final limit, Gilman's isolated
-spur of rock is the chief literary representative in this period, drawing from
-a reservoir of ecological thinking that would eventually give rise to an
-institutionalized conservation movement. Among her most cherished
-correspondents and friends was Lester Ward, who, though best known as the
-founder of modern sociology, was also a geologist and paleobotanist, at one
+Of the other consciousness, consciousness of the *planet* as a final limit,
+Gilman's isolated spur of rock is the chief literary representative in this
+period, drawing from a reservoir of ecological thinking that would eventually
+give rise to an institutionalized conservation movement. Among her most
+cherished correspondents and friends was Lester Ward, who, though best known as
+the founder of modern sociology, was also a geologist and paleobotanist, at one
 time serving as the Chief Paleontologist of the U.S. Geological Survey
 [@burnham_lester_1956 2, @ross_man_1975 51]. Ward is on one hand a contributor
 to American conservationism, particularly in his work with Major John Wesley
@@ -97,14 +174,15 @@ Reclamation Act of 1902 and training the scientists who would carry the call
 for responsible resource use into the twentieth century [@ross_man_1975 51, 53,
 57, 59; see also @stegner_beyond_1992]. But on the other hand, Ward articulates
 a vision of the human's place in nature that seems contrary to the spirit of
-limitation that has motivated the modern Anthropocene movement. In Ward's view,
-the human is both the end-product of evolution and the agent that takes over
-where evolution leaves off---both part of nature and the end of it. This
+limitation that has motivated environmentalism in the Anthropocene. In Ward's
+view, the human is both the end-product of evolution and the agent that takes
+over where evolution leaves off---both part of nature and the end of it. This
 complicated dual role justifies the "laying open of her [nature's] bowels" for
 experimentation, an explicitly Baconian perspective that understands the human
 as the rightful "master" of non-human organisms and processes
 [@ward_dynamic_1926 11-2]. The Wardian view of nature promotes absolute mastery
-without exploitation---Prometheanism in the name of stewardship.[^prometheanism]
+without exploitation---Prometheanism in the name of
+stewardship.[^prometheanism]
 
 [^prometheanism]: explain prometheanism; use robinson article.
 
@@ -134,33 +212,33 @@ savior---prefigures a contemporary controversy over the possibility of a "good
 Anthropocene." Both center on the same question: should our absolute control
 over non-human nature be understood as a justified evolutionary step, or does
 the very premise of absolute control violate the material and ethical
-limitations of the planet? [need to contextualize why I'm about to go on this
-little journey in terms of Gilman?]
+limitations of the planet? [Do I need to contextualize why I'm about to go on
+this little journey in terms of Gilman? / should I combine the good
+anthropocene/lester ward sections?]
 
 The former perspective is at the heart of any robust defense of the "good
 Anthropocene." At its most basic, the "good Anthropocene" movement is what it
 sounds like. It suggests that there is some version of the Anthropocene that
-would result not in catastrophe for humans and non-human nature, and that
+would not result in catastrophe for humans and non-human nature, and that
 embracing human guidance of the planetary ecology could ultimately be
-beneficial for all involved. There are many visions of what a "good"
-Anthropocene would mean, but they come together in rejecting the catastrophic
-or "dystopian" visions of our environmental future, seeking instead ways to use
-technological and social innovations to reduce further damage and even repair
-the damage that has been done---to turn the Anthropocene into "a more just,
-prosperous, and ecologically diverse" epoch. The most radical and controversial
-articulation of the "good Anthropocene," and probably the most widely
-circulated, has been "An Ecomodernist Manifesto" (2015). The signatories of the
-manifesto argue that the route to "decoupling human development from
-environmental impacts" is (counterintuitively and, many would say,
-counterfactually) "intensifying many human activities---particularly farming,
-energy extraction, forestry, and settlement." Concentrating these activities in
-smaller areas, they reason, will allow us to leave more land completely wild;
-but their emphasis is always on the Promethean faith in humanity's ability to
-tinker its way out of any limitations, or in their words, "putting humankind's
-extraordinary powers" to work. In short, they celebrate human technological
-triumphs over nature, rehearsing a familiar narrative of a liberatory
-technology that frees humanity from the drudgery of agricultural
-labor.[^ln-ecomodern-responses] 
+beneficial for all involved. There are many visions of what a good Anthropocene
+would mean, but they come together in rejecting the catastrophic or "dystopian"
+visions of our environmental future, seeking instead ways to use technological
+and social innovations to reduce further damage and even repair the damage that
+has been done---to turn the Anthropocene into "a more just, prosperous, and
+ecologically diverse" epoch. The most radical and controversial articulation of
+the "good Anthropocene," and probably the most widely circulated, has been "An
+Ecomodernist Manifesto" (2015). The signatories of the manifesto argue that the
+route to "decoupling human development from environmental impacts" is
+(counterintuitively and, many would say, counterfactually) "intensifying many
+human activities---particularly farming, energy extraction, forestry, and
+settlement." Concentrating these activities in smaller areas, they reason, will
+allow us to leave more land completely wild; but their emphasis is always on
+the Promethean faith in humanity's ability to tinker its way out of any
+limitations, or in their words, "putting humankind's extraordinary powers" to
+work. In short, they celebrate human technological triumphs over nature,
+rehearsing a familiar narrative of a liberatory technology that frees humanity
+from the drudgery of agricultural labor.[^ln-ecomodern-responses] 
 
 [^ln-ecomodern-responses]: The responses to this manifesto will be discussed in
 more detail later, but have tended to bring existing critiques of modernism to
@@ -171,12 +249,12 @@ resources. Ecomodernism, in other words, is just a way to prop up a facile
 progressivism in green clothing. See Latour, Crist, and Collard et al.
 
 The Ecomoderns should not be taken as the sole representatives of the "good
-Anthropocene," however, by either the concept's supporters or its
-critics. Other approaches to the concept are less comfortable with this
-triumphalism, focusing more on the need to resist catastrophism and to promote
-forms of resilience and transition instead. In the words of Bennett et al.
-(2016), "The future does not have to be bleak. ...Whether or not one agrees
-with these [dystopian] characterizations, extrapolations of current,
+Anthropocene," however, by either the concept's supporters or its critics.
+Other approaches to the concept are less comfortable with this triumphalism,
+focusing more on the need to resist dystopian visions of catastrophe and
+promote forms of resilience and transition in their stead. In the words of
+Bennett et al. (2016), "The future does not have to be bleak....Whether or not
+one agrees with these [dystopian] characterizations, extrapolations of current,
 maladaptive trends into a bleak future run the risk of becoming
 self-fulfilling, because people base their actions on what they believe about
 society and their future" (441). They continue to offer a range of solutions
@@ -236,7 +314,7 @@ collapses in response to climate change could bring those limits rapidly into
 play. 
 
 Gilman, in her extrapolations on Ward's theories and in her own right, should
-be seen as part of the deep philosophical history of the "good Anthropocene,"
+be seen as part of the deep philosophical history of this "good Anthropocene,"
 both in its vision of human control as an evolutionary imperative and in the
 ethical problems it embodies. In some ways, however, her foundation surpasses
 both Ward and the contemporary "good Anthropocene" arguments a century later.
@@ -257,9 +335,9 @@ Utopian Naturalism that both characterizes the contemporary good Anthropocene
 debate and exposes its philosophical limits.
 
 
-### Old
+[
+old intro, may weave parts into the paragraph above:
 
-<!-- old intro 
 In what follows, I will argue that Charlotte Perkins Gilman uses the garden as
 a framing device to depict a system in which management of environment replaces
 the market cycle of production and consumption, collective sustenance becomes
@@ -284,7 +362,9 @@ literary naturalism.
 general silence between Marxist criticism and Gilman scholarship. Walter Benn
 Michaels’s reading of “The Yellow Wallpaper” in *The Gold Standard and the
 Logic of Literary Naturalism* is an immediate and notable exception to this
-silence. -->
+silence.
+
+]
 
 ### Lester Ward on the Human's Place in Ecology
 
