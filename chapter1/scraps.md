@@ -1,4 +1,22 @@
 
+## uh thesis...
+
+
+<!--
+
+In *Herland*, Gilman offers an anticipation of "good Anthropocene" thinking,
+acknowledging the scale of human influence on the environment while suggesting
+that this influence should be guided rather than lessened. But Gilman's good
+Anthropocene realizes what more contemporary formulations of it too often miss:
+namely, that if embracing human control of natural systems can lead to a more
+sustainable world ecology, we will have to rethink some of the fundamental human
+categories that have been most impactful. The Herlanders' reevaluation of
+labor, value, and inhabitation become the basis of their survival in the face
+of circumstances comparable to those of a full, overtaxed, and deteriorating
+planet. 
+
+-->
+
 ## metabolism section and others 
 
 

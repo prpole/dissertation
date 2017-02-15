@@ -9,21 +9,6 @@ csl: csl/mla.csl
 
 ### Introduction
 
-<!--
-
-In *Herland*, Gilman offers an anticipation of "good Anthropocene" thinking,
-acknowledging the scale of human influence on the environment while suggesting
-that this influence should be guided rather than lessened. But Gilman's good
-Anthropocene realizes what more contemporary formulations of it too often miss:
-namely, that if embracing human control of natural systems can lead to a more
-sustainable world ecology, we will have to rethink some of the fundamental human
-categories that have been most impactful. The Herlanders' reevaluation of
-labor, value, and inhabitation become the basis of their survival in the face
-of circumstances comparable to those of a full, overtaxed, and deteriorating
-planet. 
-
--->
-
 In her utopian novel *Herland* (1915), Charlotte Perkins Gilman creates “a land
 in a state of perfect cultivation, where even the forests looked as if they
 were cared for; a land that looked like an enormous park, only that it was even
@@ -339,23 +324,14 @@ silence.
 
 ### Lester Ward on the Human's Place in Ecology
 
-<!-- The goal here will be to place Ward's ideas into the broader history of
-thinking about humans and nature: the way he builds on the Baconian tradition
-and 18th-century visions of the wilderness as savage and cultivation as
-"improvement" (can follow up on Wulf for sources here); but more important to
-place the newness of Ward's theories on display, specifically his evolutionary
-imperative for control and the fact that sociology is a natural offshoot of
-ecology in his view. By thinking of things like economies, religions, and
-cultures as subfields of ecology (is that too strong?), Ward opens up the
-possibility for a web of interconnection among these apparently distinct
-realms. A move prepared for by "Nature's Economy." See Worster for additional
+<!--See Worster for additional
 commentary on Ward in ecological context. 5-10 pp?-->
 
 
 If Gilman speaks to the concerns of the Anthropocene, it is in part because she
 was writing *Herland* in a moment when the systemic influence of human activity
 on the planet was becoming visible to early ecologists and conservationists.
-The deep roots of the good Anthropocene in particular can be found in the work
+The deep roots of the *good* Anthropocene in particular can be found in the work
 of Lester F. Ward, but also the moment of scientific thinking he represents.
 Ecology at the end of the nineteenth century and the beginning of the twentieth
 were defined by the contrasting poles of limitation, established by the
@@ -375,114 +351,130 @@ Gilman's reimagining of labor and inhabitation occurs in the tension
 established by these poles, just as Ward's sociology does. She also adopts from
 his first major work, *Dynamic Sociology*, a version of ecology in which
 economics and democratic governance can---indeed, should---play a constitutive
-role. As Cynthia J. Davis has shown, Ward's influence on Gilman's thinking, and
-*Herland* in particular, is considerable, and this influence was more visible
-and determinative than similar influences might be for other authors
-[@davis_his_2003]. In *The Man-Made World, or Our Androcentric Culture*, Gilman
-articulates a vision of engaged fiction that would forward the ideas of other
-works, "teach[ing] not by preaching but by truly re-presenting" [qtd. in
-@davis_his_2003 73]. This is an effective summary of her approach in *Herland*.
-While the sociological and evolutionary elements of this influence have been
-discussed by Davis and others, Ward's *ecological* thinking had no less of
-a role in forming Gilman's novel, and provides an important background to the
-way she theorizes the place of the human within a larger ecology. She does not
-reproduce Ward's thinking exactly, however. Rather, her fictional extrapolation
-of his theories *dramatizes* the tension between the absolute limits of and
-absolute control over the planet and its processes. Responding to Ward in
-fiction rather than theory (a type of writing with which she was at least as
-comfortable) allows her to root these expansions in daily life and embodied
-practice.
+role. As Cynthia J. Davis has shown,[^ln-ward-gilman-scholarship] Ward's
+influence on Gilman's thinking, and *Herland* in particular, is considerable,
+and this influence was more visible and determinative than similar influences
+might be for other authors [@davis_his_2003]. In *The Man-Made World, or Our
+Androcentric Culture*, Gilman articulates a vision of engaged fiction that
+would forward the ideas of other works, "teach[ing] not by preaching but by
+truly re-presenting" [qtd. in @davis_his_2003 73]. This is an effective summary
+of her approach in *Herland*. While the sociological and evolutionary elements
+of this influence have been discussed by Davis and others, Ward's *ecological*
+thinking had no less of a role in forming Gilman's novel, and provides an
+important background to the way she theorizes the place of the human within
+a larger ecology. She does not reproduce Ward's thinking exactly, however.
+Rather, her fictional extrapolation of his theories *dramatizes* the tension
+between the absolute limits of and absolute control over the planet and its
+processes. Responding to Ward in fiction rather than theory (a type of writing
+with which she was at least as comfortable) allows her to root these expansions
+in daily life and embodied practice.
 
-<!-- Marsh paragraph -->Ward's ecological training developed in the mold
-established by Marsh's *Man and Nature* (1864). The "most influential text of
-its time next to Darwin's *On the Origin of Species*," Marsh's classic work of
-conservationism made him "the first to realize that man's environmental impacts
-were not only enormous and horrific, but perhaps irreversibly cataclysmic"
-[@lowenthal_origins_2016 56]. Marsh built on the first inklings of climate
-science[^ln-humboldt-climate-science] in Alexander von Humboldt's *Personal
-Narrative of Travels to the Equinoctal Regions of America* (1852) to
-demonstrate that human influence across "woods," "waters," and "sands" has
-been universally malignant, notwithstanding the modest success of reforestation
-efforts [@marsh_man_1965 13, 175-7, 43-4]. His relevance to thinking about
-limitation and conservation in the Anthropocene has been bolstered by his
-conclusion that "human action must rank among geological influences," a simple
-statement that anticipates the defining tenet of the Anthropocene
-[@marsh_man_1965 464]. 
+<!-- Marsh paragraph -->Ward's training as a natural scientist was rooted in
+the nascent traditions of ecology and American conservationism. The general
+bakckground to this training was established by Marsh's *Man and Nature*
+(1864). The "most influential text of its time next to Darwin's *On the Origin
+of Species*," Marsh's classic work of conservationism made him "the first to
+realize that man's environmental impacts were not only enormous and horrific,
+but perhaps irreversibly cataclysmic" [@lowenthal_origins_2016 56]. Marsh built
+on the first inklings of climate science[^ln-humboldt-climate-science] in
+Alexander von Humboldt's *Personal Narrative of Travels to the Equinoctal
+Regions of America* (1852) to demonstrate that human influence across "woods,"
+"waters," and "sands" has been universally malignant, notwithstanding the
+modest success of reforestation efforts [-@marsh_man_1965 13, 175-7, 43-4]. His
+relevance to thinking about limitation and conservation in the Anthropocene has
+been bolstered by his conclusion that "human action must rank among geological
+influences," a simple statement that anticipates the defining tenet of the
+Anthropocene [-@marsh_man_1965 464]. 
 
 [^ln-humboldt-climate-science]: The argument for Humboldt as an early climate
 science belongs to Andrea Wulf's *The Invention of Nature* (2016). 
 
-<!--Marsh, Powell, Ward-->Ward was very probably familiar with Marsh's work
-directly, but was at least familiar with the body of ideas his work represented
-through Major John Wesley Powell. Powell was at the head of the U.S. Geological
-Survey at a time when its aims were defined by the nascent conservation
-movement Marsh's work had, in large part, sparked [@worster_river_2000 484]. In
-all likelihood, Powell read *Man and Nature*---the work's influence alone is
-enough to make a confident inference; John R. Ross, though citing no evidence
-himself, claims that "Powell read Marsh's work and remembered the lessons" in
-his early surveys [@ross_man_1975 52-3]. Regardless, the movement Marsh's work
-spawned defined the parameters within which Powell's own work in the Geological
-Survey proceeded, not least when Ward joined the agency in 1881. Ward's own
-work for the survey was defined by these conservation-minded goals, but there
-was a more general exchange of ideas between Powell and Ward that would define
-Ward's early work: *Dynamic Sociology* is dedicated to Major Powell, and Powell
-gave Ward his position in part to support him while he completed his book
-[@ross_man_1975 51-2]; Donald Worster describes Ward as almost "a brother with
-whom [Powell] sometimes argued intensely" (442). Ward also cites Powell's
+<!--Marsh, Powell, Ward-->The most directly scientific work Ward did in his
+career was conducted in an environment where Marsh's proto-Anthropocenic ideas
+were common currency. Ward conducted scientific surveys under John Wesley
+Powell at the U.S. Geological Survey at a time when its aims were defined by
+the nascent conservation movement Marsh's work had, in large part, sparked
+[@worster_river_2000 484].[^ln-powell-reads-marsh] Ward's own work for the
+survey was defined by these conservation-minded goals, but there was a more
+general exchange of ideas between Powell and Ward that would define Ward's
+early work.[^ln-powell-influences-ward]  To place Ward, Powell, and Marsh in
+too close an intellectual proximity would be a mistake, but Marsh's brand of
+conservation and his awareness of the deleterious influence of human activity
+on nature defined the intellectual environment with which Ward's theories would
+either have to integrate or contend. It was likely this early experience, in
+part, that led Ward to develop a friendship and correspondence with Ernst
+Haeckel, who is most famous now for coining the term
+"ecology."[^ln-ward-and-haeckel]
+
+[^ln-powell-reads-marsh]: In all likelihood, Powell read *Man and Nature*---the
+work's influence alone is enough to make a confident inference; John R. Ross,
+though citing no evidence himself, claims that "Powell read Marsh's work and
+remembered the lessons" in his early surveys [@ross_man_1975 52-3]. Regardless,
+the movement Marsh's work spawned defined the parameters within which Powell's
+own work in the Geological Survey proceeded, not least when Ward joined the
+agency in 1881.
+
+[^ln-powell-influences-ward]: *Dynamic Sociology* is dedicated to Major Powell,
+and Powell gave Ward his position in part to support him while he completed his
+book [@ross_man_1975 51-2]; Donald Worster describes Ward as almost "a brother
+with whom [Powell] sometimes argued intensely" (442). Ward also cites Powell's
 thoughts on ethnology and religion in *Dynamic Sociology* [@ward_dynamic_1926
-II:254-8]. To place Ward, Powell, and Marsh in too close an intellectual
-proximity would be a mistake, but Marsh's brand of conservation and his
-awareness of the deleterious influence of human activity on nature defined the
-intellectual environment with which Ward's theories would either have to
-integrate or contend.
+II:254-8].
+
+[^ln-ward-and-haeckel]: Need to cite this a bit more... Ward wrote a paper
+summarizing Haeckel's ideas. See Worster and others for Ward's correspondence.
 
 <!-- Ward adhering to and breaking from ecology/conservation-->To a significant
 degree, Ward should be understood as breaking from this early wave of
-conservation, insofar as he sees (contrary to Marsh) human control of nature as
-not only largely benign, but right and proper. Donald Worster places Ward in
-the company of those in "the late Victorian age, from the 1860s to the end of
-the century" for whom "there appeared an unusually fierce determination to make
-the civilizing process stick good and tight, once and for all," to the point of
-employing the "aggressive, resolute, even violent force of Culture to harness
-and subdue the nature" that was "menacing," immoral, and simply uncouth
-[@worster_nature's_1985 170-5] Just as it would be a mistake to align Ward with
-his conservationist mentors, though, writing off their influence entirely (as
-often happens in discussions of Ward) would elide an important element of
-ecological consciousness in Ward's work. Worster frames this ecological
+conservation defined by Marsh and Powell, insofar as he sees (contrary to
+Marsh) human control of nature as not only largely benign, but a necessary
+evolutionary step for all life on Earth. Donald Worster places Ward in the company of those in "the late
+Victorian age, from the 1860s to the end of the century" for whom "there
+appeared an unusually fierce determination to make the civilizing process stick
+good and tight, once and for all." Doing so meant employing the "aggressive,
+resolute, even violent force of Culture to harness and subdue the nature" that
+was "menacing," immoral, and simply uncouth [-@worster_natures_1985 170-5] It
+would be a mistake, then, to align Ward with his conservationist mentors,
+but writing off their influence entirely (as often happens in discussions
+of Ward) would elide an important element of ecological consciousness in his
+work.[^ln-worster-apologia] He claims that the social sciences
+should consciously follow on the discoveries and methods of the natural
+sciences, lamenting erroneous assumptions by his contemporaries
+that could have been avoided "had sociology been thoroughly grounded in
+biology, as Comte so justly insisted that it should be" [-@ward_dynamic_1926
+87]. This aside confirms---and confirms as deliberate---what is already clear
+in *Dynamic Sociology*: that Ward's sociology is built on a foundation of
+knowledge we now recognize as the beginnings of ecology. 
+
+[^ln-worster-apologia]: In *Nature's Economy*, Worster frames this ecological
 consciousness as "an ecological counterpart" to Ward's "social ideals," but in
 fact it would be more accurate to say that his sociology arises out of
-a rigorous training in the natural sciences.[^ln-worster-apologia] Indeed,
-according to Ward, the social sciences should consciously follow on the
-discoveries and methods of the natural sciences. Discussing economics, for
-example, he laments erroneous assumptions that could have been avoided "had
-sociology been thoroughly grounded in biology, as Comte so justly insisted that
-it should be" [@ward_dynamic_1926 87]. This aside confirms---and confirms as
-deliberate---what is already clear in *Dynamic Sociology*: that Ward's
-sociology is built on a foundation of knowledge we now recognize as the
-beginnings of ecology. 
+a rigorous training in the natural sciences[-@worster_natures_1985 170-5]. This
+relationship is much clearer in Worster's later work on Major Powell, which is
+more concerned with *Dynamic Sociology* than with Ward's later works
+[-@worster_river_2000 440-8]. It is no coincidence that a discussion of Ward's
+earlier works would note the ecological influence on his sociology, as *Dynamic
+Sociology* was written during a period of Powell's intellectual and financial
+support.
 
-[^ln-worster-apologia]: This relationship is much clearer in Worster's later
-work on Major Powell, which is more concerned with *Dynamic Sociology* than
-with Ward's later works [@worster_river_2000 440-8]. It is no coincidence that
-a discussion of Ward's earlier works would note the ecological influence on his
-sociology, as *Dynamic Sociology* was written during a period of Powell's
-intellectual and financial support.
-
-<!--Ward's system as it relates to environmental destruction--> That Gilman
-drew liberally from this body of ideas is well known, as is the extent to which
-she developed them in order to incorporate them in her own body of
-work.[^ln-ward-gilman-scholarship] One passage of *Dynamic Sociology* in
-particular appears to have stood out to Gilman's ecological sensibilities: when
-Ward discusses areas of "natural" wastefulness in modern human societies, he
-includes what we would now think of as a lack of sustainable development. In
-the first place, Ward does not consider nature itself an efficient or
-sustainable system: "Nature acts on the assumption that her resources are
-inexhaustible" [@ward_dynamic_1926 87]. This also appears to include the human
-as part of nature, however, as he continues that the "same wasteful methods
-prevail in society as in the animal and vegetable kingdoms" [@ward_dynamic_1926
-88]. Natural limits to growth reemerge here, not as a feature of the land or
+<!--Ward's system as it relates to environmental destruction-->Insisting on an
+ecology-based sociology as Ward does is bound to trouble the distinction
+between human and nature. And indeed, in his discussion of sustainable resource
+use, the aspects of human behavior that are most disruptive are the very
+characteristics that are most "natural." When Ward discusses wastefulness in
+modern human societies, he includes what we would now think of as a lack of
+sustainable development. But it is also framed as part of the *natural* working
+of things. In the first place, Ward does not consider nature itself an
+efficient or sustainable system: "Nature acts on the assumption that her
+resources are inexhaustible," he says, anticipating the critiques of
+Ecomodernism but directing them against nature itself [-@ward_dynamic_1926 87].
+This critique also appears to include the human as part of nature, however, as
+he continues to argue that in human industry the "same wasteful methods prevail
+in society as in the animal and vegetable kingdoms" [@ward_dynamic_1926 88].
+Natural limits to growth emerge as a concept not as a feature of the land or
 the planetary ecology itself, but as a factor of human ignorance and
-wastefulness---the part of the human that is still closest to "nature":
+wastefulness---the part of the human, we now understand, that is still closest
+to "nature":
 
 > The natural resources of the earth are squandered with a wanton disregard of
 the future. The forests are cut down to supply temporary wants, consumed by
@@ -490,56 +482,70 @@ escaping campfires, or purposely cleared for tillage, until the habitable
 portions of the earth are successively transformed into lifeless deserts. The
 soil is rapidly exhausted by the first occupants, who know only the immediate
 present. The wild animals useful to man are soon extinguished by the heartless
-destruction of the fertile females and helpless young. [@ward_dynamic_1926 89]
+destruction of the fertile females and helpless young. [-@ward_dynamic_1926 89]
 
-A Marsh-like awareness of systemic environmental destruction emerges at the end
-of the most ecologically relevant portion of Ward's first work, an unexpected
-elegy for needlessly wasted life and squandered fruitfulness. Perhaps
-surprisingly (to a contemporary reader, at least), Ward's solution is again not
-to become more like nature, but to root out what "nature" remains in us. 
+Ward exhibits here a Marsh-like awareness of systemic environmental destruction
+at the end of the most ecologically relevant portion of *Dynamic Sociology*, an
+unexpected elegy for needlessly wasted life and squandered fruitfulness.
+Perhaps surprisingly (to a contemporary reader, at least), Ward's solution is
+again not to become more like nature, but to root out what "nature" remains in
+us. 
 
 This equation of nature with "waste" provides a backdrop for Ward's Baconian
-vision of science as a tool for mastering nature and exceeding limits---Ward
-cites Bacon approvingly to say that "Nature can only be conquered by obeying
-her" (13). In a moment of seeming humility for the species, Ward calls the
-human "an integral part of this great unconscious creative whole called nature,
-only a minute fraction of which can by any possible means be brought within the
-range of his experience" (11). But to Ward, the intelligence and teleological
-capacity of humanity at once makes us the apex of all natural systems and gives
-us the right to take over for natural processes. It is as if nature developed
-humanity as its head, and naturally we have since taken control of the
-organisms and processes that produced us. This conclusion derives from the
-theory that evolution has a "tendency to organization," and that "consciousness
-and intelligence are products of [this] organization"; additionally,
-"teleological action has...kept pace with the degree of intelligence" (10).
-While "nature's processes are not teleologic but genetic," humans differ in
-that their "conscious action is...teleological" (9). But nature's activity
+vision of science as a tool for mastering nature and exceeding
+limits.[^ln-ward-cites-bacon] In a moment of seeming humility for the species,
+Ward calls the human "an integral part of this great unconscious creative whole
+called nature, only a minute fraction of which can by any possible means be
+brought within the range of his experience" [-@ward_dynamic_1926 11]. But to
+Ward, the intelligence and teleological capacity of humanity at once makes us
+the apex of all natural systems and gives us the right to take over for natural
+processes. It is as if nature developed humanity as its head, and naturally we
+have since taken control of the organisms and systems that produced us. Taking
+control is justified by the fact that humanity and human intelligence are the
+products and propagators of "organization." Organization, intelligence, and
+teleological action are inherently linked in Ward's evolutionary system, and
+the human is the apex of all three. Evolution has a "tendency to organization,"
+and "consciousness and intelligence are products of [this] organization";
+additionally, "teleological action has...kept pace with the degree of
+intelligence" [-@ward_dynamic_1926 10]. While "nature's processes are not
+teleologic but genetic," humans differ in that their "conscious action
+is...teleological" [-@ward_dynamic_1926 9]. But this is where it becomes
+impossible to maintain the human-nature distinction: nature's activity
 *becomes* teleological in that the human, still understood as part of nature,
-uses purpose and science to guide natural development. The human thus becomes
-part of the evolutionary process---or rather, in Ward's eyes, *could* and
-*should* be, but only when humans assume the mantle. A Darwinian to a point,
-Ward understands that "Mind is found only at the end of the series, and not at
-the beginning. It is the distinctive attribute of the creature, and not of the
-creator. It resides in man, and not in nature" (10-11). He breaks from
-Darwinian evolution in positing the possibility of understanding human activity
-as part of the evolutionary process---including artificial selection as well as
-natural selection as an evolutionary mechanism. 
+uses purposive action and science to guide natural development. The human thus
+becomes part of the evolutionary process---or rather, in Ward's eyes, *could*
+and *should* do so, but only *will* when humans assume the
+mantle.[^ln-mind-and-darwinism]
 
-<!--Ward on carrying capacity... use this to play out the conflict-->Blending
-human and nature in this way makes the idea of "natural limits" to growth
-difficult to maintain. Just like the proponents of a good Anthropocene, Ward
-acknowledges limits only on the way to exulting in humanity's ability to
-surpass them---despite, or perhaps because, his theories are grounded in an
-ecology that takes the human as part of its purview. A particularly telling
-example arises in his discussion of carrying capacity, or the number of a given
-species an environment is able to support (taking into consideration factors
-such as climate, resource availability, space, and other species). Ward does
-not use the term carrying capacity, even though it was beginning to be used in
-some agricultural and botanical contexts---it would not enter more general use
-until either Aldo Leopold employed it in 1933 or, more probably, in post-war
-ecology [@robbins_carrying_2006]. But, whether he came to it independently or
-whether the concept was more mobile than the term,  Ward is certainly talking
-about carrying capacity in all but name: 
+[^ln-ward-cites-bacon]: Ward cites Bacon approvingly to say that "Nature can
+only be conquered by obeying her" [-@ward_dynamic_1926 13].
+
+[^ln-mind-and-darwinism]: A Darwinian to a point, Ward understands that "Mind
+is found only at the end of the series, and not at the beginning. It is the
+distinctive attribute of the creature, and not of the creator. It resides in
+man, and not in nature" [-@ward_dynamic_1926 10-11]. He breaks from Darwinian
+evolution in positing the possibility of understanding human activity as part
+of the evolutionary process---including artificial selection as well as natural
+selection as an evolutionary mechanism. 
+
+
+<!--Ward on carrying capacity... use this to play out the conflict-->The status
+of the human with respect to nature---as its apex and exception at
+once---ignores ethical limits to human control; its effect on absolute limits
+to growth is more ambiguous. Just like the proponents of a good Anthropocene,
+Ward acknowledges absolute limits only on the way to exulting in humanity's
+ability to surpass them---despite, or perhaps because of, his theories'
+grounding in an ecology that takes the human as part of its purview.
+A particularly telling example arises in his discussion of carrying capacity,
+or the number of a given species an environment is able to support (taking into
+consideration factors such as climate, resource availability, space, and other
+species). Ward does not use the term "carrying capacity" directly, even though
+it was beginning to be used in some agricultural and botanical contexts---it
+would not enter more general use until either Aldo Leopold employed it in 1933
+or, more probably, in post-war ecological circles [@robbins_carrying_2006].
+But, whether he came to it independently or whether the concept was more mobile
+than the term,  Ward is certainly talking about carrying capacity in all but
+name: 
 
 > [I]n the uncontrolled operation of natural laws, beings capable of feeling
 are liable to injury. In an ever-changing environment, that degree of
@@ -547,7 +553,7 @@ correspondence can never be reached in which no friction can occur. It is this
 perpetual conflict of every species with its adverse surroundings, this
 grinding at the outer boundaries of its sphere of activity, which constantly
 keeps its numbers down to moderate limits and its members restricted to
-definite geographical areas. (14)
+definite geographical areas. [-@ward_dynamic_1926 14]
 
 Thus it is for other species, anyway. For the human, a superior degree of
 adaptation, driven directly by a superior intelligence, increases the ratio of
@@ -559,82 +565,94 @@ is this which has enabled him, to so much greater an extent than any other
 animal, to increase his numbers and expand his territorial limits. This has
 been due to his superior sagacity and cunning, to his intelligence....
 [Humanity's gains] must be attributed to an increased acquaintance with its
-relations to the world around it. (14)
+relations to the world around it. [-@ward_dynamic_1926 14]
 
-The Baconian imperative to "interpret" nature without "serving" it is expressed
-here as a surpassing of limits, but surpassing limits is paradoxically entwined
-with being aware of them. Ward's technological triumphalism is expressed here
-as growth through careful study, presumably a study that would include the
-negative effects of that growth if and when they are encountered. Indeed,
-Ward's desire for humanity to surpass all limits is not without qualification:
-he acknowledges that "the rapid multiplication of individuals could not long
-continue and would not be economically desirable," rendering the "large amount
-of friction that currently exists" between humanity and its environments as
-a check against ruination (15-6). But despite these Malthusian misgivings, Ward
-still frames limitation in general as a source of "a vast amount of physical
-and mental suffering" that our intelligence should liberate us from. 
+The Baconian imperative to "interpret" nature without "serving"
+it[^ln-bacon-interpres] is expressed here as a surpassing of limits, but
+surpassing limits is paradoxically entwined with being aware of them. Ward
+encourages growth, but only through careful study of the environment. This
+"study" appears to include the negative effects of that growth if and when they
+are encountered, for Ward's desire for humanity to surpass all limits is not
+without qualification: he acknowledges that "the rapid multiplication of
+individuals could not long continue and would not be economically desirable,"
+rendering the "large amount of friction that currently exists" between humanity
+and its environments as a check against ruination [-@ward_dynamic_1926 15-6].
+But despite these Malthusian misgivings, Ward still frames limitation in
+general as a source of "a vast amount of physical and mental suffering" that
+our intelligence should liberate us from. Our greater degree of "organization"
+and ingenuity forestalls the natural limits to which, as a part of nature, we
+are still ultimately subject.
+
+[^ln-bacon-interpres]: Did I talk about this? I think not; cite here
 
 <!-- government as a surprising stage in evolution, as guiding force and
 product-->Not all human ingenuity is technological in Ward's mind, however, nor
 is physical technology even the most important development. The greatest
-achievement of an evolutionary system based on increasing organization is even
-more organization, in the form of communities and government. Ward sees
+achievement of this evolutionary system based on increasing organization is
+even more organization, in the form of communities and government. Ward sees
 government as a development of an evolutionary imperative toward "[a]ltruistic
 morality," which "arises as soon as intelligence begins to counteract the
-natural influences which restrict population" and lead to suffering (14).
-It is an "egoistic altruism, protecting others for the benefit of self," but
-the benefits of this altruism are still essentially communal (14). Propagation
-beyond limits relies on this communal instinct:
+natural influences which restrict population" and lead to suffering
+[-@ward_dynamic_1926 14]. It is an "egoistic altruism, protecting others for
+the benefit of self," but the benefits of this altruism are still essentially
+communal [-@ward_dynamic 14]. Propagation beyond limits relies on this communal
+instinct:
 
 > One of the secrets of the success of the human race in peopling the entire
 globe has been this moral sense which protects others where natural laws would
 destroy them. Government, which has this extra-natural protection for its
-object, had its rise in this altruistic sentiment.... (14)
+object, had its rise in this altruistic sentiment.... [-@ward_dynamic_1926 14]
 
 Intelligence, though it is a product of evolution's tendency toward greater
 organization, works against the main driver of Darwinian evolution, natural
 selection and the "friction" between an organism and its environment. The means
 by which these environmental influences are managed is government protection.
+And yet, as we can see in his discussion of sustainability, collective action,
+through government or otherwise, is also the means by which *human* influences
+on non-human nature are managed. A greater degree of human
+organization---which, for Ward and Gilman both, means collective
+action---mediates the codetermination of human and natural systems. 
  
-<!--set up contrast with spencer-->Ward's emphasis on the altruistic
-and communal side of evolution sets him apart from other evolutionary
-commentators and theorists of the period, most notably Herbert Spencer,
-a widely read social Darwinist who influenced many American literary
-naturalists (particularly Dreiser). The fundamental points on which Ward and
-Spencer differ are the applicability of biological evolutionary theory and
-competition---the messy randomness and the "survival of the fittest"---to the
-affairs of humanity. Ward complained that Spencer's relentless focus on biology
-failed to take into account the peculiarities of human mind, insofar as he
-"failed to make [psychology] the basis of either his sociology or his ethics"
-[@ward_psychological_1893 464]. As a result, Spencer's work set forth the
-"underlying principles" for the "Physiocrats" whose "writings...constitute the
-warp of modern individualism"---a group in which he includes Adam Smith,
-Malthus, and Ricardo [@ward_psychological_1893 464]. The "Physiocratic" view is
-one that assumes human enterprises follow the same rules as biological
+<!--set up contrast with spencer-->That Gilman took her evolutionary theory
+from the ecology-driven theories of Lester Ward sets her apart from the rest of
+American literary naturalism. Ward's emphasis on the altruistic and communal
+side of evolution sets him apart from other evolutionary commentators and
+theorists of the period, most notably Herbert Spencer, a widely read social
+Darwinist who influenced many literary naturalists (particularly Dreiser). The
+fundamental points on which Ward and Spencer differ are the applicability of
+biological evolutionary theory and competition---the messy randomness and the
+"survival of the fittest"---to the affairs of humanity. Ward complained that
+Spencer's relentless focus on biology failed to take into account the
+peculiarities of human mind, insofar as Spencer "failed to make [psychology]
+the basis of either his sociology or his ethics" [@ward_psychologic_1893 464].
+As a result, he sees Spencer's work as setting forth the "underlying
+principles" for the "Physiocrats" whose "writings...constitute the warp of
+modern individualism"---a group in which he includes Adam Smith, Thomas
+Malthus, and David Ricardo [@ward_psychologic_1893 464]. The "Physiocratic"
+view assumes that human enterprises follow the same rules as biological
 evolution, while also assuming that biological evolution results in the most
 efficient outcomes. 
 
 <!--ward against competition, efficiency of nature-->Ward disputes both
 assumptions. Competition, from the Physiocratic perspective, ultimately leads
 to stability and optimization. Placing this view in ecological context, Worster
-relates Spencer's view of evolution to Frederic Clements's theory of the
-"climax community"---or a stable community of organisms that results from
-innumerable generations of struggle for survival: "It was the paradoxical
-belief of both of these men [Spencer and Clements] that the war of each against
-all for the essentials of life results in a more harmonious social or
-ecological organism" [@worster_nature's_1985 214]. Ward rejected this
-competitive individualism. Cynthia J. Davis relates Ward's belief that "natural
-competition...checked rather than enhanced evolution" to his belief in reform:
-"As did many progressives...he resisted biological determinism and embraced
-Lamarckianism, as the belief in the biological transmission of *acquired*
-traits helped explain variation and emphasized human agency" [@davis_his_2003
-75]. Emphasizing human agency is necessary in Ward's system because, in his
-view, human intervention is the route to efficiency---precisely because
-competition can be replaced by cooperation. In nature, "Even the vegetation is
-at war, and the result of that strife is immensely to lower the possible
-standard of every living species of plant" [@ward_dynamic_1926 87-8].
-Artificially guided development is a way to take humans out of that war---with
-each other and with the rest of nature.
+relates Spencer's view of evolution to the "climax community"---or a stable
+community of organisms that results from innumerable generations of struggle
+for survival: "It was the paradoxical belief of both of these men [Spencer and
+Clements] that the war of each against all for the essentials of life results
+in a more harmonious social or ecological organism" [@worster_natures_1985
+214]. Ward rejected this competitive individualism. Cynthia J. Davis relates
+Ward's belief that "natural competition...checked rather than enhanced
+evolution" to his belief in reform: "As did many progressives...he resisted
+biological determinism and embraced Lamarckianism, as the belief in the
+biological transmission of *acquired* traits helped explain variation and
+emphasized human agency" [-@davis_his_2003 75]. Emphasizing human agency is
+necessary in Ward's system because, in his view, human intervention is the only
+route to efficiency---precisely because it allows competition to be replaced by
+cooperation. In nature, "Even the vegetation is at war, and the result of that
+strife is immensely to lower the possible standard of every living species of
+plant" [@ward_dynamic_1926 87-8]. Artificially guided development is a way to
+take humans out of that war---with each other and with the rest of nature.
 
 <!-- development of human structures from within-->A peaceful coexistence
 is not imagined as an automatic effect of human intelligence, however. The
@@ -642,31 +660,32 @@ Hobbesian "war of all against all" is still posited as a paradigm for
 understanding human interactions with each other and with the environment, as
 is the case in Spencer; in contrast to Spencer, however, Ward takes it as an
 insufferable status quo that humanity must develop its way out of through
-communal purposive action. In fact, herein lies "the very great hope of social
-science":
+communal purposive action. Doing so defines "the very great hope of social
+science" to which Ward saw himself as contributing:
 
 > [The sociologist] learns that within that great group of phenomena subject to
 human control, and under the subordinate head of direct teleological phenomena,
 stand the phenomena which result from the operation of the *social forces*, and
 in this fact resides the entire possibility of an artificial social progress.
-[@ward_dynamic_1926 II:104]
+[-@ward_dynamic_1926 104]
 
 Organization and altruism present a way out of the grim, Spencerian vision of
 a social Darwinist universe that has defined many readings of literary
 naturalism. Ward urges purposive and altruistic transformation of nature and
 society alike through conscious guidance, rather than the assertion of
-individual imperatives (so-called "rational" action[^ln-hardin]) until that
-individual is halted by hard natural limits. But in order for this progress to
+individual imperatives until that individual is halted by hard natural limits
+(so-called "rational" action[^ln-hardin]).  But in order for this progress to
 occur, human societies have to learn to transform themselves just like they
 transform communities of other species. "That the same laws have operated in
 the super-organic as in the organic world is quite obvious," he writes. "Not
 only the progress out of barbarism into civilization, but the march of
 civilization itself, has been attended with the same incidents that
-characterize the development of a species or of an individual" (88). He goes on
-to relate human wars and economic struggles with the Hobbesian war of nature,
-but only as a way of calling for a development into a more harmonious
-situation. The human is both the subject and object of this teleological
-evolutionary paradigm, and government is the mechanism of change.
+characterize the development of a species or of an individual"
+[-@ward_dynamic_1926 88]. He goes on to relate human wars and economic
+struggles with the Hobbesian war of nature, but only as a way of calling for
+a development into a more harmonious coexistence. The human is both the subject
+and object of this teleological evolutionary paradigm, and altruistic
+collective action is the mechanism of change.
 
 [^ln-hardin]: "Rational" in a purely economistic sense, deriving from Adam
 Smith, in which rationality means pursuing individual gain in all cases.
@@ -682,11 +701,13 @@ possibility of a managed commons. See also [@nixon_neoliberalism_2009].
 
 Herein lies the basis of Ward's influence on Gilman's ecological socialism:
 nature's economy[^ln-worster-natures-economy] and the human economy are subject
-to waste, as they latter is merely an extension of the former; regulating human
-exchanges and regulating natural exchanges are therefore unified. Thus, Ward's
-lament for environmental destruction, the passage that brought him into such
-close contact to Marshian conservationism, slips into a critique of economic
-inequality in Ward's extension of it:
+to waste, because the latter is merely an extension of the former and because
+they are both unsustainably competitive; the tasks of regulating human
+exchanges and regulating natural exchanges are therefore unified under the
+auspices of collective governance (if not the state, per se). Socialism
+becomes, essentially, an ecological issue. Thus does Ward's lament for
+environmental destruction, the passage that brought him into such close contact
+to Marshian conservationism, slips into a critique of economic inequality:
 
 > Labor and capital, whose dependence upon each other is absolute, are
 constantly found in open hostility, which greatly reduces productiveness of
@@ -695,13 +716,16 @@ who, through no fault of their own, are allowed to absorb the largest share of
 the wealth produced.... Wealth is not only unequally but inequitably
 distributed. In short, all the functions of society are performed in a sort of
 chance way, which is precisely the reverse of economical, but wholly analogous
-to the natural processes of the lower organic world. [@ward_dynamic_89]
+to the natural processes of the lower organic world. [-@ward_dynamic_1926 89]
 
 Labor and capital are just one more battle in the war of all against all. Ward
 does not quite go as far as naming capitalism as the cause of the environmental
 destruction he decries above, but he puts the failures of unsustainable
 development and the failures of labor relations down to the same essential lack
-of "telic" refinement. Gilman would make the connection more explicit.
+of "telic" refinement. Gilman would make the connection more explicit,
+identifying capitalism's wasteful competition as the first thing to go in
+a truly ecological society. Reinventing the way we understand labor is the
+first step in her extrapolation.
 
 [^ln-ward-gilman-scholarship]: See especially [@davis_his_2003] and
 [@allen_overthrow_2004]. [Should probably include more; see Allen for more
@@ -717,16 +741,16 @@ this context?-->
 
 <!-- need to define/introduce full world concept (sources???)-->
 
-Gilman develops Ward's concepts of [ concepts ] primarily through the vehicle
-of the garden. For much of her life, Gilman kept a garden of her own---a
-“vegetable garden mind you!, not merely flowers”---at one point as a means of
-subsistence in the lean years of her later life, at another as what she
-referred to as a “sanitarium” (*Selected Letters* 180, 281, 284). The relevance
-of subsistence gardens to *Herland* is clear: in all its appearances in the
-novel, the garden is a space that is simultaneously built and natural, a source
-of food and material goods that is neither agricultural nor industrial and yet
-is not entirely distinct from either. As an imagined society, Herland also
-echoes the principles of containment and control inherent to her view of
+Gilman develops Ward's nascent concept of an ecological socialism primarily
+through the vehicle of the garden. For much of her life, Gilman kept a garden
+of her own---a “vegetable garden mind you!, not merely flowers”---at one point
+as a means of subsistence in the lean years of her later life, at another as
+what she referred to as a “sanitarium” (*Selected Letters* 180, 281, 284). The
+relevance of subsistence gardens to *Herland* is clear: in all its appearances
+in the novel, the garden is a space that is simultaneously built and natural,
+a source of food and material goods that is neither agricultural nor industrial
+and yet is not entirely distinct from either. As an imagined society, Herland
+also echoes the principles of containment and control inherent to her view of
 gardening: it exists in a small and clearly demarcated space, and it is only
 able to exist there by careful control over its elements and how they interact.
 The society's chief concern is in maintaining this existence by managing what
@@ -1844,12 +1868,22 @@ both through her extrapolations of Ward's ideas and her own reevaluations of
 labor and inhabitation. Taking Lester Ward rather than Herbert Spencer as
 a basis for her thinking on evolution (and all that evolution implies about the
 forces that shape human and nonhuman organisms) led her to a model of the human
-as a collective actor that is also shaped by what it acts upon. These modes of
+as a collective actor that is also shaped by what it acts upon. These ways of
 shaping are demonstrated through her understanding of ambient labor and
 coevolutionary inhabitation, both of which are modes of changing humanity by
 changing its environment in ways that are non-disruptive and sustainable. 
 
-<!-- good anthro-->
+Literary naturalism and the discourse around the Anthropocene are both fields
+marred by notions of inevitability, the former at the hands of unidirectional
+determinism, and the latter in the face of humanity's scale and pervasive human
+influence. Gilman and the more rational arguments for a "good" Anthropocene she
+anticipates share a desire to exceed that inevitability, by combining human
+control of natural systems with a humbler reevalution of the way *human*
+systems and concepts have developed. Ethical problems abound in all quarters,
+but one thing is clear: the interactions of human and natural systems that
+define both the Anthropocene and literary naturalism necessitate that we reopen
+the fundamental categories of the human and non-human natures alike. Gilman
+presents one example of how to do so.
 
 [^dreiser-collective-examples]: Some of the stuff about Hurstwood accidentally
 breaking a strike...
