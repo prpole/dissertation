@@ -16,6 +16,49 @@ Working outline:
 [Brief, punchy opening that contains the argument, in the form of "many think
 x about Herland, but Y"]
 
+Given that it is such an intensely ecological work, Charlotte Perkins Gilman's
+best-known utopian novel *Herland* has been kept surprisingly isolated from its
+context in fields of ecology and conservation. It is not for lack of interest
+in the general context of her work: from her participation in domestic reform
+movements to her troubling interest in eugenics, much of the extant work on
+Gilman has indeed been highly contextual. 
+
+Rather, I propose that Gilman's place in the history of ecology and
+environmentalism is visible now in a way that it has not been before. The
+reason is the introduction of the Anthropocene as a concept and its
+theorization in disciplines beyond the natural sciences. In addition to
+changing the way we read Gilman's own work, having this concept to think with
+opens up new avenues of inquiry into some of the influences that are already
+well known in Gilman scholarship. More specifically, I will discuss a lesser
+known strain of ecological thinking in Lester Ward's influence on
+*Herland*---an influence that has largely been understood in terms of either
+sociology, evolutionary theory, or eugenics. In doing so, I hope to put the
+work of both Ward and Gilman in an intellectual context that is of particular
+interest now, in an age of worsening anthropogenic climate change. But I also
+hope to use this history to sketch a connection between *Herland* and the
+broader critical conversation of ecocriticism in the Anthropocene. Her work is
+not only relevant to this conversation; in many respects, it actually
+anticipates it.
+
+In addition to its meditations on gender, evolution, and economics, *Herland*
+is obsessively concerned with the physical environment. Indeed, it is almost
+impossible to fully separate these areas of interest, as the construction of an
+environment subsumes the novel's narration of and argumentation about these
+other topics. It is a land "in a perfect state of cultivation, where even the
+forests looked as if they were cared for; a land that looked like an enormous
+park, only that it was even more evidently an enormous garden" [@gilman 42].
+The methods of this cultivation and care claim the focus of much of the novel,
+from the selection and propagation of certain species to the construction of an
+increasingly productive soil. But what is immediately evident is that
+a collective humanity is at the center of everything we would normally think of
+as "nature"---not in the blundering and self-defeating way that characterizes
+most of environmental history, but in a manner that is deliberate and results
+in a more productive total system. 
+
+One example sums up particularly well the form this interaction takes---and
+also gives us a hint of why a traditional ecocritical reading of the novel so
+quickly becomes problematic:
+
 > “It was a butterfly that made me a forester,” said Ellador. “I was about
 eleven years old, and I found a big purple and green butterfly on a low flower.
 I caught it, very carefully, by the closed wings, as I had been told to do, and
@@ -28,15 +71,13 @@ have laid eggs enough to raise worms enough to destroy thousands of our nut
 trees---thousands of bushels of nuts,---and make years and years of trouble for
 us.’
 
-This passage exemplifies the ecological logic that recurs in *Herland*, and it
-also gives us a hint of why a traditional ecocritical reading of the novel so
-quickly becomes problematic. Gilman's ecological thinking in this moment is far
-from "deep ecology," a conservationist movement premised on the fundamental
-value of all living things. Indeed, it hardly seems to value "nature" at all in
-any of the modes we are used to seeing---as the sublime, the untamed wild, or
-in the more contemporary mode, as a fragile "other." 
+Gilman's ecological thinking in this moment is far from "deep ecology,"
+a conservationist movement premised on the fundamental value of all living
+things. Indeed, it hardly seems to value "nature" at all in any of the modes we
+are used to seeing---as the sublime, the untamed wild, or in the more
+contemporary mode, as a fragile "other." 
 
-[ That Gilman turns away from these commonplaces does not mean she is unaware of
+That Gilman turns away from these commonplaces does not mean she is unaware of
 them, of course. Indeed, she sets up the expectation of a sentimental
 appreciation of the natural world, narrating what appears to be a tender
 embrace of an aestheticized butterfly. But it is an expectation that she
@@ -44,7 +85,7 @@ emphatically reverses. First, the creature becomes an object of study,
 something to be brought to an "insect teacher" for further instruction. By the
 end of the passage, we realize that Ellador's careful pursuit of the obernut
 moth will ultimately culminate in the its death---as well as what may be the
-last stage in the deliberate extinction of an entire species. ]
+last stage in the deliberate extinction of an entire species.
 
 To appreciate nature in Herland, then, means to understand it and to transform
 the “natural” into a system that maximizes benefit to humans---and also the
@@ -58,43 +99,27 @@ have been in some way been touched by Herland's human inhabitants. The
 decisions and actions taken by Herlanders as a collective have a clear
 deterministic influence on the development of every other species. 
 
+Furthermore, though this influence is isolated to the small, sequestered region
+that defines Herland geographically, to the Herlanders it is the entire world.
+The land itself thus becomes a narrative device for making the interlocking
+relationships of a planetary system comprehensible by shrinking
+it---conceptually similar to the "Biosphere 2" experiment, and subject to the
+same population and production pressures of the entire planet.
+
 To frame the issue in this way makes clear *Herland*'s relevance to the
-Anthropocene, a term introduced in 200? by Gregory Crutzen to mark a new
-geological epoch defined by collective human activity. But if Gilman
-anticipates the terms of this discourse, she hardly shares its tone, which is
-often apocalyptic where Gilman is triumphal. Herein lies one of the apparent
-contradictions at the heart of Gilman's ecological sensibility. On one hand,
-she recognizes the insurmountable pressures of a growing human species on the
-"full world" of Herland, a geographically isolated land on a "high spur of
-rock". On the other hand, however, her resolution of this pressure is not to
-lessen human impact, but to make it even more total and deterministic; not to
-become less anthropocentric in our conceptions of nature, but infinitely more. 
+Anthropocene. But if Gilman anticipates the terms of this discourse, she hardly
+shares its tone, which is often apocalyptic where Gilman is triumphal. Herein
+lies one of the apparent contradictions at the heart of Gilman's ecological
+sensibility. On one hand, she recognizes the insurmountable pressures of
+a growing human species on the "full world" of Herland, a geographically
+isolated land on a "high spur of rock". On the other hand, however, her
+resolution of this pressure is not to lessen human impact, but to make it even
+more total and deterministic; not to become less anthropocentric in our
+conceptions of nature, but infinitely more. 
 
-To understand this contradiction, we must revisit the influence of Lester F.
-Ward on Gilman's writing and thinking. Ward's influence has been
-comprehensively demonstrated, but the specifically ecological cast to this
-influence has not been as fully explored. 
-
-In the time that remains, I will discuss the role of the then-nascent field of
-ecology in Ward's *Dynamic Sociology*, as well as some of the details of his
-own intellectual influences and education, to show that Ward's approach to
-ecology and resource management constitute a theory of the "good
-Anthropocene"---a term common to contemporary theories of the Anthropocene that
-argue for more *guidance* in human determination of environmental systems
-rather than a lessening of that determination entirely. 
-
-I will then focus on one of the ways that Gilman extrapolates from the
-ecological insights of Ward's seminal work in the realm of economics. She
-imagines a system of "ambient labor," a materialist resolution of human and
-natural systems in which economics and ecology become coextensive. This form of
-labor puts human laborers in the "background," and values human labor according
-to its contribution to the production of a better environment---whether that
-means the natural environment, the social environment, or the built
-environment. 
-
-To begin, then, with Lester Ward:
-
-***
+To understand the presence of this contradiction and the way that Gilman
+resolves it, we must look to Lester Ward's influential *Dynamic Sociology*,
+which Gilman took as a foundation and which confronts the same tension.
 
 That Gilman's friendship with Lester Ward had a significant impact on her work
 will not be a revelation to most Gilman scholars. Much of the critical debate
@@ -153,7 +178,7 @@ soil is rapidly exhausted by the first occupants, who know only the immediate
 present. The wild animals useful to man are soon extinguished by the heartless
 destruction of the fertile females and helpless young. [@ward 89]
 
-As a rule, human encounters with the natural environment despoliate it, and
+As Ward tells it, human encounters with the natural environment despoliate it, and
 what is left behind is an exhausted waste land. And yet, for Ward, the wasteful
 methods of human activity are not *against* nature, but merely an expression of
 nature's own natural tendencies. He argues that the "wasteful methods [that]
@@ -175,25 +200,73 @@ As with the Herlanders, Ward's solution to the excesses of unchecked natural
 system is to manage them. But in his system, managing nature means managing
 humanity itself, for we are "an integral part of this great unconscious
 creative whole called nature, only a minute fraction of which can by any
-possible means be brought within the range of his experience" [@ward 11].
-Conversely, if humanity is simultaneously part of nature and managing it, we
-must also be understood in this system as *nature's means of managing itself*.
-Ward sees the human as unique in that our processes are "teleologic[al]" rather
-than "genetic." But because we are still part of nature, nature's activity
-*becomes* teleological through us, as we use purposive action to guide the
-development of the entire system. Ward thus imagines the human as both the apex
-of evolution and evolution's replacement, the means of replacing genetic
-development with teleological development. It is as though all of non-human
-nature were a body devoted to growing the head that would guide its further
-actions. 
+possible means be brought within the range of his experience" [@ward 11]. The
+portrait of a wasteful humanity that Ward paints in the passage on the previous
+slide is a portrait of a humanity that has not *yet* taken its conscious
+self-improvement upon itself. For Ward, government is an outgrowth of the human
+capacity for "egoistic altruism, protecting others for the benefit of the
+self," and arises out of a "moral sense which protects others where natural
+laws would destroy them" [@ward 14]. Rendered in terms of resource preservation
+and the future benefit of human beings, environmental protection is just an
+outgrowth of an "extra-natural" moral sense based on selfish selflessness. 
+
+But at the same time as it presents an anthropocentric view of nature, this
+ontology incorporates humanity more fully into the ambit of an essentially
+natural evolutionary system. If humanity is at once a part of nature and
+nature's manager, then as a species we become *nature's means of managing
+itself*. Ward sees the human as unique in that our processes are
+"teleologic[al]" rather than "genetic." But because we are still part of
+nature, nature's activity *becomes* teleological through us, as we use
+purposive action to guide the development of the entire system. Ward thus
+imagines the human as both the apex of evolution and evolution's replacement,
+as genetic development gives way to teleological development. It's as though
+all of non-human nature were a body devoted to growing the head that would
+guide its further actions, and that head is the human species. In Gilman's
+extension of the principle, Ellador and the rest of the Herland foresters have
+as much a right to determine the place of the obernut moth in the Herland
+ecology as they do to control their own impact on it, because they are all part
+of the same cycle to which the Herlanders supply a *telos*.
 
 Ward's way out of humanity's detrimental and determinative influence is
-therefore, paradoxically, to recognize ourselves as part of the natural systems
+therefore, paradoxically, to recognize humanity as part of the natural systems
 of which we are also the guides. This theorization of the human-nature
 relationship anticipates the Anthropocene to the extent that it conceives of
 humanity as a defining force within the interlocking natural systems of the
-earth. And while it 
+earth. But while Ward accepts the extent to which this influence has
+historically been destructive, he sees it not as destructive in itself, but as
+a process in need of reform. 
 
+If George Perkins Marsh has been taken as a progenitor of apocalyptic theories
+of the Anthropocene, Ward and Gilman can be taken as early theorists of the
+"good Anthropocene," a loose and heterogeneous set of perspectives that eschew
+the apocalyptic rhetoric of other Anthropocene theories in favor of a triumphal
+embrace of human-led development of natural systems. Contributions to the
+theory of a good Anthropocene range from modest catalogues of projects
+promoting adaptation, rewilding, and sustainable agriculture to more polemical
+works like the controversial "Ecomodernist Manifesto" from 2015, whose many
+signatories from across scientific and humanistic disciplines argue in favor of
+"decoupling human development from environmental impacts" by "intensifying many
+human activities" in smaller and less integrated spaces---or, in their more
+characteristically triumphal tone, "putting humankind's extraordinary powers to
+work." Gilman's vision of the good Anthropocene would seem to fall somewhere in
+between the two, emphatically not "decoupling" the fortunes of humanity and
+nature, but also conceiving of the solution to destructive human influence on
+nature as more, but wiser, human intervention. 
 
+It should be said that by drawing lines between Gilman and the "good
+Anthropocene" that I do not mean to ascribe to or promote it as a program. If
+anything, the association of Gilman and Ward with the good Anthropocene should
+underscore the many emphatic critiques of the "Ecomodernist Manifesto" in
+particular as too comfortable with anthropogenic mass extinctions and too
+committed to a version of history in which humanity is the only actor---as
+Bruno Latour puts it, the manifesto is "written entirely as if humans were
+still alone on stage, the only being who out of its own free will is in charge
+of apportioning space, land, money and value to the old Mother Nature" [@Latour
+223]. Considering these critiques both strengthens the case relating Gilman and
+Ward to the good Anthropocene, in that these same critiques apply to both, and
+points to a new cause for caution in works that have already been heavily
+problematized by contemporary commentators. 
+
+And yet. [Ambient labor if time]
 
 
