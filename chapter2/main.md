@@ -95,19 +95,51 @@ future" [-@baucom_human_2012 3].
 
 The problem of species, of the "*anthropos*" in the Anthropocene, is thus
 manifold and entangled. It demands a natural-scientific universalism that takes
-the species concept as the basis for human history and the starting point in
+the species concept as the basis for human history and as the starting point in
 the struggle for freedom. It requires an understanding of anthropogenic
 planetary change based on this species history. But in developing such
-a species history, we risk backsliding into the essentialisms of the past; thus
-a concerted effort must be made to differentiate a natural-scientific
+a species history, we risk backsliding into the essentialisms of the past, and
+thus a concerted effort must be made to differentiate a natural-scientific
 universalism of collective survival from the universals of the past that have
 long been used to justify programs of domination and supremacy. 
 
 And yet over all these tasks hovers an enduring paradox: to address the
 conceptual and practical challenges of the Anthropocene, we must embrace
-a concept that Chakrabarty claims fundamentally exceeds the capacities of
+a concept that Chakrabarty claims fundamentally exceeds the capacities of human
 experience, that has no phenomenology, that is somehow both embodied and
 inaccessible.
+
+Though differently framed, the defining questions and formal characteristics of
+literary naturalism speak directly to this set of concerns. Pursuing the
+well-trodden ground of the "determinism" question in literary naturalism,
+critics of the genre have debated the role of species characteristics in
+determining the actions and experiences of the
+individual.[^ln-determinism-species-examples] The naturalist character is,
+famously or notoriously, less notable as an individual subjectivity than as
+a nexus of warring deterministic forces. The most marked conflicts occur
+between "forces" defined by evolutionary conditioning and those that are
+a product of a physical and social environment, especially in the context of
+urban environments.[ Norris examples? ] Introducing the species concept into
+this discourse merely requires a reminder that speciation is the product of
+evolutionary variation.
+
+[^ln-determinism-species-examples]: some examples of naturalist criticism that
+drives this home? Look at the classics: Pizer, Walcutt... "Determined Fictions"
+
+But when this common reading of the naturalist character is recast not just in
+terms of the species concept, but in terms of the species concept with all the
+resonances it has gained in the discourse of the Anthropocene, readings of the
+naturalist form and its philosophical underpinnings alike gain added
+significance. In treating characters as more than individual subjectivities, as
+typological figures and as products of biological and environmental conditions,
+the narrative strategies unique to naturalist fiction pursue the same
+imaginative capacities that are required to conceive of the species as
+a category of experience as well as an abstract scientific concept<!--too
+convoluted, rewrite-->. It is through fear, a visceral and decidedly
+unscientific experience, that the *Before Adam* protagonist accesses the
+history of the species. The result is not a conception but a duality of being
+that encompasses a multi-epochal humanness. 
+
 
 [naturalism is the staging ground, because in taking the individual as the
 nexus of determinism, that's exactly what they were trying to access]
