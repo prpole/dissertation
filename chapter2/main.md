@@ -19,7 +19,9 @@ experiences.
 
 Jack London's geology, in short, is a geology of the human, a geology in which
 the human is both the subject and object of study. A century later, we have
-a name for this geology: the Anthropocene.
+a name for this geology: the Anthropocene. <!--room for mini arg-statmeent
+here?--> [explores the intersection of geology (?), the species, and the
+individual consciousness in London]
 
 Of course, though technically only designating a geological epoch defined by
 the influence of collective human activity, the term "Anthropocene" has always
@@ -33,16 +35,83 @@ and a response to it. According to Dipesh Chakrabarty, in his seminal essay
 "The Climate of History: Four Theses," "Species may indeed be the name of
 a placeholder for an emergent, new universal history of humans that flashes up
 in the moment of the danger that is climate change" [-@chakrabarty_climate_2009
-221]. On one hand, beholding the scale of the destruction wrought by
-a collective that exceeds every individual while comprising them forces us to
-think collectively in ways that the species concept uniquely enables. But on
-the other hand, it is the threat of self-inflicted mass extinction that causes
-us to think about what is being threatened, to place ourselves in the long
-history of lifeforms coming into being and disappearing in a geological moment.
+221]. If our "moment of danger" is causing us to reach for the "species"
+concept, causing us to seek a biological collective that exceeds and comprises
+the individual, it is in response to a dual relationship to mass extinction. We
+recognize on one hand that the human collective has become a destructive force
+by its very nature, exceeding the capacities usually known to biology. But we
+recognize at the same time that this destructiveness does not come with
+omnipotence. To think of the human in a superhuman timescale is to take
+seriously the threat of self-inflicted mass extinction, to place ourselves in
+the long history of lifeforms coming into being and disappearing in
+a geological moment.
 
-This also describes the conditions under which the species concept emerges in
-London's work, as well as the philosophical narrative uses he puts it to. [...]
-<!--mark-->
+And yet, though the species is a universal concept that "flashes up" in an
+existentially threatening moment, it inhabits a timescale too far removed from
+that of human experience to be easily apprehensible---or, for that matter,
+apprehensible at all. As Chakrabarty has it: 
+
+> Who is the we? We humans never experience ourselves as a species. We can only
+intellectually comprehend or infer the existence of the human species but never
+experience it as such. There could be no phenomenology of us as a species. Even
+if we were to emotionally identify with a word like mankind, we would not know
+what being a species is, for, in species history, humans are only an instance
+of the concept species as indeed would be any other life form. But one never
+experiences being a concept. (220)
+
+We may be able to conceive of the totality, and we may be able to experience it
+as a kind of guilt. But the phenomenological gap between the self and the
+species is too large: species may always be already embodied, but it is never
+experienced as such. The Anthropocene then presents a moment of distinct crisis
+in the individual imagination. Thinking our new epoch requires that the
+individual experience be expanded even further beyond the self than what normal
+historical consciousness requires, a collectivity that is less an
+identification with something larger than an interrogation of an embodied
+identity, a recognition of the collective that is stitched into the fabric of
+each individual. 
+
+Herein, of course, lies the great danger of species-thinking as a theoretical
+program. It risks ignoring a half-century of critical theory, the very basis of
+which is opposition to the kind of essentialism a discourse of the human
+species would seem to imply. Ian Baucom, considering Chakrabarty's universal
+species concept, points out that "it seems to wreak havoc on the key principles
+of historical understanding and political commitment that have animated not
+only Chakrabarty’s preceding body of work, but the broader project of
+postcolonial critique to which that work has been dedicated"
+[-@baucom_human_2012 3]. To consider the species concept as a universal of the
+same type as those that postcolonial critique has opposed in the past, however,
+would be to miss Chakrabarty's point. It is not a universalism in the Hegelian
+mode, which Chakrabarty himself has opposed in the name of a struggle for the
+"freedom of difference," but a "natural--scientific" universalism that presents
+a new paradigm entirely[@-baucom_human_2012 3]. As Baucom reads it, in this new
+paradigm "freedom can no longer be conceived of as the freedom of difference
+against the power of the globalizing same." Rather, because "freedom" now
+relies on survival through a collective effort to save the planet by
+transforming our relationship to it, this universal concept has become a *sine
+qua non* of freedom itself. The pursuit of freedom is now "a task of the
+species, as species, for the species. It is a universal human challenge,
+a challenge of humanity’s shared natural history and its shared planetary
+future" [-@baucom_human_2012 3]. 
+
+The problem of species, of the "*anthropos*" in the Anthropocene, is thus
+manifold and entangled. It demands a natural-scientific universalism that takes
+the species concept as the basis for human history and the starting point in
+the struggle for freedom. It requires an understanding of anthropogenic
+planetary change based on this species history. But in developing such
+a species history, we risk backsliding into the essentialisms of the past; thus
+a concerted effort must be made to differentiate a natural-scientific
+universalism of collective survival from the universals of the past that have
+long been used to justify programs of domination and supremacy. 
+
+And yet over all these tasks hovers an enduring paradox: to address the
+conceptual and practical challenges of the Anthropocene, we must embrace
+a concept that Chakrabarty claims fundamentally exceeds the capacities of
+experience, that has no phenomenology, that is somehow both embodied and
+inaccessible.
+
+[naturalism is the staging ground, because in taking the individual as the
+nexus of determinism, that's exactly what they were trying to access]
+
 
 
 This chapter will explore the ways in which literary naturalism, and
