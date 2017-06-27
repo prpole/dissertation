@@ -110,7 +110,7 @@ experience, that has no phenomenology, that is somehow both embodied and
 inaccessible.
 
 Though differently framed, the defining questions and formal characteristics of
-literary naturalism speak directly to this set of concerns. Pursuing the
+literary naturalism speak directly to this set of concerns. In pursuing the
 well-trodden ground of the "determinism" question in literary naturalism,
 critics of the genre have debated the role of species characteristics in
 determining the actions and experiences of the
@@ -137,9 +137,18 @@ imaginative capacities that are required to conceive of the species as
 a category of experience as well as an abstract scientific concept<!--too
 convoluted, rewrite-->. It is through fear, a visceral and decidedly
 unscientific experience, that the *Before Adam* protagonist accesses the
-history of the species. The result is not a conception but a duality of being
-that encompasses a multi-epochal humanness. 
+history of the species. To feel the fear of the Pleistocene epoch is to recall
+a distinctly different humanity, one that has not superceded the bounds of
+biological agency to become geological---indeed, one that has not yet removed
+itself from the food chain or secured its sustenance through the soft conquest
+of agriculture and animal domestication. To recall this earlier state of being
+in the context of evolutionary history is to draw the outline of the human
+species itself through a rare experiential link. The result is not an abstract
+conception but a duality of being that encompasses a multi-epochal humanness. 
 
+Experiencing humanness *per se*, and doing so on a scale that exceeds the
+individual, has ramifications for London's environmental consciousness just as
+it does for environmental consciousness in the Anthropocene. 
 
 [naturalism is the staging ground, because in taking the individual as the
 nexus of determinism, that's exactly what they were trying to access]
