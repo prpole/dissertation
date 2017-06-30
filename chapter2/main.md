@@ -5,7 +5,8 @@ bibliography: bibliography.bib
 
 > For my fear is the fear of long ago, the fear that was rampant in the Younger
 World, and in the youth of the Younger World. In short, the fear that reigned
-supreme in that period known as the Mid-Pleistocene. (1)
+supreme in that period known as the Mid-Pleistocene. (1) [longer quote w more
+context?]
 
 Jack London's *Before Adam* (year) begins with an act of geological
 periodization. But the object of this periodization is not a stratigraphic
@@ -21,7 +22,13 @@ Jack London's geology, in short, is a geology of the human, a geology in which
 the human is both the subject and object of study. A century later, we have
 a name for this geology: the Anthropocene. <!--room for mini arg-statmeent
 here?--> [explores the intersection of geology (?), the species, and the
-individual consciousness in London]
+individual consciousness in London] 
+
+...This chapter will explore the ways in which literary naturalism, and
+particularly the works of Jack London, has already taken up one of the chief
+heuristic challenges posed by the Anthropocene as a theoretical discourse: to
+consider the place of natural history in human history by conceiving of the
+human *as a species*. 
 
 Of course, though technically only designating a geological epoch defined by
 the influence of collective human activity, the term "Anthropocene" has always
@@ -254,11 +261,45 @@ a troubling one from an ecofeminist perspective) between their integration into
 a larger narrative of heredity and species and the discovery of an alternative
 to environmental destruction. 
 
+And yet, in *The Valley of the Moon* and much of London's larger body of work,
+the topic that stands out most clearly is not species, but race. Indeed, the
+two concepts can be difficult to untangle in London's work, a fact that does
+nothing to quell concerns that any discourse predicated on the species will
+risk being inherently regressive. Billy and Saxon's attempts to understand
+themselves in a larger timescale is often framed as a quest for a racially pure
+identity. They initially bond over a shared "Anglo-Saxon" lineage and routinely
+utter nativist commonplaces. As a result, criticism of *The Valley of the Moon*
+has largely, if understandably, missed the environmentalist forest for the
+racist trees. 
+
+But there is good reason to question any reading of *The Valley of the Moon*
+that takes these nativist sentiments at face value, treating them as either
+stable throughout the novel or as expressions of an uncomplicated perspective
+of London's own. Rather, in the scope of the entire novel, this nativism and
+white supremecism must be understood as objects of critique. Despite her name,
+Saxon becomes a proponent of what London sometimes called the "Brotherhood of
+Man,"[^ln-brotherhood] resisting and mocking Billy's sense of racial
+superiority. [an example or two] Though at the beginning of their journey they
+search for contact with their personal mythology of an Anglo-Saxonism based on
+a seafaring and homesteading past, by its end that narrative has failed them.
+Though they still harbor a belief that their ancestry makes them
+"zone-conquerors" destined to expand and take over whatever is on their
+horizon, they come to realize that this "conquering" is really just
+destruction. [quote about white people wrecking everything] Furthermore, Saxon
+sees the inverse of this destructive impulse in the practices of the people
+Billy sees as his inferiors. London's classic white superman becomes a figure
+of ridicule, part of the very problem that London positions as a cause of the
+growing environmental crisis. Resisting it requires renouncing this supremecism
+and embracing a sort of pluralism instead, while still retaining a sense of
+themselves in terms of a larger encompassing human identity. In *The Valley of
+the Moon*, the supposedly determined characteristics of Anglo-Saxonism become
+the root of all environmental evils, while the solution is to embrace the
+cultural differences that define the human species. 
+
+[^ln-brotherhood]: cite London's Racial Lives on this term and in support of
+this argument in general
 
 
+The rest of this chapter will... [ ]
 
-This chapter will explore the ways in which literary naturalism, and
-particularly the works of Jack London, has already taken up one of the chief
-heuristic challenges posed by the Anthropocene as a theoretical discourse: to
-consider the place of natural history in human history by conceiving of the
-human *as a species*. 
+
