@@ -147,11 +147,113 @@ species itself through a rare experiential link. The result is not an abstract
 conception but a duality of being that encompasses a multi-epochal humanness. 
 
 Experiencing humanness *per se*, and doing so on a scale that exceeds the
-individual, has ramifications for London's environmental consciousness just as
-it does for environmental consciousness in the Anthropocene. 
+individual, has ramifications for London's environmental consciousness just as 
+it does for environmental consciousness in the Anthropocene. Nowhere is this
+more evident than in his agricultural novels, written in the final years of his
+life as he worked his "Beauty Ranch," an experimental farm in the [Sonoma
+Valley] that became a material staging ground for his budding ecological
+consciousness. 
 
-[naturalism is the staging ground, because in taking the individual as the
-nexus of determinism, that's exactly what they were trying to access]
+*Burning Daylight* (1910) can be read as narrating the development of such
+a consciousness. Just as London's best-known writing begins with stories of dog
+running and gold mining in the far north and concluded in agricultural
+narratives, Elam "Burning Daylight" Harnish's story begins when he goes from
+carrying mail in the Yukon [check task and place] to striking it rich on
+fortuitous gold claims [I think it's more complex than this...]. His extractive
+impulse leads him naturally into financial speculation and thus to the urban
+centers of California, where he experiences the classic naturalist "plot of
+decline" as distance from his wilderness roots takes its toll through the
+drinking and inactivity it engenders. London paints a portrait of a typological
+figure whose very physical being and essential character transforms as a result
+of a change in his environment, and the loss is rendered in terms that are
+understood historically as reflecting a change in the fundamental nature of the
+species. The only way for Harnish to regain his physical vitality is to abandon
+a capitalist conception of land in favor of a respectful engagement with it, an
+engagement that is aesthetic at the same time that it is horticultural and
+ecological. Rather than extracting value from land in the form of rent, Harnish
+begins to value the land itself based on its health and an autonomy that
+approximates that of the wild north from which he came. But it is not wildness
+itself that he values---rather, it is his relationship with the land,
+a relationship that is active without being extractive, encouraging growth that
+increases the productive capacity of the land whether or not what is produced
+is profitable. In order to attain this state of horticultural enlightenment, he
+has to come to an understanding of the influence environment has on his basic
+being, or in other words of the naturalist logic of determinism that cuts right
+to the genre's conception of humanness itself. When a small landslide in his
+new idealized natural environment reveals a strain of gold, he feels himself
+momentarily pulled back into the extractive, urban version of the human that he
+has fought hard to escape. In an important symbolic moment, he covers the gold
+back up, knowingly choosing an atavistic human existence to preserve himself
+and his immediate environment in the same act. A dynamic relationship to
+species, one that balances determinism of possible futures with a free act of
+choice among those futures, is the basis of this environmental praxis.
+
+*The Valley of the Moon* (1913) is in many ways a reprise of the themes of
+*Burning Daylight* that pushes even further both the atavistic relation to
+species and the resultant environmental praxis. The novel is neatly divided
+between sections dealing with the city and the country, setting up a neat test
+case for the naturalist urban premise of the naturalist plot of decline. Billy
+and Saxon effect a flight from the city of Oakland when teamster union strikes
+are put down by zealous police violence---and because of Billy's surrender to
+alcohol that is the partial result. The second half of the novel chronicles
+their travels in search of a plot of land, which they idealize by imagining as
+a "valley of the moon," otherworldly and perhaps unattainable. [check? where
+does the valley of the moon thing begin?] On the way to finding this land,
+a clear proxy for London's own "Beauty Ranch," Billy and Saxon gather
+horticultural knowledge from a combination of farming operations owned and
+managed by immigrant communities, market gardeners with upscale clientele, and
+a set of books and pamphlets that represent a cross-section of London's own
+Beauty Ranch horticultural library.[^ln-tichi] Putting this collected wisdom
+into practice has an effect on Billy and Saxon similar to what Elam Harnish
+experiences in *Burning Daylight*: they settle into a hard-working but
+unalienated routine of agricultural labor and living, having escaped the
+degrading influence of urbanity. Billy and Saxon's story follows a "back-to-the
+land" motif that is built on the naturalist logic of determinism and decline
+while complicating that logic at the same time. Conceding a degree of
+environmental determinism, at least as far as the broad categories of rural and
+urban environments, the pair nevertheless have a degree of choice in choosing
+a new environment and in transforming the environment they find themselves
+in---which transformation is possible to a much greater degree beyond the dense
+and alienated environment of the city. 
+
+[^ln-tichi]: citation in Tichi's book on London as reformer
+
+
+For Billy and Saxon, choosing among possible environments and, by extension,
+possible modes of being also entails choosing how to relate to their forebears.
+They experience a more voluntary form of the atavism of *Before Adam*: where
+*BA*'s protagonist unwittingly exceeds the boundaries of individual experience,
+Billy and Saxon seek out a consciousness that exceeds themselves and the
+timescale of the individual. They willfully change their environment and their
+relation to it only after understanding themselves in terms of their forebears
+and of broader historical action. In the first place, they understand their
+exploration of California in search of land as an extension of their family
+history several generations back. [quotes] But this broadening of the self goes
+back even further, into a shared fantasy of a seafaring past through which they
+understand their own nomadic existence. [quotes] 
+
+Finally, these attempts to connect with personal family histories, real or
+imagined, coincide with an understanding of the land itself not as it is, but
+as a process resulting in its current state. Billy and Saxon (especially Saxon)
+see the conventional wisdom of California farmers gone badly awry, represented
+most succinctly by a farmer who brags about how many plots of land he has
+single-handedly exhausted. They also see in the larger environmental history of
+the country this same short-sightedness, an agricultural mode oriented to
+building cities by stripping the countrysides with no thought given to
+maintaining the soil. In other words, they discover that the same forces that
+produced the environment from which they fled have also looted the Arcadia they
+hoped to find. Their atavism gives them a counterpoint, a second comparative
+perspective with which they can see the destruction wrought by too great
+a degree of human influence on our environment. The wider view they gain
+ultimately allows them to make a different choice. Rejecting the trend, they
+begin systematically building the soil on first one farm, then several in the
+Sonoma Valley. The novel concludes with Saxon becoming pregnant, something they
+worried would not be possible after their travails in the city led to
+a miscarriage. This ending establishes a clear symbolic link (albeit
+a troubling one from an ecofeminist perspective) between their integration into
+a larger narrative of heredity and species and the discovery of an alternative
+to environmental destruction. 
+
 
 
 
