@@ -3,6 +3,8 @@ geometry: margin=1in
 bibliography: bibliography.bib
 ---
 
+### Introduction
+
 > For my fear is the fear of long ago, the fear that was rampant in the Younger
 World, and in the youth of the Younger World. In short, the fear that reigned
 supreme in that period known as the Mid-Pleistocene. (1) [longer quote w more
@@ -302,4 +304,96 @@ this argument in general
 
 The rest of this chapter will... [ ]
 
+### Species-Being, Human and Animal
 
+<!--outline dog books, nature fakers, to build a fire; must conclude long intro
+by opening up the question of species-being per se--->
+
+The part of London's work that is most relevant to the species discussion is
+also the part for which he is most famous: the stories with canine
+protagonists. In *The Call of the Wild* (1903) and *White Fang* (1906), two
+dogs explore the line between domesticity and wildness. In the former, Buck
+becomes progressively wilder as he moves from a comfortable existence on a farm
+to leading a sled team to running free with a pack of wolves. The latter
+presents an inverse situation, tracing White Fang's life from his birth in the
+wilderness through his coming of age in captivity, where he is forced into the
+dog fighting ring until being rescued and finally domesticated. Here and
+elsewhere, London uses the individual dog character to explore the subjective
+experience of species. On one hand, he considers the degree to which the
+experience of a single dog is the result of dogness---that is, to what extent
+species itself can be said to account for individual subjectivity. On the other
+hand, he uses the dog figure as a vantage point from which to consider the
+human, and to ask whether humanness can be used to define the individual person
+in the same way that dogness can define the individual dog. 
+
+Even where his conclusions were limited to actual dogs, interrogating species
+as such made trouble for London in what is now known as the "nature fakers"
+controversy, pitting him against none other than the sitting president and
+self-appointed authority on all things out-of-doors, Theodore Roosevelt. The
+controversy began when a scientist named John Burroughs wrote an article called
+"Real and Sham Natural History," in which he decried the appearance of
+sympathetic and above all individualistic animal characters in the fiction of
+the day. Burroughs claimed that all animal behavior was entirely instinctual,
+and that the implications of reason and learned behavior in individual animals
+on which these animal fictions relied constituted nature-fakery. To Burroughs,
+the non-human animal is entirely mechanistic, an automaton driven by pure
+instinct. [check in the actual essay---make sure this isn't an opportunistic
+gloss by london] For his part, Roosevelt leveled petty complaints against
+*White Fang*: he saw fakery in the claim that a lynx could kill a dog (which
+does not happen in *White Fang*) and that a bull dog could beat a wolf dog in
+a fight.[ditto] 
+
+When these critiques began to appear, London did his best to keep out of it. As
+he wrote several years later of the incident in an essay called "The Other
+Animals": "when the word *nature-faker* was coined, I, for one, climbed into my
+tree and stayed there...and a Honolulu reporter elicited the sentiment from me
+that I thanked God I was not an authority on anything" [@london_other_???].
+When he finally did climb down from his tree, he dismissed Roosevelt's claims
+easily enough, describing the president as an "amateur" and saying he "does not
+understand evolution, and he does not seem to have made much of an attempt to
+understand evolution" [@london_other_???]. On this basis, he excused the
+president's mistakes and suggested a more careful rereading of the works
+Roosevelt critiqued.
+
+In responding to Burroughs, London was more comprehensive and more damning, and
+in being so reveals a continuity between his dog books and his meditations on
+the human. In "The Other Animals," he recounts several experiences with his own
+dogs that bear a clear relation to episodes in his fiction, analyzing them to
+demonstrate reason triumphing over instinct. The drives of instinct and reason,
+he says, come out of an evolutionary succession, with the former a "race-habit"
+that "is blind, unreasoning, mechanical" and the latter a development that
+culiminates in, but is not exlusive to, humanness itself. His concluding salvo
+continues to place human and non-human on an evolutionary continuum, but in
+doing so it also suggests that the process that leads to the human continues to
+exist in the humans of the present:
+
+> Mr. Burroughs, though you stand on the top of the ladder of life, you must
+not kick out that ladder from under your feet. You must not deny your
+relatives, the other animals. Their history is your history....What you
+repudiate in them you repudiate in yourself — a pretty spectacle, truly, of an
+exalted animal striving to disown the stuff of life out of which it is made,
+striving by use of the very reason that was developed by evolution to deny the
+processes of evolution that developed it. This may be good egotism, but it is
+not good science.
+
+Embrace the animal, London tells us (with Burroughs as a proxy), "exalted
+animal" though it may be. Claiming that human action is driven exclusively by
+reason gives the lie to the very utility of that reason, for reason
+paradoxically requires an admission of unreason in the form of more atavistic
+drives. Contrary to the straw-man versions of naturalist determinism that have
+marked critiques of the genre for over a century, animalistic drives in the
+human and non-human alike are non-mechanistic. Rather, London's naturalism
+positions these drives as a substratum that exists in a complex mixture with
+the reason that both derives from and seeks to disown it. The extent to which
+reason has developed is a matter of species.
+
+But buried in this conclusion is another telling statement that complicates the
+traditional boundaries between human history and natural history---the very
+boundary that Chakrabarty and Baucom say the Anthropocene itself complicates.
+"You must not deny your relatives, the other animals," London tells us. He
+continues: "*Their history is your history*" (emphasis mine). What appears
+a statement of inter-species comradery is much more when considered in terms of
+London's larger project in relation to species. He uses the species concept as
+a starting point for a narrative exploration of the natural history of the
+human---a unique kind of historical fiction, we might say, natural history
+fiction.
