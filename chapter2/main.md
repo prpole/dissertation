@@ -3,6 +3,22 @@ geometry: margin=1in
 bibliography: bibliography.bib
 ---
 
+> You must not deny your relatives, the other animals. Their history is your
+history.
+
+> ---Jack London, "The Other Animals"
+
+> History is the true natural history of man.
+
+> ---Karl Marx, *The Economic and Philosophical Manuscripts of 1844*
+
+> Even if we were to emotionally identify with a word like mankind, we would
+not know what being a species is, for, in species history, humans are only an
+instance of the concept species as indeed would be any other life form. But one
+never experiences being a concept.
+
+> ---Dipesh Chakrabarty, "The Climate of History: Four Theses"
+
 ### Introduction
 
 > For my fear is the fear of long ago, the fear that was rampant in the Younger
@@ -154,6 +170,11 @@ of agriculture and animal domestication. To recall this earlier state of being
 in the context of evolutionary history is to draw the outline of the human
 species itself through a rare experiential link. The result is not an abstract
 conception but a duality of being that encompasses a multi-epochal humanness. 
+
+<!-- preview species-being here? -->
+
+<!-- not sure whether to preview B.D. and V.M here or move these blurbs to the 
+section where I actually deal with them-->
 
 Experiencing humanness *per se*, and doing so on a scale that exceeds the
 individual, has ramifications for London's environmental consciousness just as 
@@ -392,8 +413,71 @@ traditional boundaries between human history and natural history---the very
 boundary that Chakrabarty and Baucom say the Anthropocene itself complicates.
 "You must not deny your relatives, the other animals," London tells us. He
 continues: "*Their history is your history*" (emphasis mine). What appears
-a statement of inter-species comradery is much more when considered in terms of
-London's larger project in relation to species. He uses the species concept as
-a starting point for a narrative exploration of the natural history of the
-human---a unique kind of historical fiction, we might say, natural history
-fiction.
+a statement of inter-species comaradery becomes much more when considered in
+terms of London's larger project in relation to species. He uses the species
+concept as a starting point for a narrative exploration of the natural history
+of the human---a unique kind of historical fiction, we might say, a natural
+history fiction.
+
+*Before Adam* is undoubtedly such a fiction, an attempt to bring to life, to
+bring to experience, the natural history of the human. It experiments not so
+much with different temporalities as with juxtaposed modes of experience
+appropriate to different forms of consciousness in the history of the species,
+just as other naturalist historical novels (Dreiser's *The Financier*, for
+example) create the experience of an economic and social moment in human
+history. Here the human *per se* is the object of historical inquiry. But
+London himself highlights the novel's limitations as a general model for
+experiencing species as more than a concept. [ quote from BA about the narrator
+being an abnormal example of something that exists in everyone ]. If the
+narrator is an extreme example of something that exists in everyone, the novel
+in which he appears still leaves us with the crucial questions largely
+unanswered: What does it mean to *live* species rather than think, not as
+a transcendent experience but as a quotidian one? What does it mean to
+experience the species as a defining category contingent on a moment in natural
+history, in the way that certain historically contingent identities can be
+experienced?
+
+***
+
+If *Before Adam* fails to address these questions, it is perhaps because it
+fails to fully root itself in the experiences of either of the two moments it
+depicts, neither fully inhabiting the experience of the Pleistocene or the
+Holocene. It may give a narrative model of natural-historical fiction, but this
+is the same task narratively as other forms of historical fiction require. If
+he makes the pre-human experience of the Pleistocene more accessible to
+a modern consciousness, it may paint a clearer sketch of the process of
+speciation and human development, in the same way that Dreiser makes the
+economic crisis of 1871 [?] open to experience to form an argument about the
+crisis-prone nature of capitalism and finance. But neither novel does anything
+to expand the temporal scale of their narration, a expansion without which any
+robust experience of species remains out of reach. 
+
+In a short story from the same period, "To Build a Fire," London performs just
+such an expansion, and it does so by interrogating the classic naturalist
+tropes of atavism and instinct. But in doing so he also presents a version of
+the human that exceeds the category of biological species---and through
+contrast with a canine character like those of *The Call of the Wild* and
+*White Fang*, shows just how much the species-concept needs to be revised to be
+experienced on human terms. The story tests the ways the forms of knowledge
+that came to conflict in the "nature fakers" controversy define the experience
+of species in canine and human subjects. It also pursues an anti-essentialist
+definition of humanness as plastic and historically contingent---a definition
+that effectively blends the historical and natural-historical modes.
+
+*Before Adam* was serialized in 1906 and 1907, an
+apparent attempt to extend to human characters the explorations of species that
+came more naturally to him in reference to dogs and wolves. Writing 
+
+<!-- B.A., briefly; the book raises the idea of what it would mean to experience 
+the species, but is avowedly an abnormality. What would it look like in 
+everyday life? -->
+
+<!-- section: TBAF 1: the experience of human species-being vs canine s-b. 
+opening-out question: how can technology be part of the conception of species?
+what does this do to the question of essentialism?-->
+
+<!-- section: Marx: s-b is contingent while being universal; historical change
+is a change in essence; talking about species is not the same as talking
+about static unchanging essentialism; we can have both "their history is your
+history" and "history is the true natural history of man"-->
+
