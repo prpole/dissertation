@@ -437,44 +437,77 @@ experience the species as a defining category contingent on a moment in natural
 history, in the way that certain historically contingent identities can be
 experienced?
 
-***
+---
 
 If *Before Adam* fails to address these questions, it is perhaps because it
 fails to fully root itself in the experiences of either of the two moments it
-depicts, neither fully inhabiting the experience of the Pleistocene or the
-Holocene. It may give a narrative model of natural-historical fiction, but this
-is the same task narratively as other forms of historical fiction require. If
-he makes the pre-human experience of the Pleistocene more accessible to
-a modern consciousness, it may paint a clearer sketch of the process of
-speciation and human development, in the same way that Dreiser makes the
-economic crisis of 1871 [?] open to experience to form an argument about the
-crisis-prone nature of capitalism and finance. But neither novel does anything
-to expand the temporal scale of their narration, a expansion without which any
-robust experience of species remains out of reach. 
+depicts, fully inhabiting the experience of neither the Pleistocene nor the
+Holocene. It may model a natural-historical fiction, but this fiction has the
+narrative requirements as other forms of historical fiction. If he makes the
+pre-human experience of the Pleistocene more accessible to a modern
+consciousness, it may paint a clearer sketch of the process of speciation and
+human development, in the same way that Dreiser makes the economic crisis of
+1871 [?] open to experience to form an argument about the crisis-prone nature
+of capitalism and finance. But neither novel does anything to expand the
+temporal scale of their narration, a expansion without which any robust
+experience of species remains out of reach. 
 
 In a short story from the same period, "To Build a Fire," London performs just
-such an expansion, and it does so by interrogating the classic naturalist
+such an expansion, and he does so by interrogating the classic naturalist
 tropes of atavism and instinct. But in doing so he also presents a version of
 the human that exceeds the category of biological species---and through
 contrast with a canine character like those of *The Call of the Wild* and
 *White Fang*, shows just how much the species-concept needs to be revised to be
 experienced on human terms. The story tests the ways the forms of knowledge
 that came to conflict in the "nature fakers" controversy define the experience
-of species in canine and human subjects. It also pursues an anti-essentialist
-definition of humanness as plastic and historically contingent---a definition
-that effectively blends the historical and natural-historical modes.
+of species in canine and human subjects alike. It also pursues an
+anti-essentialist definition of humanness as plastic and historically
+contingent---a definition that effectively blends the historical and
+natural-historical modes.
 
-*Before Adam* was serialized in 1906 and 1907, an
-apparent attempt to extend to human characters the explorations of species that
-came more naturally to him in reference to dogs and wolves. Writing 
+What makes these meditations on the human stand out even more distinctly is the
+fact that they only exist in the second, longer version of the story---the
+version written after *The Call of the Wild*, *White Fang*, and *Before Adam*.
+"To Build a Fire" was first published as a much shorter story in [ ] magazine
+in 1902. Shortly afterward, in 1903, *The Call of the Wild* was published to
+popular acclaim, and was shortly followed by *White Fang* in 1906. Only after
+exploring the narrative challenges of species in canine characters did he write
+*Before Adam*, which was serialized in 1906 and 1907, extending to human
+characters the explorations of species that come more naturally in reference to
+non-human figures. Finally, in 1908, something he had discovered in writing
+these books prompted him to return to the events of "To Build a Fire" with
+a much more nuanced view of the human and a much more ambitious sense of the
+philosophical vision it implies.
 
-<!-- B.A., briefly; the book raises the idea of what it would mean to experience 
-the species, but is avowedly an abnormality. What would it look like in 
-everyday life? -->
+The early story forms a clear foundation for the later, canonical version. Both
+feature a man traveling alone in temperatures less than negative-sixty degrees
+(contrary to the advice of more experienced travelers) whose foot becomes
+soaked with water. In both, the man struggles to build a fire to dry himself
+out and stay alive, fighting the absolute numbness of his extremities to light
+birch bark with a book of matches. But there are differences in the key events
+as well, inviting a comparative reading. In the earlier story, the man makes it
+back to camp with scars and an education. In the latter, he dies, and his
+canine companion (who does not appear in the former version) returns without
+him to "the other food-providers and fire-providers" [@london_build_2001 271]. 
 
-<!-- section: TBAF 1: the experience of human species-being vs canine s-b. 
-opening-out question: how can technology be part of the conception of species?
-what does this do to the question of essentialism?-->
+With these two changes to the events of the story come more significant
+philosophical implications, particularly about how technology and forms of
+deductive reason have come to define the very essence of the human.
+
+<!-- forms of knowledge in human vs animal, relate to nature fakers-->
+
+<!-- technology and prosthesis stuff -->
+
+<!-- cyborgization leads somehow to loss of contact with the earth---a symbolic
+register that corresponds to the very material loss of instinct/nature-ness in
+the human-->
+
+<!-- opening-out question: but wtf, how can species be so contingent?
+(species-being in the Marxian sense helps make sense of it)-->
+
+
+---
+
 
 <!-- section: Marx: s-b is contingent while being universal; historical change
 is a change in essence; talking about species is not the same as talking
