@@ -533,3 +533,25 @@ the cruelty of the jungles turns people into "savages"
 *BD*, *WF*, The Abysmal Brute, and Little Lady of the Big House
 
 
+### Wolfe, Animal Rites
+
+Or to put it in post-Darwinian rather than poststructuralist terms, the subject
+of humanism is constituted by a temporal and evolutionary stratification or
+asynchronicity in which supposedly “animalistic” or “primitive” determinations
+inherited from our evolutionary past—our boundedness to circadian rhythms, say,
+or the various physiological frailties that foreground the body as physically
+determined by a fundamentally ahuman universe of interactions ruled by the laws
+of physics, chemistry, and genetics—coexist uneasily in a second-order relation
+of relations, which the phantasmic “human” surfs or manages with varying
+degrees of success or difficulty. (3)
+
+
+
+[on Cavell]...our stance toward the animal is an index for how we stand in a field of
+otherness and difference generally, and in some ways it is the most reliable
+index, the “hardest case” of our readiness to be vulnerable to other knowledges
+in our embodiment of our own, an embodiment that arrives at the site of the
+other before we do, as our scent reaches the dog's nose before we round the
+corner, telling a story we can never wholly script to a present we have not yet
+reached. (5)
+

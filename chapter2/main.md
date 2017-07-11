@@ -488,11 +488,69 @@ birch bark with a book of matches. But there are differences in the key events
 as well, inviting a comparative reading. In the earlier story, the man makes it
 back to camp with scars and an education. In the latter, he dies, and his
 canine companion (who does not appear in the former version) returns without
-him to "the other food-providers and fire-providers" [@london_build_2001 271]. 
+him to "the other food-providers and fire-providers."[@london_build_2001 271]
 
 With these two changes to the events of the story come more significant
-philosophical implications, particularly about how technology and forms of
-deductive reason have come to define the very essence of the human.
+philosophical implications, particularly about how reason and technology have
+come to define the very essence of the human. Reason and technology are not
+restricted to humans in his vision, however, merely existing in different
+proportions with respect to other forms of knowing. Broadly speaking, knowledge
+as such forms a barrier between the individual organism and death, and the
+novel lays out three forms of such knowledge: instinct, reason, and social
+knowledge. 
+
+London is inconsistent regarding the extent to which each of these forms of
+knowledge does indeed constitute knowledge. On one hand, instinct is presented
+as something other than knowing. When, confronted with wet feet just as the man
+is, the dog begins licking and biting its toes to break off the ice, London
+draws a line between apparently automatic action and reason. The dog's
+preventative measure "was a matter of instinct. To permit the ice to remain
+would mean sore feet. It did not know this. It merely obeyed the mysterious
+prompting that arose from the deep crypts of its being." In contrast, when the
+man helps the dog remove the ice from its feet, he does so not out of some
+coevolutionary impulse, but out of a deduced and self-serving rationale. No,
+the dog did not know what the ice "meant": "But the man knew, having achieved
+a judgment on the subject, and he removed the mitten from his right hand and
+helped tear out the ice-particles."[@london_build_2001 263-4] Here is an
+apparently familiar story about the line separating human and animal, not
+unlike Burroughs's position in his excoriation of nature fakers. Where the man
+"achieve[s] a judgment," the dog merely "obeys" a distinctly embodied
+sedimentation of ancestral experiences. Dubbing the source of the dog's
+instinctual response "the deep crypts of its being," London makes this action dead,
+a stark contrast to the active language of the man's intellectual achievements.
+
+But this familiar argument that places the non-human on the side of instinct
+and the human on the side of reason is not London's argument, as is clear from
+his response to Burroughs, and the easy division is quickly complicated. In the
+first place, the dog of "To Build a Fire" has all the same capacity for reason
+that London saw in his own dogs and that he ascribes to Buck and White Fang.
+Responding to life-threatening cold, the dog has a learned response that
+appears simultaneously with his instinctive one: "The dog had learned fire, and
+it wanted fire, or else to burrow under the snow and cuddle its warmth away
+from the air."[@london_build_2001 262] The dog prefers the fire it has learned
+to depend on, but failing that, it has a reservoir of instinct to fall back on.
+The man is not so lucky. Though he singularly fails to benefit from any
+instinctive knowledge, however, it is not because of a lack in the instinctual
+capacities of humanity as a species---as is clear in *Before Adam*, London
+ascribes the same "deep crypts of being" to humans in varying degrees. It is
+instead a matter of the man's particular ancestry: "This man did not know cold.
+Possibly all the generations of his ancestry had been ignorant of cold, of real
+cold, of cold one hundred and seven degrees below freezing-point. But the dog
+knew; all its ancestry knew, and it had inherited the knowledge."[... 264] We
+understand by implication that things might be different for the man---*this*
+man, not "man"---had his ancestors been more acquainted with the kind of cold
+he confronts in the story. Furthermore, instinct is not a mysterious prompting
+in this example, but a legitimate source of knowledge. The dog "knew", the man
+"did not know" because of a difference in their access to instinctual
+reservoirs. 
+
+Finally, both the human and non-human subjects here have social relations that
+act as yet another source of knowledge. London again and again observes, in
+both versions of the story, that the man has not appreciated the advice of the
+"old-timer on Sulpher Creek" who warned him against traveling alone, especially
+in temperatures below negative-fifty degrees.[... 265] ... [social knowledge as
+bulwark against frail individual memory; also possibility of it in relation to
+other species; true for dogs in dog books as well]
 
 <!-- forms of knowledge in human vs animal, relate to nature fakers-->
 
