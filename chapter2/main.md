@@ -533,7 +533,7 @@ The man is not so lucky. Though he singularly fails to benefit from any
 instinctive knowledge, however, it is not because of a lack in the instinctual
 capacities of humanity as a species---as is clear in *Before Adam*, London
 ascribes the same "deep crypts of being" to humans in varying degrees. It is
-instead a matter of the man's particular ancestry: "This man did not know cold.
+instead a matter of the man's particular ancestry: "This man did .not know cold.
 Possibly all the generations of his ancestry had been ignorant of cold, of real
 cold, of cold one hundred and seven degrees below freezing-point. But the dog
 knew; all its ancestry knew, and it had inherited the knowledge."[... 264] We
@@ -542,17 +542,73 @@ man, not "man"---had his ancestors been more acquainted with the kind of cold
 he confronts in the story. Furthermore, instinct is not a mysterious prompting
 in this example, but a legitimate source of knowledge. The dog "knew", the man
 "did not know" because of a difference in their access to instinctual
-reservoirs. 
+archives. 
 
-Finally, both the human and non-human subjects here have social relations that
-act as yet another source of knowledge. London again and again observes, in
-both versions of the story, that the man has not appreciated the advice of the
-"old-timer on Sulpher Creek" who warned him against traveling alone, especially
-in temperatures below negative-fifty degrees.[... 265] ... [social knowledge as
-bulwark against frail individual memory; also possibility of it in relation to
-other species; true for dogs in dog books as well]
+<!-- I note at this point that the question of knowledge/forms thereof as
+defining characteristics has become important... this sort of jives with what
+I'm seeing in animal studies, Haraway and Wolfe, etc. Need to make this more
+explicit sooner in the section-->Finally, both the human and non-human subjects
+here have social relations that act as yet another source of knowledge. London
+again and again observes, in both versions of the story, that the man has not
+appreciated the advice of the "old-timer on Sulpher Creek" who warned him
+against traveling alone, especially in temperatures below negative-fifty
+degrees.[... 265] This, ultimately, is the man's cardinal sin, a lack of
+respect for the accumulated knowledge of those who know the extreme environment
+better than he does. For just as the individual alone in an extreme
+environment is more fragile than in a group, the knowledge of the individual
+is more fragile than collective knowledge: subject to gaps due to a lack of
+both experience and so-called instinctual impulses as well as to simple
+forgetfulness. Indeed, the man's demise could well stem from having "forgotten
+to build a fire and thaw out" before sitting down to eat, which it is implied
+would not have occurred had he travelled with companions or taken more heed of
+advice.[... 264] 
 
-<!-- forms of knowledge in human vs animal, relate to nature fakers-->
+What is more surprising is that his relationship with the dog could have
+provided this social reservoir of knowledge were that relationship more
+mutually supportive. The dog's instinctual reserves of wisdom are open to the
+man, making (in theory if not in this case) inter-species sociality a route to
+a replacement for those instinctual reserves that humanity lacks. Immediately
+after drawing a sharp contrast between the man's lack of instinctual
+understanding of the cold and the dog's awareness that "it was the time to lie
+snug in a hole in the snow", London momentarily enters the dog's consciousness
+to demonstrate an intentional withholding of what it knows: "there was no keen
+intimacy between the dog and the man. The one was the toil-slave of the other,
+and the only caresses it had ever received were the caresses of the whip-lash
+and of harsh and menacing throat-sounds that threatened the whip-lash. So the
+dog made no effort to communicate its apprehension to the man."[... 265] Cruel
+treatment and exploitation are poor substitutes for social relationships, so no
+transfer of information occurs. But the idea that instinct is communicable is,
+in considering the species, remarkable---because we presume that instinctual
+knowledge is either a shared *human* instinct (and does not need to be
+communicated) or is inaccessible because it belongs to another species and is,
+*ipso facto*, unable to communicated. London not only imagines a social life
+that goes beyond the species, but suggests that such a social life is an
+absolute necessity in certain environments.
+
+The combination of the necessity of instinctual knowledge, the human's lack of
+it, and the inter-species sociality as a replacement for it has a startling
+implication in considering the fitness of humanity for survival. On its own,
+the human is incomplete, just as "the man" as an individual is incomplete on
+his own in the Yukon. He needs either the living sociality of advice and
+companions, discourse with the dead in the form of a speaking archive of
+instinctual knowledge, or the inter-species relationships that are enabled by
+domestication (or symbiosis in the case of other species). 
+
+To briefly summarize before moving on, then, London draws the species line
+according to the availability of different types of knowledge, but he is not
+absolutist in the way that Burroughs is or others are who claim that reason or
+socialization uniquely define the human. Rather, London posits that the
+characters of human and non-human species alike are defined by unique
+combinations of these types of knowledge (to say nothing of the sensory) and
+the ways in which they are determinative or not of action. 
+
+---
+
+Narratively rendering a comparative definition of species, however, is not the
+same as narrating an experience of species as such as an identity....
+
+
+
 
 <!-- technology and prosthesis stuff -->
 
