@@ -1,7 +1,11 @@
 ---
+title: Jack London and the Phenomenology of Species
 geometry: margin=1in
 bibliography: bibliography.bib
 ---
+
+<!--useful phrase, maybe something in the title: the phenomenology of
+species-->
 
 > You must not deny your relatives, the other animals. Their history is your
 history.
@@ -20,6 +24,10 @@ never experiences being a concept.
 > ---Dipesh Chakrabarty, "The Climate of History: Four Theses"
 
 ### Introduction
+
+<!-- if possible it would be cool to use the intro to explore Before Adam in
+toto... as well as introducing the anthropos/universals debate and previewing
+species-being-->
 
 > For my fear is the fear of long ago, the fear that was rampant in the Younger
 World, and in the youth of the Younger World. In short, the fear that reigned
@@ -173,8 +181,9 @@ conception but a duality of being that encompasses a multi-epochal humanness.
 
 <!-- preview species-being here? -->
 
-<!-- not sure whether to preview B.D. and V.M here or move these blurbs to the 
-section where I actually deal with them-->
+<!-- not sure whether to preview B.D. and V.M here or move these blurbs to the
+section where I actually deal with them... [update: yeah probably move them to
+the later section]-->
 
 Experiencing humanness *per se*, and doing so on a scale that exceeds the
 individual, has ramifications for London's environmental consciousness just as 
@@ -605,10 +614,92 @@ the ways in which they are determinative or not of action.
 ---
 
 Narratively rendering a comparative definition of species, however, is not the
-same as narrating an experience of species as such as an identity....
+same as narrating an *experience* of species as such as an identity. "The man"
+never comes to an epiphanic understanding of himself as a member of the
+species, but juxtaposition with the dog becomes the narrative mechanism by
+which experiences that define the human species are identified as such.
+In laying out a knowledge-based theory of species, London creates his concept
+of humanness; but in narrating these moments in the context of that conceptual
+framework, London pursues the phenomenology of species itself.
 
+Indeed, the first glimmer of species-thinking in the story is a rejection of
+the conceptual, but the rejection itself is a telling one: in the absence of
+meditation on species, there is a more direct access to the behaviors that
+define London's concept of the human. Confronted with temperatures more than
+fifty degrees below zero, the man is entirely unreflective:
 
+> The trouble with him was that he was without imagination. He was quick and
+alert in the things of life, but only in the things, and not in the
+significances. Fifty degrees below zero meant eighty-odd degrees of frost. Such
+fact impressed him as being cold and uncomfortable, and that was all. It did
+not lead him to meditate upon his frailty as a creature of temperature, and
+upon man's frailty in general, able only to live within certain narrow limits
+of heat and cold; and from there on it did not lead him to the conjectural
+field of immortality and man's place in the universe. [... 261]
 
+What defines the man and his narrative function in the story is also the very
+"trouble with him". Here London establishes the man purely as a nexus of
+experience and sensation, devoid of theorization or even imagination. In the
+same stroke, the narrator assigns duty of both to the reader. The scornful
+negatives, the litany of all the things the man *did not* do, act as
+a challenge and establish the lens through which we are to understand the
+sensory data and impressions conveyed by the rest of the narrative. The human
+is also removed from a place of mastery over nature, and even from a position
+of uniqueness among animals, becoming a "creature of temperature"---mere
+organism, contingent on certain material conditions to arise and persist. What
+the man expresses as cold and discomfort we are now primed to understand as
+a specimen straying outside the narrow window of habitability appropriate to
+its species. And yet it still sets up a narrative emphasis on the
+phenomenological, the negative statements working to establish a frame of
+reference while simultaneously refusing to foreground the material out of which
+that frame is composed.
+
+The title of the story, "To Build a Fire," takes on a new significance with
+this "frailty" of the species in mind, as well as the insistent centrality of
+temperature in the story as a whole and this definition of the human as
+a "creature of temperature" in particular. The fire serves double-duty as
+a dramatic conceit and the basic Promethean symbol, encapsulating the human's
+reliance on technology for survival by asking us to consider the vulnerability
+that reliance creates. But when the human is defined by the slim envelope of
+temperatures that can support our existence, the fire comes to bear existential
+weight on the level of the species. The phrase "to build a fire," an insistent
+repetition throughout the story, is a statement of humanness itself in
+a distinctly material sense. 
+
+London's definition of the human by fire is one that is shared by current
+scientists. The primatologist Richard Wrangham, for example, argues in
+*Catching Fire: How Cooking Made Us Human* that cooking increased the amount of
+energy obtained from food, the effects of which not only aided in the survival
+of the species, but spurred the development of humanity itself. The
+energy-hungry, inefficient digestive systems of humanity's predecessors gave
+way to smaller digestive systems adapted to a more efficient cooked diet, as
+well as a number of other physical adaptations like weaker jaws;[@wrangham
+38-41] this change in the relative costs and gains in energy in turn is thought
+to have spurred brain growth in turn.[@wrangham 105-6] Nor were these
+adaptations limited to the human as a bounded biological agent. As their
+"bodies responded by biologically adapting to cooked food" and the species, now
+more resilient, spread across the planet, there were attendant ripples in the
+area of the human's effects: "changes in anatomy, physiology, ecology, life
+history, psychology, and society"---and, we must now add in light of the
+Anthropocene, in geology. For London and Wrangham both, the development of the
+human as we know it relied on the ability to exceed the boundaries of the self,
+encompassing the things we use to define ourselves. "The man's" fire is thus as
+defining as the wolf's coat.
+
+<!--appendages, tobacco beard, birch, etc.-->
+
+<!-- interesting note from Wrangham on Darwin:
+
+He cited his fellow evolutionist Alfred Russel Wallace approvingly: “man is
+enabled through his mental faculties ‘to keep with an unchanged body in harmony
+with the changing universe.’” The control of fire was just another way for an
+unchanged body with an adept mental faculty to respond to a natural challenge.
+“When he migrates into a colder climate he uses clothes, builds sheds, and
+makes fires; and, by the aid of fire, cooks food otherwise indigestible
+. . . the lower animals, on the other hand, must have their bodily structure
+modified in order to survive under greatly changed conditions.” (21)
+
+-->
 
 <!-- technology and prosthesis stuff -->
 
