@@ -686,8 +686,6 @@ human as we know it relied on the ability to exceed the boundaries of the self,
 encompassing the things we use to define ourselves. "The man's" fire is thus as
 defining as the wolf's coat.
 
-<!--appendages, tobacco beard, birch, etc.-->
-
 <!-- interesting note from Wrangham on Darwin:
 
 He cited his fellow evolutionist Alfred Russel Wallace approvingly: “man is
@@ -701,7 +699,51 @@ modified in order to survive under greatly changed conditions.” (21)
 
 -->
 
-<!-- technology and prosthesis stuff -->
+<!-- technology and prosthesis stuff, appendages, tobacco beard, birch,
+etc.-->Consistent with its function as a Promethean symbol, fire in London's
+story is merely the representative example of the technological appendages that
+come to define the very essence of the human. The most direct example of this
+trend is the most ambiguous and the least appealing. The man chews tobacco as
+he travels, but his frozen beard and numbed lips mean his spit accumulates in
+his beard and freezes: "The result was that a crystal beard of the color and
+solidity of amber was increasing its length on his chin. If he fell down it
+would shatter itself, like glass, into brittle fragments. But he did not mind
+the appendage."[... 262] The man's reliance on processed tobacco alters his
+physical being, making him into a strange hybrid of his natural being and the
+things he makes use of. But this extra-natural appendage is fragile by nature,
+and it is hardly introduced before we are supplied with the image of it
+shattering. This would be no tragedy, the amber beard conferring no imaginable
+advantage. Other, more common appendages are presented as complementary
+prosthetics to make up for the natural protections the human lacks. Although
+"he was a warm-whiskered man," for example, "the hair on his face did not
+protect the high cheek-bones," and the man therefore has to continually agitate
+"his numb nose and cheek-bones with his mittened hand."[... 261] He eventually
+comes to execute this process "automatically," putting it in the unthinking
+realm of natural or instinctual action while simultaneously describing it with
+the lexicon of industry.[... 262] Even this appendage is not incorporated
+firmly enough into the man's being, however, still requiring a certain degree
+of attention. He notes with "a pang of regret that he had not devised
+a nose-strap of the sort Bud wore in cold snaps. Such a strap passed across the
+cheeks, as well, and saved them."[... 263]. Lacking a natural protection for
+his cheeks against the cold, the man's best hope of survival is to change his
+very being with increasingly refined appendages, replacing the natural with the
+technological. 
+
+While these appendages, like the fire, remain external, they are nonetheless
+constitutive of the very essence of the human---if not individually, then as
+a process. As Darwin himself put it, "man is enabled through his mental
+faculties 'to keep with an unchanged body in harmony with the changing
+universe'", which is achieved when "he uses clothes, builds sheds, and makes
+fires"---whereas non-human animals "must have their bodily structure modified
+in order to survive under greatly changed conditions."[qtd. in @Wrangham 21
+(check page)] The uniquely human strategies for survival itself, which in the
+eyes of the evolutionist (professional or amateur) are coextensive with the
+defining human character, are contingent on the degree of technological
+adaptation in response to a changing environment.
+
+[but! the human itself becomes technologized, making vulnerability]
+
+
 
 <!-- cyborgization leads somehow to loss of contact with the earth---a symbolic
 register that corresponds to the very material loss of instinct/nature-ness in
