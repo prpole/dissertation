@@ -421,12 +421,12 @@ But buried in this conclusion is another telling statement that complicates the
 traditional boundaries between human history and natural history---the very
 boundary that Chakrabarty and Baucom say the Anthropocene itself complicates.
 "You must not deny your relatives, the other animals," London tells us. He
-continues: "*Their history is your history*" (emphasis mine). What appears
-a statement of inter-species comaradery becomes much more when considered in
-terms of London's larger project in relation to species. He uses the species
-concept as a starting point for a narrative exploration of the natural history
-of the human---a unique kind of historical fiction, we might say, a natural
-history fiction.
+continues: *Their history is your history*. What appears a statement of
+inter-species camaraderie becomes much more when considered in terms of
+London's larger project in relation to species. He uses the species concept as
+a starting point for a narrative exploration of the natural history of the
+human---a unique kind of historical fiction, we might say, a natural history
+fiction.
 
 *Before Adam* is undoubtedly such a fiction, an attempt to bring to life, to
 bring to experience, the natural history of the human. It experiments not so
@@ -741,20 +741,108 @@ eyes of the evolutionist (professional or amateur) are coextensive with the
 defining human character, are contingent on the degree of technological
 adaptation in response to a changing environment.
 
-[but! the human itself becomes technologized, making vulnerability]
+But technology's role in this story is hardly that of an uncomplicated savior.
+London goes beyond a purely salutary view of the technological human, beyond an
+account in which the human as an intelligent mind fills the gaps of the human
+as an organism. The same fragility of the tobacco-beard that shatters under the
+least pressure is attributed to humanity's over-reliance on technology for
+survival. One metaphor, appearing twice near the end of the story, drives this
+association home particularly clearly. As the man begins to lose sensation in
+his fingers, the metaphor that recommends itself is a technological one, just
+as when the man "automatically" rubbed his cheeks with his mittened hands. But
+now it is with a sense of fragility that touches the basic makeup of the man's
+body: "When he touched a twig, he had to look and see whether or not he had
+hold of it. The wires were pretty well down between him and his finger-ends";
+and again, "he closed [his fingers]---that is, he willed to close them, for the
+wires were down, and the fingers did not obey."[... 268] The intervention of
+this technological metaphor marks the man's loss of contact with his own body,
+an ultimate separation of mental and corporeal being made manifest by the
+dissolution of the body while the mind remains active. Whereas earlier the
+technological appendages appeared as supplements, they are now barriers between
+the man's consciousness and his physical self---between the individual intellect and
+the more basic substratum of being that is determined by species. The loss of
+a connection between the mind and body comes to symbolize the loss of
+a connection between the intellectual human and the human species.
+
+Finally, this lost connection has a greater cosmic significance than the death
+of an individual character. To London, it means a loss of the connection
+between the human and the natural environment. In another telling repetition,
+London suggests that our connection with the planet is bodily rather than
+intellectual: "He glanced down at first in order to assure himself that he was
+really standing up, for the absence of sensation in his feet left him unrelated
+to the earth"; and on the next page, as the man runs on feet that are entirely
+numb, "He seemed to himself to skim along above the surface, and to have no
+connection with the earth."[... 269-70] The statement would draw attention even
+without repetition, but as when he discusses the "wires" being down, London
+appears unwilling to let this idea go unnoticed. In both cases, consciousness
+itself is not enough for a meaningful relationship to one's immediate
+environment, and this fact appears to be much of what makes the man's
+disembodiment difficult for him to come to terms with. But London's phrasing
+here suggests a broader interpretation than one of mere disorientation,
+a reading that encompasses capital-E-Earth as well as the simpler
+earth-as-ground that forms the man's point of reference. The loss of contact
+with one's body, the suggestion that the human is pure consciousness without
+a meaningful physical being, means the loss of perspective regarding the
+human's place in the larger collage of planetary systems, including the
+interrelation of species (like the communication between man and dog) and
+effects on the environment more broadly conceived. 
+
+This body-planet connection is stunningly evoked in a passage that broadens the
+man's conception of his place in the universe even further. 
+
+> His pace of four miles an hour had kept his heart pumping blood to the
+surface of his body and to all the extremities. But the instant he stopped, the
+action of the pump eased down. The cold of space smote the unprotected tip of
+the planet, and he, being on that unprotected tip, received the full force of
+the blow. The blood of his body recoiled before it. The blood was alive, like
+the dog, and like the dog it wanted to hide away and cover itself up from the
+fearful cold.[...266]
+
+The effect of this stunning passage relies on a juxtaposition of scales about
+as violent as it is possible to achieve, from the interior of the human body in
+one sentence to the movement of astral bodies in the next. As the first
+sentence depicts the slowing of a single organ, the second takes its vantage
+point from a point beyond the planet itself, depicting the man's deadly loss of
+heat in terms of the entire sum of the material systems that have caused it.
+The man's insignificance is driven home by the vastness of the universe in
+which it occurs just as he is rendered a part of that universe, one event in
+a larger chain of causality. In the moment following this mechanistic
+description of freezing, the narration turns to the purely bodily, imagining
+the physical side of the human as an agent unto itself. This pure physicality,
+"the blood", reacts mechanistically, and this mechanism is related to the dog's
+prompting from the "crypts" of accreted instinctual knowledge. Even as the man
+remains unaware of the desires and actions of his physical being, these desires
+are the source of connection to both the immediate and the cosmic environment,
+which with the right frame of reference are one and the same. To lose one's
+connection to the body through technological interventions is to lose all
+frames of reference beyond the self, to lose the sense of the universal in the
+individual.
+
+"To Build a Fire", then, is finally an exploration of the way an ever more
+technologically mediated essence changes the place of the human in all possible
+environments, from the most immediate (the relationship with the dog) to the
+most distant (the place on the planet as a whole). But regarding London's
+conception of the species as such, and the notion of an essential species
+experience, this conclusion raises more questions than it answers. Chief among
+them are the following: How is it possible for the defining characteristic of
+a species to be defined by technology, something that is historically
+contingent? And what, then, is the proper context in which to seek an
+understanding of the human species---history or natural history? Finally, how
+is it possible for the so-called "natural" being of the human to simultaneously
+create a separation between the self and the environment in which the self
+exists?
 
 
+### "History is the true natural history of man"
 
-<!-- cyborgization leads somehow to loss of contact with the earth---a symbolic
-register that corresponds to the very material loss of instinct/nature-ness in
-the human-->
-
-<!-- opening-out question: but wtf, how can species be so contingent?
-(species-being in the Marxian sense helps make sense of it)-->
-
-
----
-
+These questions, posed by London's narrative engagement with species, are
+answerable by the concept of "species-being", a term whose very composition
+seems to undercut Chakrabarty's contention that the species is not able to be
+experienced except intellectually. [ brief punchy summary ] It is best known as
+a Marxian concept, appearing in the *Economic of Philosophical Manuscripts of
+1844* alongside the formative passages in the theory of the alienation of
+labor. It has, however, experienced the beginnings of a revival in discussions
+of the Anthropocene. [wark, others?]
 
 <!-- section: Marx: s-b is contingent while being universal; historical change
 is a change in essence; talking about species is not the same as talking

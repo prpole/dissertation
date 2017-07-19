@@ -142,6 +142,27 @@ particular set of contradictions in that conclusion.
 
 ## Engagements with species and the anthropocene
 
+### Wark, Molecular Red
+
+3-4: "Our species-being is as builders of worlds. This is the central
+proposition of all of Bogdanov's thought. Let's not concern ourselves just yet
+with what the boundaries of the "human" might be. It's a category endlessly
+caught up in differences and similarities with the categories of the animal,
+the angelic or the machinic. Let's just think of us, for now, as Darwin might,
+as a *population*....Bogdanov, who know some Darwin, had more interest in the
+life of this species-being than in its definition." 
+
+N156, p251: "Species-being has to be understood here, after Darwin, as
+a population, rather than an essence. Marx perhaps never quite outgrew the
+pre-scientific notion of species-being he inherited from Feuerbach, but one can
+rethink the category of species-being in a non-essential way. See Norman Geras,
+Marx and Human Nature, London: Verso, 1985." 
+
+    - a few thoughts here, first of which being Marx's species-being is
+dramatically historically contingent and quite un-essentialist. Feuerbach's
+seems to be about self-recognition as species, which is essentialist I guess
+insofar as he attributes it to all humans...
+
 ### One Species, Same Difference? 
 
 Chakrabarty skips poco eco 
