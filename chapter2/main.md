@@ -1,5 +1,5 @@
 ---
-title: Jack London and the Phenomenology of Species
+title: The Phenomenology of Species - Human Species-Being in Jack London
 geometry: margin=1in
 bibliography: bibliography.bib
 ---
@@ -29,60 +29,178 @@ never experiences being a concept.
 toto... as well as introducing the anthropos/universals debate and previewing
 species-being-->
 
-> For my fear is the fear of long ago, the fear that was rampant in the Younger
-World, and in the youth of the Younger World. In short, the fear that reigned
-supreme in that period known as the Mid-Pleistocene. (1) [longer quote w more
-context?]
+Jack London's 1906 novel *Before Adam* is perhaps the most overt entry in
+a career-spanning attempt to narrate *species as such*. The unnamed narrator
+tells us that since he was a child, his sleep has been marked by dreams that
+come from the scattered memory of a distant, pre-human progenitor, which he
+reconstructs in language that his ancestor could never have understood (being
+pre-lingual). This ancestor, Big-Tooth, is a member of a tribe the narrator
+dubs the "The Folk", who contend for survival with natural predators,
+atavistic brutes who retain the characteristics of even older species, and the
+technologically advanced race of "Fire People"---a battle the The Folk
+ultimately lose, becoming extinct except for the half-Fire Person progeny of
+Big-Tooth. Originally serialized, the novel is picaresque, its somewhat shallow
+narrative serving as a vehicle to imaginatively enter a consciousness that is
+on its way to becoming human, observing as it tries and fails to develop the
+language and technology needed to resist the designs of the Fire People. The
+story these episodes do form as a whole, however, is one that, to London, is of
+great significance: it stands in for the myriad contests between pre-human
+primates that determined the nature of the modern human.
 
-Jack London's *Before Adam* (year) begins with an act of geological
-periodization. But the object of this periodization is not a stratigraphic
-record, the layers of mineral sedimentation that make up the inorganic archive
-of the planet. The archive here is the periodizing consciousness itself, having
-gained access to the accreted layers of memory that make up its identity---an
-identity that in turn encompasses far more than a sum of individual
-experiences. 
+Before this conceit is fully established, however, London performs a peculiar
+act of geological periodization. The object of this periodization is not
+a stratigraphic record, the layers of mineral sedimentation that make up the
+inorganic archive of the planet. Rather, the experiences and memories of the
+narrator himself are dated on a geologic timescale:
 
-... [novel summary]
+> In my days only did I attain any measure of happiness. My nights marked the
+reign of fear---and such fear!...[M]y fear is the fear of long ago, the fear
+that was rampant in the Younger World, and in the youth of the Younger World.
+In short, the fear that reigned supreme in that period known as the
+Mid-Pleistocene. (1)
+
+We are asked, from the beginning, to understand this man's experience in
+terms well beyond the boundaries of his own life, or even the lives of several
+generations. We are instead asked to place his visceral fear in a context that
+defies the capacities of individual experience---told that in order to
+understand it, we have to not only think but feel, as he is forced to, across
+the temporal poles that define the ambit of the human species as a whole. The
+site of London's geological archive becomes the periodizing consciousness
+itself, which has gained access to the accreted layers of memory that make up
+its identity---an identity that in turn encompasses far more than a sum of
+individual experiences. 
 
 Jack London's geology, in short, is a geology of the human, a geology in which
 the human is both the subject and object of study. A century later, we have
-a name for this geology: the Anthropocene. <!--room for mini arg-statmeent
-here?--> [explores the intersection of geology (?), the species, and the
-individual consciousness in London] 
+a name for this geology: the Anthropocene. This chapter will explore the ways
+Jack London uses the narrative techniques of naturalism to construct an
+experience of species as a lived identity, focusing particularly on his short
+story "To Build a Fire" (1908) and his late agricultural novels, *Burning
+Daylight* (1913) and *The Valley of the Moon* (1915). This exploration will
+ultimately suggest that London had preemptively taken up one of the chief
+heuristic challenges posed by the Anthropocene as a theoretical discourse
+almost a century before that discourse began: to consider the place of natural
+history in human history (and vice versa) by expanding the temporal scope of
+what constitutes "human history", rendering the human species itself as an
+identity that is able to be experienced as such, and using this experience of
+species as a way to understand the role of the human in the long history of the
+planet. In pursuing this argument, I will consider the ways that London's well
+known use of non-human perspectives lets him come to terms with the human
+identity from without, but I will also confront the difficulty of separating
+London's confused perspectives on race with his attempts to think through
+species as a defining category. Finally, I will show that London takes the
+narration of species-as-such that he developed over the course of the first
+decade of the twentieth century and extends it to an analysis of the
+detrimental influence of human activity on the planet in his late agricultural
+novels (and in his life on the experimental ranch that inspired them). In
+short, an understanding of the human based on a geological timescale is a basis
+for London's understanding of the causes of extensive environmental destruction
+as well as its potential solutions.
 
-...This chapter will explore the ways in which literary naturalism, and
-particularly the works of Jack London, has already taken up one of the chief
-heuristic challenges posed by the Anthropocene as a theoretical discourse: to
-consider the place of natural history in human history by conceiving of the
-human *as a species*. 
+And yet, thinking the human geologically as London does has until recently
+constituted a category error. The human is mere biology, and we had thus (until
+the discovery of the Anthropocene) been assumed to interact with other
+lifeforms and our immediate environment without so much as scratching the
+surface of the geological record. What the designation of the Anthropocene
+recognizes, however, is that despite being barely more than the period at the
+end of the vast history of the planet, the human has now ascended to the scale
+of a geological force that could well define that planet's future, leaving many
+and various marks in the stratigraphic record as we unwittingly alter the
+function of the most basic systems of the natural
+environment.[^ln-stratigraphy] Attempts to confront the Anthropocene, whether
+conceptually or practically, have found in this most basic premise
+a considerable stumbling block because of its reliance on an uncomplicated
+universal "human". To act in recognition that the human collective has become
+a geological force, one has to first experience oneself as fundamentally part
+of that human collective---not even biologically or geologically, but as part
+of an identity that precedes and exceeds the intellect and the individual.
+Whether this is possible has been a matter of some debate, but such an
+experience is precisely what many of the narrative techniques of literary
+naturalism, and Jack London's work in particular, attempt to induce.
 
-Of course, though technically only designating a geological epoch defined by
-the influence of collective human activity, the term "Anthropocene" has always
-indicated much more than a geological consideration of the human. Even in some
-of the earliest uses of the term, it had already come to indicate anthropogenic
-destruction of the planet through means as diverse as carbon emissions,
-deforestation, population growth, and animal domestication
-[@crutzen_geology_2002, @crutzen_"anthropocene"_2006]. Considering the "human
-species" as a universalizing concept is both an explanation of this destruction
-and a response to it. According to Dipesh Chakrabarty, in his seminal essay
-"The Climate of History: Four Theses," "Species may indeed be the name of
-a placeholder for an emergent, new universal history of humans that flashes up
-in the moment of the danger that is climate change" [-@chakrabarty_climate_2009
-221]. If our "moment of danger" is causing us to reach for the "species"
-concept, causing us to seek a biological collective that exceeds and comprises
-the individual, it is in response to a dual relationship to mass extinction. We
-recognize on one hand that the human collective has become a destructive force
-by its very nature, exceeding the capacities usually known to biology. But we
-recognize at the same time that this destructiveness does not come with
-omnipotence. To think of the human in a superhuman timescale is to take
-seriously the threat of self-inflicted mass extinction, to place ourselves in
-the long history of lifeforms coming into being and disappearing in
-a geological moment.
+[^ln-stratigraphy]: I'll summarize the findings of the Anthropocene Working
+Group of the Stratigraphers Union here---basically, subject to fact checking:
+The stratigraphic record, or the accretion of various geological events that
+are legible in the mineral deposits of the Earth, is used to determine epochs
+and such. The Anthropocene working group found a number of possible candidates
+for the "golden spike" in the stratigraphic record that could be used as the
+official starting point for the Anthropocene, including things as various as
+scars from the proliferation of nuclear weapons and the ubiquitous deposits of
+chicken bones that have resulted from widespread industrial agriculture.
 
-And yet, though the species is a universal concept that "flashes up" in an
-existentially threatening moment, it inhabits a timescale too far removed from
-that of human experience to be easily apprehensible---or, for that matter,
-apprehensible at all. As Chakrabarty has it: 
+Despite its elusiveness, this ability to conceive of self-as-species is the
+first step in any suitable response to the crisis that is implied by and that
+gave rise to the term "Anthropocene". Though technically only designating
+a geological epoch defined by the influence of collective human activity, the
+Anthropocene has always meant more than a passive marker of a temporal
+boundary. Even in some of the earliest uses of the term, it had already come to
+indicate anthropogenic destruction of the planet through means as diverse as
+carbon emission, deforestation, population growth, and animal domestication as
+well as the need for immediate remediation [@crutzen_geology_2002,
+@crutzen_"anthropocene"_2006]. Reviving the "human species" as a universalizing
+concept is both an explanation of this destruction and a response to it.
+Indeed, as Dipesh Chakrabarty puts it in his seminal essay "The Climate of
+History: Four Theses," "Species may indeed be the name of a placeholder for an
+emergent, new universal history of humans that flashes up in the moment of the
+danger that is climate change" [-@chakrabarty_climate_2009 221]. If our "moment
+of danger" is causing us to reach for the species concept, a biological
+collective that both exceeds and composes the individual, it is in response to
+a dual relationship to mass extinction. We recognize that the human collective
+has become a destructive force by its very nature, but we recognize at the same
+time that this destructiveness does not come with omnipotence. To think of the
+human in a superhuman timescale is to take seriously the threat of
+self-inflicted mass extinction, to place ourselves in the long history of
+lifeforms coming into being and disappearing in a geological moment. 
+
+*Before Adam* ends on this same note of ephemerality---a simultaneous
+ephemerality of individual and species. The Folk, after all, do not survive to
+become human. Though we don't know their fate for certain, it is clear that
+they are so diminished as to form barely a hereditary trace in the makeup of
+the modern human compared to the dominant Fire People, a mere eddy in the gene
+pool. Reflecting on the moment when the few surviving Folk assemble after being
+routed by the Fire People, the narrator says, "It is like the meeting of the
+handful of survivors after the day of the end of the world."[@... 235] As he
+would again in 1912's *The Scarlet Plague*, a post-apocalyptic novel in which
+a plague wipes out all but a small community of survivors who revert to
+primitive ways of living, London invokes the end of the world as an occasion to
+consider the fragility of humanity as a whole.
+
+For London and contemporary thinkers of the Anthropocene alike, ephemerality
+also leads to a more poignant experience of a species identity. In this moment
+of threat, the narrator, speaking for Big-Tooth, subtly changes his focus from
+the limited perspective of Big-Tooth's own experiences to the fortunes of the
+collective, speaking for both Big-Tooth and the species he represents. The
+usual subject "I" becomes a "we" as The Folk are hounded to the edges of
+habitable land to the sea. "We could not survive in such an environment," he
+says, and "the radical change in our diet was not good for us...[w]e were all
+lean and dyspeptic-looking." Drawing attention to the effects of a changed
+environment on The Folk, the narrator also draws attention to the relatively
+particular conditions required for a given (non-human) species to survive,
+doing so by speaking for a species population that has become small enough to
+be easily apprehensible. Speaking for a species is possible in conditions where
+it is the same as speaking for a community. Births and deaths in this
+species-community, for example, take on a new significance. When he says that
+"we died faster than new ones were born" and "our number steadily diminished,"
+it is understood to be an existential threat to the species as a whole. This
+threat in turn leads to a meditation on the nature of the human itself: "I, the
+modern, am incontestably a man," we are told; "yet I, Big-Tooth, the primitive,
+am not a man. Somewhere, and by straight line of descent, these two parties to
+my dual personality were connected. Were the Folk, before their destruction, in
+the process of becoming men?...I do not know."[@... 241] Understanding the
+species-identity of the pre-human "Folk" is possible in a way that, to the
+narrator, the identity of the modern human simply is not. London provides the
+possibility of a species experience in the Folk before creating a speculative
+gap that invites meditation on the experience of modern humanity in the same
+terms he sets out for the Folk.
+
+He is not alone in this simultaneous acknowledgement of the need to think about
+the human collective and hesitation to think about the human species in the
+same way we think of non- or pre-human species. Though the human species is
+a universal concept that, as Chakrabarty puts it, "flashes up" in an
+existentially threatening moment, it inhabits a timescale that would seem to be
+too far removed from that of human experience to be easily apprehensible---or,
+for that matter, apprehensible at all in any experiential sense. It is
+Chakrabarty himself who has most influentially voiced this impossibility: 
 
 > Who is the we? We humans never experience ourselves as a species. We can only
 intellectually comprehend or infer the existence of the human species but never
@@ -93,38 +211,50 @@ of the concept species as indeed would be any other life form. But one never
 experiences being a concept. (220)
 
 We may be able to conceive of the totality, and we may be able to experience it
-as a kind of guilt. But the phenomenological gap between the self and the
-species is too large: species may always be already embodied, but it is never
-experienced as such. The Anthropocene then presents a moment of distinct crisis
-in the individual imagination. Thinking our new epoch requires that the
-individual experience be expanded even further beyond the self than what normal
-historical consciousness requires, a collectivity that is less an
-identification with something larger than an interrogation of an embodied
-identity, a recognition of the collective that is stitched into the fabric of
-each individual. 
+as a kind of guilt on behalf of that totality. But the phenomenological gap
+between self and species is too large: species may be always already embodied,
+but it is not able to be lived except conceptually, or intellectually. The
+Anthropocene thus presents a moment of crisis in the individual imagination.
+Thinking our new epoch requires that the individual experience be expanded even
+further beyond the self than what normal historical consciousness requires,
+a collectivizing act that is less identification with something larger than 
+interrogation of an identity that is both *a priori* and embodied. 
 
 Herein, of course, lies the great danger of species-thinking as a theoretical
-program. It risks ignoring a half-century of critical theory, the very basis of
+program. It risks ignoring half a century of critical theory, the very basis of
 which is opposition to the kind of essentialism a discourse of the human
-species would seem to imply. Ian Baucom, considering Chakrabarty's universal
-species concept, points out that "it seems to wreak havoc on the key principles
-of historical understanding and political commitment that have animated not
-only Chakrabarty’s preceding body of work, but the broader project of
-postcolonial critique to which that work has been dedicated"
-[-@baucom_human_2012 3]. To consider the species concept as a universal of the
-same type as those that postcolonial critique has opposed in the past, however,
-would be to miss Chakrabarty's point. It is not a universalism in the Hegelian
-mode, which Chakrabarty himself has opposed in the name of a struggle for the
-"freedom of difference," but a "natural--scientific" universalism that presents
-a new paradigm entirely[@-baucom_human_2012 3]. As Baucom reads it, in this new
-paradigm "freedom can no longer be conceived of as the freedom of difference
-against the power of the globalizing same." Rather, because "freedom" now
-relies on survival through a collective effort to save the planet by
-transforming our relationship to it, this universal concept has become a *sine
-qua non* of freedom itself. The pursuit of freedom is now "a task of the
-species, as species, for the species. It is a universal human challenge,
-a challenge of humanity’s shared natural history and its shared planetary
-future" [-@baucom_human_2012 3]. 
+species would seem to imply. At least in the humanities, a proliferation of
+alternate terms has resulted, most notable among them being the Capitalocene,
+the Androcene, and the Cthulucene. These searches for an alternative term have
+one thing in common: they understand the "anthropos" in Anthropocene as an even
+distribution of blame for actions the benefits of which have historically been
+anything *but* even. London's own invocation of the species as a heuristic
+hardly redeems it, and may in fact do the opposite. [London's shitty rep]
+
+But this understandably critical reaction to the term may well mistake one type
+of universal for another, or at least apply to it a historiographic method that
+searches for an ethical and economic accounting when the term's argument is
+first and foremost about the capacities of an organism considered in
+natural-historical terms. Ian Baucom, considering Chakrabarty's version of the
+universal species concept, points out that "it seems to wreak havoc on the key
+principles of historical understanding and political commitment that have
+animated not only Chakrabarty's preceding body of work, but the broader project
+of postcolonial critique to which that work has been dedicated"
+[-@baucom_human_2012 3]. But to consider the species concept as a universal of
+the same type as those that postcolonial critique has opposed in the past,
+Baucom continues, would be to miss Chakrabarty's point. It is not
+a universalism in the Hegelian mode, which Chakrabarty himself has opposed in
+the name of a struggle for the "freedom of difference," but
+a "natural--scientific" universalism that presents a new paradigm
+entirely[@-baucom_human_2012 3]. As Baucom reads it, in this new paradigm
+"freedom can no longer be conceived of as the freedom of difference against the
+power of the globalizing same." Rather, because "freedom" now relies on
+survival through a collective effort to save the planet by transforming our
+relationship to it, this universal concept has become a requirement of freedom
+itself. The pursuit of freedom is now "a task of the species, as species, for
+the species. It is a universal human challenge, a challenge of humanity’s
+shared natural history and its shared planetary future" [-@baucom_human_2012
+3]. 
 
 The problem of species, of the "*anthropos*" in the Anthropocene, is thus
 manifold and entangled. It demands a natural-scientific universalism that takes
@@ -164,172 +294,26 @@ terms of the species concept, but in terms of the species concept with all the
 resonances it has gained in the discourse of the Anthropocene, readings of the
 naturalist form and its philosophical underpinnings alike gain added
 significance. In treating characters as more than individual subjectivities, as
-typological figures and as products of biological and environmental conditions,
-the narrative strategies unique to naturalist fiction pursue the same
-imaginative capacities that are required to conceive of the species as
-a category of experience as well as an abstract scientific concept<!--too
-convoluted, rewrite-->. It is through fear, a visceral and decidedly
-unscientific experience, that the *Before Adam* protagonist accesses the
-history of the species. To feel the fear of the Pleistocene epoch is to recall
-a distinctly different humanity, one that has not superceded the bounds of
-biological agency to become geological---indeed, one that has not yet removed
-itself from the food chain or secured its sustenance through the soft conquest
-of agriculture and animal domestication. To recall this earlier state of being
-in the context of evolutionary history is to draw the outline of the human
-species itself through a rare experiential link. The result is not an abstract
-conception but a duality of being that encompasses a multi-epochal humanness. 
+typological figures and as products of biological and environmental conditions
+instead, the narrative strategies unique to naturalist fiction pursue the same
+imaginative capacities that are required to conceive of the species in the ways
+Chakrabarty says is both necessary and impossible. 
+
+[what trend is BA/fear an example of?]In the example of *Before Adam*, the
+narrator's access to the memories of his deep past comes from feeling, not
+contemplation: from fear, a visceral and decidedly unscientific experience.
+To feel the fear of the Pleistocene epoch is to recall a distinctly different
+humanity, one that has not superceded the bounds of biological agency to become
+geological---indeed, one that has not yet removed itself from the food chain or
+secured its sustenance through the soft conquest of agriculture and animal
+domestication. To recall this earlier state of being in the context of
+evolutionary history is to draw the outline of the human species itself through
+a rare experiential link. The result is not an abstract conception but
+a duality of being that encompasses a multi-epochal humanness. 
+
+<!-- probably 
 
 <!-- preview species-being here? -->
-
-<!-- not sure whether to preview B.D. and V.M here or move these blurbs to the
-section where I actually deal with them... [update: yeah probably move them to
-the later section]-->
-
-Experiencing humanness *per se*, and doing so on a scale that exceeds the
-individual, has ramifications for London's environmental consciousness just as 
-it does for environmental consciousness in the Anthropocene. Nowhere is this
-more evident than in his agricultural novels, written in the final years of his
-life as he worked his "Beauty Ranch," an experimental farm in the [Sonoma
-Valley] that became a material staging ground for his budding ecological
-consciousness. 
-
-*Burning Daylight* (1910) can be read as narrating the development of such
-a consciousness. Just as London's best-known writing begins with stories of dog
-running and gold mining in the far north and concluded in agricultural
-narratives, Elam "Burning Daylight" Harnish's story begins when he goes from
-carrying mail in the Yukon [check task and place] to striking it rich on
-fortuitous gold claims [I think it's more complex than this...]. His extractive
-impulse leads him naturally into financial speculation and thus to the urban
-centers of California, where he experiences the classic naturalist "plot of
-decline" as distance from his wilderness roots takes its toll through the
-drinking and inactivity it engenders. London paints a portrait of a typological
-figure whose very physical being and essential character transforms as a result
-of a change in his environment, and the loss is rendered in terms that are
-understood historically as reflecting a change in the fundamental nature of the
-species. The only way for Harnish to regain his physical vitality is to abandon
-a capitalist conception of land in favor of a respectful engagement with it, an
-engagement that is aesthetic at the same time that it is horticultural and
-ecological. Rather than extracting value from land in the form of rent, Harnish
-begins to value the land itself based on its health and an autonomy that
-approximates that of the wild north from which he came. But it is not wildness
-itself that he values---rather, it is his relationship with the land,
-a relationship that is active without being extractive, encouraging growth that
-increases the productive capacity of the land whether or not what is produced
-is profitable. In order to attain this state of horticultural enlightenment, he
-has to come to an understanding of the influence environment has on his basic
-being, or in other words of the naturalist logic of determinism that cuts right
-to the genre's conception of humanness itself. When a small landslide in his
-new idealized natural environment reveals a strain of gold, he feels himself
-momentarily pulled back into the extractive, urban version of the human that he
-has fought hard to escape. In an important symbolic moment, he covers the gold
-back up, knowingly choosing an atavistic human existence to preserve himself
-and his immediate environment in the same act. A dynamic relationship to
-species, one that balances determinism of possible futures with a free act of
-choice among those futures, is the basis of this environmental praxis.
-
-*The Valley of the Moon* (1913) is in many ways a reprise of the themes of
-*Burning Daylight* that pushes even further both the atavistic relation to
-species and the resultant environmental praxis. The novel is neatly divided
-between sections dealing with the city and the country, setting up a neat test
-case for the naturalist urban premise of the naturalist plot of decline. Billy
-and Saxon effect a flight from the city of Oakland when teamster union strikes
-are put down by zealous police violence---and because of Billy's surrender to
-alcohol that is the partial result. The second half of the novel chronicles
-their travels in search of a plot of land, which they idealize by imagining as
-a "valley of the moon," otherworldly and perhaps unattainable. [check? where
-does the valley of the moon thing begin?] On the way to finding this land,
-a clear proxy for London's own "Beauty Ranch," Billy and Saxon gather
-horticultural knowledge from a combination of farming operations owned and
-managed by immigrant communities, market gardeners with upscale clientele, and
-a set of books and pamphlets that represent a cross-section of London's own
-Beauty Ranch horticultural library.[^ln-tichi] Putting this collected wisdom
-into practice has an effect on Billy and Saxon similar to what Elam Harnish
-experiences in *Burning Daylight*: they settle into a hard-working but
-unalienated routine of agricultural labor and living, having escaped the
-degrading influence of urbanity. Billy and Saxon's story follows a "back-to-the
-land" motif that is built on the naturalist logic of determinism and decline
-while complicating that logic at the same time. Conceding a degree of
-environmental determinism, at least as far as the broad categories of rural and
-urban environments, the pair nevertheless have a degree of choice in choosing
-a new environment and in transforming the environment they find themselves
-in---which transformation is possible to a much greater degree beyond the dense
-and alienated environment of the city. 
-
-[^ln-tichi]: citation in Tichi's book on London as reformer
-
-
-For Billy and Saxon, choosing among possible environments and, by extension,
-possible modes of being also entails choosing how to relate to their forebears.
-They experience a more voluntary form of the atavism of *Before Adam*: where
-*BA*'s protagonist unwittingly exceeds the boundaries of individual experience,
-Billy and Saxon seek out a consciousness that exceeds themselves and the
-timescale of the individual. They willfully change their environment and their
-relation to it only after understanding themselves in terms of their forebears
-and of broader historical action. In the first place, they understand their
-exploration of California in search of land as an extension of their family
-history several generations back. [quotes] But this broadening of the self goes
-back even further, into a shared fantasy of a seafaring past through which they
-understand their own nomadic existence. [quotes] 
-
-Finally, these attempts to connect with personal family histories, real or
-imagined, coincide with an understanding of the land itself not as it is, but
-as a process resulting in its current state. Billy and Saxon (especially Saxon)
-see the conventional wisdom of California farmers gone badly awry, represented
-most succinctly by a farmer who brags about how many plots of land he has
-single-handedly exhausted. They also see in the larger environmental history of
-the country this same short-sightedness, an agricultural mode oriented to
-building cities by stripping the countrysides with no thought given to
-maintaining the soil. In other words, they discover that the same forces that
-produced the environment from which they fled have also looted the Arcadia they
-hoped to find. Their atavism gives them a counterpoint, a second comparative
-perspective with which they can see the destruction wrought by too great
-a degree of human influence on our environment. The wider view they gain
-ultimately allows them to make a different choice. Rejecting the trend, they
-begin systematically building the soil on first one farm, then several in the
-Sonoma Valley. The novel concludes with Saxon becoming pregnant, something they
-worried would not be possible after their travails in the city led to
-a miscarriage. This ending establishes a clear symbolic link (albeit
-a troubling one from an ecofeminist perspective) between their integration into
-a larger narrative of heredity and species and the discovery of an alternative
-to environmental destruction. 
-
-And yet, in *The Valley of the Moon* and much of London's larger body of work,
-the topic that stands out most clearly is not species, but race. Indeed, the
-two concepts can be difficult to untangle in London's work, a fact that does
-nothing to quell concerns that any discourse predicated on the species will
-risk being inherently regressive. Billy and Saxon's attempts to understand
-themselves in a larger timescale is often framed as a quest for a racially pure
-identity. They initially bond over a shared "Anglo-Saxon" lineage and routinely
-utter nativist commonplaces. As a result, criticism of *The Valley of the Moon*
-has largely, if understandably, missed the environmentalist forest for the
-racist trees. 
-
-But there is good reason to question any reading of *The Valley of the Moon*
-that takes these nativist sentiments at face value, treating them as either
-stable throughout the novel or as expressions of an uncomplicated perspective
-of London's own. Rather, in the scope of the entire novel, this nativism and
-white supremecism must be understood as objects of critique. Despite her name,
-Saxon becomes a proponent of what London sometimes called the "Brotherhood of
-Man,"[^ln-brotherhood] resisting and mocking Billy's sense of racial
-superiority. [an example or two] Though at the beginning of their journey they
-search for contact with their personal mythology of an Anglo-Saxonism based on
-a seafaring and homesteading past, by its end that narrative has failed them.
-Though they still harbor a belief that their ancestry makes them
-"zone-conquerors" destined to expand and take over whatever is on their
-horizon, they come to realize that this "conquering" is really just
-destruction. [quote about white people wrecking everything] Furthermore, Saxon
-sees the inverse of this destructive impulse in the practices of the people
-Billy sees as his inferiors. London's classic white superman becomes a figure
-of ridicule, part of the very problem that London positions as a cause of the
-growing environmental crisis. Resisting it requires renouncing this supremecism
-and embracing a sort of pluralism instead, while still retaining a sense of
-themselves in terms of a larger encompassing human identity. In *The Valley of
-the Moon*, the supposedly determined characteristics of Anglo-Saxonism become
-the root of all environmental evils, while the solution is to embrace the
-cultural differences that define the human species. 
-
-[^ln-brotherhood]: cite London's Racial Lives on this term and in support of
-this argument in general
 
 
 The rest of this chapter will... [ ]
@@ -416,6 +400,10 @@ human and non-human alike are non-mechanistic. Rather, London's naturalism
 positions these drives as a substratum that exists in a complex mixture with
 the reason that both derives from and seeks to disown it. The extent to which
 reason has developed is a matter of species.
+
+<!-- somewhere in here could be an opportunity to intro species being, if
+that's what I want to do. "At stake here is a concept called species-being as
+it relates to the human...-->
 
 But buried in this conclusion is another telling statement that complicates the
 traditional boundaries between human history and natural history---the very
@@ -848,4 +836,157 @@ of the Anthropocene. [wark, others?]
 is a change in essence; talking about species is not the same as talking
 about static unchanging essentialism; we can have both "their history is your
 history" and "history is the true natural history of man"-->
+
+
+### Agro Novels
+
+<!-- how to use this? perhaps as an outline of sorts... to flesh out. Or
+perhaps as introductions to the argumentation itself.-->
+
+Experiencing humanness *per se*, and doing so on a scale that exceeds the
+individual, has ramifications for London's environmental consciousness just as 
+it does for environmental consciousness in the Anthropocene. Nowhere is this
+more evident than in his agricultural novels, written in the final years of his
+life as he worked his "Beauty Ranch," an experimental farm in the [Sonoma
+Valley] that became a material staging ground for his budding ecological
+consciousness. 
+
+*Burning Daylight* (1910) can be read as narrating the development of such
+a consciousness. Just as London's best-known writing begins with stories of dog
+running and gold mining in the far north and concluded in agricultural
+narratives, Elam "Burning Daylight" Harnish's story begins when he goes from
+carrying mail in the Yukon [check task and place] to striking it rich on
+fortuitous gold claims [I think it's more complex than this...]. His extractive
+impulse leads him naturally into financial speculation and thus to the urban
+centers of California, where he experiences the classic naturalist "plot of
+decline" as distance from his wilderness roots takes its toll through the
+drinking and inactivity it engenders. London paints a portrait of a typological
+figure whose very physical being and essential character transforms as a result
+of a change in his environment, and the loss is rendered in terms that are
+understood historically as reflecting a change in the fundamental nature of the
+species. The only way for Harnish to regain his physical vitality is to abandon
+a capitalist conception of land in favor of a respectful engagement with it, an
+engagement that is aesthetic at the same time that it is horticultural and
+ecological. Rather than extracting value from land in the form of rent, Harnish
+begins to value the land itself based on its health and an autonomy that
+approximates that of the wild north from which he came. But it is not wildness
+itself that he values---rather, it is his relationship with the land,
+a relationship that is active without being extractive, encouraging growth that
+increases the productive capacity of the land whether or not what is produced
+is profitable. In order to attain this state of horticultural enlightenment, he
+has to come to an understanding of the influence environment has on his basic
+being, or in other words of the naturalist logic of determinism that cuts right
+to the genre's conception of humanness itself. When a small landslide in his
+new idealized natural environment reveals a strain of gold, he feels himself
+momentarily pulled back into the extractive, urban version of the human that he
+has fought hard to escape. In an important symbolic moment, he covers the gold
+back up, knowingly choosing an atavistic human existence to preserve himself
+and his immediate environment in the same act. A dynamic relationship to
+species, one that balances determinism of possible futures with a free act of
+choice among those futures, is the basis of this environmental praxis.
+
+*The Valley of the Moon* (1913) is in many ways a reprise of the themes of
+*Burning Daylight* that pushes even further both the atavistic relation to
+species and the resultant environmental praxis. The novel is neatly divided
+between sections dealing with the city and the country, setting up a neat test
+case for the naturalist urban premise of the naturalist plot of decline. Billy
+and Saxon effect a flight from the city of Oakland when teamster union strikes
+are put down by zealous police violence---and because of Billy's surrender to
+alcohol that is the partial result. The second half of the novel chronicles
+their travels in search of a plot of land, which they idealize by imagining as
+a "valley of the moon," otherworldly and perhaps unattainable. [check? where
+does the valley of the moon thing begin?] On the way to finding this land,
+a clear proxy for London's own "Beauty Ranch," Billy and Saxon gather
+horticultural knowledge from a combination of farming operations owned and
+managed by immigrant communities, market gardeners with upscale clientele, and
+a set of books and pamphlets that represent a cross-section of London's own
+Beauty Ranch horticultural library.[^ln-tichi] Putting this collected wisdom
+into practice has an effect on Billy and Saxon similar to what Elam Harnish
+experiences in *Burning Daylight*: they settle into a hard-working but
+unalienated routine of agricultural labor and living, having escaped the
+degrading influence of urbanity. Billy and Saxon's story follows a "back-to-the
+land" motif that is built on the naturalist logic of determinism and decline
+while complicating that logic at the same time. Conceding a degree of
+environmental determinism, at least as far as the broad categories of rural and
+urban environments, the pair nevertheless have a degree of choice in choosing
+a new environment and in transforming the environment they find themselves
+in---which transformation is possible to a much greater degree beyond the dense
+and alienated environment of the city. 
+
+[^ln-tichi]: citation in Tichi's book on London as reformer
+
+
+For Billy and Saxon, choosing among possible environments and, by extension,
+possible modes of being also entails choosing how to relate to their forebears.
+They experience a more voluntary form of the atavism of *Before Adam*: where
+*BA*'s protagonist unwittingly exceeds the boundaries of individual experience,
+Billy and Saxon seek out a consciousness that exceeds themselves and the
+timescale of the individual. They willfully change their environment and their
+relation to it only after understanding themselves in terms of their forebears
+and of broader historical action. In the first place, they understand their
+exploration of California in search of land as an extension of their family
+history several generations back. [quotes] But this broadening of the self goes
+back even further, into a shared fantasy of a seafaring past through which they
+understand their own nomadic existence. [quotes] 
+
+Finally, these attempts to connect with personal family histories, real or
+imagined, coincide with an understanding of the land itself not as it is, but
+as a process resulting in its current state. Billy and Saxon (especially Saxon)
+see the conventional wisdom of California farmers gone badly awry, represented
+most succinctly by a farmer who brags about how many plots of land he has
+single-handedly exhausted. They also see in the larger environmental history of
+the country this same short-sightedness, an agricultural mode oriented to
+building cities by stripping the countrysides with no thought given to
+maintaining the soil. In other words, they discover that the same forces that
+produced the environment from which they fled have also looted the Arcadia they
+hoped to find. Their atavism gives them a counterpoint, a second comparative
+perspective with which they can see the destruction wrought by too great
+a degree of human influence on our environment. The wider view they gain
+ultimately allows them to make a different choice. Rejecting the trend, they
+begin systematically building the soil on first one farm, then several in the
+Sonoma Valley. The novel concludes with Saxon becoming pregnant, something they
+worried would not be possible after their travails in the city led to
+a miscarriage. This ending establishes a clear symbolic link (albeit
+a troubling one from an ecofeminist perspective) between their integration into
+a larger narrative of heredity and species and the discovery of an alternative
+to environmental destruction. 
+
+And yet, in *The Valley of the Moon* and much of London's larger body of work,
+the topic that stands out most clearly is not species, but race. Indeed, the
+two concepts can be difficult to untangle in London's work, a fact that does
+nothing to quell concerns that any discourse predicated on the species will
+risk being inherently regressive. Billy and Saxon's attempts to understand
+themselves in a larger timescale is often framed as a quest for a racially pure
+identity. They initially bond over a shared "Anglo-Saxon" lineage and routinely
+utter nativist commonplaces. As a result, criticism of *The Valley of the Moon*
+has largely, if understandably, missed the environmentalist forest for the
+racist trees. 
+
+But there is good reason to question any reading of *The Valley of the Moon*
+that takes these nativist sentiments at face value, treating them as either
+stable throughout the novel or as expressions of an uncomplicated perspective
+of London's own. Rather, in the scope of the entire novel, this nativism and
+white supremecism must be understood as objects of critique. Despite her name,
+Saxon becomes a proponent of what London sometimes called the "Brotherhood of
+Man,"[^ln-brotherhood] resisting and mocking Billy's sense of racial
+superiority. [an example or two] Though at the beginning of their journey they
+search for contact with their personal mythology of an Anglo-Saxonism based on
+a seafaring and homesteading past, by its end that narrative has failed them.
+Though they still harbor a belief that their ancestry makes them
+"zone-conquerors" destined to expand and take over whatever is on their
+horizon, they come to realize that this "conquering" is really just
+destruction. [quote about white people wrecking everything] Furthermore, Saxon
+sees the inverse of this destructive impulse in the practices of the people
+Billy sees as his inferiors. London's classic white superman becomes a figure
+of ridicule, part of the very problem that London positions as a cause of the
+growing environmental crisis. Resisting it requires renouncing this supremecism
+and embracing a sort of pluralism instead, while still retaining a sense of
+themselves in terms of a larger encompassing human identity. In *The Valley of
+the Moon*, the supposedly determined characteristics of Anglo-Saxonism become
+the root of all environmental evils, while the solution is to embrace the
+cultural differences that define the human species. 
+
+[^ln-brotherhood]: cite London's Racial Lives on this term and in support of
+this argument in general
+
 
