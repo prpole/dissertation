@@ -4,9 +4,6 @@ geometry: margin=1in
 bibliography: bibliography.bib
 ---
 
-<!--useful phrase, maybe something in the title: the phenomenology of
-species-->
-
 > You must not deny your relatives, the other animals. Their history is your
 history.
 
@@ -35,8 +32,8 @@ tells us that since he was a child, his sleep has been marked by dreams that
 come from the scattered memory of a distant, pre-human progenitor, which he
 reconstructs in language that his ancestor could never have understood (being
 pre-lingual). This ancestor, Big-Tooth, is a member of a tribe the narrator
-dubs the "The Folk", who contend for survival with natural predators,
-atavistic brutes who retain the characteristics of even older species, and the
+dubs the "The Folk", who contend for survival with natural predators, atavistic
+brutes who retain the characteristics of even older species, and the
 technologically advanced race of "Fire People"---a battle the The Folk
 ultimately lose, becoming extinct except for the half-Fire Person progeny of
 Big-Tooth. Originally serialized, the novel is picaresque, its somewhat shallow
@@ -45,7 +42,8 @@ on its way to becoming human, observing as it tries and fails to develop the
 language and technology needed to resist the designs of the Fire People. The
 story these episodes do form as a whole, however, is one that, to London, is of
 great significance: it stands in for the myriad contests between pre-human
-primates that determined the nature of the modern human.
+primates that determined the nature of the modern human.<!--something's not
+working here-->
 
 Before this conceit is fully established, however, London performs a peculiar
 act of geological periodization. The object of this periodization is not
@@ -235,16 +233,18 @@ But this understandably critical reaction to the term may well mistake one type
 of universal for another, or at least apply to it a historiographic method that
 searches for an ethical and economic accounting when the term's argument is
 first and foremost about the capacities of an organism considered in
-natural-historical terms. Ian Baucom, considering Chakrabarty's version of the
-universal species concept, points out that "it seems to wreak havoc on the key
-principles of historical understanding and political commitment that have
-animated not only Chakrabarty's preceding body of work, but the broader project
-of postcolonial critique to which that work has been dedicated"
+natural-historical terms. Ian Baucom, sharing the concerns that cause this
+discomfort as he considers Chakrabarty's version of the universal species
+concept, points out that the Anthropocene's universalism "seems to wreak havoc
+on the key principles of historical understanding and political commitment that
+have animated not only Chakrabarty's preceding body of work, but the broader
+project of postcolonial critique to which that work has been dedicated"
 [-@baucom_human_2012 3]. But to consider the species concept as a universal of
 the same type as those that postcolonial critique has opposed in the past,
 Baucom continues, would be to miss Chakrabarty's point. It is not
-a universalism in the Hegelian mode, which Chakrabarty himself has opposed in
-the name of a struggle for the "freedom of difference," but
+a universalism in the Hegelian mode<!--what does this mean? should figure out
+and gloss since we don't get the whole Baucom-->, which Chakrabarty himself has
+opposed in the name of a struggle for the "freedom of difference," but
 a "natural--scientific" universalism that presents a new paradigm
 entirely[@-baucom_human_2012 3]. As Baucom reads it, in this new paradigm
 "freedom can no longer be conceived of as the freedom of difference against the
@@ -252,9 +252,12 @@ power of the globalizing same." Rather, because "freedom" now relies on
 survival through a collective effort to save the planet by transforming our
 relationship to it, this universal concept has become a requirement of freedom
 itself. The pursuit of freedom is now "a task of the species, as species, for
-the species. It is a universal human challenge, a challenge of humanity’s
+the species. It is a universal human challenge, a challenge of humanity's
 shared natural history and its shared planetary future" [-@baucom_human_2012
-3]. 
+3]. Baucom shifts the universalizing gesture of the "anthropos" prefix onto the
+deep past and the preservation of an equally deep future, careful to emphasize
+temporalities that fall beyond the scope of historiographies on the human
+scale. 
 
 The problem of species, of the "*anthropos*" in the Anthropocene, is thus
 manifold and entangled. It demands a natural-scientific universalism that takes
@@ -264,7 +267,7 @@ planetary change based on this species history. But in developing such
 a species history, we risk backsliding into the essentialisms of the past, and
 thus a concerted effort must be made to differentiate a natural-scientific
 universalism of collective survival from the universals of the past that have
-long been used to justify programs of domination and supremacy. 
+long been used to justify programs of domination and exploitation. 
 
 And yet over all these tasks hovers an enduring paradox: to address the
 conceptual and practical challenges of the Anthropocene, we must embrace
@@ -282,36 +285,74 @@ famously or notoriously, less notable as an individual subjectivity than as
 a nexus of warring deterministic forces. The most marked conflicts occur
 between "forces" defined by evolutionary conditioning and those that are
 a product of a physical and social environment, especially in the context of
-urban environments.[ Norris examples? ] Introducing the species concept into
-this discourse merely requires a reminder that speciation is the product of
-evolutionary variation.
+urban environments.[ Norris examples? ] 
 
 [^ln-determinism-species-examples]: some examples of naturalist criticism that
 drives this home? Look at the classics: Pizer, Walcutt... "Determined Fictions"
 
-But when this common reading of the naturalist character is recast not just in
-terms of the species concept, but in terms of the species concept with all the
-resonances it has gained in the discourse of the Anthropocene, readings of the
-naturalist form and its philosophical underpinnings alike gain added
-significance. In treating characters as more than individual subjectivities, as
-typological figures and as products of biological and environmental conditions
-instead, the narrative strategies unique to naturalist fiction pursue the same
-imaginative capacities that are required to conceive of the species in the ways
-Chakrabarty says is both necessary and impossible. 
+Introducing the species concept into this discourse merely requires a reminder
+that speciation is the product of evolutionary variation. But when this common
+reading of the naturalist character is recast not just in terms of the species
+concept, but in terms of the species concept with all the resonances it has
+gained in the discourse of the Anthropocene, readings of the naturalist form
+and its philosophical underpinnings alike gain added significance. In treating
+characters as more than individual subjectivities, as typological figures and
+as products of biological and environmental conditions instead, the narrative
+strategies unique to naturalist fiction pursue the same imaginative capacities
+that are required to conceive of the species in the ways Chakrabarty says is
+both necessary and impossible. 
 
-[what trend is BA/fear an example of?]In the example of *Before Adam*, the
-narrator's access to the memories of his deep past comes from feeling, not
-contemplation: from fear, a visceral and decidedly unscientific experience.
-To feel the fear of the Pleistocene epoch is to recall a distinctly different
-humanity, one that has not superceded the bounds of biological agency to become
-geological---indeed, one that has not yet removed itself from the food chain or
-secured its sustenance through the soft conquest of agriculture and animal
-domestication. To recall this earlier state of being in the context of
-evolutionary history is to draw the outline of the human species itself through
-a rare experiential link. The result is not an abstract conception but
-a duality of being that encompasses a multi-epochal humanness. 
+[what trend is BA/fear an example of?]Most notably, despite its aspirations to
+narrate vast systems of human and non-human "forces" as from an aerie,
+naturalist novels tend to be insistently visceral in the descriptive details
+they use to compose this narration. One need only think of Dreiser's Carrie or
+Wharton's Lily Bart to see how the visceral and the systemic intertwine. Both
+women experience the bodily changes that result from their gruelling labor in
+clothes production, a process detailed in terms that evoke the lived experience
+of the labor rather than the theory of it; and yet for both authors, the
+experiential serves the conceptual, establishing a window into the alienation
+of labor.[^ln-dreiser-wharton] 
 
-<!-- probably 
+While these are historical rather than natural-historical examples---the
+conditions of labor are historically contingent and understandable within human
+timescales---the same holds true of the natural historical cases. In *Before
+Adam*, the narrator's access to the memories of his deep past comes from
+feeling, not contemplation: from fear, a felt and decidedly unscientific
+experience. To feel the fear of the Pleistocene epoch is to recall a distinctly
+different humanity, one that has not superceded the bounds of biological agency
+to become geological---indeed, one that has not yet removed itself from the
+food chain or secured its sustenance through the soft conquest of agriculture
+and animal domestication. The gulf between this pre-human form and the modern
+human is underscored by juxtaposition of the Folk with the Fire People. When
+Big-Tooth and his friend Lop-Ear stalk the Fire People and investigate the
+remnants of their fire, the simplest possible moment of dramatic irony results:
+"I wanted to see what [the fire] was like, and between thumb and finger,
+I picked up a glowing coal. My cry of pain and fear, as I dropped it, stampeded
+Lop-Ear into the trees, and his flight frightened me after him."[@... 165] This
+moment of pain and fear, though minor, is reminiscent of the fears of the
+"Mid-Pleistocene" in general that London narrates---fears that result not from
+the external conditions themselves but from the Folk's inability to confront
+them using the methods humanity has developed since, like technology and
+community. In other words, the fear results from being someone like Big-Tooth,
+who "did not bother to weigh and analyze," who "was simplicity itself" and
+"just lived events, without ever pondering why he lived them in his particular
+and often erratic way." [@... 137] In imagining not knowing that fire will
+burn---or not knowing how to use weapons to fight predators, or not knowing to
+band together to resist a larger enemy---the modern reader must imagine
+a consciousness without the same type of problem-solving, tool-use, and social
+capacities that so define human history. But the entry point to this
+consciousness is the shared visceral feelings of pain and fear.
+
+Imagining such a consciousness, in the context of London's entire body of work,
+is more than a curiosity. To recall this earlier state of being
+in the context of evolutionary history is to draw the outline of the human
+species history through an experiential link between early and late temporal
+poles. The result is not an abstract conception but a comparison of ways of
+being that encompasses a multi-epochal humanness. 
+
+[^ln-dreiser-wharton]: Definitely need to give the examples here... and there
+is so much scholarship on this topic. 
+
 
 <!-- preview species-being here? -->
 
