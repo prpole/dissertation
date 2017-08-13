@@ -22,10 +22,6 @@ never experiences being a concept.
 
 ### Introduction
 
-<!-- if possible it would be cool to use the intro to explore Before Adam in
-toto... as well as introducing the anthropos/universals debate and previewing
-species-being-->
-
 Jack London's 1906 novel *Before Adam* is perhaps the most overt entry in
 a career-spanning attempt to narrate *species as such*. The unnamed narrator
 tells us that since he was a child, his sleep has been marked by dreams that
@@ -93,7 +89,7 @@ detrimental influence of human activity on the planet in his late agricultural
 novels (and in his life on the experimental ranch that inspired them). In
 short, an understanding of the human based on a geological timescale is a basis
 for London's understanding of the causes of extensive environmental destruction
-as well as its potential solutions.
+as well as potential responses to it.
 
 And yet, thinking the human geologically as London does has until recently
 constituted a category error. The human is mere biology, and we had thus (until
@@ -126,15 +122,60 @@ official starting point for the Anthropocene, including things as various as
 scars from the proliferation of nuclear weapons and the ubiquitous deposits of
 chicken bones that have resulted from widespread industrial agriculture.
 
-Despite its elusiveness, this ability to conceive of self-as-species is the
-first step in any suitable response to the crisis that is implied by and that
-gave rise to the term "Anthropocene". Though technically only designating
-a geological epoch defined by the influence of collective human activity, the
-Anthropocene has always meant more than a passive marker of a temporal
-boundary. Even in some of the earliest uses of the term, it had already come to
-indicate anthropogenic destruction of the planet through means as diverse as
-carbon emission, deforestation, population growth, and animal domestication as
-well as the need for immediate remediation [@crutzen_geology_2002,
+<!--s-b-->London was not the first and would not be the last to pursue an
+understanding of the species concept on this basis. Before him, [?] Feuerbach
+coined the term "species-being" in an attempt to define the essential
+characteristics and activities that unite members of a species; Karl Marx in
+turn would take up in Feuerbach's concept in the early formulations of his
+theory of alienation to show just what was at stake in the industrialization of
+labor. With the heuristic challenges posed by the "Anthropos" of Anthropocene,
+species-being as a concept has reemerged with a new resonance, now making it
+possible to question what role humanness-as-such plays in the environmental
+crisis.[^ln-sb-reemergence] Invoking species-being here, then, can serve to put
+London at once in the context of the Marxist theory that was central to his own
+thinking on a number of topics throughout his life[^ln-london-marxism] and the
+Anthropocene discourse he partially predicts. 
+
+But the term is a useful one on its own merits, engaging species with
+a perspective similar to London's. As I will show in more detail, the concept
+of species-being and London's narration of species both assert a degree of
+mutual experience and subjectivity across members of a species without taking
+that mutuality as totally deterministic of an individual's nature.
+Species-being is therefore non-essentialist in reference to the individual, and
+at least in Marx's version of the term, also historically. Marx's version of
+human species-being is largely defined by conscious production, and as such,
+changes in the social and technological means of production lead to
+corresponding changes in the nature of the human. London similarly describes
+transformations in human species-being according to a combination of
+individuality and changing socio-technological conditions, taking the
+Promethean symbol of fire as an emblem of humanness and urban environments as
+sites of catastrophic alienation from self and species alike. Insofar as human
+species-being itself is responsible for the existential threat to the planet,
+it will not be due to some immutable essence, but rather as a result of a
+historically contingent development of the abilities and characteristics that
+define us.
+
+[^ln-sb-reemergence]: To my knowledge, none of these recent engagements with
+the term attempt a systematic rehashing of the term, but primarily use it to
+invoke the actions of the human species in general or better understand the way
+species as a concept features in the thinking of other authors or theorists
+(nor does the present chapter claim to present such a systematic approach).
+
+[^ln-london-marxism]: 
+
+As an historically contingent essence, species-being thus adopts many of the
+common targets of environmentalist critique as defining aspects of what it
+means to be human---or to be more precise, what it has meant to be human at
+given moments in an extremely long-durée historical trajectory. But the ability
+to conceive of these critiques in terms of the species itself is the first step
+in any suitable response to the crisis that is implied by and that gave rise to
+the term "Anthropocene". Though technically only designating a geological epoch
+defined by the influence of collective human activity, the Anthropocene has
+always meant more than a passive marker of a temporal boundary. Even in some of
+the earliest uses of the term, it had already come to indicate anthropogenic
+destruction of the planet through means as diverse as carbon emission,
+deforestation, population growth, and animal domestication as well as the need
+for immediate remediation [@crutzen_geology_2002,
 @crutzen_"anthropocene"_2006]. Reviving the "human species" as a universalizing
 concept is both an explanation of this destruction and a response to it.
 Indeed, as Dipesh Chakrabarty puts it in his seminal essay "The Climate of
@@ -226,8 +267,8 @@ alternate terms has resulted, most notable among them being the Capitalocene,
 the Androcene, and the Cthulucene. These searches for an alternative term have
 one thing in common: they understand the "anthropos" in Anthropocene as an even
 distribution of blame for actions the benefits of which have historically been
-anything *but* even. London's own invocation of the species as a heuristic
-hardly redeems it, and may in fact do the opposite. [London's shitty rep]
+anything *but* even. <!--That Jack London invokes the species as a heuristic hardly
+redeems it, and may in fact do the opposite. -->
 
 But this understandably critical reaction to the term may well mistake one type
 of universal for another, or at least apply to it a historiographic method that
@@ -302,16 +343,19 @@ strategies unique to naturalist fiction pursue the same imaginative capacities
 that are required to conceive of the species in the ways Chakrabarty says is
 both necessary and impossible. 
 
-[what trend is BA/fear an example of?]Most notably, despite its aspirations to
-narrate vast systems of human and non-human "forces" as from an aerie,
-naturalist novels tend to be insistently visceral in the descriptive details
-they use to compose this narration. One need only think of Dreiser's Carrie or
-Wharton's Lily Bart to see how the visceral and the systemic intertwine. Both
-women experience the bodily changes that result from their gruelling labor in
-clothes production, a process detailed in terms that evoke the lived experience
-of the labor rather than the theory of it; and yet for both authors, the
-experiential serves the conceptual, establishing a window into the alienation
-of labor.[^ln-dreiser-wharton] 
+Most notably, despite their aspirations to narrate vast systems of human and
+non-human "forces", naturalist novels tend to be insistently visceral in the
+descriptive details they use to compose this narration. One need only think of
+Dreiser's Carrie or Wharton's Lily Bart to see how the visceral and the
+systemic intertwine. Both women experience the bodily changes that result from
+their gruelling labor in clothes production, a process detailed in terms that
+evoke the lived experience of the labor rather than the theory of it; and yet
+for both authors, the experiential serves the conceptual, establishing a window
+into the alienation of labor and the economic systems that lead to
+it.[^ln-dreiser-wharton] 
+
+[^ln-dreiser-wharton]: Definitely need to give the examples here... and there
+is so much scholarship on this topic. 
 
 While these are historical rather than natural-historical examples---the
 conditions of labor are historically contingent and understandable within human
@@ -350,8 +394,6 @@ species history through an experiential link between early and late temporal
 poles. The result is not an abstract conception but a comparison of ways of
 being that encompasses a multi-epochal humanness. 
 
-[^ln-dreiser-wharton]: Definitely need to give the examples here... and there
-is so much scholarship on this topic. 
 
 
 <!-- preview species-being here? -->
@@ -431,16 +473,17 @@ striving by use of the very reason that was developed by evolution to deny the
 processes of evolution that developed it. This may be good egotism, but it is
 not good science.
 
-Embrace the animal, London tells us (with Burroughs as a proxy), "exalted
-animal" though it may be. Claiming that human action is driven exclusively by
-reason gives the lie to the very utility of that reason, for reason
-paradoxically requires an admission of unreason in the form of more atavistic
-drives. Contrary to the straw-man versions of naturalist determinism that have
-marked critiques of the genre for over a century, animalistic drives in the
-human and non-human alike are non-mechanistic. Rather, London's naturalism
-positions these drives as a substratum that exists in a complex mixture with
-the reason that both derives from and seeks to disown it. The extent to which
-reason has developed is a matter of species.
+<!--remember, "their history is your history" is from the epigraph to BA,
+and also comes up in the Kempton-Wace Letters -->Embrace the animal, London tells us (with Burroughs as
+a proxy), "exalted animal" though it may be. Claiming that human action is
+driven exclusively by reason gives the lie to the very utility of that reason,
+for reason paradoxically requires an admission of unreason in the form of more
+atavistic drives. Contrary to the straw-man versions of naturalist determinism
+that have marked critiques of the genre for over a century, animalistic drives
+in the human and non-human alike are non-mechanistic. Rather, London's
+naturalism positions these drives as a substratum that exists in a complex
+mixture with the reason that both derives from and seeks to disown it. The
+extent to which reason has developed is a matter of species.
 
 <!-- somewhere in here could be an opportunity to intro species being, if
 that's what I want to do. "At stake here is a concept called species-being as
@@ -847,22 +890,24 @@ connection to the body through technological interventions is to lose all
 frames of reference beyond the self, to lose the sense of the universal in the
 individual.
 
-"To Build a Fire", then, is finally an exploration of the way an ever more
-technologically mediated essence changes the place of the human in all possible
-environments, from the most immediate (the relationship with the dog) to the
-most distant (the place on the planet as a whole). But regarding London's
-conception of the species as such, and the notion of an essential species
-experience, this conclusion raises more questions than it answers. Chief among
-them are the following: How is it possible for the defining characteristic of
-a species to be defined by technology, something that is historically
-contingent? And what, then, is the proper context in which to seek an
-understanding of the human species---history or natural history? Finally, how
-is it possible for the so-called "natural" being of the human to simultaneously
-create a separation between the self and the environment in which the self
-exists?
+<!--use this to introduce a mini-sb section within this...-->"To Build a Fire",
+then, is finally an exploration of the way an ever more technologically
+mediated essence changes the place of the human in all possible environments,
+from the most immediate (the relationship with the dog) to the most distant
+(the place on the planet as a whole). But regarding London's conception of the
+species as such, and the notion of an essential species experience, this
+conclusion raises more questions than it answers. Chief among them are the
+following: How is it possible for the defining characteristic of a species to
+be defined by technology, something that is historically contingent? And what,
+then, is the proper context in which to seek an understanding of the human
+species---history or natural history? Finally, how is it possible for the
+so-called "natural" being of the human to simultaneously create a separation
+between the self and the environment in which the self exists?
 
 
 ### "History is the true natural history of man"
+
+<!--this section really needs to be incorporated above-->
 
 These questions, posed by London's narrative engagement with species, are
 answerable by the concept of "species-being", a term whose very composition
@@ -879,18 +924,63 @@ about static unchanging essentialism; we can have both "their history is your
 history" and "history is the true natural history of man"-->
 
 
-### Agro Novels
+### Species, Race, and Agricultural Species-Being
 
-<!-- how to use this? perhaps as an outline of sorts... to flesh out. Or
-perhaps as introductions to the argumentation itself.-->
+<!--the previous section should end with something like... 
+
+wait what does that section show us in the end?
+
+London understands human species-being, by way of animal species-being, as
+a combination of the following:
+
+1. something both universal and subject to adaptation across individual
+organisms
+
+2. fundamentally rooted in human use of technology and the prosthetic humanism
+that results (need harraway) as well as a larger social organism; both of these
+are the site of individual variation
+
+3. therefore historically contingent, i.e., variegated across period and
+region; a capacious view of technology that appears to include human
+environments altered by technology as well as social structures. 
+
+-->
+
+The socio-technological definition of human species-being in "To Build a Fire"
+appears to capture London's view of human species-being as it *was*; but he was
+just as invested in human species-being as it *could be*, in a subtly utopian
+mode enabled by his unique conception of the human as both defined by an
+essence and historically variable. [finish summarizing utopian humanism]
+
+[ acorn planter note/summary ]
+
+[contradicts common view of London as purely deterministic and fully committed
+to the "law of tooth and fang" version of his environmental imaginary. This
+developed at the end of his life, particularly in VM... Earl Labor 155 on VM]
+
+[what does this look like in a non-speculative setting? VM and agro novels
+give us a hint; but as in A-P, the utopian humanism is compromised by
+a ham-headed conception of racial supremecy as a defining aspect of the species
+conversation. We need to ask: is it possible to envision a pluralistic
+universal humanism, guided from within according to partially but not entirely
+technological means, without also accepting the view that this battle for
+supremecy has to be concluded first? (the supremecy thing is from the
+archives... maybe best not to go there for time reasons) VM actually presents
+a counter-point, somewhat similar to A-P but with a different approach to race.
+It remains appropriative but also shows how the supremecist logic that is given
+voice in A-P and the beginning of VM collapses under its own weight.]
+
+[eventually: London is trying to voice a progressive version of species-being but getting in
+his own way with an understanding of race that makes species-unity impossible
+(but does it? Isn't there room for Saxon's eventual pluralism?)]
 
 Experiencing humanness *per se*, and doing so on a scale that exceeds the
-individual, has ramifications for London's environmental consciousness just as 
+individual, has ramifications for London's environmental consciousness just as
 it does for environmental consciousness in the Anthropocene. Nowhere is this
 more evident than in his agricultural novels, written in the final years of his
-life as he worked his "Beauty Ranch," an experimental farm in the [Sonoma
-Valley] that became a material staging ground for his budding ecological
-consciousness. 
+life as he worked his "Beauty Ranch," an experimental farm in the Sonoma
+Valley, California, which became a material staging ground for his budding
+ecological consciousness. 
 
 *Burning Daylight* (1910) can be read as narrating the development of such
 a consciousness. Just as London's best-known writing begins with stories of dog
