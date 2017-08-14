@@ -948,11 +948,79 @@ environments altered by technology as well as social structures.
 
 The socio-technological definition of human species-being in "To Build a Fire"
 appears to capture London's view of human species-being as it *was*; but he was
-just as invested in human species-being as it *could be*, in a subtly utopian
-mode enabled by his unique conception of the human as both defined by an
-essence and historically variable. [finish summarizing utopian humanism]
+just as invested in human species-being as it *could be*. Indeed, though he has
+a reputation for rigidly deterministic views of human behavior, he seemed to
+take this fixity as a mere basis from which the human species could develop its
+collective nature. 
 
-[ acorn planter note/summary ]
+In his notes for a lecture delivered in Oakland, California sometime before
+1904<!--can the letters tell me when?-->, for example, he states his views on
+environmental determination of the human clearly: "Environment determines
+absolutely," causing all forms of life to do the "easiest thing" in all cases,
+despite the human illusion of volition. And yet it is possible for the actions
+of individual or collective actions to "have altered [the] environment" such
+that it determines what the "easiest thing" is. He comes to the point of his
+elaborations: 
+
+>We have individual telic actions; in small groups we even have collective
+telic action, but in society as a whole we do not have collective telic action.
+Things are helter skelter.
+
+>Wherefore the demand is made, that since as individuals, we all perform telic
+actions, let us collectively perform telic actions, and not go on in the blind,
+haphazard way we are now going on.
+
+As is clear from the context of the rest of the speech, the "we" here is
+nothing less than the human species, conceived as a collective. In order to
+have the capacity for univocal volition, a type of activity is required of the
+human collective that has not been possible to that point, a type of action
+that has the teleology of individual action on the scale of the human
+collective. Though framed here as a simple matter of choice (hence the
+exhortation), by the time of *Before Adam*'s publication London would come to
+see the capacity for collective teleological action on a smaller scale as an
+important step in the development of human species-being, one of the defining
+advantages the Fire People have over the less resilient Tree People.<!--make
+sure I set this up earlier--> By calling for further expansion of the
+collective capacity for "telic action", then, London is calling for the next
+step in the transformation of human species-being as a he understands
+it.[@JLCollection JL1251 "Speech on Free Will and Environment"]
+
+But to what end does he seek a guided evolution of the human species? To put it
+another way: if this is a vision of teleological collective action, what is the
+*telos*? In the context of his speech, it would probably have been in line with
+the goals of the ISS [uhh make sure it's this one and remember what the full
+name is] and the rest of the contemporaneous American socialist movement, as
+were the majority of his public speaking engagements. Where Jack London's
+thinking on species comes into contact with his thinking on environmental
+destruction, however---in other words, where he becomes most explicitly
+Anthropocenic---is in his vision of a more ecological human species-being for
+the future.
+
+London's concept of an ecological species-being developed mostly in the final
+years of his life, and so it is no surprise that the most paradigmatic
+statement appears in *The Acorn-Planter*, a play published (but never
+performed) in 1916, the year before his death. His notes towards what he calls
+the play's "argument" are more explicit than the final version of the play
+itself on this point: "The soil & the world belong to those who make the soil
+& the world most fruitful & thereby make possible life more _abundant_. [...]
+the duty of life [...] is to make life more abundant." In this remarkable note,
+London defines human species-being according to an ecological ethic. Making
+life more "abundant" is both the duty of all living things and the conditions
+for staking a claim to the world as a whole. Though the sense in which he means
+"belongs to" is ambiguous, given London's political commitments, it would not
+be unreasonable to take it as a literal statement of property, or rather,
+a schema for the abolition of property. What is most startling about the note
+is that the two statements, taken together, seem to disenfranchise much of
+humanity. Failing our collective duty, modern humans can hardly be said to make
+life more abundant, a fact that goes without saying in the twenty-first century
+but was already clear to many like London observing ecological trends in the
+first decades of the twentieth. Failing this duty in turn means that humanity
+would lose the claim to the natural world we have asserted explicitly since
+Bacon. Far from endorsing the inexhaustible claim to nature implied by the
+technological humanism of "To Build a Fire", London's speculative species-being
+is predicated on the conditionality of that claim.
+
+[ oops not that easy, cuz history and racism: acorn planter note/summary ]
 
 [contradicts common view of London as purely deterministic and fully committed
 to the "law of tooth and fang" version of his environmental imaginary. This
