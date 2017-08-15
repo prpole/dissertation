@@ -924,7 +924,8 @@ about static unchanging essentialism; we can have both "their history is your
 history" and "history is the true natural history of man"-->
 
 
-### Species, Race, and Agricultural Species-Being
+
+### Interlude: *The Acorn-Planter* and Speculative Human Species-Being
 
 <!--the previous section should end with something like... 
 
@@ -998,27 +999,68 @@ the future.
 
 London's concept of an ecological species-being developed mostly in the final
 years of his life, and so it is no surprise that the most paradigmatic
-statement appears in *The Acorn-Planter*, a play published (but never
-performed) in 1916, the year before his death. His notes towards what he calls
-the play's "argument" are more explicit than the final version of the play
-itself on this point: "The soil & the world belong to those who make the soil
-& the world most fruitful & thereby make possible life more _abundant_. [...]
-the duty of life [...] is to make life more abundant." In this remarkable note,
-London defines human species-being according to an ecological ethic. Making
-life more "abundant" is both the duty of all living things and the conditions
-for staking a claim to the world as a whole. Though the sense in which he means
-"belongs to" is ambiguous, given London's political commitments, it would not
-be unreasonable to take it as a literal statement of property, or rather,
-a schema for the abolition of property. What is most startling about the note
-is that the two statements, taken together, seem to disenfranchise much of
-humanity. Failing our collective duty, modern humans can hardly be said to make
-life more abundant, a fact that goes without saying in the twenty-first century
-but was already clear to many like London observing ecological trends in the
-first decades of the twentieth. Failing this duty in turn means that humanity
-would lose the claim to the natural world we have asserted explicitly since
-Bacon. Far from endorsing the inexhaustible claim to nature implied by the
+statement appears in *The Acorn-Planter --- A California Forest Play*, a play
+written and published (but never performed) in 1916, the year before his
+death.[^ln-ap-labor] His notes towards what he calls the play's "argument" are
+more explicit than the final version of the play itself on this point: "The
+soil & the world belong to those who make the soil & the world most fruitful
+& thereby make possible life more _abundant_. [...] the duty of life [...] is
+to make life more abundant." In this remarkable note, London defines human
+species-being according to an ecological ethic. Making life more "abundant" is
+both the duty of all living things and the conditions for staking a claim to
+the world as a whole. Though the sense in which he means "belongs to" is
+ambiguous, given London's political commitments, it would not be unreasonable
+to take it as a literal statement of property, or rather, a schema for the
+abolition of property. What is most startling about the note is that the two
+statements, taken together, seem to disenfranchise much of humanity. Failing
+our collective duty, modern humans can hardly be said to make life more
+abundant, a fact that goes without saying in the twenty-first century but was
+already clear to many like London observing ecological trends in the first
+decades of the twentieth. Failing this duty in turn means that humanity would
+lose the claim to the natural world we have asserted explicitly since Bacon.
+Far from endorsing the inexhaustible claim to nature implied by the
 technological humanism of "To Build a Fire", London's speculative species-being
-is predicated on the conditionality of that claim.
+is predicated on the conditionality of that claim.[@JLCollection JL2059]
+
+[^ln-ap-labor]: In the front matter of the play itself, London specifies that
+*The Acorn-Planter* was to "Be Sung by Efficient Singers Accompanied by
+a Capable Orchestra." Planned to be performed for the Bohemian Club, of which
+he and Frank Norris were members, the play's demands apparently exceeded its
+context, for the requisite efficient singers and capable orchestra were never
+found. See [@labor_all_1976].
+
+Taken in the larger dramatic context of *The Acorn-Planter*, however, this
+statement's easy assumption of a unified humanity becomes predictably
+complicated. In short, these musings occur in a context of colonial conquest
+that London was entirely unequipped to handle. He conceived of the plot in
+terms of "Indian & White", "2 motifs that are [in] apparent conflict that is
+reconciled in _the end_."[@JLCollection JL2059] Red Cloud is the titular
+"Acorn-Planter," leader of the Nishinam tribe according to a hereditary line
+leading from the "first man" and first Acorn-Planter. In the face of a prophecy
+telling of the coming "Sun Man" who will destroy the Nishinam, Red Cloud
+promotes peace and the promotion of beauty and life in contrast to the
+bellicose inclinations of the War Chief, who has absolute authority in times of
+war. When European explorers arrive, the Nishinam understand them to be the
+prophesied Sun Men. Despite the efforts of Red Cloud and the leader of the Sun
+Men (called only the Sun Man) to form a friendship, the War Chief and his
+followers kill the explorers with stolen muskets, prompting the dying Sun Man
+to prophecy the destruction of the Nishinam by his "brothers": "Many are our
+brothers and strong. They will come after us. [...] When you plant blood you
+harvest blood." In the second act, which takes place a century later, the Sun
+Men return to slaughter the Nishinam and take control of California, promising
+to increase its abundance... <!--man, I need to outline.-->
+
+> RED CLOUD: I am the Fire-Bringer. I stole the fire from the ground squirrel and hid it in the heart of the wood. 
+
+> SUN MAN: Then am I Prometheus, your brother. I stole the fire from heaven and
+hid it in the heart of the wood. 
+
+> RED CLOUD: I am the Acorn-Planter. I am the Food-Bringer, the Life-Maker.
+I make food for more life, ever more life.
+
+> SUN MAN: Then am I truly your brother. Life-Maker am I, tilling the soil in
+the sweat of my brow from the beginning of time, planting all manner of good
+seeds for the harvest. 
 
 [ oops not that easy, cuz history and racism: acorn planter note/summary ]
 
@@ -1041,6 +1083,9 @@ voice in A-P and the beginning of VM collapses under its own weight.]
 [eventually: London is trying to voice a progressive version of species-being but getting in
 his own way with an understanding of race that makes species-unity impossible
 (but does it? Isn't there room for Saxon's eventual pluralism?)]
+
+
+### Species, Race, and Agricultural Species-Being
 
 Experiencing humanness *per se*, and doing so on a scale that exceeds the
 individual, has ramifications for London's environmental consciousness just as
