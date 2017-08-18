@@ -1118,9 +1118,29 @@ Far from endorsing the inexhaustible claim to nature implied by the
 technological humanism of "To Build a Fire", London's speculative species-being
 is predicated on the conditionality of that claim.[2059]]-->
 
-### The Valley of the Moon: Agriculture 
+### The Valley of the Moon: Agriculture and the Face of the Anthropos
 
-
+*The Valley of the Moon* provides a counter-model to *The Acorn-Planter*,
+suggesting a usable ethos for how to talk about the human universal as a term
+that lets us pursue teleological and transformative ecological praxis. Contrary
+to many readings of its racial logics as nativist and white supremecist,
+I submit that VM is not an uncomplicated vessel for these ideologies, but
+rather creates the narrative conditions in which those ideologies dissolve of
+their own contradictions. But it is the specific narrative conditions in which
+this occurs that are of interest to an Anthropocenic reading of the novel. The
+second half of the novel is devoted to the two protagonists' odyssey in search
+of not only arable land on which to farm, but responsible and ecologically
+sound methods with which to farm it; this search in turn leads the two
+characters (and perhaps their author) to a critical analysis of American
+environmental history that blames aspects of the "Anglo-Saxon" identity for the
+destruction of the country's lands. In stark contrast to *The Acorn-Planter*,
+a critique of the conqueror leads the characters to develop farming methods
+that increase the "abundance of life"---and they do so by embracing
+a collective American wisdom that is premised on cultural pluralism. In short,
+*The Valley of the Moon* shows that an ecologically oriented human universalism
+can arise out of a critique of the regressive universalism it is often confused
+for, while also providing one version of what such an environmentalism could
+look like in practice.
 
 
 
