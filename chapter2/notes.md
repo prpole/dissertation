@@ -1,6 +1,64 @@
 ---
 ---
 
+<!--VM scraps-->
+
+
+[While the story as a whole follows a "back-to-the land" motif that is
+built on the naturalist logic of determinism and decline while complicating
+that logic at the same time. Conceding a degree of environmental determinism,
+at least as far as the broad categories of rural and urban environments, the
+pair nevertheless have a degree of choice in choosing a new environment and in
+transforming the environment they find themselves in---which transformation is
+possible to a much greater degree beyond the dense and alienated environment of
+the city.]
+
+<!--on BD-->
+
+Experiencing humanness *per se*, and doing so on a scale that exceeds the
+individual, has ramifications for London's environmental consciousness just as
+it does for environmental consciousness in the Anthropocene. Nowhere is this
+more evident than in his agricultural novels, written in the final years of his
+life as he worked his "Beauty Ranch," an experimental farm in the Sonoma
+Valley, California, which became a material staging ground for his budding
+ecological consciousness. 
+
+*Burning Daylight* (1910) can be read as narrating the development of such
+a consciousness. Just as London's best-known writing begins with stories of dog
+running and gold mining in the far north and concluded in agricultural
+narratives, Elam "Burning Daylight" Harnish's story begins when he goes from
+carrying mail in the Yukon [check task and place] to striking it rich on
+fortuitous gold claims [I think it's more complex than this...]. His extractive
+impulse leads him naturally into financial speculation and thus to the urban
+centers of California, where he experiences the classic naturalist "plot of
+decline" as distance from his wilderness roots takes its toll through the
+drinking and inactivity it engenders. London paints a portrait of a typological
+figure whose very physical being and essential character transforms as a result
+of a change in his environment, and the loss is rendered in terms that are
+understood historically as reflecting a change in the fundamental nature of the
+species. The only way for Harnish to regain his physical vitality is to abandon
+a capitalist conception of land in favor of a respectful engagement with it, an
+engagement that is aesthetic at the same time that it is horticultural and
+ecological. Rather than extracting value from land in the form of rent, Harnish
+begins to value the land itself based on its health and an autonomy that
+approximates that of the wild north from which he came. But it is not wildness
+itself that he values---rather, it is his relationship with the land,
+a relationship that is active without being extractive, encouraging growth that
+increases the productive capacity of the land whether or not what is produced
+is profitable. In order to attain this state of horticultural enlightenment, he
+has to come to an understanding of the influence environment has on his basic
+being, or in other words of the naturalist logic of determinism that cuts right
+to the genre's conception of humanness itself. When a small landslide in his
+new idealized natural environment reveals a strain of gold, he feels himself
+momentarily pulled back into the extractive, urban version of the human that he
+has fought hard to escape. In an important symbolic moment, he covers the gold
+back up, knowingly choosing an atavistic human existence to preserve himself
+and his immediate environment in the same act. A dynamic relationship to
+species, one that balances determinism of possible futures with a free act of
+choice among those futures, is the basis of this environmental praxis.
+
+
+
 ## Chapter One (London) informal abstract
 
 Broadly speaking, I am investigating the ways species, race, and horticultural

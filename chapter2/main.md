@@ -20,7 +20,7 @@ never experiences being a concept.
 
 > ---Dipesh Chakrabarty, "The Climate of History: Four Theses"
 
-### Introduction
+### Introduction: *Before Adam* (1906-7) and the Geological Human
 
 Jack London's 1906 novel *Before Adam* is perhaps the most overt entry in
 a career-spanning attempt to narrate *species as such*. The unnamed narrator
@@ -401,7 +401,7 @@ being that encompasses a multi-epochal humanness.
 
 The rest of this chapter will... [ ]
 
-### Species-Being, Human and Animal
+### "To Build a Fire" (1908): Species-Being, Human and Animal
 
 <!--outline dog books, nature fakers, to build a fire; must conclude long intro
 by opening up the question of species-being per se--->
@@ -905,9 +905,9 @@ so-called "natural" being of the human to simultaneously create a separation
 between the self and the environment in which the self exists?
 
 
-### "History is the true natural history of man"
+<!--### "History is the true natural history of man"
 
-<!--this section really needs to be incorporated above-->
+this section really needs to be incorporated above-->
 
 These questions, posed by London's narrative engagement with species, are
 answerable by the concept of "species-being", a term whose very composition
@@ -925,7 +925,7 @@ history" and "history is the true natural history of man"-->
 
 
 
-### Interlude: *The Acorn-Planter* and Speculative Human Species-Being
+### *The Acorn-Planter* (1916): Speculative Human Species-Being
 
 <!--the previous section should end with something like... 
 
@@ -1118,124 +1118,118 @@ Far from endorsing the inexhaustible claim to nature implied by the
 technological humanism of "To Build a Fire", London's speculative species-being
 is predicated on the conditionality of that claim.[2059]]-->
 
-### The Valley of the Moon: Agriculture and the Face of the Anthropos
+### The Valley of the Moon (1913): Agriculture and the Face of the Anthropos
 
 *The Valley of the Moon* provides a counter-model to *The Acorn-Planter*,
 suggesting a usable ethos for how to talk about the human universal as a term
 that lets us pursue teleological and transformative ecological praxis. Contrary
 to many readings of its racial logics as nativist and white supremecist,
-I submit that VM is not an uncomplicated vessel for these ideologies, but
-rather creates the narrative conditions in which those ideologies dissolve of
-their own contradictions. But it is the specific narrative conditions in which
-this occurs that are of interest to an Anthropocenic reading of the novel. The
-second half of the novel is devoted to the two protagonists' odyssey in search
-of not only arable land on which to farm, but responsible and ecologically
-sound methods with which to farm it; this search in turn leads the two
-characters (and perhaps their author) to a critical analysis of American
-environmental history that blames aspects of the "Anglo-Saxon" identity for the
-destruction of the country's lands. In stark contrast to *The Acorn-Planter*,
-a critique of the conqueror leads the characters to develop farming methods
-that increase the "abundance of life"---and they do so by embracing
-a collective American wisdom that is premised on cultural pluralism. In short,
-*The Valley of the Moon* shows that an ecologically oriented human universalism
-can arise out of a critique of the regressive universalism it is often confused
-for, while also providing one version of what such an environmentalism could
-look like in practice.
+I submit that *The Valley of the Moon* is not an uncomplicated vessel for these
+ideologies, but rather creates the narrative conditions in which those
+ideologies dissolve of their own contradictions. But it is the specific
+narrative conditions in which this occurs that are of interest to an
+Anthropocenic reading of the novel. The second half of the novel is devoted to
+the two protagonists' odyssey in search of not only arable land on which to
+farm, but responsible and ecologically sound methods with which to farm it;
+this search in turn leads the two characters (and perhaps their author) to
+a critical analysis of American environmental history that blames aspects of
+the "Anglo-Saxon" identity for the destruction of the country's lands. Here, in
+stark contrast to *The Acorn-Planter*, a critique of the conqueror leads the
+characters to develop farming methods that increase the "abundance of
+life"---and they do so by embracing a collective American wisdom that is
+premised on cultural pluralism. In short, *The Valley of the Moon* shows that
+an ecologically oriented human universalism can arise out of a critique of the
+regressive universalism it is often confused for, while also providing one
+version of what such an environmentalism could look like in practice.
 
+The structure of *The Valley of the Moon* is split neatly by two distinct
+settings, and one might even say there is a rift at its center----a "metabolic
+rift between town and country," to borrow Marx's phrase from the same
+manuscripts in which he developed the concept of species-being. With its first
+half preoccupied by union busting in downtown Oakland and its second narrating
+an odyssey through the farmlands to the north, the novel formally mirrors
+a premise that cuts across literary naturalism: the idea that human life is
+fundamentally and even biologically different in urban and rural environments.
 
+The protagonists, named Billy and (tellingly) Saxon, meet and fall in love in
+Oakland, where they are married and begin what is briefly a placid life. But
+Billy's work as a teamster is not endurable for long, as increasing wage
+pressure and resultant strikes result in the death and turn to prostitution,
+respectively, of their two best friends. Billy and Saxon effect a flight from
+the city of Oakland when teamster union strikes are put down by zealous police
+violence---and because of Billy's surrender to alcohol that is the partial
+result. The second half of the novel chronicles their travels in search of
+plots of land the government is rumored to provide free to whoever claims it.
+They idealize the image of such land, imagining that they will find something
+akin to a "valley on the moon," otherworldly and perhaps unattainable. As they
+wander through the countryside living out of the packs on their backs, Billy
+and Saxon gather horticultural knowledge from a combination of farming
+operations owned and managed by immigrant communities, market gardeners with
+upscale clientele, and a set of books and pamphlets that represent
+a cross-section of London's own Beauty Ranch horticultural library.[^ln-tichi]
+At last, they find a valley like the one they have dreamed of, leasing an
+exhausted farm with the aim of revitalizing it and eventually buying it
+outright. The pair put their collected horticultural wisdom into practice as
+they settle into a hard-working but unalienated routine of agricultural labor
+and living, having escaped the degrading influence of urbanity once and for
+all. *The Valley of the Moon* concludes with an image of renewed vitality and
+the propagation of life. Where the trauma of death and poverty in the city
+caused Saxon to miscarry their first child, in the final scene she turns to
+Billy, as they look over a hidden canyon deep in their valley, to announce that
+she is pregnant again and has sent back to Oakland for the baby clothes her
+brother has kept for her in a chest they associate with their pioneer
+ancestors. This line having been drawn between their changed fortunes, their
+reproductive capacity, and their family history, London concludes with a final
+image connecting them with the vitality of the natural world: "together they
+gazed far up the side of the knoll where a doe and a spotted fawn looked down
+upon them from a tiny open space between the trees."[@london_valley_1999 425]
 
-[contradicts common view of London as purely deterministic and fully committed
-to the "law of tooth and fang" version of his environmental imaginary. This
-developed at the end of his life, particularly in VM... Earl Labor 155 on VM]
+While the novel adheres to the naturalist
+motif of environmental determinism and the plot of decline in some
+senses---Billy's descent into alcoholism and gambling as a result of his
+environs is an almost wearyingly regular episode in the naturalist canon---it
+complicates that logic by reversing it, allowing for Billy's rehabilitation by
+"returning" to the land (though he personally has never known it). This return
+is nothing less than a purposive selection of environment as a way of choosing,
+in turn, the forces that determine their essential nature, thereby reverting to
+an earlier moment in the historical development of human species-being. But the
+species itself is too broad a category for the individual consciousness of
+these characters to connect with, at first, just as Chakrabarty suggests in
+*The Climate of History*. Their affective historical consciousness is limited
+by the bounds of their direct progenitors:
 
-[what does this look like in a non-speculative setting? VM and agro novels
-give us a hint; but as in A-P, the utopian humanism is compromised by
-a ham-headed conception of racial supremecy as a defining aspect of the species
-conversation. We need to ask: is it possible to envision a pluralistic
-universal humanism, guided from within according to partially but not entirely
-technological means, without also accepting the view that this battle for
-supremecy has to be concluded first? (the supremecy thing is from the
-archives... maybe best not to go there for time reasons) VM actually presents
-a counter-point, somewhat similar to A-P but with a different approach to race.
-It remains appropriative but also shows how the supremecist logic that is given
-voice in A-P and the beginning of VM collapses under its own weight.]
+> And often [Saxon] found herself dreaming of the arcadian days of her people,
+when they had not lived in cities nor been vexed with labor unions and
+employers' associations. She would remember the old people's tales
+of self-sufficingness, when they shot or raised their own meat, grew their own
+vegetables, were their own blacksmiths and carpenters, made their own
+shoes---yes, and spun the cloth of the clothes they wore. And something of the
+wistfulness in [her brother]'s face she could see as she recollected it when he
+talked of his dream of taking up government land.[@london_valley_1999]
 
-[eventually: London is trying to voice a progressive version of species-being but getting in
-his own way with an understanding of race that makes species-unity impossible
-(but does it? Isn't there room for Saxon's eventual pluralism?)]
+The fantasy they engage in is uchronistic, a desire to go back to
+a pre-alienated state of production and *keep* it un-alienated. What attracts
+Saxon is the self-sufficiency that results laborers owning the means of
+production; yearning for escape from "labor unions and employers' associations"
+is the same wish that motivated London's revolutionary socialism. In other
+words, though it is framed as a movement backwards in time, this is no
+Luddite fantasy nor an intentionally regressive one, for it is coupled later with
+a scientific and experimental approach to horticulture and economics alike.
+The fantasy, if it is one, is the possibility of choosing a way of relating
+to one's environment according to an historical precedent and somehow
+reconciling that with a modern context without being regressive
+unintentionally. Just as London must imagine a mythological past in *The
+Acorn-Planter* to develop his speculative vision of a future human
+species-being, Saxon can only conceive of a change to her own
+being-in-the-world through the lens of her ancestors' lives.
 
+<!--mark-->
 
-### Species, Race, and Agricultural Species-Being
-
-Experiencing humanness *per se*, and doing so on a scale that exceeds the
-individual, has ramifications for London's environmental consciousness just as
-it does for environmental consciousness in the Anthropocene. Nowhere is this
-more evident than in his agricultural novels, written in the final years of his
-life as he worked his "Beauty Ranch," an experimental farm in the Sonoma
-Valley, California, which became a material staging ground for his budding
-ecological consciousness. 
-
-*Burning Daylight* (1910) can be read as narrating the development of such
-a consciousness. Just as London's best-known writing begins with stories of dog
-running and gold mining in the far north and concluded in agricultural
-narratives, Elam "Burning Daylight" Harnish's story begins when he goes from
-carrying mail in the Yukon [check task and place] to striking it rich on
-fortuitous gold claims [I think it's more complex than this...]. His extractive
-impulse leads him naturally into financial speculation and thus to the urban
-centers of California, where he experiences the classic naturalist "plot of
-decline" as distance from his wilderness roots takes its toll through the
-drinking and inactivity it engenders. London paints a portrait of a typological
-figure whose very physical being and essential character transforms as a result
-of a change in his environment, and the loss is rendered in terms that are
-understood historically as reflecting a change in the fundamental nature of the
-species. The only way for Harnish to regain his physical vitality is to abandon
-a capitalist conception of land in favor of a respectful engagement with it, an
-engagement that is aesthetic at the same time that it is horticultural and
-ecological. Rather than extracting value from land in the form of rent, Harnish
-begins to value the land itself based on its health and an autonomy that
-approximates that of the wild north from which he came. But it is not wildness
-itself that he values---rather, it is his relationship with the land,
-a relationship that is active without being extractive, encouraging growth that
-increases the productive capacity of the land whether or not what is produced
-is profitable. In order to attain this state of horticultural enlightenment, he
-has to come to an understanding of the influence environment has on his basic
-being, or in other words of the naturalist logic of determinism that cuts right
-to the genre's conception of humanness itself. When a small landslide in his
-new idealized natural environment reveals a strain of gold, he feels himself
-momentarily pulled back into the extractive, urban version of the human that he
-has fought hard to escape. In an important symbolic moment, he covers the gold
-back up, knowingly choosing an atavistic human existence to preserve himself
-and his immediate environment in the same act. A dynamic relationship to
-species, one that balances determinism of possible futures with a free act of
-choice among those futures, is the basis of this environmental praxis.
-
-*The Valley of the Moon* (1913) is in many ways a reprise of the themes of
-*Burning Daylight* that pushes even further both the atavistic relation to
-species and the resultant environmental praxis. The novel is neatly divided
-between sections dealing with the city and the country, setting up a neat test
-case for the naturalist urban premise of the naturalist plot of decline. Billy
-and Saxon effect a flight from the city of Oakland when teamster union strikes
-are put down by zealous police violence---and because of Billy's surrender to
-alcohol that is the partial result. The second half of the novel chronicles
-their travels in search of a plot of land, which they idealize by imagining as
-a "valley of the moon," otherworldly and perhaps unattainable. [check? where
-does the valley of the moon thing begin?] On the way to finding this land,
-a clear proxy for London's own "Beauty Ranch," Billy and Saxon gather
-horticultural knowledge from a combination of farming operations owned and
-managed by immigrant communities, market gardeners with upscale clientele, and
-a set of books and pamphlets that represent a cross-section of London's own
-Beauty Ranch horticultural library.[^ln-tichi] Putting this collected wisdom
-into practice has an effect on Billy and Saxon similar to what Elam Harnish
-experiences in *Burning Daylight*: they settle into a hard-working but
-unalienated routine of agricultural labor and living, having escaped the
-degrading influence of urbanity. Billy and Saxon's story follows a "back-to-the
-land" motif that is built on the naturalist logic of determinism and decline
-while complicating that logic at the same time. Conceding a degree of
-environmental determinism, at least as far as the broad categories of rural and
-urban environments, the pair nevertheless have a degree of choice in choosing
-a new environment and in transforming the environment they find themselves
-in---which transformation is possible to a much greater degree beyond the dense
-and alienated environment of the city. 
+Conceding a degree of environmental determinism, at least as far as the broad
+categories of rural and urban environments, the pair nevertheless have a degree
+of choice in choosing a new environment and in transforming the environment
+they find themselves in---which transformation is possible to a much greater
+degree beyond the dense and alienated environment of the city.
 
 [^ln-tichi]: citation in Tichi's book on London as reformer
 
@@ -1314,3 +1308,26 @@ cultural differences that define the human species.
 this argument in general
 
 [note: in VM London reverses the logic of the Acorn-Planter (or vice versa): in his sources and the novel itself, immigrants rightly displace wasteful American farmers because they more intensively cultivate the land.]
+
+[contradicts common view of London as purely deterministic and fully committed
+to the "law of tooth and fang" version of his environmental imaginary. This
+developed at the end of his life, particularly in VM... Earl Labor 155 on VM]
+
+[what does this look like in a non-speculative setting? VM and agro novels
+give us a hint; but as in A-P, the utopian humanism is compromised by
+a ham-headed conception of racial supremecy as a defining aspect of the species
+conversation. We need to ask: is it possible to envision a pluralistic
+universal humanism, guided from within according to partially but not entirely
+technological means, without also accepting the view that this battle for
+supremecy has to be concluded first? (the supremecy thing is from the
+archives... maybe best not to go there for time reasons) VM actually presents
+a counter-point, somewhat similar to A-P but with a different approach to race.
+It remains appropriative but also shows how the supremecist logic that is given
+voice in A-P and the beginning of VM collapses under its own weight.]
+
+[eventually: London is trying to voice a progressive version of species-being but getting in
+his own way with an understanding of race that makes species-unity impossible
+(but does it? Isn't there room for Saxon's eventual pluralism?)]
+
+
+
