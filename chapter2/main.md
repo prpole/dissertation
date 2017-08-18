@@ -161,7 +161,7 @@ invoke the actions of the human species in general or better understand the way
 species as a concept features in the thinking of other authors or theorists
 (nor does the present chapter claim to present such a systematic approach).
 
-[^ln-london-marxism]: 
+[^ln-london-marxism]: see "Jack London, Burning Man"
 
 As an historically contingent essence, species-being thus adopts many of the
 common targets of environmentalist critique as defining aspects of what it
@@ -1007,11 +1007,14 @@ soil & the world belong to those who make the soil & the world most fruitful
 & thereby make possible life more _abundant_. [...] the duty of life [...] is
 to make life more abundant." In this remarkable note, London defines human
 species-being according to an ecological ethic. Making life more "abundant" is
-both the duty of all living things and the conditions for staking a claim to
-the world as a whole. Though the sense in which he means "belongs to" is
-ambiguous, given London's political commitments, it would not be unreasonable
-to take it as a literal statement of property, or rather, a schema for the
-abolition of property. [@JLCollection JL2059]
+both the duty of all living things and the conditions for staking any claim to
+the planet. Though the sense in which he means "belongs to" is ambiguous, it
+would not be unreasonable, given his political commitments, to take it as
+a literal theory of property, or rather, as a scheme for the abolition of
+property in an early eco-anarchist mode. In any case, it is important to note
+that the version of species-being he presents here is both speculative and
+teleological, established with an eye toward the next step he hopes humanity
+will take.[@JLCollection JL2059]
 
 [^ln-ap-labor]: In the front matter of the play itself, London specifies that
 *The Acorn-Planter* was to "Be Sung by Efficient Singers Accompanied by
@@ -1020,20 +1023,16 @@ he and Frank Norris were members, the play's demands apparently exceeded its
 context, for the requisite efficient singers and capable orchestra were never
 found. See [@labor_all_1976].
 
-Taken in the larger dramatic context of *The Acorn-Planter*, however, this
-statement's easy assumption of a unified humanity becomes predictably
-complicated. In short, these musings occur in a context of colonial conquest
-that London was entirely unequipped to handle. He conceived of the plot in
-terms of "Indian & White", "2 motifs that are [in] apparent conflict that is
-reconciled in _the end_."[@JLCollection JL2059] Red Cloud is the titular
-"Acorn-Planter," leader of the Nishinam tribe according to a hereditary line
-leading from the "first man" and first Acorn-Planter. In the face of a prophecy
-telling of the coming "Sun Man" who will destroy the Nishinam, Red Cloud
-promotes peace and the propagation of beauty and life in contrast to the
-bellicose inclinations of the "War Chief". When European explorers arrive
-matching the description in the prophecy, Red Cloud and the Sun Man identify
-themselves according to parallel archetypes of two traditions (at least as
-London imagines them): 
+In the play itself, at least superficially, this next step is both ecological
+and premised on alliances across racial, national, and cultural divides. Red
+Cloud is the titular "Acorn-Planter," leader of the Nishinam tribe according to
+a hereditary line leading from the "first man" and first Acorn-Planter. In the
+face of a prophecy telling of the coming "Sun Man" who will destroy the
+Nishinam, Red Cloud promotes peace and the propagation of beauty and life in
+contrast to the bellicose inclinations of the "War Chief". When European
+explorers arrive matching the description in the prophecy, Red Cloud and the
+Sun Man identify themselves according to parallel archetypes of two traditions
+(at least as London imagines them): 
 
 > RED CLOUD: I am the Fire-Bringer. I stole the fire from the ground squirrel
 and hid it in the heart of the wood. 
@@ -1049,46 +1048,66 @@ the sweat of my brow from the beginning of time, planting all manner of good
 seeds for the harvest.[@london_acorn_1916 45]
 
 The first commonality the two assert is identification with the mastery of
-fire---which for London, as we have seen, is a symbol of human species-being.
-Immediately on the heels of this affirmed humanity is is the commitment to
-spreading more life. This commitment relies, however, on surpassing the
-bellicose nature embodied by the War Chief. Once surpassed, a new era of
-humanity is promised: "Lo, the New Day Dawns, / The day of brotherhood, / The
-day when all men / Shall be kind to all men, / And all men shall be sowers of
-life."[@london_acorn_1916 81].
+fire---which for London, as we have seen, is a symbol of human species-being,
+and thus is tantamount to establishing the human as an identity. Immediately on
+the heels of this affirmed humanity comes their shared commitment to spreading
+more life. This commitment relies, however, on surpassing the bellicose nature
+embodied by the War Chief. Once surpassed, a new era of humanity is promised:
+"Lo, the New Day Dawns, / The day of brotherhood, / The day when all men
+/ Shall be kind to all men, / And all men shall be sowers of
+life."[@london_acorn_1916 81]. London envisions a swords-into-ploughshares
+moment that will encompass the entire species and transform the planet into
+a densely cultivated tangle of life.
 
-But the message of mutual fellowship in service of the shared planet is
-undercut by an ahistorical and manipulative account of California's conquest by
-white settlers. Despite the efforts of Red Cloud and the leader of the Sun Men
-(called only the Sun Man) to form a friendship, the War Chief and his followers
-kill the explorers with stolen muskets, prompting the dying Sun Man to prophecy
-the destruction of the Nishinam by his "brothers": "Many are our brothers and
-strong. They will come after us. [...] When you plant blood you harvest blood."
-In the second act, which takes place a century later, the Sun Men return to
-slaughter the Nishinam and take control of California, after a prolonged
-exchange with the living incarnation of Red Cloud in which he and the Sun Man
-agree that white settlers will increase the abundance of life on the land
-through agriculture.[@london_acorn_1916 72] Stripping the figures of their
-individual identities by identifying them with mythic figures, London stages an
+Considered in contrast with the actual history London overwrites with his
+simplified version of it, however, this statement's easy assumption of
+a unified humanity becomes predictably complicated, for the same reasons many
+are reasonably skeptical of the Anthropocene's universalism. In this case, the
+context is the colonial conquest of the Americas, and London was entirely
+unequipped to handle it as justly as he (thought he) wanted to. He conceived of
+the play's plot in terms of "Indian & White", "2 motifs that are [in] apparent
+conflict that is reconciled in the end." He repeats in his notes that the two
+motifs are "the same in import" and nominally allies the indigenous peoples and
+European invaders in service of a common goal of increasing life's abundance,
+but in fact he presents a narrative of California's conquest by Europeans that
+applies different standards of judgment to acts of violence and life-making
+alike.[@JLCollection JL2059] Despite the efforts of Red Cloud and the leader of
+the Sun Men (called only the Sun Man) to form a friendship, the War Chief and
+his followers kill the explorers with stolen muskets, prompting the dying Sun
+Man to prophecy the destruction of the Nishinam by his "brothers": "Many are
+our brothers and strong. They will come after us. [...] When you plant blood
+you harvest blood." In the second act, which takes place a century later, the
+Sun Men return to slaughter the Nishinam and take control of California, after
+a prolonged exchange with the living incarnation of Red Cloud in which he and
+the Sun Man agree that white settlers will increase the abundance of life on
+the land through agriculture better than the Nishinam would have through acorn
+planting.[@london_acorn_1916 72] Stripping the figures of their individual
+identities by identifying them with mythic figures, London stages an
 allegorical struggle for the land between Europeans and American Indians in the
-interactions of these typological figures. He does so through a distorting
-lens that justifies white violence as a response to the aggression of the
-Nishinam while making a mockery of the indigenous traditions of the Americas
-through ludicrous pastiche. Though the possibility of a defining human *telos*
-that compels increased abundance of life on the planet is intriguing in itself,
-it is pursued here as a rationale for colonialism.
+interactions of these typological figures---as well as a struggle between their
+respective horticultural imaginaries. He does so through a distorting lens that
+justifies white violence as a response to the aggression of the Nishinam while
+making a mockery of the indigenous traditions of the Americas through ludicrous
+pastiche. Though the possibility of a defining human *telos* that compels
+increased abundance of life on the planet is intriguing in itself, it is
+pursued here as a justifying rationale for colonialism.
 
-Why consider this vision of human species-being at all, then? In short, because
-the *Acorn-Planter* version of London's speculative species-being is merely one
-particularly clear articulation of an idea that he explored in different forms
-across his late agricultural novels, and the celebration of white colonial
-conquest at the play's end is a direct contradiction of his stance in other,
-more critical works. Indeed, one need not even reach beyond *The Acorn-Planter*
-itself to find London contradicting himself.<!--mark-->
+Why consider this vision of human species-being at all, then, given its
+ahistoricity and its racism? In short, because the *Acorn-Planter* version of
+London's speculative species-being is merely one particularly clear
+articulation of this speculative, ecological species-being, an idea that he
+explored in different forms across his late agricultural novels, and the
+celebration of white colonial conquest at the play's end is a direct
+contradiction of his stance in other, more nuanced works in which he challenges
+the ideologies that he and many contemporaneous commentators espoused to
+justify such conquest. Taking the racism of the Acorn-Planter head on allows us
+to pose the question of London that must also be posed in reference to the
+Anthropocene, and which can be explored in London's work as a proxy: Is it
+possible to posit a universal, ecological, human species-being without
+accepting the racist essentialisms and historical traumas that such
+universalism has been used to justify in the past?
 
-...
-
-[What is most startling about the note is that the two
+<!--[What is most startling about the note is that the two
 statements, taken together, seem to disenfranchise much of humanity. Failing
 our collective duty, modern humans can hardly be said to make life more
 abundant, a fact that goes without saying in the twenty-first century but was
@@ -1097,11 +1116,13 @@ decades of the twentieth. Failing this duty in turn means that humanity would
 lose the claim to the natural world we have asserted explicitly since Bacon.
 Far from endorsing the inexhaustible claim to nature implied by the
 technological humanism of "To Build a Fire", London's speculative species-being
-is predicated on the conditionality of that claim.[2059]]
+is predicated on the conditionality of that claim.[2059]]-->
+
+### The Valley of the Moon: Agriculture 
 
 
 
-[ oops not that easy, cuz history and racism: acorn planter note/summary ]
+
 
 [contradicts common view of London as purely deterministic and fully committed
 to the "law of tooth and fang" version of his environmental imaginary. This
@@ -1272,4 +1293,4 @@ cultural differences that define the human species.
 [^ln-brotherhood]: cite London's Racial Lives on this term and in support of
 this argument in general
 
-
+[note: in VM London reverses the logic of the Acorn-Planter (or vice versa): in his sources and the novel itself, immigrants rightly displace wasteful American farmers because they more intensively cultivate the land.]
