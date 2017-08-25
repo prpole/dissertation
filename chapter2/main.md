@@ -403,6 +403,21 @@ The rest of this chapter will... [ ]
 
 ### "To Build a Fire" (1908): Species-Being, Human and Animal
 
+> ...humankind is self-made in the most literal sense. Our bodies are the
+product of the tool-using adaptation which predates the genus *Homo*. We
+actively determined our design through tools that mediate the human exchange
+with nature. This condition of our existence may be visualized in two
+contradictory ways. Gazing at the tools themselves, we may choose to forget
+that they only mediate our labor. From that perspective, we see our brains and
+our other products impelling us on a historical course of escalating
+technological domination; that is, we build an alienated relation to nature.
+We see our specific historical edifice as both inevitable human nature and
+technical necessity. [...] Or, we may focus on the labour process itself and
+reconstruct our sense of nature, origins, and the past so that the human future
+is in our hands.
+
+> ---Donna J. Haraway, *Simians, Cyborgs, and Women* [22]
+
 <!--outline dog books, nature fakers, to build a fire; must conclude long intro
 by opening up the question of species-being per se--->
 
@@ -521,17 +536,18 @@ experienced?
 ---
 
 If *Before Adam* fails to address these questions, it is perhaps because it
-fails to fully root itself in the experiences of either of the two moments it
+fails to root itself in the experiences of either of the two moments it
 depicts, fully inhabiting the experience of neither the Pleistocene nor the
-Holocene. It may model a natural-historical fiction, but this fiction has the
-narrative requirements as other forms of historical fiction. If he makes the
-pre-human experience of the Pleistocene more accessible to a modern
-consciousness, it may paint a clearer sketch of the process of speciation and
-human development, in the same way that Dreiser makes the economic crisis of
-1871 [?] open to experience to form an argument about the crisis-prone nature
-of capitalism and finance. But neither novel does anything to expand the
-temporal scale of their narration, a expansion without which any robust
-experience of species remains out of reach. 
+Holocene. It may model a natural-historical fiction, but this fiction has
+merely the same narrative requirements as other forms of historical fiction. If
+he makes the pre-human experience of the Pleistocene more accessible to
+a modern consciousness, it may paint a clearer sketch of the process of
+speciation and human development, in the same way that Dreiser makes the
+economic crisis of 1871 [?] open to experience to form an argument about the
+crisis-prone nature of capitalism and finance. But neither novel does anything
+to expand the temporal scale of their narration within its own bounds,
+a expansion without which any robust experience of species remains out of
+reach. 
 
 In a short story from the same period, "To Build a Fire," London performs just
 such an expansion, and he does so by interrogating the classic naturalist
@@ -997,7 +1013,7 @@ destruction, however---in other words, where he becomes most explicitly
 Anthropocenic---is in his vision of a more ecological human species-being for
 the future.
 
-London's concept of an ecological species-being developed mostly in the final
+London mostly developed his concept of an ecological species-being in the final
 years of his life, and so it is no surprise that the most paradigmatic
 statement appears in *The Acorn-Planter --- A California Forest Play*, a play
 written and published (but never performed) in 1916, the year before his
@@ -1120,27 +1136,51 @@ is predicated on the conditionality of that claim.[2059]]-->
 
 ### The Valley of the Moon (1913): Agriculture and the Face of the Anthropos
 
-*The Valley of the Moon* provides a counter-model to *The Acorn-Planter*,
-suggesting a usable ethos for how to talk about the human universal as a term
-that lets us pursue teleological and transformative ecological praxis. Contrary
-to many readings of its racial logics as nativist and white supremecist,
+<!-- somewhere: the point here is not to equate racial identification with
+identification along the lines of species. Quite the opposite, it is to show
+that the species becomes the scale at which it is necessary to think in order
+to mitigate the destruction of human activity, drawing inspiration from
+agricultural techniques across different lines of environmental and historical
+development rather than sticking to human-nature relationships dictated by
+notions of racial essentialism and superiority.
+
+-->
+
+*The Valley of the Moon* provides a counter-model to that of *The
+Acorn-Planter*, suggesting a usable ethos for how to talk about the human
+universal as a term that lets us pursue teleological and transformative
+ecological praxis. Contrary to many readings of its racial logics as
+nativist,<!--do these exist? I thought so but they are difficult to find-->
 I submit that *The Valley of the Moon* is not an uncomplicated vessel for these
 ideologies, but rather creates the narrative conditions in which those
-ideologies dissolve of their own contradictions. But it is the specific
+ideologies collapse under their own contradictions. But it is the specific
 narrative conditions in which this occurs that are of interest to an
 Anthropocenic reading of the novel. The second half of the novel is devoted to
 the two protagonists' odyssey in search of not only arable land on which to
 farm, but responsible and ecologically sound methods with which to farm it;
-this search in turn leads the two characters (and perhaps their author) to
-a critical analysis of American environmental history that blames aspects of
-the "Anglo-Saxon" identity for the destruction of the country's lands. Here, in
-stark contrast to *The Acorn-Planter*, a critique of the conqueror leads the
-characters to develop farming methods that increase the "abundance of
-life"---and they do so by embracing a collective American wisdom that is
-premised on cultural pluralism. In short, *The Valley of the Moon* shows that
-an ecologically oriented human universalism can arise out of a critique of the
-regressive universalism it is often confused for, while also providing one
-version of what such an environmentalism could look like in practice.
+this search in turn leads to a critical analysis of American environmental
+history that blames aspects of the "Anglo-Saxon" identity for the destruction
+of the country's lands. Here, in stark contrast to *The Acorn-Planter*, a more
+critical depiction of the conqueror leads the characters to develop farming
+methods that increase the "abundance of life"---and they do so by embracing
+a collective American wisdom that is premised on cultural pluralism and the
+horticultural expertise of immigrant communities. 
+
+In short, *The Valley of the Moon* shows that an ecologically oriented and
+progressive human universalism can arise out of a critique of the regressive
+universalism it is often confused for, while also providing one version of what
+such an environmentalism could look like in practice. London's nativism and his
+equation of Americanness with Anglo-Saxonism must be held to account, and it is
+not the purpose of this reading to use his environmentalism to apologize for
+his often racist nationalism. But his description of the world he sees in the
+countrysides of California is wiser than the conclusions of his characters. It
+is possible to read against the grain of the novel's nativist moments and see
+that the logic of racial supremacy breaks down, and that attaining
+a life-promoting human species-being requires the protagonists to go beyond
+their narrow perspective of racial nationalism and embrace a more pluralist
+environmentalism. <!--maybe something about how he presents the controversy
+through character debates and multiple perspectives? Something interesting in
+this, also more formal analysis-->
 
 The structure of *The Valley of the Moon* is split neatly by two distinct
 settings, and one might even say there is a rift at its center----a "metabolic
@@ -1184,19 +1224,21 @@ image connecting them with the vitality of the natural world: "together they
 gazed far up the side of the knoll where a doe and a spotted fawn looked down
 upon them from a tiny open space between the trees."[@london_valley_1999 425]
 
-While the novel adheres to the naturalist
-motif of environmental determinism and the plot of decline in some
-senses---Billy's descent into alcoholism and gambling as a result of his
-environs is an almost wearyingly regular episode in the naturalist canon---it
-complicates that logic by reversing it, allowing for Billy's rehabilitation by
-"returning" to the land (though he personally has never known it). This return
-is nothing less than a purposive selection of environment as a way of choosing,
-in turn, the forces that determine their essential nature, thereby reverting to
-an earlier moment in the historical development of human species-being. But the
-species itself is too broad a category for the individual consciousness of
-these characters to connect with, at first, just as Chakrabarty suggests in
-*The Climate of History*. Their affective historical consciousness is limited
-by the bounds of their direct progenitors:
+[^ln-tichi]: citation in Tichi's book on London as reformer
+
+While the novel adheres to the naturalist motif of environmental determinism
+and the plot of decline in some senses---Billy's descent into alcoholism and
+gambling as a result of his environs is an almost wearyingly regular episode in
+the naturalist canon---it complicates that logic by reversing it, allowing for
+Billy's rehabilitation by "returning" to the land (though he personally has
+never known it). This return is nothing less than a purposive selection of
+environment as a way of choosing, in turn, the forces that determine their
+essential nature, thereby reverting to an earlier moment in the historical
+development of human species-being. But the species itself is, at first, too
+broad a category for the individual consciousness of these characters to
+connect with, just as Chakrabarty suggests in *The Climate of History*. Their
+affective historical consciousness is limited by the bounds of their direct
+progenitors:
 
 > And often [Saxon] found herself dreaming of the arcadian days of her people,
 when they had not lived in cities nor been vexed with labor unions and
@@ -1208,126 +1250,289 @@ wistfulness in [her brother]'s face she could see as she recollected it when he
 talked of his dream of taking up government land.[@london_valley_1999]
 
 The fantasy they engage in is uchronistic, a desire to go back to
-a pre-alienated state of production and *keep* it un-alienated. What attracts
+a pre-alienated state of production and *keep* it un-alienated, creating an
+alternate present and revising their horizon of possible futures. What attracts
 Saxon is the self-sufficiency that results laborers owning the means of
 production; yearning for escape from "labor unions and employers' associations"
 is the same wish that motivated London's revolutionary socialism. In other
-words, though it is framed as a movement backwards in time, this is no
-Luddite fantasy nor an intentionally regressive one, for it is coupled later with
-a scientific and experimental approach to horticulture and economics alike.
-The fantasy, if it is one, is the possibility of choosing a way of relating
-to one's environment according to an historical precedent and somehow
-reconciling that with a modern context without being regressive
-unintentionally. Just as London must imagine a mythological past in *The
-Acorn-Planter* to develop his speculative vision of a future human
+words, though it is framed as a movement backwards in time, this is no Luddite
+fantasy nor an intentionally regressive one, for it is coupled later with
+a scientific and experimental approach to both horticulture and economics. The
+fantasy, if it is one, is the possibility of choosing a way of relating to
+one's environment according to an historical precedent and somehow reconciling
+that with a modern context. Just as London must imagine a mythological past in
+*The Acorn-Planter* to develop his speculative vision of a future human
 species-being, Saxon can only conceive of a change to her own
 being-in-the-world through the lens of her ancestors' lives.
 
-<!--mark-->
+At least at the beginning of the novel, however, this identification with
+immediate forebears is only a proxy for their identification with an imagined
+"Anglo-Saxon" racial identity. As they set off in search of land, Saxon
+elaborates a fantasy of a seafaring past through which she understands their
+impending nomadic existence. While Billy is out of the house, she begins
+packing family artifacts to be stored by her brother, lingering on one in
+particular: 
 
-Conceding a degree of environmental determinism, at least as far as the broad
-categories of rural and urban environments, the pair nevertheless have a degree
-of choice in choosing a new environment and in transforming the environment
-they find themselves in---which transformation is possible to a much greater
-degree beyond the dense and alienated environment of the city.
+> She unpacked the scrapbook in order to gaze a last time at the wood
+engravings of the Vikings, sword in hand, leaping upon the English sands. Again
+she identified Billy as one of the Vikings, and pondered for a space on the
+strange wanderings of the seed from which she sprang. Always had her race been
+land-hungry, and she took delight in believing she had bred true; for had not
+she, despite her life passed in a city, found this same land-hunger in her? And
+was she not going forth to satisfy that hunger, just as her people of old time
+had done, as her father and mother before her? [@london_valley_1999 239]
 
-[^ln-tichi]: citation in Tichi's book on London as reformer
+She delights in identifying their hunt for land with an imagined racial
+identity predicated on conquest, conquest of the very type London attempts to
+justify in *The Acorn-Planter*. Furthermore, Saxon's perspective in this moment
+is defined by racial essentialism and genetic determinism, imagining individual
+characteristics as arising out of a racial "seed" and embracing an ideal of
+someone who has "bred true" according to that seed. 
 
-
-For Billy and Saxon, choosing among possible environments and, by extension,
-possible modes of being also entails choosing how to relate to their forebears.
-They experience a more voluntary form of the atavism of *Before Adam*: where
-*BA*'s protagonist unwittingly exceeds the boundaries of individual experience,
-Billy and Saxon seek out a consciousness that exceeds themselves and the
-timescale of the individual. They willfully change their environment and their
-relation to it only after understanding themselves in terms of their forebears
-and of broader historical action. In the first place, they understand their
-exploration of California in search of land as an extension of their family
-history several generations back. [quotes] But this broadening of the self goes
-back even further, into a shared fantasy of a seafaring past through which they
-understand their own nomadic existence. [quotes] 
-
-Finally, these attempts to connect with personal family histories, real or
-imagined, coincide with an understanding of the land itself not as it is, but
-as a process resulting in its current state. Billy and Saxon (especially Saxon)
-see the conventional wisdom of California farmers gone badly awry, represented
-most succinctly by a farmer who brags about how many plots of land he has
-single-handedly exhausted. They also see in the larger environmental history of
-the country this same short-sightedness, an agricultural mode oriented to
-building cities by stripping the countrysides with no thought given to
-maintaining the soil. In other words, they discover that the same forces that
-produced the environment from which they fled have also looted the Arcadia they
-hoped to find. Their atavism gives them a counterpoint, a second comparative
-perspective with which they can see the destruction wrought by too great
-a degree of human influence on our environment. The wider view they gain
-ultimately allows them to make a different choice. Rejecting the trend, they
-begin systematically building the soil on first one farm, then several in the
-Sonoma Valley. The novel concludes with Saxon becoming pregnant, something they
-worried would not be possible after their travails in the city led to
-a miscarriage. This ending establishes a clear symbolic link (albeit
-a troubling one from an ecofeminist perspective) between their integration into
-a larger narrative of heredity and species and the discovery of an alternative
-to environmental destruction. 
-
-And yet, in *The Valley of the Moon* and much of London's larger body of work,
-the topic that stands out most clearly is not species, but race. Indeed, the
-two concepts can be difficult to untangle in London's work, a fact that does
-nothing to quell concerns that any discourse predicated on the species will
-risk being inherently regressive. Billy and Saxon's attempts to understand
-themselves in a larger timescale is often framed as a quest for a racially pure
-identity. They initially bond over a shared "Anglo-Saxon" lineage and routinely
-utter nativist commonplaces. As a result, criticism of *The Valley of the Moon*
-has largely, if understandably, missed the environmentalist forest for the
-racist trees. 
+Rants like this one, common in the first half of the novel and voiced by Billy
+and Saxon alike, have understandably motivated criticism of the
+novel's nativism. Christopher Gair rightly notes that in depicting Billy and
+Saxon's attempts to
+"retrace the steps both of their parents and of their Anglo-Saxon prognitors,"
+the novel exposes "an anxiety about race 'purity' and the decline of the
+'original' settlers in California."[@gair_citizenship_1993 419] Gair goes on to
+claim that in finding their ideal environment in the Sonoma Valley, they find
+self-realization---but it is a self-realization obtained by asserting
+distinctions between themselves ("real" Americans) and the immigrants who own
+much of the land around Oakland, whose farms they pass through on their search
+[@gair_citizenship_1993 427]. Building on the work of Walter Benn Michaels, he
+interprets their journey as a necessary step in their racial
+self-identification, exercising "a 'right' granted [them] by birth but
+requiring at the same time that [they] lay claim to it" [@michaels_???_1992 ???
+qtd. in @gair_citizenship_1993 426]. Gair's analysis effectively captures the
+motivations Billy and Saxon voice as they set out from Oakland, as well as the
+common nativist tropes they embody.
 
 But there is good reason to question any reading of *The Valley of the Moon*
-that takes these nativist sentiments at face value, treating them as either
-stable throughout the novel or as expressions of an uncomplicated perspective
-of London's own. Rather, in the scope of the entire novel, this nativism and
-white supremecism must be understood as objects of critique. Despite her name,
+that takes the nativist sentiments of the novel's first half as defining the
+perspective of the whole, treating Billy and Saxon's ideology as either stable
+throughout the novel or as expressions of an uncomplicated perspective on
+London's part. Understood in the scope of the entire novel, these sentiments of
+nativism and celebrations of Anglo-Saxon conquest actually become objects of,
+if not critique, then structural instability and considerable doubt. Even in
+Saxon's fantasy, the uncomplicated celebration of ancestry, and the fixed
+essence that implies, is set up to be undercut. She does not assert these
+opinions with full narrative backing so much as posit them as London maintains
+a degree of distance, less overt than his criticisms of "the man" in "To Build
+a Fire" but with a similar effect. Saxon's ideas about her "Viking" ancestry
+are framed as dubious questions or distant mythic fantasies rather than stable
+facts. 
+
+One need not rely on the subtle uncertainty London casts on this passage,
+however, for a critique of Anglo-Saxonism erupts more explicitly near the
+novel's end at the hands of Jack Hastings, a figure who gives Billy and Saxon
+much of the knowledge they need to succeed as farmers. Hastings pierces the
+misty fantasy of a benevolent Anglo-Saxon conqueror quite definitely, prompted
+directly by "Saxon...speaking of the land-hungry Anglo-Saxons", presumably in
+terms like those of the fantasy above. His patience with her racial fantasy is
+short: 
+
+> "Land-hogs," he snapped. "That's our record in this country. As one old
+Reuben told a professor of an agricultural experiment station: 'They ain't no
+sense in tryin' to teach me farmin'. I know all about it. Ain't I worked out
+three farms?' It was his kind that destroyed New England. Back there great
+sections are relapsing to wilderness. [...] And the same thing is going on, in
+one way or another, the same land-robbing and hogging, over the rest of the
+country [...]. [@london_valley_1999 348]
+
+Though Hastings spreads the blame to include other groups later in the passage,
+it is clear from context that when he condemns "our record in this country," he
+means "our" in reference to Saxon's ideas about the benevolent land-hunger of
+Anglo-Americans. Her eager appropriation of this identity and the response to
+land it implies is almost mocked by proximity to the rube who thinks exhausting
+soil is a good working definition of successful farming. What Saxon earlier
+took as a welcome part of an inherited identity is presented back to her as
+a cause of widespread environmental destruction.
+
+Overcoming this rapacious wastefulness requires them to overcome nothing less
+than their sense of racial superiority itself. As they travel through the
+country north of Oakland on their way to the Sonoma Valley, their many
+agricultural epiphanies are occasioned by encounters with immigrants,
+particularly the Portuguese. Speaking to a local "linesman" laying telephone
+wire for a farm owned by Portuguese immigrants, they are told that the price of
+land immediately outside the city is so high because it has increased in
+productivity and vitality by the labors of primarily Portuguese farmers, who
+merely by "bein' wise to farmin'" are able to "get more out of twenty acres
+than [native-born Americans] could out of a hundred an' sixty." The problem is
+the approach to agriculture and a general lack of horticultural knowledge, the
+same lack that would soon cause the dust bowl, derived from the ignorance that
+caused the British countryside to be disastrously overgrazed. Or, as one
+interlocutor puts it: "we ain't got the *sabe*."[@london_valley_1999 247-9] 
+
+The abrupt shift to Portuguese with the word "sabe" is telling, in that it
+contains a common trend among California farmers of the moment to link racial
+and national identity causally with horticultural acumen. London kept a file
+with the manuscripts of *The Valley of the Moon*, currently housed at the Jack
+London Collection at the Huntington Library in California, containing pages of
+source material from which he drew liberal inspiration for the novel's insights
+on farming and the state of rural California. Much of this material will be
+discussed in the next chapter, but on the connection between horticulture and
+nationality, several pieces stand out. Two pieces in a *Saturday Evening Post*
+series entitled "Lessons From Our Alien Farmers" were particularly fruitful.
+Written by Forrest Crissey, a regular contributor to the *Post* who would go on
+to write a book called *The Story of Foods* on similar issues, two articles
+from October 7 and November 18, 1911 discuss the role of Dalmatian and
+Portuguese farmers in transforming the burnt-out plots of rural California into
+thriving farmland. London would paraphrase passages of Crissey's
+reports in *The Valley of the Moon* as well as drawing details of these
+farmers' ingenuity. In the November article on the Portuguese, for example,
+Crissey describes a brace made out of wood grafted into the crotch of
+apple-tree branches, which grow with the tree and help the branches withstand
+the weight of a heavy harvest. London had a habit of making notes for scenes or
+writing snippets of dialogue directly in the margins of his source material;
+and in this section of Crissey's article, he wrote Billy's response to the
+live-wood brace: "Billy remarks: 'What a growth! A curiosity!'" The linesman
+who mourns Anglo-Americans lack of "sabe" likewise appears in the margins of
+that page, along with notes toward his speech.
+
+London's tendency to discuss agricultural principles as racial traits also
+appears to derive from his reading of Crissey's articles, both Crissey's own
+commentary and that of the farmers he quotes. On the apple orchards where the
+living braces were found, one farmer remarks, "That's the nature of the race.
+They're sharp---and nobody has to show them a clever thing in the line of
+better farming methods a second time. [...] When one Portuguese has found
+a better method of doing something worth while, you may depend upon it that the
+others of his blood will have it in short order and that it will run through
+the whole settlement."[ November 18, 10] In the earlier article on Dalmatian
+farmers, in a section entitled "Hereditary Apple Experts," Crissey opines that
+"Insight into fruit-handling is almost a fixed racial trait. It belongs to
+their race as definitely as do their dark eyes and swarthy skin."[October 10,
+20] These statements, and the innumerable others like it throughout London's
+files, go beyond recognition that farmers from different countries will have
+learned different agricultural traditions, some more effective than others in
+the California climate---though this more reasonable perspective is also well
+represented in the articles. Rather, they suggest that success in agriculture
+is "fixed" and inborn, *literally* hereditary rather than learned. And although
+the tone and content of these articles is largely admiring and takes spreading
+agricultural techniques as its explicit aim, racialization of these traits
+takes on a more sinister sheen in the light of Anglo-American farmers who feel
+that they are unable to compete with "aliens" whom they believe are buying up
+all the productive land. 
+
+That London adopted this racialized view of agricultural competition is
+undeniable. *The Valley of the Moon*'s nativism shows through in Billy and
+Saxon's response, and the responses of other Anglo-American characters they
+encounter on the road, to the state of affairs they see in the farmland they
+pass through on the way to Sonoma. Calling the Pajaro Valley "New Dalmatia,"
+one minor character named Benson says, "We're being squeezed out. We Yankees
+thought we were smart. Well, the Dalmatians came along and showed they were
+smarter. [...] It won't be long before they own the whole valley, and the last
+American will be gone."[@london_valley_1999 292] Insistently equating
+Americanness with Anglo-Saxonism, he interprets as a threat the agricultural
+acumen of immigrants understood as not-white. Again and again, the novel articulates a panic at the prospect of a non-white America, and
+environmentally conscious agriculture is the surprising source of a change.
+
+Yet it does not allow for a simple condemnation of these agricultural methods
+and their immigrant practitioners, nor could it function narratively without
+the very pluralism by which its characters are threatened. At the same time
+that Benson laments the defeat of the "Yankees", he gives voice to a grudging
+respect for the horticultural methods by which they were defeated. In
+discussing a valley largely owned and worked by Japanese immigrants, he
+continues: "But that's another point where we Americans lose out. There isn't
+anything wasted in this valley, not a core nor a paring; and it isn't the
+Americans who do the saving." When Billy tries to defend the record of
+Anglo-American settlers by saying "It was our folks that made this
+country[....] Fought for it, opened it up, did everything---", Benson
+interrupts: "But develop it[....] We did our best to destroy it, as we
+destroyed the soil of New England."[@london_valley_1999 294-5] Nativist
+perspectives are indeed voiced in the discussion of ecological agricultural
+practices, and repeatedly so, but they are just as repeatedly undercut by
+a condemnation of the Anglo-American environmental record immigrants are
+undoing. By the logic of London's notes toward *The Acorn-Planter*, we see that
+immigrants rightfully come to own the soil of their new home by making it more
+abundant.
+
+Just as America's land needs immigrants to rescue it from exhaustion at the
+hands of "Yankees," so does the novel rely on immigrants to complete Billy and
+Saxon's narrative journey, albeit without (as usual) giving them the credit
+they deserve. The arc of their development as characters is defined by a flight
+from the city, which has a degrading and dehumanizing influence, to discover an
+unprecedented freedom and prosperity in ranching. But this freedom and
+prosperity do not come from Saxon getting in touch with an imagined
+"Anglo-Saxon" identity.  Indeed, we are made to understand that being guided by
+her conception of that identity would lead to a destruction of the land they
+hope will save them, merely a new kind of poverty, and probably dispossession
+by more knowledgeable farmers. 
+
+Nor, of course, does such an identity exist in the mythic way she imagines it.
+London appears to have known as much, for it is
+ironically underscored by the fact that Saxon's conception of what it means to be
+an "Anglo-Saxon", exercising an inner Viking whose seafaring gives way
+naturally (somehow) to agriculture, appears to have been derived from Crissey's
+article on not Anglo-Saxons, but the very Portuguese against whom her
+Anglo-Saxonism is defined. Discussing this "seafaring people" without whom in
+"the old days of plunder and adventure on the high sees no pirate crew was
+quite complete," Crissey draws a sketch of the Portuguese that London uses for
+Saxon's defining vision of her Anglo-Saxon origins. Crissey describes how their
+"sea legs have been trained into steady plow legs" as a paradox resolved by
+a "land hunger" that is their "ruling passion."[November 18, 9]. London recasts
+this land-hunger as an Anglo-Saxon trait, but by the time it comes to describe
+Anglo-Saxonism, it has been stripped of the agricultural wisdom associated with
+the Portuguese and attached to a uniquely Anglo-American destructiveness.
+London has, consciously or not, defined Saxon's Anglo-American ideal not
+*against* their immigrant neighbors, but using the very same terms.
+
+The narrative and its speculative vision of human species-being cannot be
+fulfilled by identification with a racial identity, at least not with the
+Anglo-Saxon racial identity Billy and Saxon claim. The only way they can attain
+what London sees as the duty of human life, which is to increase the abundance
+of other life on the planet, is through a pluralist American landscape from
+which they can learn responsible stewardship, a landscape which comes to
+represent a multi-racial globe in miniature Billy and Saxon's interlocutors
+continue to point out farms where one would allegedly think they were in Japan
+or Dalmatia. In such a landscape, they are able to read "currants between the
+tree rows, beans between the currant rows, a row of beans close on each side of
+the trees, an' rows of beans along the ends of the tree rows"---an auspicious
+pattern, given the prevalence of nitrogen-fixing beans that will preserve the
+vitality of the soil season after season.[@london_valley_1999 250.] (The
+passage is a close paraphrase of a passage from Crissey's November 1911 article
+on the Portuguese: "One of these town orchards in San Leandro has currants
+between the orchard rows, beans between the currant rows, a row of beans close
+on each side of the trees, beans between the trees in the row and beans from
+the ends of the rows to the wheeltrack in the street." (11)) Terrace-farming
+turns groups who are denigrated elsewhere in the novel into keepers of
+horticultural magic, making productive farms out of nothing: in "Greece, in
+Ireland, in Dalmatia [...] they went around and gathered every bit of soil they
+could find [...] and carried it up the mountains on their backs and built
+farms---*built* them, *made* them, on the naked rock."[@london_valley_1999 294]
+Without learning from immigrant farmers, complicating if not renouncing their
+nativism in the process, Billy and Saxon would have gone the way of Steinbeck's
+"Okies" just as the fertile valleys of California would have gone the way of
+Oklahoma. 
+
+Though a simple exchange of horticultural knowledge, these moments can be read
+as emblems of cultural exchange---maintaining the original resonances of
+"culture" as cultivation of life in the land. Subtly, or more probably by
+accident, *The Valley of the Moon* contains a stirring call to make an
+environmental future predicated on global difference.
+
+There is much more to be said about the perspective on sustainable horticulture
+presented in *The Valley of the Moon*, and it will be explored in the next
+chapter. However, in order to understand the full context of London's
+agricultural turn, it has to be placed in the context of other naturalist farm
+novels---and those novels, in turn, must be placed in the context of another
+naturalist sub-genre, the novel of finance.
+
+
+<!--mark-->
+
+Billy and Saxon learn 
+
+
+
+Despite her name,
 Saxon becomes a proponent of what London sometimes called the "Brotherhood of
-Man,"[^ln-brotherhood] resisting and mocking Billy's sense of racial
-superiority. [an example or two] Though at the beginning of their journey they
-search for contact with their personal mythology of an Anglo-Saxonism based on
-a seafaring and homesteading past, by its end that narrative has failed them.
-Though they still harbor a belief that their ancestry makes them
-"zone-conquerors" destined to expand and take over whatever is on their
-horizon, they come to realize that this "conquering" is really just
-destruction. [quote about white people wrecking everything] Furthermore, Saxon
-sees the inverse of this destructive impulse in the practices of the people
-Billy sees as his inferiors. London's classic white superman becomes a figure
-of ridicule, part of the very problem that London positions as a cause of the
-growing environmental crisis. Resisting it requires renouncing this supremecism
-and embracing a sort of pluralism instead, while still retaining a sense of
-themselves in terms of a larger encompassing human identity. In *The Valley of
-the Moon*, the supposedly determined characteristics of Anglo-Saxonism become
-the root of all environmental evils, while the solution is to embrace the
-cultural differences that define the human species. 
+Man,"[^ln-brotherhood] 
 
 [^ln-brotherhood]: cite London's Racial Lives on this term and in support of
 this argument in general
 
-[note: in VM London reverses the logic of the Acorn-Planter (or vice versa): in his sources and the novel itself, immigrants rightly displace wasteful American farmers because they more intensively cultivate the land.]
 
-[contradicts common view of London as purely deterministic and fully committed
-to the "law of tooth and fang" version of his environmental imaginary. This
-developed at the end of his life, particularly in VM... Earl Labor 155 on VM]
-
-[what does this look like in a non-speculative setting? VM and agro novels
-give us a hint; but as in A-P, the utopian humanism is compromised by
-a ham-headed conception of racial supremecy as a defining aspect of the species
-conversation. We need to ask: is it possible to envision a pluralistic
-universal humanism, guided from within according to partially but not entirely
-technological means, without also accepting the view that this battle for
-supremecy has to be concluded first? (the supremecy thing is from the
-archives... maybe best not to go there for time reasons) VM actually presents
-a counter-point, somewhat similar to A-P but with a different approach to race.
-It remains appropriative but also shows how the supremecist logic that is given
-voice in A-P and the beginning of VM collapses under its own weight.]
-
-[eventually: London is trying to voice a progressive version of species-being but getting in
-his own way with an understanding of race that makes species-unity impossible
-(but does it? Isn't there room for Saxon's eventual pluralism?)]
 
 
 

@@ -3,6 +3,65 @@
 
 <!--VM scraps-->
 
+Finally, these attempts to connect with personal family histories, real or
+imagined, coincide with an understanding of the land itself not as it is, but
+as a process resulting in its current state. Billy and Saxon (especially Saxon)
+see the conventional wisdom of California farmers gone badly awry, represented
+most succinctly by a farmer who brags about how many plots of land he has
+single-handedly exhausted. They also see in the larger environmental history of
+the country this same short-sightedness, an agricultural mode oriented to
+building cities by stripping the countrysides with no thought given to
+maintaining the soil. In other words, they discover that the same forces that
+produced the environment from which they fled have also looted the Arcadia they
+hoped to find. Their atavism gives them a counterpoint, a second comparative
+perspective with which they can see the destruction wrought by too great
+a degree of human influence on our environment. The wider view they gain
+ultimately allows them to make a different choice. Rejecting the trend, they
+begin systematically building the soil on first one farm, then several in the
+Sonoma Valley. The novel concludes with Saxon becoming pregnant, something they
+worried would not be possible after their travails in the city led to
+a miscarriage. This ending establishes a clear symbolic link (albeit
+a troubling one from an ecofeminist perspective) between their integration into
+a larger narrative of heredity and species and the discovery of an alternative
+to environmental destruction. 
+
+And yet, in *The Valley of the Moon* and much of London's larger body of work,
+the topic that stands out most clearly is not species, but race. Indeed, the
+two concepts can be difficult to untangle in London's work, a fact that does
+nothing to quell concerns that any discourse predicated on the species will
+risk being inherently regressive. Billy and Saxon's attempts to understand
+themselves in a larger timescale is often framed as a quest for a racially pure
+identity. They initially bond over a shared "Anglo-Saxon" lineage and routinely
+utter nativist commonplaces. As a result, criticism of *The Valley of the Moon*
+has largely, if understandably, missed the environmentalist forest for the
+racist trees. 
+
+
+[note: in VM London reverses the logic of the Acorn-Planter (or vice versa): in his sources and the novel itself, immigrants rightly displace wasteful American farmers because they more intensively cultivate the land.]
+
+[contradicts common view of London as purely deterministic and fully committed
+to the "law of tooth and fang" version of his environmental imaginary. This
+developed at the end of his life, particularly in VM... Earl Labor 155 on VM]
+
+[what does this look like in a non-speculative setting? VM and agro novels
+give us a hint; but as in A-P, the utopian humanism is compromised by
+a ham-headed conception of racial supremecy as a defining aspect of the species
+conversation. We need to ask: is it possible to envision a pluralistic
+universal humanism, guided from within according to partially but not entirely
+technological means, without also accepting the view that this battle for
+supremecy has to be concluded first? (the supremecy thing is from the
+archives... maybe best not to go there for time reasons) VM actually presents
+a counter-point, somewhat similar to A-P but with a different approach to race.
+It remains appropriative but also shows how the supremecist logic that is given
+voice in A-P and the beginning of VM collapses under its own weight.]
+
+[eventually: London is trying to voice a progressive version of species-being but getting in
+his own way with an understanding of race that makes species-unity impossible
+(but does it? Isn't there room for Saxon's eventual pluralism?)]
+
+
+
+
 
 [While the story as a whole follows a "back-to-the land" motif that is
 built on the naturalist logic of determinism and decline while complicating
@@ -12,6 +71,22 @@ pair nevertheless have a degree of choice in choosing a new environment and in
 transforming the environment they find themselves in---which transformation is
 possible to a much greater degree beyond the dense and alienated environment of
 the city.]
+
+[For Billy and Saxon, choosing among possible environments and, by extension,
+possible modes of being also entails choosing how to relate to their forebears.
+They experience a more voluntary form of the atavism of *Before Adam*: where
+*BA*'s protagonist unwittingly exceeds the boundaries of individual experience,
+Billy and Saxon seek out a consciousness that exceeds themselves and the
+timescale of the individual. They willfully change their environment and their
+relation to it only after understanding themselves in terms of their forebears
+and of broader historical action. [Conceding a degree of environmental
+determinism, at least as far as the broad categories of rural and urban
+environments, the pair nevertheless have a degree of choice in choosing a new
+environment and in transforming the environment they find themselves in---which
+transformation is possible to a much greater degree beyond the dense and
+alienated environment of the city.]]
+
+
 
 <!--on BD-->
 
