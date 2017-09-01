@@ -1,8 +1,5 @@
----
-title: The Phenomenology of Species - Human Species-Being in Jack London
-geometry: margin=1in
-bibliography: bibliography.bib
----
+--- title: The Phenomenology of Species - Human Species-Being in Jack London
+geometry: margin=1in bibliography: bibliography.bib ---
 
 > You must not deny your relatives, the other animals. Their history is your
 history.
@@ -181,15 +178,16 @@ concept is both an explanation of this destruction and a response to it.
 Indeed, as Dipesh Chakrabarty puts it in his seminal essay "The Climate of
 History: Four Theses," "Species may indeed be the name of a placeholder for an
 emergent, new universal history of humans that flashes up in the moment of the
-danger that is climate change" [-@chakrabarty_climate_2009 221]. If our "moment
-of danger" is causing us to reach for the species concept, a biological
-collective that both exceeds and composes the individual, it is in response to
-a dual relationship to mass extinction. We recognize that the human collective
-has become a destructive force by its very nature, but we recognize at the same
-time that this destructiveness does not come with omnipotence. To think of the
-human in a superhuman timescale is to take seriously the threat of
-self-inflicted mass extinction, to place ourselves in the long history of
-lifeforms coming into being and disappearing in a geological moment. 
+danger that is climate change" [@chakrabarty_climate_2009 221,
+@dyer-witheford_return_2004 5]. If our "moment of danger" is causing us to
+reach for the species concept, a biological collective that both exceeds and
+composes the individual, it is in response to a dual relationship to mass
+extinction. We recognize that the human collective has become a destructive
+force by its very nature, but we recognize at the same time that this
+destructiveness does not come with omnipotence. To think of the human in
+a superhuman timescale is to take seriously the threat of self-inflicted mass
+extinction, to place ourselves in the long history of lifeforms coming into
+being and disappearing in a geological moment. 
 
 *Before Adam* ends on this same note of ephemerality---a simultaneous
 ephemerality of individual and species. The Folk, after all, do not survive to
@@ -418,32 +416,49 @@ is in our hands.
 
 > ---Donna J. Haraway, *Simians, Cyborgs, and Women* [22]
 
-<!--outline dog books, nature fakers, to build a fire; must conclude long intro
-by opening up the question of species-being per se--->
+<!--### "History is the true natural history of man"
 
-The part of London's work that is most relevant to the species discussion is
-also the part for which he is most famous: the stories with canine
-protagonists. In *The Call of the Wild* (1903) and *White Fang* (1906), two
-dogs explore the line between domesticity and wildness. In the former, Buck
-becomes progressively wilder as he moves from a comfortable existence on a farm
-to leading a sled team to running free with a pack of wolves. The latter
-presents an inverse situation, tracing White Fang's life from his birth in the
-wilderness through his coming of age in captivity, where he is forced into the
-dog fighting ring until being rescued and finally domesticated. Here and
-elsewhere, London uses the individual dog character to explore the subjective
-experience of species. On one hand, he considers the degree to which the
-experience of a single dog is the result of dogness---that is, to what extent
-species itself can be said to account for individual subjectivity. On the other
-hand, he uses the dog figure as a vantage point from which to consider the
-human, and to ask whether humanness can be used to define the individual person
-in the same way that dogness can define the individual dog. 
+this section really needs to be incorporated above-->
 
-Even where his conclusions were limited to actual dogs, interrogating species
-as such made trouble for London in what is now known as the "nature fakers"
-controversy, pitting him against none other than the sitting president and
-self-appointed authority on all things out-of-doors, Theodore Roosevelt. The
-controversy began when a scientist named John Burroughs wrote an article called
-"Real and Sham Natural History," in which he decried the appearance of
+
+
+<!-- section: Marx: s-b is contingent while being universal; historical change
+is a change in essence; talking about species is not the same as talking
+about static unchanging essentialism; we can have both "their history is your
+history" and "history is the true natural history of man"-->
+
+
+
+The works in London's *oeuvre* that are most relevant to the species discussion
+are also those for which he is most famous: his "dog stories", as he liked to
+call them. In *The Call of the Wild* (1903) and *White Fang* (1906), he uses
+the perspective of two canine protagonists to explore the line between
+domesticity and wildness. The protagonist of the former, Buck, becomes
+progressively wilder as he moves from a comfortable existence on a farm to
+leading a sled team to running free with a pack of wolves. The latter, *White
+Fang*, presents an inverse situation, tracing its eponymous character's life
+from his birth in the wilderness through his coming of age in captivity, where
+he pulls sleds and is forced to fight in a dogfighting circuit until he is
+rescued and finally domesticated. The individual dog character offers London
+a lens to explore not only the subjectivity of dogs, however, but the
+subjective experience of species more broadly writ. On one hand, he does
+consider the degree to which the experience of a single dog is the result of
+its inherent dogness---that is, to what extent species itself can be said to
+account for individual subjectivity. On the other hand, he uses the dog figure
+as a mechanism of narrative estrangement, a vantage point from to consider the
+human *from without*, and from which to ask whether humanness can be used to
+define the individual human in the same way that he thought dogness can define
+the individual dog. 
+
+
+<!-- what does the nature fakers thing do for me?-->The question was
+controversial even when he first posed it at the beginning of the twentieth
+century. Even where his conclusions were limited to actual dogs, interrogating
+species as such made trouble for London in what is now known as the "nature
+fakers" controversy, pitting him against none other than the sitting president
+and self-appointed authority on all things out-of-doors, Theodore Roosevelt.
+The controversy began when a scientist named John Burroughs wrote an article
+called "Real and Sham Natural History," in which he decried the appearance of
 sympathetic and above all individualistic animal characters in the fiction of
 the day. Burroughs claimed that all animal behavior was entirely instinctual,
 and that the implications of reason and learned behavior in individual animals
@@ -451,9 +466,9 @@ on which these animal fictions relied constituted nature-fakery. To Burroughs,
 the non-human animal is entirely mechanistic, an automaton driven by pure
 instinct. [check in the actual essay---make sure this isn't an opportunistic
 gloss by london] For his part, Roosevelt leveled petty complaints against
-*White Fang*: he saw fakery in the claim that a lynx could kill a dog (which
-does not happen in *White Fang*) and that a bull dog could beat a wolf dog in
-a fight.[ditto] 
+*White Fang*: he saw fakery in the claim that a lynx could kill a dog (a claim,
+incidentally, which does not appear in *White Fang*, as London would later
+point out) and that a bull dog could beat a wolf dog in a fight.[ditto] 
 
 When these critiques began to appear, London did his best to keep out of it. As
 he wrote several years later of the incident in an essay called "The Other
@@ -532,6 +547,8 @@ a transcendent experience but as a quotidian one? What does it mean to
 experience the species as a defining category contingent on a moment in natural
 history, in the way that certain historically contingent identities can be
 experienced?
+
+
 
 ---
 
@@ -920,55 +937,251 @@ species---history or natural history? Finally, how is it possible for the
 so-called "natural" being of the human to simultaneously create a separation
 between the self and the environment in which the self exists?
 
+---
 
-<!--### "History is the true natural history of man"
+The questions raised by London's dog stories speak directly to some of the most
+debated topics in literary naturalism and Anthropocene theory alike. To narrate
+a dog experiencing its inherent species-nature, its dogness, is to narrate the
+phenomenology of determinism itself, or in other words to try to capture the
+feeling of responding to "forces" that dictate behavior below the level of
+conscious choice. Furthermore, splitting the hairs that distinguish the
+sub-species of the domestic dog from the wolf, *Canis lupus familiaris* from
+*Canis lupus*, lends a neat analogue to the
+naturalist preoccupation with environmental determinism in the city and the
+country, respectively. The dog character is a testing ground for a theory of
+the human in which our defining humanity arises out of a deterministic, bestial
+base. By this strategy, London also encounters the complicated
+universalization of species discourse, which, as has already been seen,
+is among the first problems the Anthropocene raises for the humanities. To
+consider the human and the dog in the same terms, one must ask if they have the
+same relation to species as a collectivizing principle, and what species even
+means in an ontological sense when the object of contemplation is not *Canis
+lupus* but *Homo sapiens*. 
 
-this section really needs to be incorporated above-->
+"To Build a Fire" on its own shows that, for London, species is not an 
+identical concept when applied to humans and non-humans, nor is it an 
+identical phenomenal experience. The distinction he draws between
+a human and non-human species can be closely described by
+the Marxian concept of species-being, a term whose very composition seems to
+challenge Chakrabarty's contention that the species is not able to be
+experienced except intellectually. 
 
-These questions, posed by London's narrative engagement with species, are
-answerable by the concept of "species-being", a term whose very composition
-seems to undercut Chakrabarty's contention that the species is not able to be
-experienced except intellectually. [ brief punchy summary ] It is best known as
-a Marxian concept, appearing in the *Economic of Philosophical Manuscripts of
-1844* alongside the formative passages in the theory of the alienation of
-labor. It has, however, experienced the beginnings of a revival in discussions
-of the Anthropocene. [wark, others?]
+Developed in *The Economic and Philosophical
+Manuscripts of 1844* and largely abandoned thereafter, species-being refers to the
+human's simultaneous transformation of the self and environment through
+conscious production on a scale that exceeds the individual.[^ln-gilman] On one hand, 
+then, species-being refers to "the historical possibilities of 
+self-development" [@dyer-witheford_return_2004 4]. On the other hand, "To be 
+human, for Marx, was to remake: to unsettle and reshape the whole of the 
+world."[@johnson_limits_2017 277] The two 
+propositions amount to the same thing, because in Marxian species-being,
+humanity develops its environment as a way of developing 
+itself.[^ln-hegel] Species-being thus posits a uniquely human capacity to define
+the nature of the individual and the collective through the transformation of
+external entities: objects, the environment, and social
+relations.[@johnson_limits_2017 277] 
 
-<!-- section: Marx: s-b is contingent while being universal; historical change
-is a change in essence; talking about species is not the same as talking
-about static unchanging essentialism; we can have both "their history is your
-history" and "history is the true natural history of man"-->
+[^ln-gilman]: In this sense, the concept of species-being forms a link, and a
+somewhat surprising one, between the vision of the human seen in the work of
+Charlotte Perkins Gilman (see chapter three).
 
+[^ln-hegel]: Though Marx takes the term species-being from Feuerbach and some
+of its implications, this aspect of his concept builds explicitly on the 
+Hegelian view of labor. Just as in Hegel's struggle of the lord and bondsman, 
+self-consciousness comes about through the mediation of labor on an external 
+object. As Marx himself puts it, Hegel "sees labour---within
+abstraction---as man's *act of self-creation* and man's relation to himself as
+an alien being and the manifestation of himself as an alien being as the
+emergence of *species-consciousness* and *species-life*." (395)
 
+This combination of self-consciousness and mediation
+through an external object---Marx at his most Hegelian---makes species-being a 
+uniquely human concept. These two factors distinguish species-being from the 
+"species-life" of animals, by which Marx means the defining "life-activities" 
+that focus primarily on the needs of reproduction and 
+sustenance.[@dyer-witheford_return_2004 4-6] All animals produce in pursuit of 
+their defining life-activity; but "Marx’s human [...] is a species that knows 
+itself in what it makes."[@johnson_limits_2017 278] This distinction is 
+predicated on both a self-knowledge mediated by external objects and a 
+collective identity, a humanness, considered *itself* as a mutable, external 
+object of contemplation. This object-oriented humanism comes from Feuerbach's
+original version of species-being in *The Essence of Christianity*: 
+"Man is nothing without an object. [...T]he object to which a subject 
+essentially, necessarily relates, is nothing else than this subject's own, but 
+objective, nature. [...] In the object which he contemplates, therefore, man 
+becomes acquainted with himself."[@feuerbach_???_??? 5] Thus "the man" of 
+"To Build a Fire," experiences the loss of his faculties as downed wires: he 
+is alienated from the external objects by which the human species-being is 
+defined. And likewise, in losing contact with the manipulable materiality of a
+more hospitable environment and the ability to build a fire, he loses contact 
+with his sense of self and his place on the planet.
+
+This technological capacity is also inherently social, and by extension, so is
+human species-being. Marx is unequivocal on this point:
+
+> The *human*
+essence of nature exists only for the *social* man; for only here does nature
+exist for him as a *bond* with other *men*, as his existence for others and
+their existence for him, as the vital element of human reality…. *Society* is
+therefore the perfected unity in essence of man with nature. (349)
+
+And later: 
+
+> "[W]hat
+I create from myself I create for society, conscious of myself as a social
+being. My *universal* consciousness is only the *theoretical* form of that
+whose *living* form is the *real* community, society…. The individual *is* the
+*social being*. His vital expression…is therefore an expression and
+confirmation of *social life*." (350)
+
+This link of sociality with the "human essence of nature" echoes with the 
+regretful meditations of London's man on breaking his
+social bonds, ignoring the communal wisdom passed on by the old man and 
+traveling alone. But it also helps make sense of the man's loss of sociability 
+with his loss of a vital correspondence with the non-human world around 
+him. In rejecting social life, he rejects his own "vital expression," and in
+turn, his very vitality. 
+
+If the "species" is, for the human, bound up in technological objects and
+social life, it is also subject to change in the course of both social and 
+technological history. So it is for London, as well: the dramatic separation 
+of the narrator and Big-Tooth in *Before Adam* is a difference of 
+technologically and socially mediated species-beings. The narrator's
+frustration at Big-Tooth's mistakes finds focus on his pre-human inability to 
+understand fire and the failure of the Folk to band together in any form of 
+social organization to resist their enemies and predators. Similarly, the Fire
+People and the Folk, providing glimpses of different stages in the development
+of the human, are defined against each other by their capacities in both of
+these areas. 
+
+While these are arguably differences across different species---the Folk 
+and even the Fire people being not-quite-human---in Marx's view, the same
+kinds of difference develop across different degrees of social and 
+technological *human* history: species has a mutable meaning even within 
+a scientific designation of the human. Expanding his inquiry from the
+external object in general to industry, he writes: "It can be seen how the
+ history of *industry* and the *objective* existence 
+of industry as it has developed is the *open* book of the essential powers of 
+man, man's psychology present in tangible form."[@marx_early_??? 354] The
+"essential powers" of the human develop in complex interrelation with the 
+evolving psychology of the human and our essential nature. This degree of 
+correspondence makes it possible to read the state of the human at a given
+moment in the nature of its production and social organization. 
+
+A mutable human essence that coevolves with the state of production and 
+technology is the key to understanding what is perhaps the most astounding passage in the 
+1844 manuscripts: "[A]s everything natural must *come into being*, so man also 
+has his process of origin in *history*. But for him history is a conscious 
+process, and hence one which constantly supersedes itself. History is the true 
+natural history of man."[@marx_early_??? 391] If history has
+replaced natural history as the determining factor of human species-being, 
+then what it means to be human is not the same at different moments in 
+history. Humanness is only *essentially* defined by the constant
+transformation of the collective through transformation of external 
+objects---and thus environment. 
+
+The same would have to be said of different forms of social and technological 
+organization geographically, as well as temporally. This, however, is a
+complicated statement, for it risks creating a hierarchy of humanness 
+according to degrees of technological sophistication, almost a technocratic 
+designation of ontological value. This is a particular risk in the context
+of Marx's Hegelian conception of historical progress, predicated on the 
+"supercession" of one era by another, a process that is itself largely 
+technological in its definition of progress. 
+
+While caution in this direction should be preserved, it is possible to 
+mobilize species-being as a way to understand difference, individually and
+culturally, rather than as a way to evaluate such difference as the degree of 
+"progress". Nick Dyer-Witheford, a particularly systematic commentator on
+Marxian species-being, reads it as anything but homogenizing in its
+understanding of difference: 
+
+> Marx's account of species-being is not a paean 
+to an organic, functionalist
+super-being. Beings are not Borgs. Species-being is actualised to the degree
+that individuals not only contribute to the growth in social powers, but also
+access these powers as an increase in their own autonomy---indeed, as the very
+grounds for their intensifying individuation. Species-being is neither
+individual nor supra-individual: it is 'transindividual', both the ground and
+compound of a multiplicity of 'particular' species 
+beings.[@dyer-witheford_return_2004 7]
+
+Just as Ian Baucom saw species as collectivity that had the potential to 
+increase the degree of freedom, rather than curtailing it by proscribing
+difference, so does this reading of species-being see it as the basis of
+"intensifying individuation" that is simultaneous with an understanding of the
+self as part of a larger human whole. It is possible to have the same species
+but particular species-beings, responsive to historically contingnent 
+circumstance, and responsive in different ways. The species thus becomes a 
+mutable and heterogeneous collectivity.
+
+For London and Marx alike, then, the human collective and 
+the "life activity" that supports it are consciously grasped as both the subject and
+object of transformation. Marxian species-being is the human's ability to look into
+the fire and see a larger self reflected back. In "To Build a Fire", 
+London's incurious "man" is unable to survive because he has lost touch with
+this fundamental species-being, his larger sustaining humanness. Where the
+wolf's fur protects it automatically and the murmurs from the "crypt" of its
+instinctual knowledge reservoir determine its behavior, humans can be
+preserved beyond our proper environment because of the same behaviors that
+drive technological development and industrialization---and, indeed,
+environmental destruction, as will become clear in the later agricultural 
+novels. Species-being as a concept shows that London's use of the
+species-concept as a collectivizing concept is anti-essentialist precisely 
+because it is historically situated.
+
+As I will argue in my final section, London came to share the pluralistic
+conception of the human species that can be developed from Marxian species-
+being---indeed, his engagement with the species concept led him to such 
+pluralism. But it was an unstable position for him, and its development was
+complicated by his problematic and contradictory views on race.
 
 ### *The Acorn-Planter* (1916): Speculative Human Species-Being
 
-<!--the previous section should end with something like... 
+> Yet the productive life is the life of the
+species. It is life-engendering life. The whole
+character of a species, its species-character,
+is contained in the character of its life activity;
+and free, conscious activity is man’s species-character.
+Life itself appears only as a means to life.
 
-wait what does that section show us in the end?
+> Karl Marx, *The Economic and Philosophical Manuscripts of 1844*
 
-London understands human species-being, by way of animal species-being, as
-a combination of the following:
+> "The soil & the world belong to those who make the soil & the world most
+fruitful & thereby make possible life more _abundant_. [...] the duty of life
+[...] is to make life more abundant."
 
-1. something both universal and subject to adaptation across individual
-organisms
+> Jack London, Notes for *The Acorn Planter*
 
-2. fundamentally rooted in human use of technology and the prosthetic humanism
-that results (need harraway) as well as a larger social organism; both of these
-are the site of individual variation
 
-3. therefore historically contingent, i.e., variegated across period and
-region; a capacious view of technology that appears to include human
-environments altered by technology as well as social structures. 
 
--->
+<!--"produce one-sidedly 
+while man produces universally;…they produce only themselves, while man 
+reproduces the whole of nature."[@marx_early_2005 329] 
 
-The socio-technological definition of human species-being in "To Build a Fire"
-appears to capture London's view of human species-being as it *was*; but he was
+[N]ature appears as *his* work and his reality. The object of labour is therefore the
+*objectification of the species-life of man*: for man reproduces himself not
+only intellectually, in his consciousness, but actively and actually, and he
+can therefore contemplate himself in a world he himself has created.
+[@marx_early_2005 329]-->
+
+
+
+<!-- what else needs to get done in this section? need to make the "reproduce
+the whole of nature" thing explicable and explain how the focus on external
+objects and collectivism leads some folks to think it's all just a big
+triumphalist geoengineering ploy. But metabolic rift? Holy hell this is getting
+out of hand. -->
+
+
+London's understanding of difference---different species-beings within the 
+same human species---comes to its sharpest point in his attempts to imagine 
+the futurity of human species-bieng. [The socio-technological definition of 
+human species-being in "To Build a Fire" appears to capture London's view of human species-being as it *was*; but he was
 just as invested in human species-being as it *could be*. Indeed, though he has
 a reputation for rigidly deterministic views of human behavior, he seemed to
 take this fixity as a mere basis from which the human species could develop its
-collective nature. 
+collective nature.]
 
 In his notes for a lecture delivered in Oakland, California sometime before
 1904<!--can the letters tell me when?-->, for example, he states his views on
@@ -1146,6 +1359,10 @@ notions of racial essentialism and superiority.
 
 -->
 
+> "Our species-being is as builders of worlds."[@wark_molecular_2015 3]
+
+> Mackenzie Wark, *Molecular Red: Theory for the Anthropocene*
+
 *The Valley of the Moon* provides a counter-model to that of *The
 Acorn-Planter*, suggesting a usable ethos for how to talk about the human
 universal as a term that lets us pursue teleological and transformative
@@ -1290,14 +1507,13 @@ characteristics as arising out of a racial "seed" and embracing an ideal of
 someone who has "bred true" according to that seed. 
 
 Rants like this one, common in the first half of the novel and voiced by Billy
-and Saxon alike, have understandably motivated criticism of the
-novel's nativism. Christopher Gair rightly notes that in depicting Billy and
-Saxon's attempts to
-"retrace the steps both of their parents and of their Anglo-Saxon prognitors,"
-the novel exposes "an anxiety about race 'purity' and the decline of the
-'original' settlers in California."[@gair_citizenship_1993 419] Gair goes on to
-claim that in finding their ideal environment in the Sonoma Valley, they find
-self-realization---but it is a self-realization obtained by asserting
+and Saxon alike, have understandably motivated criticism of the novel's
+nativism. Christopher Gair rightly notes that in depicting Billy and Saxon's
+attempts to "retrace the steps both of their parents and of their Anglo-Saxon
+prognitors," the novel exposes "an anxiety about race 'purity' and the decline
+of the 'original' settlers in California."[@gair_citizenship_1993 419] Gair
+goes on to claim that in finding their ideal environment in the Sonoma Valley,
+they find self-realization---but it is a self-realization obtained by asserting
 distinctions between themselves ("real" Americans) and the immigrants who own
 much of the land around Oakland, whose farms they pass through on their search
 [@gair_citizenship_1993 427]. Building on the work of Walter Benn Michaels, he
@@ -1424,8 +1640,9 @@ thought we were smart. Well, the Dalmatians came along and showed they were
 smarter. [...] It won't be long before they own the whole valley, and the last
 American will be gone."[@london_valley_1999 292] Insistently equating
 Americanness with Anglo-Saxonism, he interprets as a threat the agricultural
-acumen of immigrants understood as not-white. Again and again, the novel articulates a panic at the prospect of a non-white America, and
-environmentally conscious agriculture is the surprising source of a change.
+acumen of immigrants understood as not-white. Again and again, the novel
+articulates a panic at the prospect of a non-white America, and environmentally
+conscious agriculture is the surprising source of a change.
 
 Yet it does not allow for a simple condemnation of these agricultural methods
 and their immigrant practitioners, nor could it function narratively without

@@ -1,7 +1,160 @@
 ---
 ---
 
-<!--VM scraps-->
+# Reading notes
+
+## SB and Anthropocene
+
+### Johnson
+
+Johnson critiques the techonological futurity of a human-machine version of
+species-being and the version of history it implies, saying that it encourages
+us to take the world "in hand" and manage rather than searching for new modes
+of organization in concert with nonhuman lifeforms. Her interest is in
+biosensing and biomimicry technologies as natural extensions of a fundamental
+aspect of humanity's species-being, "reproducing the whole of nature" (Marx).
+In her schema it is through technology, but particularly assemblages of
+technological and non-human lifeforms, that humanity is able to sense the
+Anthropocene. 
+
+Quotes:
+
+- 'Marx maintained that living labor endowed humans with the capacity to
+reproduce not only their own life but also “the whole of nature”' (277). 
+
+- 'Marx named the capacity to transform our collective development “species
+being.” With “free, conscious activity,” he claimed, humans mold material into
+objects of personal and social use. To be human, for Marx, was to remake: to
+unsettle and reshape the whole of the world.' (277)
+
+- "We apprehend the world through the tools and prosthetic technologies we use
+to modify it" (279). 
+
+- "Like technology, nonhuman life shapes human apprehension of nonliving
+materials---and ourselves. Indeed, nonhumans have always been a part of our
+technological apparatuses" (282). 
+
+- "Perhaps this was the power of species being all along: that it drew together
+a critique of the mode of production with concerns about reproduction" (289).
+
+### Dyer-Witheford 2004a, Return
+
+"a species-being whose nature is to change its nature, and whose
+only essence is the capacity for transformation." (6) Yes
+
+Note Spivak: points out that all the basic biological needs stuff is more often
+called "species-living" or "species-life," whereas "species-being" is a more
+uniquely human concept that relies on transformation of nature and
+self-transformation as a result
+
+"Marx's account of species-being is not a paean to an organic, functionalist
+super-being. Beings are not Borgs. Species-being is actualised to the degree
+that individuals not only contribute to the growth in social powers, but also
+access these powers as an increase in their own autonomy - indeed, as the very
+grounds for their intensifying individuation.'^ Species-being is neither
+individual nor supra-individual: it is 'transindividual', both the ground and
+compound of a multiplicity of 'particular' species beings.'" (7)
+
+"The more radical reading is, however, to see 'the human' as itself an
+historical instantiation of species-being, one bound in contradictory ways to
+the birth of capitalism." (8)
+
+From 1844 MSS, qtd in D-W 7: "The real, active orientation of man to himself as
+a species being, or his manifestation as a real species being (i.e. as a human
+being) is ... only possible through the cooperative action of all mankind - as
+the result of history."
+
+### Dyer-Witheford 2004b, S-B Resurgent
+
+This is basically the same article as above... but some good summaries in the
+first couple pages.
+
+# Scraps
+
+Before one can take up Chakrabarty's call to adopt
+species as the basis of a political collective for environmentalist praxis,
+some means of addressing the question ontologically must first be found. For
+London's part, he considered species ontologically in his "dog stories" before
+developing their full political and ecological implications in his late
+agricultural novels. 
+
+## s-b scraps
+
+Finally,
+species-being is the ultimate loss in the process of capitalist alienation. The
+productive life-activity so essential to the human becomes, in alienated labor,
+"*external* to the worker, i.e. does not belong to his essential being"
+[@marx_early_2005 326]. Through the loss of this productive essence, the
+worker's activity ceases to be "his own spontaneous activity." It instead
+"belongs to another, it is a loss of [the worker's] self" [@marx_early_2005
+327]. Losing the object of labor means that freedom of action, freedom in any
+but the most animal functions, is also lost. Species-being ceases to be
+possible when the conscious productive activity, life-producing life, is
+disrupted by estrangement of labor, and this is so primarily because of the
+loss of freedom that estrangement entails.]
+
+<!-- alternate version of what's at teh end of the tbaf section -->
+
+
+
+The lines of comparison London necessarily draws with this strategy speak
+directly to some of the most debated topics of studies of literary naturalism
+and Anthropocene theory alike. To narrate a dog experiencing its inherent
+species-nature, its dogness, is to narrate the phenomenology of determinism
+itself, or in other words to try to capture the feeling of responding to
+"forces" that dictate behavior below the level of conscious choice.
+Furthermore, splitting the hairs that distinguish the sub-species of the
+domestic dog from the wolf, *Canis lupus familiaris* from *Canis lupus*, lends
+a neat analogue (at least as London uses it) to the naturalist preoccupation
+with environmental determinism in the city and the country, respectively. The
+dog character is a testing ground for a theory of the human in which our
+defining humanity arises out of a deterministic, bestial base. By this
+strategy, London also raises questions regarding the universalizing function of
+species discourse, which, as has already been seen, is among the first problems
+the Anthropocene raises for the humanities. To consider the human and the dog
+in the same terms, one must ask if they bear the same relation to species as
+a collectivizing principle, and what species even means in an ontological sense
+when the object of contemplation is not *Canis lupus* but *Homo sapiens*.
+Before one can take up Chakrabarty's call to adopt species as the basis of
+a political collective for environmentalist praxis, some means of addressing
+the question ontologically must first be found. For London's part, he
+considered species ontologically in his "dog stories" before developing their
+full political and ecological implications in his late agricultural novels. 
+
+While a dog's perspective is a useful lens for London's thinking on species, he
+does not see species as an identical concept when applied to humans and
+non-humans, nor as an identical phenomenal experience. The distinction he draws
+between species as a human and non-human concept can be closely described by
+the Marxian concept of species-being, a term whose very composition seems to
+undercut Chakrabarty's contention that the species is not able to be
+experienced except intellectually. Developed in *The Economic and Philosophical
+Manuscripts of 1844* and largely abandoned thereafter, species-being refers to the
+human's simultaneous transformation of the self and environment through
+conscious production on a scale that exceeds the individual. All animals
+produce; animals, however, 
+
+> produce one-sidedly while man produces universally;…they produce only
+themselves, while man reproduces the whole of nature…. [N]ature appears as
+*his* work and his reality. The object of labour is therefore the
+*objectification of the species-life of man*: for man reproduces himself not
+only intellectually, in his consciousness, but actively and actually, and he
+can therefore contemplate himself in a world he himself has created.
+[@marx_early_2005 329]
+
+In the terms established by species-being, the human collective and the "life
+activity" that supports it are consciously grasped as both the subject and
+object of transformation. Though species-being exceeds the "species-life" of
+animals, by which Marx means the species-defined drives that focus primarily on
+the needs of reproduction, species-being is a uniquely human capacity to define
+the nature of the individual and the collective by the transformation of
+external entities: objects, the environment, and social
+relations.[@dyer-witheford_return_2004 4-6, @johnson_limits_2017 277] 
+
+
+
+
+
+## VM scraps
 
 Finally, these attempts to connect with personal family histories, real or
 imagined, coincide with an understanding of the land itself not as it is, but
