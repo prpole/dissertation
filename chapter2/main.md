@@ -472,13 +472,17 @@ a scientist named John Burroughs wrote an article called "Real and Sham Natural
 History," in which he decried the appearance of sympathetic and above all
 individualistic animal characters in the fiction of the day. Burroughs claimed
 that all animal behavior is entirely instinctual, and that the imputation of
-reason and learned behavior in individual animals on which these animal
-fictions relied constituted nature-fakery. To Burroughs, the non-human animal
+reason and learned behavior to individual animals, a premise on which he
+claimed these animal
+fictions relied, constituted nature-fakery. To Burroughs, the non-human animal
 is entirely mechanistic, an automaton driven by pure instinct. For his
 part, Roosevelt leveled petty complaints against *White Fang*: he saw fakery in
 the claim that a lynx could kill a dog (a claim, incidentally, which does not
 appear in *White Fang*, as London would later point out) and that a bull dog
-could beat a wolf dog in a fight.[@london_other_1910]
+could beat a wolf dog in a fight.[@london_other_1910] Narrating a theory of
+species brought London to a fight of his own---one which he did not necessarily
+relish---about the degree of determinism and universalization implied by the
+species concept.
 
 When these critiques began to appear, London did his best to keep out of it. As
 he wrote several years later of the incident in an essay called "The Other
@@ -493,17 +497,17 @@ president's mistakes and suggested a more careful rereading of the works
 Roosevelt critiqued.
 
 In responding to Burroughs, London was more comprehensive and more damning, and
-in being so reveals a continuity between his dog books and his meditations on
-the human. In "The Other Animals," he recounts several experiences with his own
-dogs that bear a clear relation to episodes in his fiction, analyzing them to
-demonstrate reason triumphing over instinct. The drives of instinct and reason,
-he says, come out of an evolutionary succession, with the former a "race-habit"
-that "is blind, unreasoning, mechanical" and the latter a development that
-culiminates in, but is not exlusive to, humanness itself.[@london_other_1910
-262] His concluding salvo
-continues to place human and non-human on an evolutionary continuum, but in
-doing so it also suggests that the process that leads to the human continues to
-exist in the humans of the present:
+in the process revealed a continuity between his dog books and his meditations
+on the human. In "The Other Animals," he recounts several experiences with his
+own dogs that bear a clear relation to episodes in his fiction, analyzing them
+to demonstrate reason triumphing over instinct in the non-human subject. The
+drives of instinct and reason, he says, come out of an evolutionary succession,
+with the former a "race-habit" that "is blind, unreasoning, mechanical" and the
+latter a development that culiminates in, but is not exlusive to, humanness
+itself.[@london_other_1910 262] His concluding salvo continues to place human
+and non-human on an evolutionary continuum, but in doing so also suggests
+that pre-human natural history continues to exist in the humans of
+the present:
 
 > Mr. Burroughs, though you stand on the top of the ladder of life, you must
 not kick out that ladder from under your feet. You must not deny your
@@ -514,20 +518,16 @@ striving by use of the very reason that was developed by evolution to deny the
 processes of evolution that developed it. This may be good egotism, but it is
 not good science.[@london_other_1910 265-6]
 
-Embrace the animal, London tells us (with Burroughs as
-a proxy), "exalted animal" though it may be. Claiming that human action is
-driven exclusively by reason gives the lie to the very utility of that reason,
-for reason paradoxically requires an admission of unreason in the form of more
-atavistic drives. Contrary to the straw-man versions of naturalist determinism
-that have marked critiques of the genre for over a century, animalistic drives
-in the human and non-human alike are non-mechanistic. Rather, London's
-naturalism positions these drives as a substratum that exists in a complex
-mixture with the reason that both derives from and seeks to disown it. The
-extent to which reason has developed is a matter of species.
-
-<!-- somewhere in here could be an opportunity to intro species being, if
-that's what I want to do. "At stake here is a concept called species-being as
-it relates to the human...-->
+Embrace the animal, London tells us, "exalted animal" though it may be.
+Claiming that human action is driven exclusively by reason contradicts the very
+conclusions of that reason, which require an admission of *unreason* in the
+form of atavistic drives. Contrary to the straw-man versions of naturalist
+determinism that have defined many critiques of the genre for over a century,
+animalistic drives in the human and non-human alike are non-mechanistic in
+London's view. Rather, his naturalism positions these drives as a substratum
+that exists in a complex mixture with the reason that both derives from and
+seeks to disown it. The extent to which reason has developed and the sway that
+it holds is a matter of speciation.
 
 But buried in this conclusion is another telling statement that complicates the
 traditional boundaries between human history and natural history---the very
@@ -545,20 +545,14 @@ bring to experience, the natural history of the human. It experiments not so
 much with different temporalities as with juxtaposed modes of experience
 appropriate to different forms of consciousness in the history of the species,
 just as other naturalist historical novels (Dreiser's *The Financier*, for
-example) create the experience of an economic and social moment in human
-history. Here the human *per se* is the object of historical inquiry. But
-London himself highlights the novel's limitations as a general model for
-experiencing species as more than a concept. [ quote from BA about the narrator
-being an abnormal example of something that exists in everyone ]. If the
-narrator is an extreme example of something that exists in everyone, the novel
-in which he appears still leaves us with the crucial questions largely
-unanswered: What does it mean to *live* species rather than think, not as
-a transcendent experience but as a quotidian one? What does it mean to
-experience the species as a defining category contingent on a moment in natural
-history, in the way that certain historically contingent identities can be
-experienced?
-
-
+example) create the experience of a bygone economic and social moment. But
+where historical fiction and its narrative modes have a line of precedence as
+long as that of literature itself, natural history fiction has many of its
+fundamental questions unanswered: What does it mean to *live* species rather
+than think, not as a transcendent experience but as a quotidian one? What does
+it mean to experience the species as a defining category contingent on a moment
+in natural history, in the way that certain historically contingent identities
+can be experienced?
 
 ---
 
@@ -569,34 +563,36 @@ Holocene. It may model a natural-historical fiction, but this fiction has
 merely the same narrative requirements as other forms of historical fiction. If
 he makes the pre-human experience of the Pleistocene more accessible to
 a modern consciousness, it may paint a clearer sketch of the process of
-speciation and human development, in the same way that Dreiser makes the
-economic crisis of 1871 [?] open to experience to form an argument about the
+speciation and human development, in the same way that Dreiser opens the
+economic crisis of the 1870s to experience to form an argument about the
 crisis-prone nature of capitalism and finance. But neither novel does anything
 to expand the temporal scale of their narration within its own bounds,
 a expansion without which any robust experience of species remains out of
 reach. 
 
 In a short story from the same period, "To Build a Fire," London performs just
-such an expansion, and he does so by interrogating the classic naturalist
-tropes of atavism and instinct. But in doing so he also presents a version of
-the human that exceeds the category of biological species---and through
+such an expansion through the classic naturalist
+tropes of atavism and instinct, narrating a human experience in which multiple
+temporalities exist at once. In doing so, he also presents a version of
+the human that exceeds the category of biological species in the nature of its
+interaction with its environment---and through
 contrast with a canine character like those of *The Call of the Wild* and
-*White Fang*, shows just how much the species-concept needs to be revised to be
+*White Fang*, he shows just how much the species-concept needs to be revised to be
 experienced on human terms. The story tests the ways the forms of knowledge
 that came to conflict in the "nature fakers" controversy define the experience
 of species in canine and human subjects alike. It also pursues an
 anti-essentialist definition of humanness as plastic and historically
 contingent---a definition that effectively blends the historical and
-natural-historical modes.
+natural-historical modes in the same manner of Marxian species-being.
 
 What makes these meditations on the human stand out even more distinctly is the
-fact that they only exist in the second, longer version of the story---the
-version written after *The Call of the Wild*, *White Fang*, and *Before Adam*.
-"To Build a Fire" was first published as a much shorter story in [ ] magazine
-in 1902. Shortly afterward, in 1903, *The Call of the Wild* was published to
-popular acclaim, and was shortly followed by *White Fang* in 1906. Only after
-exploring the narrative challenges of species in canine characters did he write
-*Before Adam*, which was serialized in 1906 and 1907, extending to human
+fact that they only exist in the second of the story's two versions---the one
+written after *The Call of the Wild*, *White Fang*, and *Before Adam*. "To
+Build a Fire" was first published as a much shorter story in *Youth's
+Companion* magazine in 1902. Shortly afterward, in 1903, *The Call of the Wild*
+was published to popular acclaim, followed by *White Fang* in 1906. Only after
+exploring the narrative challenges of species in canine characters did London
+write *Before Adam*, which was serialized in 1906 and 1907, extending to human
 characters the explorations of species that come more naturally in reference to
 non-human figures. Finally, in 1908, something he had discovered in writing
 these books prompted him to return to the events of "To Build a Fire" with
@@ -608,47 +604,58 @@ feature a man traveling alone in temperatures less than negative-sixty degrees
 (contrary to the advice of more experienced travelers) whose foot becomes
 soaked with water. In both, the man struggles to build a fire to dry himself
 out and stay alive, fighting the absolute numbness of his extremities to light
-birch bark with a book of matches. But there are differences in the key events
-as well, inviting a comparative reading. In the earlier story, the man makes it
-back to camp with scars and an education. In the latter, he dies, and his
-canine companion (who does not appear in the former version) returns without
-him to "the other food-providers and fire-providers."[@london_build_2001 271]
+birch-bark kindling with a book of matches. 
 
-With these two changes to the events of the story come more significant
+But there are differences in the key events as well, inviting a comparative
+reading. In the earlier story, the man makes it back to camp with scars and an
+education. In the latter, he dies, and his canine companion (who does not
+appear in the former version) returns without him to "the other food-providers
+and fire-providers."[@london_build_2001 271] Furthermore, while the protagonist
+of the early story is individuated, receiving a name and thus an identity, the
+protagonist of the later story is merely called "the man." This was
+a deliberate omission and one that occurred early in the composition process.
+In the first handwritten manuscripts, it is clear that London had given the man
+a name before taking it away, writing "John Collins" and "Collins" several
+times before scratching them out. "Collins" becomes a blank slate for "man",
+London's preferred term for referring to the human in
+general.[@london_jack_1916 JL1310]
+
+With these changes to the events of the story come more significant
 philosophical implications, particularly about how reason and technology have
-come to define the very essence of the human. Reason and technology are not
-restricted to humans in his vision, however, merely existing in different
-proportions with respect to other forms of knowing. Broadly speaking, knowledge
-as such forms a barrier between the individual organism and death, and the
-novel lays out three forms of such knowledge: instinct, reason, and social
-knowledge. 
+come to define the very essence of the human. Broadly speaking, the story
+suggests that knowledge as such forms a barrier between the individual organism
+and death, laying out three forms of such knowledge: instinct, individual
+reason, and socially transmitted experience. The different proportions of each
+of these forms of knowledge comes to define the distinct essences of
+individuals and species alike.
 
 London is inconsistent regarding the extent to which each of these forms of
-knowledge does indeed constitute knowledge. On one hand, instinct is presented
-as something other than knowing. When, confronted with wet feet just as the man
-is, the dog begins licking and biting its toes to break off the ice, London
-draws a line between apparently automatic action and reason. The dog's
+knowledge does indeed constitute knowledge. In some cases, instinct is
+presented as something other than knowing. When, confronted with wet feet just
+as the man is, the dog begins licking and biting its toes to break off the ice,
+London draws a line between apparently automatic action and reason. The dog's
 preventative measure "was a matter of instinct. To permit the ice to remain
 would mean sore feet. It did not know this. It merely obeyed the mysterious
-prompting that arose from the deep crypts of its being." In contrast, when the
-man helps the dog remove the ice from its feet, he does so not out of some
-coevolutionary impulse, but out of a deduced and self-serving rationale. No,
-the dog did not know what the ice "meant": "But the man knew, having achieved
-a judgment on the subject, and he removed the mitten from his right hand and
-helped tear out the ice-particles."[@london_build_2001 263-4] Here is an
-apparently familiar story about the line separating human and animal, not
+prompting that arose from the deep crypts of its being."[@london_build_2001
+263] In contrast, when the man helps the dog remove the ice from its feet, he
+does so not out of some coevolutionary impulse, but based on a deduced and
+self-serving rationale. No, the dog did not know what the ice "meant": "But the
+man knew, having achieved a judgment on the subject, and he removed the mitten
+from his right hand and helped tear out the ice-particles."[@london_build_2001
+263-4] Here is a familiar story about the line separating human and animal, not
 unlike Burroughs's position in his excoriation of nature fakers. Where the man
 "achieve[s] a judgment," the dog merely "obeys" a distinctly embodied
 sedimentation of ancestral experiences. Dubbing the source of the dog's
-instinctual response "the deep crypts of its being," London makes this action dead,
-a stark contrast to the active language of the man's intellectual achievements.
+instinctual response "the deep crypts of its being," London renders this action
+as somehow dead, a stark contrast to the active language of the man's
+intellectual achievements.
 
 But this familiar argument that places the non-human on the side of instinct
-and the human on the side of reason is not London's argument, as is clear from
-his response to Burroughs, and the easy division is quickly complicated. In the
-first place, the dog of "To Build a Fire" has all the same capacity for reason
-that London saw in his own dogs and that he ascribes to Buck and White Fang.
-Responding to life-threatening cold, the dog has a learned response that
+and the human on the side of reason is not London's, as is clear from his
+response to Burroughs, and the initial easy division is quickly complicated. In
+the first place, the dog of "To Build a Fire" has all the same capacity for
+reason that London saw in his own dogs and that he ascribes to Buck and White
+Fang. Responding to life-threatening cold, the dog has a learned response that
 appears simultaneously with his instinctive one: "The dog had learned fire, and
 it wanted fire, or else to burrow under the snow and cuddle its warmth away
 from the air."[@london_build_2001 262] The dog prefers the fire it has learned
@@ -657,35 +664,31 @@ The man is not so lucky. Though he singularly fails to benefit from any
 instinctive knowledge, however, it is not because of a lack in the instinctual
 capacities of humanity as a species---as is clear in *Before Adam*, London
 ascribes the same "deep crypts of being" to humans in varying degrees. It is
-instead a matter of the man's particular ancestry: "This man did .not know cold.
+instead a matter of the man's particular ancestry: "This man did not know cold.
 Possibly all the generations of his ancestry had been ignorant of cold, of real
 cold, of cold one hundred and seven degrees below freezing-point. But the dog
-knew; all its ancestry knew, and it had inherited the knowledge."[... 264] We
-understand by implication that things might be different for the man---*this*
-man, not "man"---had his ancestors been more acquainted with the kind of cold
-he confronts in the story. Furthermore, instinct is not a mysterious prompting
-in this example, but a legitimate source of knowledge. The dog "knew", the man
-"did not know" because of a difference in their access to instinctual
-archives. 
+knew; all its ancestry knew, and it had inherited the
+knowledge."[@london_build_2001 264] We understand by implication that things
+might be different for the man---*this* man, not "man"---had his ancestors been
+more acquainted with the kind of cold he confronts in the story. Furthermore,
+instinct is not a mysterious prompting in this example, but a legitimate source
+of knowledge. The dog "knew", and the man "did not know", because of
+a difference in their access to instinctual archives. 
 
-<!-- I note at this point that the question of knowledge/forms thereof as
-defining characteristics has become important... this sort of jives with what
-I'm seeing in animal studies, Haraway and Wolfe, etc. Need to make this more
-explicit sooner in the section-->Finally, both the human and non-human subjects
-here have social relations that act as yet another source of knowledge. London
-again and again observes, in both versions of the story, that the man has not
-appreciated the advice of the "old-timer on Sulpher Creek" who warned him
-against traveling alone, especially in temperatures below negative-fifty
-degrees.[... 265] This, ultimately, is the man's cardinal sin, a lack of
-respect for the accumulated knowledge of those who know the extreme environment
-better than he does. For just as the individual alone in an extreme
-environment is more fragile than in a group, the knowledge of the individual
-is more fragile than collective knowledge: subject to gaps due to a lack of
-both experience and so-called instinctual impulses as well as to simple
-forgetfulness. Indeed, the man's demise could well stem from having "forgotten
-to build a fire and thaw out" before sitting down to eat, which it is implied
-would not have occurred had he travelled with companions or taken more heed of
-advice.[... 264] 
+Finally, both the human and non-human subjects here have social relations that
+act as yet another source of knowledge. London again and again observes, in
+both versions of the story, that the man has not appreciated the advice of the
+"old-timer on Sulpher Creek" who warned him against traveling alone, especially
+in temperatures below negative-fifty degrees.[@london_build_2001 265] This,
+ultimately, is the man's cardinal sin, a lack of respect for the accumulated
+knowledge of those who know the extreme environment better than he does. For
+just as the individual alone in an extreme environment is more fragile than in
+a group, the knowledge of the individual is more fragile than collective
+knowledge: subject to gaps due to a lack of both experience and so-called
+instinctual impulses as well as to simple forgetfulness. Indeed, the man's
+demise could well stem from having "forgotten to build a fire and thaw out"
+before sitting down to eat, which it is implied would not have occurred had he
+travelled with companions or taken more heed of advice.[@london_build_2001 264] 
 
 What is more surprising is that his relationship with the dog could have
 provided this social reservoir of knowledge were that relationship more
@@ -695,41 +698,46 @@ a replacement for those instinctual reserves that humanity lacks. Immediately
 after drawing a sharp contrast between the man's lack of instinctual
 understanding of the cold and the dog's awareness that "it was the time to lie
 snug in a hole in the snow", London momentarily enters the dog's consciousness
-to demonstrate an intentional withholding of what it knows: "there was no keen
+to reveal its intentional withholding of what it knows: "there was no keen
 intimacy between the dog and the man. The one was the toil-slave of the other,
 and the only caresses it had ever received were the caresses of the whip-lash
 and of harsh and menacing throat-sounds that threatened the whip-lash. So the
-dog made no effort to communicate its apprehension to the man."[... 265] Cruel
-treatment and exploitation are poor substitutes for social relationships, so no
-transfer of information occurs. But the idea that instinct is communicable is,
-in considering the species, remarkable---because we presume that instinctual
-knowledge is either a shared *human* instinct (and does not need to be
-communicated) or is inaccessible because it belongs to another species and is,
-*ipso facto*, unable to communicated. London not only imagines a social life
-that goes beyond the species, but suggests that such a social life is an
-absolute necessity in certain environments.
+dog made no effort to communicate its apprehension to the
+man."[@london_build_2001 265] Cruel treatment and exploitation are poor
+substitutes for social relationships, so no transfer of information occurs. But
+the idea that instinct is communicable is, in considering the species,
+remarkable---because one might presume that instinctual knowledge is either
+a shared *human* instinct (and does not need to be communicated) or is
+inaccessible because it belongs to another species and is, *ipso facto*, unable
+to communicated. London not only imagines a social life that goes beyond the
+species, but suggests that such a social life is an absolute necessity for
+mutual survival in certain environments.
 
 The combination of the necessity of instinctual knowledge, the human's lack of
 it, and the inter-species sociality as a replacement for it has a startling
-implication in considering the fitness of humanity for survival. On its own,
-the human is incomplete, just as "the man" as an individual is incomplete on
-his own in the Yukon. He needs either the living sociality of advice and
-companions, discourse with the dead in the form of a speaking archive of
-instinctual knowledge, or the inter-species relationships that are enabled by
-domestication (or symbiosis in the case of other species). 
+implication in considering the fitness of humanity for survival, and indeed,
+the very nature of the human. On its own, the human is incomplete, just as "the
+man" as an individual is incomplete on his own in the Yukon. He needs either
+the living sociality of advice and companions, discourse with the dead in the
+form of a speaking archive of instinctual knowledge, or the inter-species
+relationships that are enabled by domestication (or symbiosis in the case of
+other species). 
 
 To briefly summarize before moving on, then, London draws the species line
 according to the availability of different types of knowledge, but he is not
 absolutist in the way that Burroughs is or others are who claim that reason or
 socialization uniquely define the human. Rather, London posits that the
 characters of human and non-human species alike are defined by unique
-combinations of these types of knowledge (to say nothing of the sensory) and
-the ways in which they are determinative or not of action. 
+combinations of these types of knowledge and the ways in which they are
+determinative, or not determinative, of action. 
 
 ---
 
-Narratively rendering a comparative definition of species, however, is not the
-same as narrating an *experience* of species as such as an identity. "The man"
+Rendering a comparative definition of species through narrative, however, is not the
+same as narrating an *experience* of species as such as an identity. This is an
+experience that is denied to the subjectivity of the character and induced in
+the audience, through a narrative distancing similar to the one London
+maintains with the double-subjectivity of *Before Adam*. "The man"
 never comes to an epiphanic understanding of himself as a member of the
 species, but juxtaposition with the dog becomes the narrative mechanism by
 which experiences that define the human species are identified as such.
@@ -750,7 +758,7 @@ fact impressed him as being cold and uncomfortable, and that was all. It did
 not lead him to meditate upon his frailty as a creature of temperature, and
 upon man's frailty in general, able only to live within certain narrow limits
 of heat and cold; and from there on it did not lead him to the conjectural
-field of immortality and man's place in the universe. [... 261]
+field of immortality and man's place in the universe. [@london_build_2001 261]
 
 What defines the man and his narrative function in the story is also the very
 "trouble with him". Here London establishes the man purely as a nexus of
@@ -773,24 +781,25 @@ The title of the story, "To Build a Fire," takes on a new significance with
 this "frailty" of the species in mind, as well as the insistent centrality of
 temperature in the story as a whole and this definition of the human as
 a "creature of temperature" in particular. The fire serves double-duty as
-a dramatic conceit and the basic Promethean symbol, encapsulating the human's
-reliance on technology for survival by asking us to consider the vulnerability
-that reliance creates. But when the human is defined by the slim envelope of
+a dramatic conceit and a Promethean symbol, encapsulating the human's
+reliance on technology for survival by foregrounding the vulnerability
+that reliance creates. But when the human is defined by the slim range of
 temperatures that can support our existence, the fire comes to bear existential
 weight on the level of the species. The phrase "to build a fire," an insistent
 repetition throughout the story, is a statement of humanness itself in
 a distinctly material sense. 
 
-London's definition of the human by fire is one that is shared by current
-scientists. The primatologist Richard Wrangham, for example, argues in
+London's definition of the human by fire is one that is shared by 
+scientists of the 21st century. The primatologist Richard Wrangham, for example, argues in
 *Catching Fire: How Cooking Made Us Human* that cooking increased the amount of
 energy obtained from food, the effects of which not only aided in the survival
 of the species, but spurred the development of humanity itself. The
 energy-hungry, inefficient digestive systems of humanity's predecessors gave
-way to smaller digestive systems adapted to a more efficient cooked diet, as
-well as a number of other physical adaptations like weaker jaws;[@wrangham
-38-41] this change in the relative costs and gains in energy in turn is thought
-to have spurred brain growth in turn.[@wrangham 105-6] Nor were these
+way to smaller digestive systems adapted to a more efficient cooked diet while
+also leading to a number of other physical adaptations like weaker
+jaws;[@wrangham_catching_2009
+38-41] this change in the relative costs and gains in energy is in turn thought
+to have spurred brain growth.[@wrangham_catching_2009 105-6] Nor were these
 adaptations limited to the human as a bounded biological agent. As their
 "bodies responded by biologically adapting to cooked food" and the species, now
 more resilient, spread across the planet, there were attendant ripples in the
@@ -799,7 +808,7 @@ history, psychology, and society"---and, we must now add in light of the
 Anthropocene, in geology. For London and Wrangham both, the development of the
 human as we know it relied on the ability to exceed the boundaries of the self,
 encompassing the things we use to define ourselves. "The man's" fire is thus as
-defining as the wolf's coat.
+defining of humanity as the winter coat is of the wolf.
 
 <!-- interesting note from Wrangham on Darwin:
 
@@ -818,91 +827,93 @@ modified in order to survive under greatly changed conditions.” (21)
 etc.-->Consistent with its function as a Promethean symbol, fire in London's
 story is merely the representative example of the technological appendages that
 come to define the very essence of the human. The most direct example of this
-trend is the most ambiguous and the least appealing. The man chews tobacco as
-he travels, but his frozen beard and numbed lips mean his spit accumulates in
-his beard and freezes: "The result was that a crystal beard of the color and
-solidity of amber was increasing its length on his chin. If he fell down it
-would shatter itself, like glass, into brittle fragments. But he did not mind
-the appendage."[... 262] The man's reliance on processed tobacco alters his
-physical being, making him into a strange hybrid of his natural being and the
-things he makes use of. But this extra-natural appendage is fragile by nature,
-and it is hardly introduced before we are supplied with the image of it
-shattering. This would be no tragedy, the amber beard conferring no imaginable
-advantage. Other, more common appendages are presented as complementary
-prosthetics to make up for the natural protections the human lacks. Although
-"he was a warm-whiskered man," for example, "the hair on his face did not
-protect the high cheek-bones," and the man therefore has to continually agitate
-"his numb nose and cheek-bones with his mittened hand."[... 261] He eventually
-comes to execute this process "automatically," putting it in the unthinking
-realm of natural or instinctual action while simultaneously describing it with
-the lexicon of industry.[... 262] Even this appendage is not incorporated
+trend is also the story's most ambiguous and least appealing. The man chews
+tobacco as he travels, but his frozen beard and numbed lips cause his spit to
+accumulate in his beard and freeze: "The result was that a crystal beard of the
+color and solidity of amber was increasing its length on his chin. If he fell
+down it would shatter itself, like glass, into brittle fragments. But he did
+not mind the appendage."[@london_build_2001 262] The man's reliance on
+processed tobacco alters his physical being, making him into a strange hybrid
+of his natural being and the things he makes use of. But this extra-natural
+appendage is fragile by nature, and it is hardly introduced before we are
+supplied with the image of its shattering. This would be no tragedy, the amber
+beard conferring no imaginable advantage, but other, more common appendages are
+presented as complementary prosthetics to make up for the natural protections
+the human lacks. Although "he was a warm-whiskered man," for example, "the hair
+on his face did not protect the high cheek-bones," and the man therefore has to
+continually agitate "his numb nose and cheek-bones with his mittened
+hand."[@london_build_2001 261] He eventually comes to execute this process
+"automatically," putting it in the unthinking realm of natural or instinctual
+action while simultaneously describing it with the lexicon of industrial
+technology.[@london_build_2001 262] Even this appendage is not incorporated
 firmly enough into the man's being, however, still requiring a certain degree
 of attention. He notes with "a pang of regret that he had not devised
 a nose-strap of the sort Bud wore in cold snaps. Such a strap passed across the
-cheeks, as well, and saved them."[... 263]. Lacking a natural protection for
-his cheeks against the cold, the man's best hope of survival is to change his
-very being with increasingly refined appendages, replacing the natural with the
-technological. 
+cheeks, as well, and saved them."[@london_build_2001 263] Lacking a natural
+protection for his cheeks against the cold, the man's best hope of survival is
+to change his very being with increasingly refined appendages, replacing the
+natural with the technological. 
 
 While these appendages, like the fire, remain external, they are nonetheless
-constitutive of the very essence of the human---if not individually, then as
-a process. As Darwin himself put it, "man is enabled through his mental
-faculties 'to keep with an unchanged body in harmony with the changing
+constitutive of a human essence---if not as individual prosthetics, then as the
+process of prosthesis. As Darwin himself put it, "man is enabled through his
+mental faculties 'to keep with an unchanged body in harmony with the changing
 universe'", which is achieved when "he uses clothes, builds sheds, and makes
 fires"---whereas non-human animals "must have their bodily structure modified
-in order to survive under greatly changed conditions."[qtd. in @Wrangham 21
-(check page)] The uniquely human strategies for survival itself, which in the
-eyes of the evolutionist (professional or amateur) are coextensive with the
-defining human character, are contingent on the degree of technological
-adaptation in response to a changing environment.
+in order to survive under greatly changed conditions."[Qtd. in
+@wrangham_catching_2009 10] The uniquely human strategies for survival,
+which in the eyes of the evolutionist (professional or amateur) are coextensive
+with the defining human character, are contingent on the degree of
+technological adaptation in response to a changing environment.
 
 But technology's role in this story is hardly that of an uncomplicated savior.
 London goes beyond a purely salutary view of the technological human, beyond an
 account in which the human as an intelligent mind fills the gaps of the human
-as an organism. The same fragility of the tobacco-beard that shatters under the
-least pressure is attributed to humanity's over-reliance on technology for
+as an organism. The fragility of the tobacco-beard, which shatters under the
+least pressure, is symbolic of humanity's over-reliance on technology for
 survival. One metaphor, appearing twice near the end of the story, drives this
 association home particularly clearly. As the man begins to lose sensation in
 his fingers, the metaphor that recommends itself is a technological one, just
 as when the man "automatically" rubbed his cheeks with his mittened hands. But
 now it is with a sense of fragility that touches the basic makeup of the man's
 body: "When he touched a twig, he had to look and see whether or not he had
-hold of it. The wires were pretty well down between him and his finger-ends";
-and again, "he closed [his fingers]---that is, he willed to close them, for the
-wires were down, and the fingers did not obey."[... 268] The intervention of
-this technological metaphor marks the man's loss of contact with his own body,
-an ultimate separation of mental and corporeal being made manifest by the
-dissolution of the body while the mind remains active. Whereas earlier the
-technological appendages appeared as supplements, they are now barriers between
-the man's consciousness and his physical self---between the individual intellect and
-the more basic substratum of being that is determined by species. The loss of
-a connection between the mind and body comes to symbolize the loss of
-a connection between the intellectual human and the human species.
+hold of it. The *wires were pretty well down* between him and his finger-ends";
+and again, "he closed [his fingers]---that is, he willed to close them, for
+*the wires were down*, and the fingers did not obey."[@london_build_2001 268,
+emphasis mine.] The intervention of this technological metaphor marks the man's
+loss of contact with his own body, an ultimate separation of mental and
+corporeal being made manifest by the dissolution of the body while the mind
+remains active. Whereas earlier the technological appendages appeared as
+supplements, they are now barriers between the man's consciousness and his
+physical self---between the individual intellect and the more basic substratum
+of being that is determined by species. The loss of a connection between the
+mind and body comes to symbolize the loss of a connection between the
+human intellect and the human species.
 
 Finally, this lost connection has a greater cosmic significance than the death
 of an individual character. To London, it means a loss of the connection
-between the human and the natural environment. In another telling repetition,
+between humanity and our natural environment. In another telling repetition,
 London suggests that our connection with the planet is bodily rather than
 intellectual: "He glanced down at first in order to assure himself that he was
-really standing up, for the absence of sensation in his feet left him unrelated
-to the earth"; and on the next page, as the man runs on feet that are entirely
-numb, "He seemed to himself to skim along above the surface, and to have no
-connection with the earth."[... 269-70] The statement would draw attention even
-without repetition, but as when he discusses the "wires" being down, London
-appears unwilling to let this idea go unnoticed. In both cases, consciousness
-itself is not enough for a meaningful relationship to one's immediate
-environment, and this fact appears to be much of what makes the man's
-disembodiment difficult for him to come to terms with. But London's phrasing
-here suggests a broader interpretation than one of mere disorientation,
-a reading that encompasses capital-E-Earth as well as the simpler
-earth-as-ground that forms the man's point of reference. The loss of contact
-with one's body, the suggestion that the human is pure consciousness without
-a meaningful physical being, means the loss of perspective regarding the
-human's place in the larger collage of planetary systems, including the
-interrelation of species (like the communication between man and dog) and
-effects on the environment more broadly conceived. 
+really standing up, for the absence of sensation in his feet left him
+*unrelated to the earth*"; and on the next page, as the man runs on feet that
+are entirely numb, "He seemed to himself to skim along above the surface, and
+to have *no connection with the earth*."[@london_build_2001 269-70, emphasis
+mine.] The statement would draw attention even without repetition, but as when
+he discusses the "wires" being down, London appears unwilling to let this idea
+go unnoticed. In both cases, consciousness itself is not enough for
+a meaningful relationship to one's immediate environment, and this fact appears
+to be much of what makes the man's disembodiment difficult for him to come to
+terms with. But London's phrasing here suggests a broader interpretation than
+one of mere disorientation, a reading that encompasses capital-E-Earth as well
+as the simpler earth-as-ground that forms the man's point of reference. The
+loss of contact with one's body, the suggestion that the human is pure
+consciousness without a meaningful physical being, means the loss of
+perspective regarding the human's place in the larger collage of planetary
+systems, including the interrelation of species (like the communication between
+man and dog) and effects on the environment more broadly conceived. 
 
-This body-planet connection is stunningly evoked in a passage that broadens the
+This body-planet connection is dramatically evoked in a passage that broadens the
 man's conception of his place in the universe even further. 
 
 > His pace of four miles an hour had kept his heart pumping blood to the
@@ -911,41 +922,41 @@ action of the pump eased down. The cold of space smote the unprotected tip of
 the planet, and he, being on that unprotected tip, received the full force of
 the blow. The blood of his body recoiled before it. The blood was alive, like
 the dog, and like the dog it wanted to hide away and cover itself up from the
-fearful cold.[...266]
+fearful cold.[@london_build_2001 266]
 
 The effect of this stunning passage relies on a juxtaposition of scales about
 as violent as it is possible to achieve, from the interior of the human body in
 one sentence to the movement of astral bodies in the next. As the first
 sentence depicts the slowing of a single organ, the second takes its vantage
-point from a point beyond the planet itself, depicting the man's deadly loss of
-heat in terms of the entire sum of the material systems that have caused it.
-The man's insignificance is driven home by the vastness of the universe in
-which it occurs just as he is rendered a part of that universe, one event in
-a larger chain of causality. In the moment following this mechanistic
-description of freezing, the narration turns to the purely bodily, imagining
-the physical side of the human as an agent unto itself. This pure physicality,
-"the blood", reacts mechanistically, and this mechanism is related to the dog's
-prompting from the "crypts" of accreted instinctual knowledge. Even as the man
-remains unaware of the desires and actions of his physical being, these desires
-are the source of connection to both the immediate and the cosmic environment,
-which with the right frame of reference are one and the same. To lose one's
-connection to the body through technological interventions is to lose all
-frames of reference beyond the self, to lose the sense of the universal in the
-individual.
+from a point beyond the planet itself, depicting the man's deadly loss of heat
+in terms of the entire sum of the material systems that have caused it. Just as
+the dog provides an occasional perspective from beyond the human species, this
+passage makes itself exterior to the Earth. The man's insignificance is driven
+home by the vastness of the universe in which he exists even as he is rendered
+a part of that universe, one event in a larger chain of causality. In the
+moment following this mechanistic description of freezing, the narration turns
+to the purely bodily, imagining human biology as an agent unto itself. This
+pure physicality, "the blood", reacts mechanistically, and this mechanism is
+related to the dog's prompting from the "crypts" of accreted instinctual
+knowledge. Even as the man remains unaware of the desires and actions of his
+physical being, these desires are the source of connection to both the
+immediate and the cosmic environment, which, with the right frame of reference,
+are one and the same. To lose one's connection to the body through
+technological interventions is to lose all frames of reference beyond the self,
+to lose the sense of the universal in the individual.
 
-<!--use this to introduce a mini-sb section within this...-->"To Build a Fire",
-then, is finally an exploration of the way an ever more technologically
-mediated essence changes the place of the human in all possible environments,
-from the most immediate (the relationship with the dog) to the most distant
-(the place on the planet as a whole). But regarding London's conception of the
-species as such, and the notion of an essential species experience, this
-conclusion raises more questions than it answers. Chief among them are the
-following: How is it possible for the defining characteristic of a species to
-be defined by technology, something that is historically contingent? And what,
-then, is the proper context in which to seek an understanding of the human
-species---history or natural history? Finally, how is it possible for the
-so-called "natural" being of the human to simultaneously create a separation
-between the self and the environment in which the self exists?
+"To Build a Fire", then, is finally an exploration of the way an ever more
+technologically mediated essence changes the place of the human in all possible
+environments, from the most immediate (the relationship with the dog) to the
+most distant (the place on the planet as a whole). But regarding London's
+conception of the species as such, and the notion of an essential species
+experience, this conclusion raises more questions than it answers. Chief among
+them: How is it possible for the fundamental characteristic of a species to be
+defined by technology, something that is historically contingent and external?
+And what, then, is the proper context in which to seek an understanding of the
+human species---history or natural history? Finally, how is it possible for the
+so-called "natural" being of the human to create a separation between the self
+and the environment in which the self exists?
 
 ---
 
@@ -953,20 +964,20 @@ The questions raised by London's dog stories speak directly to some of the most
 debated topics in literary naturalism and Anthropocene theory alike. To narrate
 a dog experiencing its inherent species-nature, its dogness, is to narrate the
 phenomenology of determinism itself, or in other words to try to capture the
-feeling of responding to "forces" that dictate behavior below the level of
-conscious choice. Furthermore, splitting the hairs that distinguish the
-sub-species of the domestic dog from the wolf, *Canis lupus familiaris* from
-*Canis lupus*, lends a neat analogue to the
-naturalist preoccupation with environmental determinism in the city and the
-country, respectively. The dog character is a testing ground for a theory of
-the human in which our defining humanity arises out of a deterministic, bestial
-base. By this strategy, London also encounters the complicated
-universalization of species discourse, which, as has already been seen,
-is among the first problems the Anthropocene raises for the humanities. To
-consider the human and the dog in the same terms, one must ask if they have the
-same relation to species as a collectivizing principle, and what species even
-means in an ontological sense when the object of contemplation is not *Canis
-lupus* but *Homo sapiens*. 
+feeling of responding to naturalist "forces" that dictate behavior below the
+level of conscious choice. Furthermore, splitting the hairs that distinguish
+the sub-species of the domestic dog from the wolf, *Canis lupus familiaris*
+from *Canis lupus*, lends a lupine analogue to the naturalist preoccupation
+with environmental determinism in the city and the country, respectively. The
+dog character, as is especially evident in a story so dependent on
+inter-species relationships, is a testing ground for a theory of the human in which our
+defining humanity arises out of a deterministic, bestial base. By this
+strategy, London also encounters the complicated universalization of species
+discourse, which, as has already been seen, is among the first problems the
+Anthropocene raises for the humanities: to consider the human and the dog in
+the same terms, one must ask if they have the same relation to species as
+a collectivizing principle, and what species even means in an ontological sense
+when the object of contemplation is not *Canis lupus* but *Homo sapiens*. 
 
 "To Build a Fire" on its own shows that, for London, species is not an 
 identical concept when applied to humans and non-humans, nor is it an 
@@ -981,15 +992,15 @@ Manuscripts of 1844* and largely abandoned thereafter, species-being refers to t
 human's simultaneous transformation of the self and environment through
 conscious production on a scale that exceeds the individual.[^ln-gilman] On one hand, 
 then, species-being refers to "the historical possibilities of 
-self-development" [@dyer-witheford_return_2004 4]. On the other hand, "To be 
+self-development" [@dyer-witheford_1844/2004/2044:_2004 4]. On the other hand, "To be 
 human, for Marx, was to remake: to unsettle and reshape the whole of the 
-world."[@johnson_limits_2017 277] The two 
+world."[@johnson_at_2017 277] The two 
 propositions amount to the same thing, because in Marxian species-being,
 humanity develops its environment as a way of developing 
 itself.[^ln-hegel] Species-being thus posits a uniquely human capacity to define
 the nature of the individual and the collective through the transformation of
 external entities: objects, the environment, and social
-relations.[@johnson_limits_2017 277] 
+relations.[@johnson_at_2017 277] 
 
 [^ln-gilman]: In this sense, the concept of species-being forms a link, and a
 somewhat surprising one, between the vision of the human seen in the work of
@@ -1002,31 +1013,31 @@ self-consciousness comes about through the mediation of labor on an external
 object. As Marx himself puts it, Hegel "sees labour---within
 abstraction---as man's *act of self-creation* and man's relation to himself as
 an alien being and the manifestation of himself as an alien being as the
-emergence of *species-consciousness* and *species-life*." (395)
+emergence of *species-consciousness* and *species-life*." [@marx_early_2005 395]
 
-This combination of self-consciousness and mediation
-through an external object---Marx at his most Hegelian---makes species-being a 
-uniquely human concept. These two factors distinguish species-being from the 
-"species-life" of animals, by which Marx means the defining "life-activities" 
-that focus primarily on the needs of reproduction and 
-sustenance.[@dyer-witheford_return_2004 4-6] All animals produce in pursuit of 
-their defining life-activity; but "Marx’s human [...] is a species that knows 
-itself in what it makes."[@johnson_limits_2017 278] This distinction is 
-predicated on both a self-knowledge mediated by external objects and a 
-collective identity, a humanness, considered *itself* as a mutable, external 
+This combination of self-consciousness and mediation through an external
+object---Marx at his most Hegelian---makes species-being a uniquely human
+concept. These two factors distinguish species-being from the "species-life" of
+animals, by which Marx means the defining "life-activities" that focus
+primarily on the needs of reproduction and
+sustenance.[@dyer-witheford_1844/2004/2044:_2004 4-6] All animals produce in pursuit of
+their defining life-activity; but "Marx’s human [...] is a species that knows
+itself in what it makes."[@johnson_at_2017 278] This distinction is
+predicated on both a self-knowledge mediated by external objects and
+a collective identity, a humanness, considered *itself* as a mutable, external
 object of contemplation. This object-oriented humanism comes from Feuerbach's
-original version of species-being in *The Essence of Christianity*: 
-"Man is nothing without an object. [...T]he object to which a subject 
-essentially, necessarily relates, is nothing else than this subject's own, but 
-objective, nature. [...] In the object which he contemplates, therefore, man 
-becomes acquainted with himself."[@feuerbach_???_??? 5] Thus "the man" of 
-"To Build a Fire," experiences the loss of his faculties as downed wires: he 
-is alienated from the external objects by which the human species-being is 
-defined. And likewise, in losing contact with the manipulable materiality of a
-more hospitable environment and the ability to build a fire, he loses contact 
-with his sense of self and his place on the planet.
+original version of species-being in *The Essence of Christianity*: "Man is
+nothing without an object. [...T]he object to which a subject essentially,
+necessarily relates, is nothing else than this subject's own, but objective,
+nature. [...] In the object which he contemplates, therefore, man becomes
+acquainted with himself."[@feuerbach_essence_1854 4-5] Thus does "the man" of "To Build
+a Fire" experience the loss of his faculties as downed wires: he is alienated
+from the external objects by which the human species-being is defined. And
+likewise, in losing contact with the manipulable materiality of a more
+hospitable environment and the ability to build a fire, he loses contact with
+his sense of self and his place on the planet.
 
-This technological capacity is also inherently social, and by extension, so is
+This technological capacity is also inherently social, and so, by extension, is
 human species-being. Marx is unequivocal on this point:
 
 > The *human*
@@ -1044,25 +1055,24 @@ whose *living* form is the *real* community, society…. The individual *is* the
 *social being*. His vital expression…is therefore an expression and
 confirmation of *social life*." (350)
 
-This link of sociality with the "human essence of nature" echoes with the 
-regretful meditations of London's man on breaking his
-social bonds, ignoring the communal wisdom passed on by the old man and 
-traveling alone. But it also helps make sense of the man's loss of sociability 
-with his loss of a vital correspondence with the non-human world around 
-him. In rejecting social life, he rejects his own "vital expression," and in
-turn, his very vitality. 
+This link of sociality with the "human essence of nature" echoes with the
+regretful meditations of London's man on breaking his social bonds, as he
+laments ignoring the communal wisdom passed on by the old man and traveling
+alone. But it also helps make sense of the man's loss of sociability with his
+loss of a vital correspondence with the non-human world around him. In
+rejecting social life, he rejects his own "vital expression," and in turn, his
+very vitality. 
 
 If the "species" is, for the human, bound up in technological objects and
-social life, it is also subject to change in the course of both social and 
-technological history. So it is for London, as well: the dramatic separation 
-of the narrator and Big-Tooth in *Before Adam* is a difference of 
-technologically and socially mediated species-beings. The narrator's
-frustration at Big-Tooth's mistakes finds focus on his pre-human inability to 
-understand fire and the failure of the Folk to band together in any form of 
-social organization to resist their enemies and predators. Similarly, the Fire
-People and the Folk, providing glimpses of different stages in the development
-of the human, are defined against each other by their capacities in both of
-these areas. 
+social life, it is also subject to change in the course of both social and
+technological history. So it is for London, as well: the dramatic separation of
+the narrator and Big-Tooth in *Before Adam* is a difference of technologically
+and socially mediated species-beings. The narrator's frustration at Big-Tooth's
+mistakes finds focus in his pre-human inability to understand fire and the
+failure of the Folk to band together in any form of social organization that
+could resist their enemies and predators. Similarly, the Fire People and the
+Folk, providing glimpses of different stages in the development of the human,
+are defined against each other by their capacities in both of these areas. 
 
 While these are arguably differences across different species---the Folk 
 and even the Fire people being not-quite-human---in Marx's view, the same
@@ -1072,32 +1082,34 @@ a scientific designation of the human. Expanding his inquiry from the
 external object in general to industry, he writes: "It can be seen how the
  history of *industry* and the *objective* existence 
 of industry as it has developed is the *open* book of the essential powers of 
-man, man's psychology present in tangible form."[@marx_early_??? 354] The
+man, man's psychology present in tangible form."[@marx_early_2005 354] The
 "essential powers" of the human develop in complex interrelation with the 
 evolving psychology of the human and our essential nature. This degree of 
-correspondence makes it possible to read the state of the human at a given
-moment in the nature of its production and social organization. 
+correspondence makes it possible to define the state of the human at a given
+moment by the nature of its production and social organization. 
 
-A mutable human essence that coevolves with the state of production and 
-technology is the key to understanding what is perhaps the most astounding passage in the 
-1844 manuscripts: "[A]s everything natural must *come into being*, so man also 
-has his process of origin in *history*. But for him history is a conscious 
-process, and hence one which constantly supersedes itself. History is the true 
-natural history of man."[@marx_early_??? 391] If history has
-replaced natural history as the determining factor of human species-being, 
-then what it means to be human is not the same at different moments in 
-history. Humanness is only *essentially* defined by the constant
-transformation of the collective through transformation of external 
+A mutable human essence that transmutes in tandem with the state of production,
+society, and technology is the key to understanding what is perhaps the most
+astounding passage in the 1844 manuscripts: "[A]s everything natural must *come
+into being*, so man also has his process of origin in *history*. But for him
+history is a conscious process, and hence one which constantly supersedes
+itself. History is the true natural history of man."[@marx_early_2005 391] If
+history has replaced natural history as the determining factor of human
+species-being, then what it means to be human is not the same at different
+moments in history. Humanness is only *essentially* defined by the constant
+transformation of the collective through transformation of external
 objects---and thus environment. 
 
-The same would have to be said of different forms of social and technological 
-organization geographically, as well as temporally. This, however, is a
-complicated statement, for it risks creating a hierarchy of humanness 
-according to degrees of technological sophistication, almost a technocratic 
-designation of ontological value. This is a particular risk in the context
-of Marx's Hegelian conception of historical progress, predicated on the 
-"supercession" of one era by another, a process that is itself largely 
-technological in its definition of progress. 
+The same would have to be said of different forms of social and technological
+organization geographically, as well as temporally. Different societies do not
+have identical systems of production, at the same moment or ever, making
+species-being alterable according to place and status. This, however,
+complicates matters considerably, for it risks creating a hierarchy of
+humanness according to degrees of technological sophistication, almost
+a technocratic designation of ontological value. This is a particular risk in
+the context of Marx's Hegelian conception of historical progress, predicated as
+it is on the "supercession" of one era by another, a process that is itself
+largely technological in its definition of progress. 
 
 While caution in this direction should be preserved, it is possible to 
 mobilize species-being as a way to understand difference, individually and
@@ -1106,26 +1118,27 @@ culturally, rather than as a way to evaluate such difference as the degree of
 Marxian species-being, reads it as anything but homogenizing in its
 understanding of difference: 
 
-> Marx's account of species-being is not a paean 
-to an organic, functionalist
+> Marx's account of species-being is not a paean to an organic, functionalist
 super-being. Beings are not Borgs. Species-being is actualised to the degree
 that individuals not only contribute to the growth in social powers, but also
 access these powers as an increase in their own autonomy---indeed, as the very
 grounds for their intensifying individuation. Species-being is neither
 individual nor supra-individual: it is 'transindividual', both the ground and
-compound of a multiplicity of 'particular' species 
-beings.[@dyer-witheford_return_2004 7]
+compound of a multiplicity of 'particular' species
+beings.[@dyer-witheford_1844/2004/2044:_2004 7]
 
-Just as Ian Baucom saw species as collectivity that had the potential to 
-increase the degree of freedom, rather than curtailing it by proscribing
-difference, so does this reading of species-being see it as the basis of
-"intensifying individuation" that is simultaneous with an understanding of the
-self as part of a larger human whole. It is possible to have the same species
-but particular species-beings, responsive to historically contingnent 
-circumstance, and responsive in different ways. The species thus becomes a 
-mutable and heterogeneous collectivity.
+Species-being is not a one-size-fits-all essentialist descriptor, but
+a commonality to which there are innumerable possible relationships and
+positions. Just as Ian Baucom saw species as collectivity that had the
+potential to increase the degree of freedom, rather than curtailing it by
+proscribing difference, so does this reading of species-being see it as the
+basis of "intensifying individuation" that is simultaneous with an
+understanding of the self as part of a larger human whole. It is possible to
+have the same species but particular species-beings, responsive to historically
+contingnent circumstance, and responsive in different ways. The species thus
+becomes a mutable and heterogeneous collectivity.
 
-For London and Marx alike, then, the human collective and 
+For London and Marx alike, to summarize, the human collective and 
 the "life activity" that supports it are consciously grasped as both the subject and
 object of transformation. Marxian species-being is the human's ability to look into
 the fire and see a larger self reflected back. In "To Build a Fire", 
@@ -1137,16 +1150,17 @@ preserved beyond our proper environment because of the same behaviors that
 drive technological development and industrialization---and, indeed,
 environmental destruction, as will become clear in the later agricultural 
 novels. Species-being as a concept shows that London's use of the
-species-concept as a collectivizing concept is anti-essentialist precisely 
+species-concept as a collectivizing principle is anti-essentialist precisely 
 because it is historically situated.
 
-As I will argue in my final section, London came to share the pluralistic
-conception of the human species that can be developed from Marxian species-
-being---indeed, his engagement with the species concept led him to such 
-pluralism. But it was an unstable position for him, and its development was
-complicated by his problematic and contradictory views on race.
+As I will argue in my final section, London came to share a more problematic
+version of this pluralistic conception of the human species that can be
+developed from Marxian species- being---indeed, his engagement with the species
+concept led him to seek such a pluralism. But it was an unstable position for
+him, and its development was complicated by his often troubling and usually
+contradictory views on race.
 
-### *The Acorn-Planter* (1916): Speculative Human Species-Being
+### Interlude: *The Acorn-Planter*'s Speculative Species-Being
 
 > Yet the productive life is the life of the
 species. It is life-engendering life. The whole
@@ -1163,8 +1177,6 @@ fruitful & thereby make possible life more _abundant_. [...] the duty of life
 
 > Jack London, Notes for *The Acorn Planter*
 
-
-
 <!--"produce one-sidedly 
 while man produces universally;…they produce only themselves, while man 
 reproduces the whole of nature."[@marx_early_2005 329] 
@@ -1175,32 +1187,33 @@ only intellectually, in his consciousness, but actively and actually, and he
 can therefore contemplate himself in a world he himself has created.
 [@marx_early_2005 329]-->
 
+London's understanding of difference---different species-beings within the same
+human species---comes to its sharpest point in his attempts to imagine the
+futurity of human species-being. In turning the focus of his species-thinking
+towards the future rather than the past, he moves beyond the strictly
+technological, or artificial, prosthetic humanity to adopt a perspective that
+is more concerned with the human's influence on the natural world. London's
+speculative species-being is still reminiscent of Marxian species-being in many
+of its basic characteristic. But where the historical version resembles the
+Marx who says "industry...is the *open book* of the essential powers of man,"
+the speculative version more closely resembles the Marx who says that "man
+reproduces the whole of nature" in a form of "life-engendering
+life."[@marx_early_2005 329. For a comprehensive account of Marx's
+under-appreciated interest in nature and ecology, see @burkett_marx_2014; and
+@foster_marxs_2000.] This vision of the human's place in the natural world
+contradicts the unidirectional environmental determinism that is often
+attributed to the naturalist philosophy. It instead presents a further
+development on the more complicated version of determinism seen in "To Build
+a Fire" and Marxian species-being, in which the human is both a determining
+force and a determined entity.
 
-
-<!-- what else needs to get done in this section? need to make the "reproduce
-the whole of nature" thing explicable and explain how the focus on external
-objects and collectivism leads some folks to think it's all just a big
-triumphalist geoengineering ploy. But metabolic rift? Holy hell this is getting
-out of hand. -->
-
-
-London's understanding of difference---different species-beings within the 
-same human species---comes to its sharpest point in his attempts to imagine 
-the futurity of human species-bieng. [The socio-technological definition of 
-human species-being in "To Build a Fire" appears to capture London's view of human species-being as it *was*; but he was
-just as invested in human species-being as it *could be*. Indeed, though he has
-a reputation for rigidly deterministic views of human behavior, he seemed to
-take this fixity as a mere basis from which the human species could develop its
-collective nature.]
-
-In his notes for a lecture delivered in Oakland, California sometime before
-1904<!--can the letters tell me when?-->, for example, he states his views on
-environmental determination of the human clearly: "Environment determines
-absolutely," causing all forms of life to do the "easiest thing" in all cases,
-despite the human illusion of volition. And yet it is possible for the actions
-of individual or collective actions to "have altered [the] environment" such
-that it determines what the "easiest thing" is. He comes to the point of his
-elaborations: 
+In his notes for a lecture delivered in Oakland, California, for example, he
+states his views on environmental determination of the human clearly:
+"Environment determines absolutely," he says, causing all forms of life to do
+the "easiest thing" in all cases, despite the human illusion of volition. And
+yet it is possible for the actions of individual or collective actions to "have
+altered [the] environment" such that it determines what the "easiest thing" is.
+He comes to the point of his elaborations: 
 
 >We have individual telic actions; in small groups we even have collective
 telic action, but in society as a whole we do not have collective telic action.
@@ -1214,53 +1227,55 @@ As is clear from the context of the rest of the speech, the "we" here is
 nothing less than the human species, conceived as a collective. In order to
 have the capacity for univocal volition, a type of activity is required of the
 human collective that has not been possible to that point, a type of action
-that has the teleology of individual action on the scale of the human
+that has all the teleology of individual action but on the scale of the human
 collective. Though framed here as a simple matter of choice (hence the
 exhortation), by the time of *Before Adam*'s publication London would come to
 see the capacity for collective teleological action on a smaller scale as an
-important step in the development of human species-being, one of the defining
-advantages the Fire People have over the less resilient Tree People.<!--make
-sure I set this up earlier--> By calling for further expansion of the
-collective capacity for "telic action", then, London is calling for the next
-step in the transformation of human species-being as a he understands
-it.[@JLCollection JL1251 "Speech on Free Will and Environment"]
+important step in the evolutionary development of human species-being, one of
+the defining advantages the Fire People have over the less resilient Tree
+People: time and again the narrator laments the inability of the Folk to come
+to a collective decision and enact it. By calling for further expansion
+of the collective capacity for "telic action", then, London is calling for the
+next step in the transformation of human species-being as a he understands
+it.[@london_jack_1916 JL1251]
 
-But to what end does he seek a guided evolution of the human species? To put it
-another way: if this is a vision of teleological collective action, what is the
-*telos*? In the context of his speech, it would probably have been in line with
-the goals of the ISS [uhh make sure it's this one and remember what the full
-name is] and the rest of the contemporaneous American socialist movement, as
-were the majority of his public speaking engagements. Where Jack London's
-thinking on species comes into contact with his thinking on environmental
-destruction, however---in other words, where he becomes most explicitly
-Anthropocenic---is in his vision of a more ecological human species-being for
-the future.
+But to what end? If this is a vision of teleological collective action, what is
+the *telos*? In the context of his speech, it would probably have been in line
+with the goals of the Intercollegiate Socialist Society and the rest of the
+contemporaneous American socialist movement, as these groups composed the
+audience of many of his public speaking engagements.[@raskin_jack_2005 59]
+Where Jack London's thinking on species comes into contact with his thinking on
+environmental destruction, however---in other words, where he becomes most
+explicitly Anthropocenic---is in his vision of a more ecological species-being
+for the future, with implicit acknowledgement of its shortcomings up to that
+point.
 
-London mostly developed his concept of an ecological species-being in the final
-years of his life, and so it is no surprise that the most paradigmatic
-statement appears in *The Acorn-Planter --- A California Forest Play*, a play
-written and published (but never performed) in 1916, the year before his
-death.[^ln-ap-labor] His notes towards what he calls the play's "argument" are
-more explicit than the final version of the play itself on this point: "The
-soil & the world belong to those who make the soil & the world most fruitful
-& thereby make possible life more _abundant_. [...] the duty of life [...] is
-to make life more abundant." In this remarkable note, London defines human
-species-being according to an ecological ethic. Making life more "abundant" is
-both the duty of all living things and the conditions for staking any claim to
-the planet. Though the sense in which he means "belongs to" is ambiguous, it
-would not be unreasonable, given his political commitments, to take it as
-a literal theory of property, or rather, as a scheme for the abolition of
-property in an early eco-anarchist mode. In any case, it is important to note
-that the version of species-being he presents here is both speculative and
-teleological, established with an eye toward the next step he hopes humanity
-will take.[@JLCollection JL2059]
+London mostly developed his ecological species-being in the final years of his
+life, and so it is no surprise that the most paradigmatic statement appears in
+*The Acorn-Planter --- A California Forest Play*, a play written and published
+(but never performed) in 1916, the year before his death.[^ln-ap-labor] His
+notes towards what he calls the play's "argument" are more explicit than the
+final version of the play itself on this point: "The soil & the world belong to
+those who make the soil & the world most fruitful & thereby make possible life
+more _abundant_"---and again, "the duty of life [...] is to make life more
+abundant." In this remarkable note, London defines human species-being
+according to an ecological ethic. Making life more "abundant" is both the duty
+of all living things and the conditions for staking a claim to the planet, or
+indeed, any of the land on it. Though the sense in which he means "belongs to"
+is ambiguous, it would not be unreasonable, given his political commitments, to
+take it as a literal theory of property, or rather, as a scheme for the
+abolition of property in an early eco-anarchist mode. In any case, it is
+important to note that the version of species-being he presents here is both
+speculative and teleological, established with an eye toward the next step he
+hopes humanity will take, while simultaneously acting as a statement defining
+humanity.[@london_jack_1916 JL2059]
 
 [^ln-ap-labor]: In the front matter of the play itself, London specifies that
 *The Acorn-Planter* was to "Be Sung by Efficient Singers Accompanied by
 a Capable Orchestra." Planned to be performed for the Bohemian Club, of which
 he and Frank Norris were members, the play's demands apparently exceeded its
 context, for the requisite efficient singers and capable orchestra were never
-found. See [@labor_all_1976].
+found. See @labor_all_1976.
 
 In the play itself, at least superficially, this next step is both ecological
 and premised on alliances across racial, national, and cultural divides. Red
@@ -1268,7 +1283,7 @@ Cloud is the titular "Acorn-Planter," leader of the Nishinam tribe according to
 a hereditary line leading from the "first man" and first Acorn-Planter. In the
 face of a prophecy telling of the coming "Sun Man" who will destroy the
 Nishinam, Red Cloud promotes peace and the propagation of beauty and life in
-contrast to the bellicose inclinations of the "War Chief". When European
+contrast to the bellicose inclinations of the Nishinam "War Chief". When European
 explorers arrive matching the description in the prophecy, Red Cloud and the
 Sun Man identify themselves according to parallel archetypes of two traditions
 (at least as London imagines them): 
@@ -1284,17 +1299,17 @@ I make food for more life, ever more life.
 
 > SUN MAN: Then am I truly your brother. Life-Maker am I, tilling the soil in
 the sweat of my brow from the beginning of time, planting all manner of good
-seeds for the harvest.[@london_acorn_1916 45]
+seeds for the harvest.[@london_acorn-planter:_1916 45]
 
 The first commonality the two assert is identification with the mastery of
 fire---which for London, as we have seen, is a symbol of human species-being,
-and thus is tantamount to establishing the human as an identity. Immediately on
-the heels of this affirmed humanity comes their shared commitment to spreading
+and thus is tantamount to establishing the human as an identity. Immediately
+following this affirmed humanity comes their shared commitment to spreading
 more life. This commitment relies, however, on surpassing the bellicose nature
 embodied by the War Chief. Once surpassed, a new era of humanity is promised:
 "Lo, the New Day Dawns, / The day of brotherhood, / The day when all men
 / Shall be kind to all men, / And all men shall be sowers of
-life."[@london_acorn_1916 81]. London envisions a swords-into-ploughshares
+life."[@london_acorn-planter:_1916 81]. London envisions a swords-into-ploughshares
 moment that will encompass the entire species and transform the planet into
 a densely cultivated tangle of life.
 
@@ -1310,41 +1325,45 @@ motifs are "the same in import" and nominally allies the indigenous peoples and
 European invaders in service of a common goal of increasing life's abundance,
 but in fact he presents a narrative of California's conquest by Europeans that
 applies different standards of judgment to acts of violence and life-making
-alike.[@JLCollection JL2059] Despite the efforts of Red Cloud and the leader of
-the Sun Men (called only the Sun Man) to form a friendship, the War Chief and
-his followers kill the explorers with stolen muskets, prompting the dying Sun
-Man to prophecy the destruction of the Nishinam by his "brothers": "Many are
-our brothers and strong. They will come after us. [...] When you plant blood
-you harvest blood." In the second act, which takes place a century later, the
-Sun Men return to slaughter the Nishinam and take control of California, after
-a prolonged exchange with the living incarnation of Red Cloud in which he and
-the Sun Man agree that white settlers will increase the abundance of life on
-the land through agriculture better than the Nishinam would have through acorn
-planting.[@london_acorn_1916 72] Stripping the figures of their individual
-identities by identifying them with mythic figures, London stages an
-allegorical struggle for the land between Europeans and American Indians in the
-interactions of these typological figures---as well as a struggle between their
-respective horticultural imaginaries. He does so through a distorting lens that
-justifies white violence as a response to the aggression of the Nishinam while
-making a mockery of the indigenous traditions of the Americas through ludicrous
-pastiche. Though the possibility of a defining human *telos* that compels
-increased abundance of life on the planet is intriguing in itself, it is
-pursued here as a justifying rationale for colonialism.
+alike.[@london_jack_1916 JL2059] Despite the efforts of Red Cloud and the
+leader of the Sun Men (called only the Sun Man) to form a friendship, the War
+Chief and his followers kill the explorers with stolen muskets, prompting the
+dying Sun Man to prophecy the destruction of the Nishinam by his "brothers":
+"Many are our brothers and strong. They will come after us. [...] When you
+plant blood you harvest blood." In the second act, which takes place a century
+later, the Sun Men return to slaughter the Nishinam and take control of
+California, after a prolonged exchange with the living incarnation of Red Cloud
+in which he and the Sun Man agree that white settlers will increase the
+abundance of life on the land through agriculture better than the Nishinam
+would have through acorn planting.[@london_acorn-planter:_1916 72] Stripping
+the figures of their individual identities by identifying them with mythic
+figures, London stages an allegorical struggle for the land between Europeans
+and American Indians in the interactions of these typological figures---as well
+as a struggle between their respective horticultural imaginaries. He does so
+through a distorting lens that justifies white violence as a response to the
+aggression of the Nishinam while making a mockery of the indigenous traditions
+of the Americas through ludicrous pastiche. The possibility of a defining human
+*telos* that compels increased abundance of life on the planet is revealed
+a justifying rationale for colonialism.
 
-Why consider this vision of human species-being at all, then, given its
-ahistoricity and its racism? In short, because the *Acorn-Planter* version of
-London's speculative species-being is merely one particularly clear
-articulation of this speculative, ecological species-being, an idea that he
-explored in different forms across his late agricultural novels, and the
-celebration of white colonial conquest at the play's end is a direct
+This is not the whole story regarding the racial implications of London's
+speculative species-being, however, nor even the main one---even if its
+existence must give pause to any simplistic praise on environmentalist grounds.
+The *Acorn-Planter* is merely one particularly direct articulation of an idea
+that he explored in different forms across his late agricultural novels, and
+the celebration of white colonial conquest at the play's end is a direct
 contradiction of his stance in other, more nuanced works in which he challenges
 the ideologies that he and many contemporaneous commentators espoused to
-justify such conquest. Taking the racism of the Acorn-Planter head on allows us
-to pose the question of London that must also be posed in reference to the
-Anthropocene, and which can be explored in London's work as a proxy: Is it
-possible to posit a universal, ecological, human species-being without
-accepting the racist essentialisms and historical traumas that such
-universalism has been used to justify in the past?
+justify such conquest.[^ln-reesman] The racism of *The Acorn-Planter*'s
+environmentalist vision raises the same questions that are raised by the
+Anthropocene today: how to understand an ecological conception of human
+species-being without accepting the racist essentialisms and historical traumas
+that such universalism has been used to justify in the past.
+
+[^ln-reesman]: This inconsistency has recently been noted elsewhere:
+"In any twenty-first-century usage of the word, London could certainly be
+termed a racist, but...not a very good (that is, consistent)
+one"[@reesman_jack_2009 34]
 
 <!--[What is most startling about the note is that the two
 statements, taken together, seem to disenfranchise much of humanity. Failing
@@ -1357,7 +1376,7 @@ Far from endorsing the inexhaustible claim to nature implied by the
 technological humanism of "To Build a Fire", London's speculative species-being
 is predicated on the conditionality of that claim.[2059]]-->
 
-### The Valley of the Moon (1913): Agriculture and the Face of the Anthropos
+### The Valley of the Moon: Agriculture, Immigration, Anthropos 
 
 <!-- somewhere: the point here is not to equate racial identification with
 identification along the lines of species. Quite the opposite, it is to show
@@ -1369,103 +1388,112 @@ notions of racial essentialism and superiority.
 
 -->
 
-> "Our species-being is as builders of worlds."[@wark_molecular_2015 3]
+> "Our species-being is as builders of worlds."
 
-> Mackenzie Wark, *Molecular Red: Theory for the Anthropocene*
+> Mackenzie Wark, *Molecular Red: Theory for the Anthropocene*[@wark_molecular_2015 3]
 
 *The Valley of the Moon* provides a counter-model to that of *The
-Acorn-Planter*, suggesting a usable ethos for how to talk about the human
-universal as a term that lets us pursue teleological and transformative
-ecological praxis. Contrary to many readings of its racial logics as
-nativist,<!--do these exist? I thought so but they are difficult to find-->
-I submit that *The Valley of the Moon* is not an uncomplicated vessel for these
-ideologies, but rather creates the narrative conditions in which those
-ideologies collapse under their own contradictions. But it is the specific
-narrative conditions in which this occurs that are of interest to an
-Anthropocenic reading of the novel. The second half of the novel is devoted to
-the two protagonists' odyssey in search of not only arable land on which to
-farm, but responsible and ecologically sound methods with which to farm it;
-this search in turn leads to a critical analysis of American environmental
-history that blames aspects of the "Anglo-Saxon" identity for the destruction
-of the country's lands. Here, in stark contrast to *The Acorn-Planter*, a more
-critical depiction of the conqueror leads the characters to develop farming
-methods that increase the "abundance of life"---and they do so by embracing
-a collective American wisdom that is premised on cultural pluralism and the
-horticultural expertise of immigrant communities. 
+Acorn-Planter*, taking London's own rationale that "the soil & the world
+belongs to those who make [them] most fruitful," as the basis for an indictment
+of "Anglo-Saxon" Americans and for praise of more recent immigrants. Contrary
+to many readings of its racial logics as nativist,<!--do these exist? I thought
+so but they are difficult to find--> I submit that *The Valley of the Moon* is
+not an uncomplicated vessel for these ideologies, but rather creates the
+narrative conditions in which they collapse under their own contradictions. But
+it is the specific narrative conditions in which this collapse occurs that are
+of interest to an Anthropocenic reading of the novel. The second half of the
+novel is devoted to the two protagonists' odyssey in search of not only arable
+land on which to farm, but responsible and environmentally sound methods with
+which to farm it; this search in turn leads to a critical analysis of American
+environmental history that blames aspects of the "Anglo-Saxon" identity for the
+destruction of the country's lands. Here, in stark contrast to *The
+Acorn-Planter*, a more critical depiction of the conqueror leads the characters
+to develop farming methods that increase the "abundance of life"---and they do
+so by embracing a collective American wisdom that is premised on cultural
+pluralism and the horticultural expertise of immigrant communities. They payoff
+is a plausible realization of London's speculative species-being. Through hard
+work on the farm and careful attention to the ramifications of their actions,
+Billy and Saxon figure out "how to place man in the wilderness, to enable him
+to live in nature and partake of its restorative essence without contaminating
+the crystal springs from which he drinks."[@labor_jack_1962 155]
 
-In short, *The Valley of the Moon* shows that an ecologically oriented and
-progressive human universalism can arise out of a critique of the regressive
-universalism it is often confused for, while also providing one version of what
-such an environmentalism could look like in practice. London's nativism and his
-equation of Americanness with Anglo-Saxonism must be held to account, and it is
-not the purpose of this reading to use his environmentalism to apologize for
-his often racist nationalism. But his description of the world he sees in the
-countrysides of California is wiser than the conclusions of his characters. It
-is possible to read against the grain of the novel's nativist moments and see
-that the logic of racial supremacy breaks down, and that attaining
-a life-promoting human species-being requires the protagonists to go beyond
-their narrow perspective of racial nationalism and embrace a more pluralist
-environmentalism. <!--maybe something about how he presents the controversy
-through character debates and multiple perspectives? Something interesting in
-this, also more formal analysis-->
+In short, *The Valley of the Moon*'s ecologically oriented and progressive
+conception of species-being arises out of a critique of a more regressive
+universalism, while also asking what an environmentalism on the scale of the
+human species would look like in practice. It is true that his characters
+espouse nativist and "racialist"[^ln-reesman2] ideas about agriculture and
+land-ownership at various points in the novel. But in addition to his clear
+attempts to challenge the ideologies of his own characters, he presents
+a description of the world he sees in the countrysides of California that can
+be read against the grain of the novel's nativist moments to see where the
+logic of racial supremacy breaks down, and where attaining a life-promoting
+species-being requires the protagonists to go beyond their narrow perspective
+of racial nationalism and embrace a more pluralist environmentalism. 
+
+[^ln-reesman2]: Jeanne Campbell Reesman uses this term to distinguish racist
+attitudes from more historically specific engagements with the theories of race
+that proliferated from the eighteenth to the twentieth centuries
+[@reesman_jack_2009 34-5]. 
 
 The structure of *The Valley of the Moon* is split neatly by two distinct
 settings, and one might even say there is a rift at its center----a "metabolic
-rift between town and country," to borrow Marx's phrase from the same
-manuscripts in which he developed the concept of species-being. With its first
-half preoccupied by union busting in downtown Oakland and its second narrating
-an odyssey through the farmlands to the north, the novel formally mirrors
-a premise that cuts across literary naturalism: the idea that human life is
-fundamentally and even biologically different in urban and rural environments.
+rift between town and country," to borrow Marx's phrase. With its first half
+preoccupied by union busting in downtown Oakland and its second narrating an
+odyssey through the farmlands to the north of the city, the novel formally
+mirrors a premise that cuts across literary naturalism: the idea that human
+life is fundamentally and even biologically different in urban and rural
+environments.
 
 The protagonists, named Billy and (tellingly) Saxon, meet and fall in love in
 Oakland, where they are married and begin what is briefly a placid life. But
 Billy's work as a teamster is not endurable for long, as increasing wage
 pressure and resultant strikes result in the death and turn to prostitution,
 respectively, of their two best friends. Billy and Saxon effect a flight from
-the city of Oakland when teamster union strikes are put down by zealous police
-violence---and because of Billy's surrender to alcohol that is the partial
-result. The second half of the novel chronicles their travels in search of
-plots of land the government is rumored to provide free to whoever claims it.
-They idealize the image of such land, imagining that they will find something
-akin to a "valley on the moon," otherworldly and perhaps unattainable. As they
-wander through the countryside living out of the packs on their backs, Billy
-and Saxon gather horticultural knowledge from a combination of farming
-operations owned and managed by immigrant communities, market gardeners with
-upscale clientele, and a set of books and pamphlets that represent
-a cross-section of London's own Beauty Ranch horticultural library.[^ln-tichi]
-At last, they find a valley like the one they have dreamed of, leasing an
-exhausted farm with the aim of revitalizing it and eventually buying it
-outright. The pair put their collected horticultural wisdom into practice as
-they settle into a hard-working but unalienated routine of agricultural labor
-and living, having escaped the degrading influence of urbanity once and for
-all. *The Valley of the Moon* concludes with an image of renewed vitality and
-the propagation of life. Where the trauma of death and poverty in the city
-caused Saxon to miscarry their first child, in the final scene she turns to
-Billy, as they look over a hidden canyon deep in their valley, to announce that
-she is pregnant again and has sent back to Oakland for the baby clothes her
-brother has kept for her in a chest they associate with their pioneer
-ancestors. This line having been drawn between their changed fortunes, their
-reproductive capacity, and their family history, London concludes with a final
-image connecting them with the vitality of the natural world: "together they
-gazed far up the side of the knoll where a doe and a spotted fawn looked down
-upon them from a tiny open space between the trees."[@london_valley_1999 425]
+the city of Oakland when teamster union strikes begin to be put down by zealous
+police violence---and because of Billy's surrender to alcohol that is the
+partial result. The second half of the novel chronicles their travels in search
+of plots of land the government is rumored to provide free to whoever claims
+it. They idealize the image of such land, imagining that they will find
+something akin to a "valley on the moon," otherworldly and perhaps
+unattainable. As they wander through the countryside living out of the packs on
+their backs, Billy and Saxon gather horticultural knowledge from a combination
+of farming operations owned and managed by immigrant communities, market
+gardeners with upscale clientele, and a set of books and pamphlets that
+represent a cross-section of London's own Beauty Ranch horticultural
+library.[^ln-tichi] At last, they find a valley like the one they have dreamed
+of, leasing an exhausted farm with the aim of revitalizing it and eventually
+buying it outright. The pair put their collected horticultural wisdom into
+practice as they settle into a hard-working but unalienated routine of
+agricultural labor and living, having escaped the degrading influence of
+urbanity once and for all. The novel concludes with an image of
+renewed vitality and propagation of life. Where the trauma of death and
+poverty in the city caused Saxon to miscarry their first child, in the final
+scene she turns to Billy, as they look over a hidden canyon deep in their
+valley, to announce that she is pregnant again and has sent back to Oakland for
+the baby clothes her brother has kept for her in a chest they associate with
+their pioneer ancestors. This line having been drawn between their changed
+fortunes, their reproductive capacity, and their family history, London
+concludes with a final image connecting them with the vitality of the natural
+world: "together they gazed far up the side of the knoll where a doe and
+a spotted fawn looked down upon them from a tiny open space between the
+trees."[@london_valley_1999 425]
 
-[^ln-tichi]: citation in Tichi's book on London as reformer
+[^ln-tichi]: For a fuller accounting of London's horticultural influences, see
+chapter two of this work and @tichi_jack_2015. 
 
 While the novel adheres to the naturalist motif of environmental determinism
 and the plot of decline in some senses---Billy's descent into alcoholism and
-gambling as a result of his environs is an almost wearyingly regular episode in
-the naturalist canon---it complicates that logic by reversing it, allowing for
-Billy's rehabilitation by "returning" to the land (though he personally has
-never known it). This return is nothing less than a purposive selection of
-environment as a way of choosing, in turn, the forces that determine their
-essential nature, thereby reverting to an earlier moment in the historical
-development of human species-being. But the species itself is, at first, too
-broad a category for the individual consciousness of these characters to
-connect with, just as Chakrabarty suggests in *The Climate of History*. Their
-affective historical consciousness is limited by the bounds of their direct
-progenitors:
+gambling as a result of his urban environs is an almost wearyingly regular
+episode in the naturalist canon---it complicates that logic by reversing it,
+allowing for Billy's rehabilitation through a "return" to the land (though he
+personally has never known it). This return is nothing less than a purposive
+selection of environment as a way of choosing, in turn, the forces that
+determine their essential nature, thereby reverting to an earlier moment in the
+historical development of species-being. But the species itself is, at
+first, too broad a category for the individual consciousness of these
+characters to connect with, just as Chakrabarty suggests in *The Climate of
+History*. Their affective historical consciousness is limited by the bounds of
+their direct progenitors:
 
 > And often [Saxon] found herself dreaming of the arcadian days of her people,
 when they had not lived in cities nor been vexed with labor unions and
@@ -1474,12 +1502,12 @@ of self-sufficingness, when they shot or raised their own meat, grew their own
 vegetables, were their own blacksmiths and carpenters, made their own
 shoes---yes, and spun the cloth of the clothes they wore. And something of the
 wistfulness in [her brother]'s face she could see as she recollected it when he
-talked of his dream of taking up government land.[@london_valley_1999]
+talked of his dream of taking up government land.[@london_valley_1999 143]
 
 The fantasy they engage in is uchronistic, a desire to go back to
 a pre-alienated state of production and *keep* it un-alienated, creating an
 alternate present and revising their horizon of possible futures. What attracts
-Saxon is the self-sufficiency that results laborers owning the means of
+Saxon is the self-sufficiency that results from laborers owning the means of
 production; yearning for escape from "labor unions and employers' associations"
 is the same wish that motivated London's revolutionary socialism. In other
 words, though it is framed as a movement backwards in time, this is no Luddite
@@ -1487,9 +1515,9 @@ fantasy nor an intentionally regressive one, for it is coupled later with
 a scientific and experimental approach to both horticulture and economics. The
 fantasy, if it is one, is the possibility of choosing a way of relating to
 one's environment according to an historical precedent and somehow reconciling
-that with a modern context. Just as London must imagine a mythological past in
-*The Acorn-Planter* to develop his speculative vision of a future human
-species-being, Saxon can only conceive of a change to her own
+that way of life with a modern context. Just as London must imagine
+a mythological past in *The Acorn-Planter* to develop his speculative vision of
+a future human species-being, Saxon can only conceive of a change to her own
 being-in-the-world through the lens of her ancestors' lives.
 
 At least at the beginning of the novel, however, this identification with
@@ -1507,10 +1535,10 @@ strange wanderings of the seed from which she sprang. Always had her race been
 land-hungry, and she took delight in believing she had bred true; for had not
 she, despite her life passed in a city, found this same land-hunger in her? And
 was she not going forth to satisfy that hunger, just as her people of old time
-had done, as her father and mother before her? [@london_valley_1999 239]
+had done, as her father and mother before her?[@london_valley_1999 239]
 
 She delights in identifying their hunt for land with an imagined racial
-identity predicated on conquest, conquest of the very type London attempts to
+identity predicated on conquest, conquest of the type London attempts to
 justify in *The Acorn-Planter*. Furthermore, Saxon's perspective in this moment
 is defined by racial essentialism and genetic determinism, imagining individual
 characteristics as arising out of a racial "seed" and embracing an ideal of
@@ -1521,16 +1549,16 @@ and Saxon alike, have understandably motivated criticism of the novel's
 nativism. Christopher Gair rightly notes that in depicting Billy and Saxon's
 attempts to "retrace the steps both of their parents and of their Anglo-Saxon
 prognitors," the novel exposes "an anxiety about race 'purity' and the decline
-of the 'original' settlers in California."[@gair_citizenship_1993 419] Gair
-goes on to claim that in finding their ideal environment in the Sonoma Valley,
-they find self-realization---but it is a self-realization obtained by asserting
+of the 'original' settlers in California."[@gair_way_1993 419] Gair goes on to
+claim that in finding their ideal environment in the Sonoma Valley, they find
+self-realization---but that it is a self-realization obtained by asserting
 distinctions between themselves ("real" Americans) and the immigrants who own
-much of the land around Oakland, whose farms they pass through on their search
-[@gair_citizenship_1993 427]. Building on the work of Walter Benn Michaels, he
+much of the land around Oakland, whose farms they pass through on their search.
+[@gair_way_1993 427] Building on the work of Walter Benn Michaels, Gair
 interprets their journey as a necessary step in their racial
 self-identification, exercising "a 'right' granted [them] by birth but
-requiring at the same time that [they] lay claim to it" [@michaels_???_1992 ???
-qtd. in @gair_citizenship_1993 426]. Gair's analysis effectively captures the
+requiring at the same time that [they] lay claim to it."[Qtd. in
+@gair_citizenship_1993 426] Gair's analysis effectively captures the
 motivations Billy and Saxon voice as they set out from Oakland, as well as the
 common nativist tropes they embody.
 
@@ -1543,20 +1571,20 @@ nativism and celebrations of Anglo-Saxon conquest actually become objects of,
 if not critique, then structural instability and considerable doubt. Even in
 Saxon's fantasy, the uncomplicated celebration of ancestry, and the fixed
 essence that implies, is set up to be undercut. She does not assert these
-opinions with full narrative backing so much as posit them as London maintains
+opinions with full narrative backing so much as posit them while London maintains
 a degree of distance, less overt than his criticisms of "the man" in "To Build
 a Fire" but with a similar effect. Saxon's ideas about her "Viking" ancestry
 are framed as dubious questions or distant mythic fantasies rather than stable
 facts. 
 
-One need not rely on the subtle uncertainty London casts on this passage,
-however, for a critique of Anglo-Saxonism erupts more explicitly near the
-novel's end at the hands of Jack Hastings, a figure who gives Billy and Saxon
-much of the knowledge they need to succeed as farmers. Hastings pierces the
-misty fantasy of a benevolent Anglo-Saxon conqueror quite definitely, prompted
-directly by "Saxon...speaking of the land-hungry Anglo-Saxons", presumably in
-terms like those of the fantasy above. His patience with her racial fantasy is
-short: 
+One need not rely on the subtle uncertainty London casts on this passage for
+clarity, however, for a critique of Anglo-Saxonism erupts more explicitly near
+the novel's end at the hands of Jack Hastings, a figure who also gives Billy
+and Saxon some of the knowledge they need to succeed as farmers (thereby
+establishing him as a reliable figure). Hastings pierces the misty fantasy of
+a benevolent Anglo-Saxon conqueror quite definitely. He is prompted directly by
+"Saxon...speaking of the land-hungry Anglo-Saxons", presumably in terms like
+those of the fantasy above, and his patience with her racial fantasy is short: 
 
 > "Land-hogs," he snapped. "That's our record in this country. As one old
 Reuben told a professor of an agricultural experiment station: 'They ain't no
@@ -1564,57 +1592,58 @@ sense in tryin' to teach me farmin'. I know all about it. Ain't I worked out
 three farms?' It was his kind that destroyed New England. Back there great
 sections are relapsing to wilderness. [...] And the same thing is going on, in
 one way or another, the same land-robbing and hogging, over the rest of the
-country [...]. [@london_valley_1999 348]
+country.... [@london_valley_1999 348]
 
 Though Hastings spreads the blame to include other groups later in the passage,
 it is clear from context that when he condemns "our record in this country," he
 means "our" in reference to Saxon's ideas about the benevolent land-hunger of
 Anglo-Americans. Her eager appropriation of this identity and the response to
-land it implies is almost mocked by proximity to the rube who thinks exhausting
+land it implies is almost mocked by proximity to the man who thinks exhausting
 soil is a good working definition of successful farming. What Saxon earlier
 took as a welcome part of an inherited identity is presented back to her as
 a cause of widespread environmental destruction.
 
-Overcoming this rapacious wastefulness requires them to overcome nothing less
-than their sense of racial superiority itself. As they travel through the
-country north of Oakland on their way to the Sonoma Valley, their many
-agricultural epiphanies are occasioned by encounters with immigrants,
-particularly the Portuguese. Speaking to a local "linesman" laying telephone
-wire for a farm owned by Portuguese immigrants, they are told that the price of
-land immediately outside the city is so high because it has increased in
-productivity and vitality by the labors of primarily Portuguese farmers, who
-merely by "bein' wise to farmin'" are able to "get more out of twenty acres
-than [native-born Americans] could out of a hundred an' sixty." The problem is
-the approach to agriculture and a general lack of horticultural knowledge, the
-same lack that would soon cause the dust bowl, derived from the ignorance that
+Overcoming this rapacious wastefulness requires them to overcome none other
+than their sense of racial superiority. As they travel through the country
+north of Oakland on their way to the Sonoma Valley, their many agricultural
+epiphanies are occasioned by encounters with immigrants, particularly the
+Portuguese. Speaking to a local "linesman" laying telephone wire for a farm
+owned by Portuguese immigrants, they are told that the price of land
+immediately outside the city is so high because its productivity and vitality
+have been increased by the labors of primarily Portuguese farmers, who merely
+by "bein' wise to farmin'" are able to "get more out of twenty acres than
+[native-born Americans] could out of a hundred an' sixty." The problem is the
+approach to agriculture and a general lack of horticultural knowledge, the same
+lack that would soon cause the dust bowl, derived from the same ignorance that
 caused the British countryside to be disastrously overgrazed. Or, as one
 interlocutor puts it: "we ain't got the *sabe*."[@london_valley_1999 247-9] 
 
-The abrupt shift to Portuguese with the word "sabe" is telling, in that it
-contains a common trend among California farmers of the moment to link racial
-and national identity causally with horticultural acumen. London kept a file
-with the manuscripts of *The Valley of the Moon*, currently housed at the Jack
-London Collection at the Huntington Library in California, containing pages of
-source material from which he drew liberal inspiration for the novel's insights
-on farming and the state of rural California. Much of this material will be
-discussed in the next chapter, but on the connection between horticulture and
-nationality, several pieces stand out. Two pieces in a *Saturday Evening Post*
-series entitled "Lessons From Our Alien Farmers" were particularly fruitful.
-Written by Forrest Crissey, a regular contributor to the *Post* who would go on
-to write a book called *The Story of Foods* on similar issues, two articles
-from October 7 and November 18, 1911 discuss the role of Dalmatian and
-Portuguese farmers in transforming the burnt-out plots of rural California into
-thriving farmland. London would paraphrase passages of Crissey's
-reports in *The Valley of the Moon* as well as drawing details of these
-farmers' ingenuity. In the November article on the Portuguese, for example,
-Crissey describes a brace made out of wood grafted into the crotch of
-apple-tree branches, which grow with the tree and help the branches withstand
-the weight of a heavy harvest. London had a habit of making notes for scenes or
-writing snippets of dialogue directly in the margins of his source material;
-and in this section of Crissey's article, he wrote Billy's response to the
-live-wood brace: "Billy remarks: 'What a growth! A curiosity!'" The linesman
-who mourns Anglo-Americans lack of "sabe" likewise appears in the margins of
-that page, along with notes toward his speech.
+The abrupt shift to Portuguese with the word "*sabe*" is telling, in that it
+encapsulates a common trend among California farmers of the moment to link
+racial and national identity causally with horticultural acumen. London kept
+a file with the manuscripts of *The Valley of the Moon*, currently housed at
+the Jack London Collection at the Huntington Library in California, containing
+pages of source material from which he drew liberal inspiration for the novel's
+insights on farming and the state of rural California. More of this material
+will be discussed in the next chapter, but on the connection between
+horticulture and nationality, several pieces stand out. Two pieces in
+a *Saturday Evening Post* series entitled "Lessons From Our Alien Farmers" were
+particularly fruitful for London's composition of the novel. Written by Forrest
+Crissey, a regular contributor to the *Post* who would go on to write a book
+called *The Story of Foods* on similar issues, two articles from October 7 and
+November 18, 1911 discuss the role of Dalmatian and Portuguese farmers in
+transforming the burnt-out plots of rural California into thriving farmland.
+London would paraphrase passages of Crissey's reports and draw on details of
+these farmers' ingenuity in *The Valley of the Moon*. In the November article
+on the Portuguese, for example, Crissey describes a brace made out of living
+wood grafted into the crotch of apple-tree branches, which grow with the tree
+and help the branches withstand the weight of a heavy harvest. London had
+a habit of making notes for scenes or writing snippets of dialogue directly in
+the margins of his source material, and in this section of Crissey's article,
+he wrote Billy's response to the live-wood brace: "Billy remarks: 'What
+a growth! A curiosity!'" The linesman who mourns Anglo-Americans lack of "sabe"
+likewise appears in the margins of that page, along with notes toward his
+speech.[@london_jack_1916 JL1369]
 
 London's tendency to discuss agricultural principles as racial traits also
 appears to derive from his reading of Crissey's articles, both Crissey's own
@@ -1624,20 +1653,20 @@ They're sharp---and nobody has to show them a clever thing in the line of
 better farming methods a second time. [...] When one Portuguese has found
 a better method of doing something worth while, you may depend upon it that the
 others of his blood will have it in short order and that it will run through
-the whole settlement."[ November 18, 10] In the earlier article on Dalmatian
+the whole settlement."<!--[ November 18, 10]--> In the earlier article on Dalmatian
 farmers, in a section entitled "Hereditary Apple Experts," Crissey opines that
 "Insight into fruit-handling is almost a fixed racial trait. It belongs to
-their race as definitely as do their dark eyes and swarthy skin."[October 10,
-20] These statements, and the innumerable others like it throughout London's
+their race as definitely as do their dark eyes and swarthy skin."<!--[October 10,
+20]--> These statements, and the innumerable others like them throughout London's
 files, go beyond recognition that farmers from different countries will have
 learned different agricultural traditions, some more effective than others in
 the California climate---though this more reasonable perspective is also well
-represented in the articles. Rather, they suggest that success in agriculture
+represented in the file. Rather, they suggest that success in agriculture
 is "fixed" and inborn, *literally* hereditary rather than learned. And although
 the tone and content of these articles is largely admiring and takes spreading
 agricultural techniques as its explicit aim, racialization of these traits
 takes on a more sinister sheen in the light of Anglo-American farmers who feel
-that they are unable to compete with "aliens" whom they believe are buying up
+that they are unable to compete with "aliens" who they believe are buying up
 all the productive land. 
 
 That London adopted this racialized view of agricultural competition is
@@ -1652,27 +1681,27 @@ American will be gone."[@london_valley_1999 292] Insistently equating
 Americanness with Anglo-Saxonism, he interprets as a threat the agricultural
 acumen of immigrants understood as not-white. Again and again, the novel
 articulates a panic at the prospect of a non-white America, and environmentally
-conscious agriculture is the surprising source of a change.
+conscious agriculture is the surprising source of the racial sea-change.
 
-Yet it does not allow for a simple condemnation of these agricultural methods
-and their immigrant practitioners, nor could it function narratively without
-the very pluralism by which its characters are threatened. At the same time
-that Benson laments the defeat of the "Yankees", he gives voice to a grudging
-respect for the horticultural methods by which they were defeated. In
+Yet the novel does not allow for a simple condemnation of these agricultural
+methods and their immigrant practitioners, nor could it function narratively
+without the very pluralism by which its characters are threatened. At the same
+time that Benson laments the defeat of the "Yankees", he gives voice to
+a grudging respect for the horticultural methods by which they were bested. In
 discussing a valley largely owned and worked by Japanese immigrants, he
 continues: "But that's another point where we Americans lose out. There isn't
 anything wasted in this valley, not a core nor a paring; and it isn't the
-Americans who do the saving." When Billy tries to defend the record of
+Americans who do the saving." Billy tries to defend the record of
 Anglo-American settlers by saying "It was our folks that made this
 country[....] Fought for it, opened it up, did everything---", Benson
 interrupts: "But develop it[....] We did our best to destroy it, as we
-destroyed the soil of New England."[@london_valley_1999 294-5] Nativist
-perspectives are indeed voiced in the discussion of ecological agricultural
+destroyed the soil of New England."[@london_valley_1999 294-5] A nativist
+perspective is indeed voiced in the discussion of ecological agricultural
 practices, and repeatedly so, but they are just as repeatedly undercut by
-a condemnation of the Anglo-American environmental record immigrants are
-undoing. By the logic of London's notes toward *The Acorn-Planter*, we see that
-immigrants rightfully come to own the soil of their new home by making it more
-abundant.
+a condemnation of the Anglo-American environmental record, which immigrants are
+undoing through agriculture that builds the vitality of the soil. By the logic
+of London's notes toward *The Acorn-Planter*, the immigrants rightfully come to
+own the soil of their new home by making it more abundant.
 
 Just as America's land needs immigrants to rescue it from exhaustion at the
 hands of "Yankees," so does the novel rely on immigrants to complete Billy and
@@ -1687,22 +1716,23 @@ hope will save them, merely a new kind of poverty, and probably dispossession
 by more knowledgeable farmers. 
 
 Nor, of course, does such an identity exist in the mythic way she imagines it.
-London appears to have known as much, for it is
-ironically underscored by the fact that Saxon's conception of what it means to be
-an "Anglo-Saxon", exercising an inner Viking whose seafaring gives way
-naturally (somehow) to agriculture, appears to have been derived from Crissey's
-article on not Anglo-Saxons, but the very Portuguese against whom her
-Anglo-Saxonism is defined. Discussing this "seafaring people" without whom in
-"the old days of plunder and adventure on the high sees no pirate crew was
-quite complete," Crissey draws a sketch of the Portuguese that London uses for
-Saxon's defining vision of her Anglo-Saxon origins. Crissey describes how their
-"sea legs have been trained into steady plow legs" as a paradox resolved by
-a "land hunger" that is their "ruling passion."[November 18, 9]. London recasts
-this land-hunger as an Anglo-Saxon trait, but by the time it comes to describe
-Anglo-Saxonism, it has been stripped of the agricultural wisdom associated with
-the Portuguese and attached to a uniquely Anglo-American destructiveness.
-London has, consciously or not, defined Saxon's Anglo-American ideal not
-*against* their immigrant neighbors, but using the very same terms.
+London appears to have known as much, for Saxon's conception of what it means
+to be an "Anglo-Saxon", exercising an inner Viking whose seafaring gives way
+naturally (somehow) to agriculture, appears ironically to have been derived
+from Crissey's article on not Anglo-Saxons, but the very Portuguese against
+whom her Anglo-Saxonism is supposedly defined. Discussing this "seafaring
+people" without whom in "the old days of plunder and adventure on the high sees
+no pirate crew was quite complete," Crissey draws a sketch of the Portuguese
+that London uses for Saxon's defining vision of her Anglo-Saxon origins.
+Crissey describes how their "sea legs have been trained into steady plow legs"
+as a paradox resolved by a "land hunger" that is their "ruling
+passion."<!--[November 18, 9]--> London recasts this land-hunger as an Anglo-Saxon
+trait, but by the time it comes to describe Anglo-Saxonism, it has been
+stripped of the agricultural wisdom he and Crissey associated with the
+Portuguese and attached to a uniquely Anglo-American destructiveness. London
+has, consciously or not, established Saxon's Anglo-American ideal not *against*
+their immigrant neighbors, but using the very same terms.[@london_jack_1916
+JL1369]
 
 The narrative and its speculative vision of human species-being cannot be
 fulfilled by identification with a racial identity, at least not with the
@@ -1710,56 +1740,49 @@ Anglo-Saxon racial identity Billy and Saxon claim. The only way they can attain
 what London sees as the duty of human life, which is to increase the abundance
 of other life on the planet, is through a pluralist American landscape from
 which they can learn responsible stewardship, a landscape which comes to
-represent a multi-racial globe in miniature Billy and Saxon's interlocutors
-continue to point out farms where one would allegedly think they were in Japan
-or Dalmatia. In such a landscape, they are able to read "currants between the
-tree rows, beans between the currant rows, a row of beans close on each side of
-the trees, an' rows of beans along the ends of the tree rows"---an auspicious
-pattern, given the prevalence of nitrogen-fixing beans that will preserve the
-vitality of the soil season after season.[@london_valley_1999 250.] (The
-passage is a close paraphrase of a passage from Crissey's November 1911 article
-on the Portuguese: "One of these town orchards in San Leandro has currants
-between the orchard rows, beans between the currant rows, a row of beans close
-on each side of the trees, beans between the trees in the row and beans from
-the ends of the rows to the wheeltrack in the street." (11)) Terrace-farming
-turns groups who are denigrated elsewhere in the novel into keepers of
-horticultural magic, making productive farms out of nothing: in "Greece, in
-Ireland, in Dalmatia [...] they went around and gathered every bit of soil they
-could find [...] and carried it up the mountains on their backs and built
-farms---*built* them, *made* them, on the naked rock."[@london_valley_1999 294]
-Without learning from immigrant farmers, complicating if not renouncing their
-nativism in the process, Billy and Saxon would have gone the way of Steinbeck's
-"Okies" just as the fertile valleys of California would have gone the way of
-Oklahoma. 
+represent a multi-racial globe in miniature as Billy and Saxon's interlocutors
+repeatedly point out farms that one could supposedly mistake for Japan or
+Dalmatia. In such a landscape, Billy and Saxon are able to read "currants
+between the tree rows, beans between the currant rows, a row of beans close on
+each side of the trees, an' rows of beans along the ends of the tree rows"---an
+auspicious pattern, given the prevalence of nitrogen-fixing beans that will
+preserve the vitality of the soil season after season.[@london_valley_1999 250.
+This passage is a close paraphrase of a passage from Crissey's November 1911
+article on the Portuguese: "One of these town orchards in San Leandro has
+currants between the orchard rows, beans between the currant rows, a row of
+beans close on each side of the trees, beans between the trees in the row and
+beans from the ends of the rows to the wheeltrack in the street." (Jack London
+Collection, JL1369.)] Terrace-farming transforms groups who are denigrated
+elsewhere in the novel into keepers of horticultural magic, making productive
+farms out of nothing: in "Greece, in Ireland, in Dalmatia [...] they went
+around and gathered every bit of soil they could find [...] and carried it up
+the mountains on their backs and built farms---*built* them, *made* them, on
+the naked rock."[@london_valley_1999 294] Without learning from immigrant
+farmers, complicating and undercutting if not renouncing their nativism in the
+process, Billy and Saxon would have gone the way of Steinbeck's "Okies" just as
+the fertile valleys of California would have gone the way of Oklahoma. 
 
 Though a simple exchange of horticultural knowledge, these moments can be read
 as emblems of cultural exchange---maintaining the original resonances of
-"culture" as cultivation of life in the land. Subtly, or more probably by
-accident, *The Valley of the Moon* contains a stirring call to make an
-environmental future predicated on global difference.
+"culture" as cultivation of life in the land. Subtly, or (perhaps more
+probably) by accident, *The Valley of the Moon* makes a case for an
+environmental future predicated on global difference. It shows that in an
+earlier instantiation of the challenge posed by the unifying "*anthropos*" of
+"Anthropocene," the freedom of difference was indeed threatened by the
+universalizing gesture. It also suggests that this threat was not
+insurmountable, but required a just accounting of environmental history and
+resistance to racial nationalism.
+
+---
 
 There is much more to be said about the perspective on sustainable horticulture
-presented in *The Valley of the Moon*, and it will be explored in the next
-chapter. However, in order to understand the full context of London's
+presented in *The Valley of the Moon*, and more *will* be said shortly. In order to understand the full context of London's
 agricultural turn, it has to be placed in the context of other naturalist farm
 novels---and those novels, in turn, must be placed in the context of another
-naturalist sub-genre, the novel of finance.
-
-
-<!--mark-->
-
-Billy and Saxon learn 
-
-
-
-Despite her name,
-Saxon becomes a proponent of what London sometimes called the "Brotherhood of
-Man,"[^ln-brotherhood] 
-
-[^ln-brotherhood]: cite London's Racial Lives on this term and in support of
-this argument in general
-
-
+naturalist sub-genre, the novel of finance. In the next chapter, I will place
+*The Valley of the Moon* and *Burning Daylight* alongside novels by Frank
+Norris and Ellen Glasgow to ask: Is the naturalist Anthropocene really
+a Capitalocene?
 
 
 
