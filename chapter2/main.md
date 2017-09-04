@@ -1,5 +1,8 @@
---- title: The Phenomenology of Species - Human Species-Being in Jack London
-geometry: margin=1in bibliography: bibliography.bib ---
+--- 
+title: The Phenomenology of Species&#58; Jack London and Species-Being
+geometry: margin=1in 
+bibliography: bibliography.bib 
+---
 
 > You must not deny your relatives, the other animals. Their history is your
 history.
@@ -17,41 +20,25 @@ never experiences being a concept.
 
 > ---Dipesh Chakrabarty, "The Climate of History: Four Theses"
 
-### Introduction: *Before Adam* (1906-7) and the Geological Human
 
-Jack London's 1906 novel *Before Adam* is perhaps the most overt entry in
-a career-spanning attempt to narrate *species as such*. The unnamed narrator
-tells us that since he was a child, his sleep has been marked by dreams that
-come from the scattered memory of a distant, pre-human progenitor, which he
-reconstructs in language that his ancestor could never have understood (being
-pre-lingual). This ancestor, Big-Tooth, is a member of a tribe the narrator
-dubs the "The Folk", who contend for survival with natural predators, atavistic
-brutes who retain the characteristics of even older species, and the
-technologically advanced race of "Fire People"---a battle the The Folk
-ultimately lose, becoming extinct except for the half-Fire Person progeny of
-Big-Tooth. Originally serialized, the novel is picaresque, its somewhat shallow
-narrative serving as a vehicle to imaginatively enter a consciousness that is
-on its way to becoming human, observing as it tries and fails to develop the
-language and technology needed to resist the designs of the Fire People. The
-story these episodes do form as a whole, however, is one that, to London, is of
-great significance: it stands in for the myriad contests between pre-human
-primates that determined the nature of the modern human.<!--something's not
-working here-->
+### Introduction: *Before Adam* and the Geological Human
 
-Before this conceit is fully established, however, London performs a peculiar
-act of geological periodization. The object of this periodization is not
-a stratigraphic record, the layers of mineral sedimentation that make up the
-inorganic archive of the planet. Rather, the experiences and memories of the
-narrator himself are dated on a geologic timescale:
+Jack London's *Before Adam* (1906-7) begins with a peculiar act of geological
+periodization. It comes shortly after he establishes his motif, with the
+novel's unnamed narrator explaining that his life has been plagued by the
+scattered, intrusive memories of "Big-Tooth," a distant, pre-human progenitor.
+The object of this periodization is not part of the stratigraphic record, the
+layers of mineral sedimentation that make up the inorganic archive of the
+planet. Rather, it is the experiences and memories of the narrator himself,
+dated on a geological timescale:
 
-> In my days only did I attain any measure of happiness. My nights marked the
-reign of fear---and such fear!...[M]y fear is the fear of long ago, the fear
-that was rampant in the Younger World, and in the youth of the Younger World.
-In short, the fear that reigned supreme in that period known as the
-Mid-Pleistocene. (1)
+> My nights marked the reign of fear---and such fear!...[M]y fear is the fear
+of long ago, the fear that was rampant in the Younger World, and in the youth
+of the Younger World. In short, the fear that reigned supreme in that period
+known as the Mid-Pleistocene. (1)
 
-We are asked, from the beginning, to understand this man's experience in
-terms well beyond the boundaries of his own life, or even the lives of several
+We are asked, from the beginning, to understand this man's experience in terms
+well beyond the boundaries of his own life, or even the lives of several
 generations. We are instead asked to place his visceral fear in a context that
 defies the capacities of individual experience---told that in order to
 understand it, we have to not only think but feel, as he is forced to, across
@@ -64,44 +51,51 @@ individual experiences.
 Jack London's geology, in short, is a geology of the human, a geology in which
 the human is both the subject and object of study. A century later, we have
 a name for this geology: the Anthropocene. This chapter will explore the ways
-Jack London uses the narrative techniques of naturalism to construct an
-experience of species as a lived identity, focusing particularly on his short
-story "To Build a Fire" (1908) and his late agricultural novels, *Burning
-Daylight* (1913) and *The Valley of the Moon* (1915). This exploration will
-ultimately suggest that London had preemptively taken up one of the chief
-heuristic challenges posed by the Anthropocene as a theoretical discourse
-almost a century before that discourse began: to consider the place of natural
-history in human history (and vice versa) by expanding the temporal scope of
-what constitutes "human history", rendering the human species itself as an
-identity that is able to be experienced as such, and using this experience of
-species as a way to understand the role of the human in the long history of the
-planet. In pursuing this argument, I will consider the ways that London's well
-known use of non-human perspectives lets him come to terms with the human
-identity from without, but I will also confront the difficulty of separating
-London's confused perspectives on race with his attempts to think through
-species as a defining category. Finally, I will show that London takes the
-narration of species-as-such that he developed over the course of the first
-decade of the twentieth century and extends it to an analysis of the
-detrimental influence of human activity on the planet in his late agricultural
-novels (and in his life on the experimental ranch that inspired them). In
-short, an understanding of the human based on a geological timescale is a basis
-for London's understanding of the causes of extensive environmental destruction
-as well as potential responses to it.
+Jack London uses the narrative techniques of naturalism to represent the
+experience of species as such, taking a natural-historical category that
+touches the geological timescale as the basis of an idealized human collective.
+Focusing particularly on his well known short story "To Build a Fire" (1908)
+and the less prominent agricultural novel *The Valley of the Moon* (1915), this
+exploration will ultimately suggest that London had preemptively taken up one
+of the chief heuristic challenges posed by the Anthropocene as a theoretical
+discourse almost a century before that discourse began: to consider the place
+of natural history in human history (and vice versa) by expanding the temporal
+scope of what constitutes "human history", rendering the human species itself
+as an identity that is able to be experienced as such, and using this
+experience of species as a way to understand the role of the human in the long
+history of the planet. 
+
+In pursuing this argument, I will explore commonalities in the formal
+techniques that London uses across these works to narrate the human identity
+from without, particularly his use of typological characters to make the
+individual subjectivity stand in for a collective and the way distance between
+the narrator and the subjectivity of the protagonist is used to identify
+certain experiences as indicative of the species as a whole. But I will also
+confront the difficulty of separating London's confused perspectives on race
+with his attempts to think through species as a defining category. Finally,
+I will show that London takes the narration of species experience that he
+developed over the course of his best-known work and extends it to an analysis
+of the detrimental influence of human activity on the planet in his late
+agricultural novels (and in his life on the experimental ranch that inspired
+them). In short, an understanding of the human based on the geological
+timescale is a basis for London's understanding of what causes extensive
+environmental destruction, but taking the human species as a foundation for
+positive collective action is also his starting point for remediation.
 
 And yet, thinking the human geologically as London does has until recently
 constituted a category error. The human is mere biology, and we had thus (until
 the discovery of the Anthropocene) been assumed to interact with other
 lifeforms and our immediate environment without so much as scratching the
 surface of the geological record. What the designation of the Anthropocene
-recognizes, however, is that despite being barely more than the period at the
-end of the vast history of the planet, the human has now ascended to the scale
+recognizes, however, is that despite being barely more than a footnote in the
+long history of the Earth, the human has now ascended to the scale
 of a geological force that could well define that planet's future, leaving many
-and various marks in the stratigraphic record as we unwittingly alter the
-function of the most basic systems of the natural
-environment.[^ln-stratigraphy] Attempts to confront the Anthropocene, whether
+and various stratigraphic footprints as we unwittingly alter the most basic
+systems of our natural
+environment. Attempts to confront the Anthropocene, whether
 conceptually or practically, have found in this most basic premise
 a considerable stumbling block because of its reliance on an uncomplicated
-universal "human". To act in recognition that the human collective has become
+universal "human", or "Anthropos". To act in recognition that the human collective has become
 a geological force, one has to first experience oneself as fundamentally part
 of that human collective---not even biologically or geologically, but as part
 of an identity that precedes and exceeds the intellect and the individual.
@@ -109,85 +103,84 @@ Whether this is possible has been a matter of some debate, but such an
 experience is precisely what many of the narrative techniques of literary
 naturalism, and Jack London's work in particular, attempt to induce.
 
-[^ln-stratigraphy]: I'll summarize the findings of the Anthropocene Working
-Group of the Stratigraphers Union here---basically, subject to fact checking:
-The stratigraphic record, or the accretion of various geological events that
-are legible in the mineral deposits of the Earth, is used to determine epochs
-and such. The Anthropocene working group found a number of possible candidates
-for the "golden spike" in the stratigraphic record that could be used as the
-official starting point for the Anthropocene, including things as various as
-scars from the proliferation of nuclear weapons and the ubiquitous deposits of
-chicken bones that have resulted from widespread industrial agriculture.
+---
 
 <!--s-b-->London was not the first and would not be the last to pursue an
-understanding of the species concept on this basis. Before him, [?] Feuerbach
-coined the term "species-being" in an attempt to define the essential
-characteristics and activities that unite members of a species; Karl Marx in
-turn would take up in Feuerbach's concept in the early formulations of his
-theory of alienation to show just what was at stake in the industrialization of
-labor. With the heuristic challenges posed by the "Anthropos" of Anthropocene,
-species-being as a concept has reemerged with a new resonance, now making it
-possible to question what role humanness-as-such plays in the environmental
-crisis.[^ln-sb-reemergence] Invoking species-being here, then, can serve to put
-London at once in the context of the Marxist theory that was central to his own
-thinking on a number of topics throughout his life[^ln-london-marxism] and the
-Anthropocene discourse he partially predicts. 
+understanding of the species concept on this basis. Karl Marx, building on the
+work of Ludwig Feuerbach, uses the term "species-being" to describe the
+uniquely human faculty of grasping the collective of species externally, or
+objectively, through a combination of externalizing the self through the
+"inorganic body" of object or altered nature and consciously transforming the
+human collective by mobilizing social productive forces. With the heuristic
+challenges posed by the "Anthropos" of Anthropocene, species-being as a concept
+has reemerged with a new resonance, now making it possible to question what
+role humanness-as-such plays in the environmental crisis.[^ln-sb-reemergence]
+Invoking species-being here, then, can serve to put London at once in the
+context of the Marxist theory that was central to his own thinking on a number
+of topics throughout his life[^ln-london-marxism] and the Anthropocene
+discourse he partially predicts. 
 
-But the term is a useful one on its own merits, engaging species with
-a perspective similar to London's. As I will show in more detail, the concept
-of species-being and London's narration of species both assert a degree of
-mutual experience and subjectivity across members of a species without taking
-that mutuality as totally deterministic of an individual's nature.
-Species-being is therefore non-essentialist in reference to the individual, and
-at least in Marx's version of the term, also historically. Marx's version of
-human species-being is largely defined by conscious production, and as such,
-changes in the social and technological means of production lead to
-corresponding changes in the nature of the human. London similarly describes
-transformations in human species-being according to a combination of
-individuality and changing socio-technological conditions, taking the
-Promethean symbol of fire as an emblem of humanness and urban environments as
-sites of catastrophic alienation from self and species alike. Insofar as human
-species-being itself is responsible for the existential threat to the planet,
-it will not be due to some immutable essence, but rather as a result of a
-historically contingent development of the abilities and characteristics that
-define us.
+[^ln-sb-reemergence]: See e.g.: @johnson_at_2017; @roelvink_rethinking_2013;
+@taylor_tennysons_2016; @wark_molecular_2015. 
 
-[^ln-sb-reemergence]: To my knowledge, none of these recent engagements with
-the term attempt a systematic rehashing of the term, but primarily use it to
-invoke the actions of the human species in general or better understand the way
-species as a concept features in the thinking of other authors or theorists
-(nor does the present chapter claim to present such a systematic approach).
+[^ln-london-marxism]: See @raskin_jack_2005. 
 
-[^ln-london-marxism]: see "Jack London, Burning Man"
+But "species-being" is a useful term in thinking about London even beyond its
+contextualizing function. As I will show in more detail later, the concept of
+species-being and London's narration of species both assert a degree of mutual
+experience and common subjectivity across members of a species without taking that
+mutuality as totally deterministic of an individual's nature. Species-being is
+therefore non-essentialist in reference to the individual; at least in
+Marx's version of the term, it also avoids ahistorical universals. Marx's version of
+species-being is largely defined by conscious production, and as such,
+transformations
+in the social and technological means of production lead to corresponding
+transformations in the nature of the human. London similarly describes
+developments
+in species-being according to a combination of individuality and changing
+socio-technological conditions, taking the Promethean symbol of fire as an
+emblem of humanness and urban environments as sites of catastrophic alienation
+from self and species alike. Insofar as human species-being itself is
+responsible for the existential threat to the planet, it will not be due to
+some immutable essence, but rather the result of an historical
+development of the abilities and characteristics that define us.
 
-As an historically contingent essence, species-being thus adopts many of the
-common targets of environmentalist critique as defining aspects of what it
-means to be human---or to be more precise, what it has meant to be human at
-given moments in an extremely long-durée historical trajectory. But the ability
-to conceive of these critiques in terms of the species itself is the first step
-in any suitable response to the crisis that is implied by and that gave rise to
-the term "Anthropocene". Though technically only designating a geological epoch
-defined by the influence of collective human activity, the Anthropocene has
-always meant more than a passive marker of a temporal boundary. Even in some of
-the earliest uses of the term, it had already come to indicate anthropogenic
-destruction of the planet through means as diverse as carbon emission,
-deforestation, population growth, and animal domestication as well as the need
-for immediate remediation [@crutzen_geology_2002,
-@crutzen_"anthropocene"_2006]. Reviving the "human species" as a universalizing
-concept is both an explanation of this destruction and a response to it.
-Indeed, as Dipesh Chakrabarty puts it in his seminal essay "The Climate of
-History: Four Theses," "Species may indeed be the name of a placeholder for an
-emergent, new universal history of humans that flashes up in the moment of the
-danger that is climate change" [@chakrabarty_climate_2009 221,
-@dyer-witheford_return_2004 5]. If our "moment of danger" is causing us to
-reach for the species concept, a biological collective that both exceeds and
-composes the individual, it is in response to a dual relationship to mass
-extinction. We recognize that the human collective has become a destructive
-force by its very nature, but we recognize at the same time that this
-destructiveness does not come with omnipotence. To think of the human in
-a superhuman timescale is to take seriously the threat of self-inflicted mass
-extinction, to place ourselves in the long history of lifeforms coming into
-being and disappearing in a geological moment. 
+Considered in terms of humanity's relationship to our natural environment,
+species-being can both be grounds for a critique of humanity and the basis of
+a mobilization. As an historically contingent essence, species-being adopts
+technological development and industrialization (common targets of
+environmentalist critique) as defining aspects of what it means to be
+human---or to be more precise, as features of what it has meant to be human at
+certain moments in an extremely long-durée history. This association in turn
+forces us to ask whether it is humanness itself that is responsible for the
+environmental damage occasioned by, for example, the industrial revolution.
+This proposition might seem to be a particularly cynical essentialism, but an
+ability to conceive of environmental threats in terms of the species itself is
+the first step in any suitable response to the crisis that is implied by and
+that gave rise to the term "Anthropocene". Although technically only
+designating a geological epoch defined by the influence of collective human
+activity, the Anthropocene has always been more than a passive marker of
+a temporal boundary. Even in some of the earliest uses of the term, it was
+already shorthand for anthropogenic destruction of the planet through means as
+diverse as carbon emission, deforestation, population growth, and animal
+domestication as well as the need for immediate
+remediation.[@crutzen_geology_2002, @crutzen_anthropocene_2006] Reviving the
+"human species" as a universalizing concept offers both an explanation of this
+destruction and a response to it. Indeed, as Dipesh Chakrabarty puts it in his
+seminal essay "The Climate of History: Four Theses," "Species may indeed be the
+name of a placeholder for an emergent, new universal history of humans that
+flashes up in the moment of the danger that is climate change."[^ln-chak-ndw]
+If our "moment of danger" is causing us to reach for the species concept,
+a biological collective that both exceeds and composes the individual, it is in
+response to a dual relationship to mass extinction. We recognize that the human
+collective has become a destructive force by its very nature, but we recognize
+at the same time that this destructiveness does not come with omnipotence. To
+think of the human in a superhuman timescale is to take seriously the threat of
+self-inflicted species death and place ourselves in the long history of
+lifeforms coming into being and disappearing in a geological moment. 
+
+[^ln-chak-ndw]: @chakrabarty_climate_2009 221. Nick Dyer-Witheford also picks
+up on this Benjaminian resonance: @dyer-witheford_1844/2004/2044:_2004 5.
 
 *Before Adam* ends on this same note of ephemerality---a simultaneous
 ephemerality of individual and species. The Folk, after all, do not survive to
@@ -196,44 +189,46 @@ they are so diminished as to form barely a hereditary trace in the makeup of
 the modern human compared to the dominant Fire People, a mere eddy in the gene
 pool. Reflecting on the moment when the few surviving Folk assemble after being
 routed by the Fire People, the narrator says, "It is like the meeting of the
-handful of survivors after the day of the end of the world."[@... 235] As he
-would again in 1912's *The Scarlet Plague*, a post-apocalyptic novel in which
-a plague wipes out all but a small community of survivors who revert to
-primitive ways of living, London invokes the end of the world as an occasion to
-consider the fragility of humanity as a whole.
+handful of survivors after the day of the end of the
+world."[@london_before_2000 235] As he would again in *The Scarlet Plague*
+(1912), a post-apocalyptic novel in which a plague wipes out all but a small
+community of survivors who revert to primitive ways of living, London invokes
+the end of the world as an occasion to consider the fragility of humanity as
+a whole.
 
 For London and contemporary thinkers of the Anthropocene alike, ephemerality
-also leads to a more poignant experience of a species identity. In this moment
-of threat, the narrator, speaking for Big-Tooth, subtly changes his focus from
-the limited perspective of Big-Tooth's own experiences to the fortunes of the
-collective, speaking for both Big-Tooth and the species he represents. The
-usual subject "I" becomes a "we" as The Folk are hounded to the edges of
-habitable land to the sea. "We could not survive in such an environment," he
-says, and "the radical change in our diet was not good for us...[w]e were all
-lean and dyspeptic-looking." Drawing attention to the effects of a changed
-environment on The Folk, the narrator also draws attention to the relatively
-particular conditions required for a given (non-human) species to survive,
-doing so by speaking for a species population that has become small enough to
-be easily apprehensible. Speaking for a species is possible in conditions where
-it is the same as speaking for a community. Births and deaths in this
-species-community, for example, take on a new significance. When he says that
-"we died faster than new ones were born" and "our number steadily diminished,"
-it is understood to be an existential threat to the species as a whole. This
-threat in turn leads to a meditation on the nature of the human itself: "I, the
-modern, am incontestably a man," we are told; "yet I, Big-Tooth, the primitive,
-am not a man. Somewhere, and by straight line of descent, these two parties to
-my dual personality were connected. Were the Folk, before their destruction, in
-the process of becoming men?...I do not know."[@... 241] Understanding the
-species-identity of the pre-human "Folk" is possible in a way that, to the
-narrator, the identity of the modern human simply is not. London provides the
-possibility of a species experience in the Folk before creating a speculative
-gap that invites meditation on the experience of modern humanity in the same
-terms he sets out for the Folk.
+also leads to a more poignant experience of a species identity primarily by
+taking the species as a form of community in itself. In this moment of threat,
+the narrator, speaking for Big-Tooth, subtly changes his focus from the limited
+perspective of Big-Tooth's own experiences to the fortunes of the collective,
+speaking for both Big-Tooth and the species he represents. The usual subject
+"I" becomes a "we" as the Folk are hounded to the edges of habitable land. "We
+could not survive in such an environment," the narrator says, and "the radical
+change in our diet was not good for us...[w]e were all lean and
+dyspeptic-looking."[@london_before_2000 237] The narrator draws attention to
+the effects of a changed environment on he Folk, and by extension to the
+relatively particular conditions they need to survive. This becomes, in effect,
+an analysis of the species from within, for the rapidly dwindling species is
+composed only of those present. Speaking for a species is possible in
+conditions where it is the same as speaking for a community. Births and deaths
+in this species-community, for example, take on a new significance. When he
+says that "we died faster than new ones were born" and "our number steadily
+diminished," it is understood to be an existential threat to the species as
+a whole. This threat in turn leads to a meditation on the nature of the human
+itself: "I, the modern, am incontestably a man," we are told; "yet I,
+Big-Tooth, the primitive, am not a man. Somewhere, and by straight line of
+descent, these two parties to my dual personality were connected. Were the
+Folk, before their destruction, in the process of becoming men?...I do not
+know."[@london_before_2000 241] Understanding the species-identity of the pre-human "Folk" is
+possible in a way that, to the narrator, the identity of the modern human
+simply is not. London provides the possibility of a species experience in the
+Folk before creating a speculative gap that invites meditation on the
+experience of modern humanity in the same terms he sets out for the Folk.
 
 He is not alone in this simultaneous acknowledgement of the need to think about
 the human collective and hesitation to think about the human species in the
 same way we think of non- or pre-human species. Though the human species is
-a universal concept that, as Chakrabarty puts it, "flashes up" in an
+a universalizing concept that, as Chakrabarty puts it, "flashes up" in an
 existentially threatening moment, it inhabits a timescale that would seem to be
 too far removed from that of human experience to be easily apprehensible---or,
 for that matter, apprehensible at all in any experiential sense. It is
@@ -245,7 +240,7 @@ experience it as such. There could be no phenomenology of us as a species. Even
 if we were to emotionally identify with a word like mankind, we would not know
 what being a species is, for, in species history, humans are only an instance
 of the concept species as indeed would be any other life form. But one never
-experiences being a concept. (220)
+experiences being a concept.[@chakrabarty_climate_2009 220]
 
 We may be able to conceive of the totality, and we may be able to experience it
 as a kind of guilt on behalf of that totality. But the phenomenological gap
@@ -257,12 +252,15 @@ further beyond the self than what normal historical consciousness requires,
 a collectivizing act that is less identification with something larger than 
 interrogation of an identity that is both *a priori* and embodied. 
 
+---
+
 Herein, of course, lies the great danger of species-thinking as a theoretical
 program. It risks ignoring half a century of critical theory, the very basis of
 which is opposition to the kind of essentialism a discourse of the human
 species would seem to imply. At least in the humanities, a proliferation of
-alternate terms has resulted, most notable among them being the Capitalocene,
-the Androcene, and the Cthulucene. These searches for an alternative term have
+alternate terms has resulted, among them the Capitalocene,
+the Plantationocene, and the Cthulucene.[@moore_capitalism_2015;
+@harraway_anthropocene_2015] These searches for an alternative term have
 one thing in common: they understand the "anthropos" in Anthropocene as an even
 distribution of blame for actions the benefits of which have historically been
 anything *but* even. <!--That Jack London invokes the species as a heuristic hardly
@@ -277,36 +275,38 @@ discomfort as he considers Chakrabarty's version of the universal species
 concept, points out that the Anthropocene's universalism "seems to wreak havoc
 on the key principles of historical understanding and political commitment that
 have animated not only Chakrabarty's preceding body of work, but the broader
-project of postcolonial critique to which that work has been dedicated"
-[-@baucom_human_2012 3]. But to consider the species concept as a universal of
+project of postcolonial critique to which that work has been dedicated."
+[-@baucom_human_2012 3] But to consider the species concept as a universal of
 the same type as those that postcolonial critique has opposed in the past,
-Baucom continues, would be to miss Chakrabarty's point. It is not
-a universalism in the Hegelian mode<!--what does this mean? should figure out
-and gloss since we don't get the whole Baucom-->, which Chakrabarty himself has
-opposed in the name of a struggle for the "freedom of difference," but
-a "natural--scientific" universalism that presents a new paradigm
-entirely[@-baucom_human_2012 3]. As Baucom reads it, in this new paradigm
-"freedom can no longer be conceived of as the freedom of difference against the
-power of the globalizing same." Rather, because "freedom" now relies on
+Baucom continues, would be to miss Chakrabarty's point. It is not the
+universalism that has been widely opposed in the name of a struggle for the
+"freedom of difference," but a "natural--scientific" universalism that presents
+a new paradigm entirely.[-@baucom_human_2012 3] As Baucom reads it, in this new
+paradigm "freedom can no longer be conceived of as the freedom of difference
+against the power of the globalizing same." Rather, "freedom" now relies on
 survival through a collective effort to save the planet by transforming our
-relationship to it, this universal concept has become a requirement of freedom
+relationship to it, and this universal concept becomes a requirement of freedom
 itself. The pursuit of freedom is now "a task of the species, as species, for
 the species. It is a universal human challenge, a challenge of humanity's
-shared natural history and its shared planetary future" [-@baucom_human_2012
-3]. Baucom shifts the universalizing gesture of the "anthropos" prefix onto the
-deep past and the preservation of an equally deep future, careful to emphasize
-temporalities that fall beyond the scope of historiographies on the human
-scale. 
+shared natural history and its shared planetary future."[-@baucom_human_2012 3]
+Baucom shifts the universalizing gesture of the "anthropos" prefix onto the
+commonality of a deep past and the preservation of an equally deep future (one
+hopes), temporalities that fall beyond the scope of historiographies of the
+human scale. Doing so makes the human species a collectivizing gesture that
+attempts to encompass everyone without asking for homogeneity. As Gerda
+Roelvink puts it, "Species, then, might refer to a kind of political
+collectivity without essence."[@roelvink_rethinking_2013 54]
 
 The problem of species, of the "*anthropos*" in the Anthropocene, is thus
-manifold and entangled. It demands a natural-scientific universalism that takes
-the species concept as the basis for human history and as the starting point in
-the struggle for freedom. It requires an understanding of anthropogenic
-planetary change based on this species history. But in developing such
-a species history, we risk backsliding into the essentialisms of the past, and
-thus a concerted effort must be made to differentiate a natural-scientific
-universalism of collective survival from the universals of the past that have
-long been used to justify programs of domination and exploitation. 
+multifaceted and beset with contradictions. It demands a natural-scientific
+universalism that takes the species concept as the basis for human history and
+as the starting point in the struggle for freedom. It requires an understanding
+of anthropogenic planetary change based on this species history. But in
+developing such a species history, we risk backsliding into the essentialisms
+of the past, and thus a concerted effort must be made to differentiate
+a natural-scientific universalism of collective survival from the universals of
+the past that have long been used to justify programs of domination and
+exploitation. 
 
 And yet over all these tasks hovers an enduring paradox: to address the
 conceptual and practical challenges of the Anthropocene, we must embrace
@@ -314,20 +314,21 @@ a concept that Chakrabarty claims fundamentally exceeds the capacities of human
 experience, that has no phenomenology, that is somehow both embodied and
 inaccessible.
 
+---
+
 Though differently framed, the defining questions and formal characteristics of
 literary naturalism speak directly to this set of concerns. In pursuing the
 well-trodden ground of the "determinism" question in literary naturalism,
 critics of the genre have debated the role of species characteristics in
-determining the actions and experiences of the
-individual.[^ln-determinism-species-examples] The naturalist character is,
-famously or notoriously, less notable as an individual subjectivity than as
-a nexus of warring deterministic forces. The most marked conflicts occur
-between "forces" defined by evolutionary conditioning and those that are
-a product of a physical and social environment, especially in the context of
-urban environments.[ Norris examples? ] 
+determining the actions and experiences of the individual. The naturalist
+character is, famously or notoriously, less notable as an individual
+subjectivity than as a nexus of warring deterministic forces. The most marked
+conflicts occur between "forces" defined by evolutionary conditioning and those
+that are a product of a physical and social environment, especially in the
+context of urban environments.[^ln-norris-examples]
 
-[^ln-determinism-species-examples]: some examples of naturalist criticism that
-drives this home? Look at the classics: Pizer, Walcutt... "Determined Fictions"
+[^ln-norris-examples]: DRAFT NOTE - I hope to circle back to this and broaden
+the context of species and determinism with a brief discussion of Frank Norris. 
 
 Introducing the species concept into this discourse merely requires a reminder
 that speciation is the product of evolutionary variation. But when this common
@@ -346,60 +347,78 @@ non-human "forces", naturalist novels tend to be insistently visceral in the
 descriptive details they use to compose this narration. One need only think of
 Dreiser's Carrie or Wharton's Lily Bart to see how the visceral and the
 systemic intertwine. Both women experience the bodily changes that result from
-their gruelling labor in clothes production, a process detailed in terms that
+their gruelling labor in clothing production, a process detailed in terms that
 evoke the lived experience of the labor rather than the theory of it; and yet
 for both authors, the experiential serves the conceptual, establishing a window
 into the alienation of labor and the economic systems that lead to
 it.[^ln-dreiser-wharton] 
 
-[^ln-dreiser-wharton]: Definitely need to give the examples here... and there
-is so much scholarship on this topic. 
+[^ln-dreiser-wharton]: DRAFT NOTE - Similarly, this is another place for richer
+context in the genre as a whole with some specific passages from Dreiser and
+Wharton. 
 
 While these are historical rather than natural-historical examples---the
 conditions of labor are historically contingent and understandable within human
 timescales---the same holds true of the natural historical cases. In *Before
 Adam*, the narrator's access to the memories of his deep past comes from
-feeling, not contemplation: from fear, a felt and decidedly unscientific
+feeling, not from contemplation: from fear, a felt and decidedly unscientific
 experience. To feel the fear of the Pleistocene epoch is to recall a distinctly
 different humanity, one that has not superceded the bounds of biological agency
 to become geological---indeed, one that has not yet removed itself from the
-food chain or secured its sustenance through the soft conquest of agriculture
-and animal domestication. The gulf between this pre-human form and the modern
-human is underscored by juxtaposition of the Folk with the Fire People. When
-Big-Tooth and his friend Lop-Ear stalk the Fire People and investigate the
-remnants of their fire, the simplest possible moment of dramatic irony results:
-"I wanted to see what [the fire] was like, and between thumb and finger,
-I picked up a glowing coal. My cry of pain and fear, as I dropped it, stampeded
-Lop-Ear into the trees, and his flight frightened me after him."[@... 165] This
-moment of pain and fear, though minor, is reminiscent of the fears of the
-"Mid-Pleistocene" in general that London narrates---fears that result not from
-the external conditions themselves but from the Folk's inability to confront
-them using the methods humanity has developed since, like technology and
-community. In other words, the fear results from being someone like Big-Tooth,
-who "did not bother to weigh and analyze," who "was simplicity itself" and
-"just lived events, without ever pondering why he lived them in his particular
-and often erratic way." [@... 137] In imagining not knowing that fire will
-burn---or not knowing how to use weapons to fight predators, or not knowing to
-band together to resist a larger enemy---the modern reader must imagine
-a consciousness without the same type of problem-solving, tool-use, and social
-capacities that so define human history. But the entry point to this
-consciousness is the shared visceral feelings of pain and fear.
+food chain or secured its sustenance through the soft conquests of agriculture
+and animal domestication. London establishes the gulf between this pre-human
+form and the modern human through juxtaposition of the Folk and the Fire
+People. When Big-Tooth and his friend Lop-Ear stalk the Fire People and
+investigate the remnants of their fire, the simplest possible moment of
+dramatic irony results: "I wanted to see what [the fire] was like, and between
+thumb and finger, I picked up a glowing coal. My cry of pain and fear, as
+I dropped it, stampeded Lop-Ear into the trees, and his flight frightened me
+after him."[@london_before_2000 165] This moment of pain and fear, though
+fleeting, is reminiscent of the fears of the "Mid-Pleistocene" in general that
+London narrates---fears that result not from the external conditions themselves
+but from the Folk's inability to confront them using the methods humanity has
+developed since, like technology and community. In other words, the fear
+results from being someone like Big-Tooth, who "did not bother to weigh and
+analyze," who "was simplicity itself" and "just lived events, without ever
+pondering why he lived them in his particular and often erratic way."
+[@london_before_2000 137] In imagining not knowing that fire will burn---or not
+knowing how to use weapons to fight predators, or not knowing to band together
+to resist a larger enemy---the modern reader must imagine a consciousness
+without the same type of problem-solving, tool-use, and social capacities that
+so define human history.[^ln-before-note-dumb] But the entry point to this
+consciousness is the shared visceral feelings of pain an fear.
 
-Imagining such a consciousness, in the context of London's entire body of work,
-is more than a curiosity. To recall this earlier state of being
-in the context of evolutionary history is to draw the outline of the human
-species history through an experiential link between early and late temporal
-poles. The result is not an abstract conception but a comparison of ways of
-being that encompasses a multi-epochal humanness. 
-
-
-
-<!-- preview species-being here? -->
+[^ln-before-note-dumb]: It is clear from London's notes for *Before Adam* that
+this was an intentional effect: ""He once found broken gourd, filled with
+rain-water, drank it, but never thought to use gourd.---He (modern) often
+watched to see what he (primitive) would do, & he (modern) often vexed
+& perturbed by foolishness, illogic, obtusity, etc., of him
+(primitive)"[@london_jack_1916 JL507]
 
 
-The rest of this chapter will... [ ]
+Where Chakrabarty claims that "one never experiences being a concept", London
+attempts to use common feeling as a bridge to an experience of species-being.
+To recall this earlier state of being in the context of evolutionary history is
+to draw the outline of the human species history through an experiential link
+between early and late temporal poles. The result is not an abstract conception
+but a comparison of ways of being that encompasses a multi-epochal humanness. 
 
-### "To Build a Fire" (1908): Species-Being, Human and Animal
+The rest of this chapter will take three of London's works as case studies to
+show that his engagement with the species concept culminated in an attempt to
+use species-being as the basis of a unified pursuit of a single principle,
+increasing the abundance of life on Earth. First, I will discuss "To Build
+a Fire" to show how he used non-human perspectives to theorize species-being.
+The next, brief section will show how London develops a speculative version of
+future possible species-beings in a late, relatively unknown play called
+*The Acorn-Planter*. Finally, I will argue through a reading of *The Valley of
+the Moon* that in order to imagine his vision of species-being enacted
+practically, London was forced to confront the nativist and supremacist
+convictions of his moment---convictions that he himself voices at some moments
+in his work and opposes at others. What results is a progressive agrarianism in
+which scientific agriculture and cultural exchange realize his vision of the
+potential for an ecological species-being.
+
+### "To Build a Fire": Species-Being, Human and Animal
 
 > ...humankind is self-made in the most literal sense. Our bodies are the
 product of the tool-using adaptation which predates the genus *Homo*. We
@@ -416,69 +435,60 @@ is in our hands.
 
 > ---Donna J. Haraway, *Simians, Cyborgs, and Women* [22]
 
-<!--### "History is the true natural history of man"
+It is somewhat surprising, given his systematic pursuit of a way to narrate the
+human as such, that Jack London is more commonly associated with his depiction
+of non-human subjects. Indeed, the works in London's *oeuvre* that are most
+obviously relevant to the species discussion are also those for which he is
+most famous: his "dog stories", as he liked to call them. In *The Call of the
+Wild* (1903) and *White Fang* (1906), he uses the perspective of two canine
+protagonists to explore the line between domesticity and wildness. The
+protagonist of the former, Buck, becomes progressively wilder as he moves from
+a comfortable existence on a farm to leading a sled team to running free with
+a pack of wolves. The latter, *White Fang*, presents an inverse situation,
+tracing its eponymous character's life from his birth in the wilderness through
+his coming of age in captivity, where he pulls sleds and is forced to fight in
+a dogfighting circuit until he is rescued and finally domesticated. 
 
-this section really needs to be incorporated above-->
-
-
-
-<!-- section: Marx: s-b is contingent while being universal; historical change
-is a change in essence; talking about species is not the same as talking
-about static unchanging essentialism; we can have both "their history is your
-history" and "history is the true natural history of man"-->
-
-
-
-The works in London's *oeuvre* that are most relevant to the species discussion
-are also those for which he is most famous: his "dog stories", as he liked to
-call them. In *The Call of the Wild* (1903) and *White Fang* (1906), he uses
-the perspective of two canine protagonists to explore the line between
-domesticity and wildness. The protagonist of the former, Buck, becomes
-progressively wilder as he moves from a comfortable existence on a farm to
-leading a sled team to running free with a pack of wolves. The latter, *White
-Fang*, presents an inverse situation, tracing its eponymous character's life
-from his birth in the wilderness through his coming of age in captivity, where
-he pulls sleds and is forced to fight in a dogfighting circuit until he is
-rescued and finally domesticated. The individual dog character offers London
-a lens to explore not only the subjectivity of dogs, however, but the
-subjective experience of species more broadly writ. On one hand, he does
-consider the degree to which the experience of a single dog is the result of
-its inherent dogness---that is, to what extent species itself can be said to
-account for individual subjectivity. On the other hand, he uses the dog figure
-as a mechanism of narrative estrangement, a vantage point from to consider the
+But London's dog stories are ironically as much about humanity as they are
+about non-human animals. The individual dog character offers London a lens to
+explore not only the subjectivity of dogs, however, but the subjective
+experience of species more broadly writ. On one hand, he does consider the
+degree to which the experience of a single dog is the result of its inherent
+dogness---that is, to what extent species itself can be said to account for
+individual subjectivity. On the other hand, he uses the dog figure as
+a mechanism of narrative estrangement, a vantage point from to consider the
 human *from without*, and from which to ask whether humanness can be used to
 define the individual human in the same way that he thought dogness can define
 the individual dog. 
 
 
-<!-- what does the nature fakers thing do for me?-->The question was
-controversial even when he first posed it at the beginning of the twentieth
-century. Even where his conclusions were limited to actual dogs, interrogating
-species as such made trouble for London in what is now known as the "nature
-fakers" controversy, pitting him against none other than the sitting president
-and self-appointed authority on all things out-of-doors, Theodore Roosevelt.
-The controversy began when a scientist named John Burroughs wrote an article
-called "Real and Sham Natural History," in which he decried the appearance of
-sympathetic and above all individualistic animal characters in the fiction of
-the day. Burroughs claimed that all animal behavior was entirely instinctual,
-and that the implications of reason and learned behavior in individual animals
-on which these animal fictions relied constituted nature-fakery. To Burroughs,
-the non-human animal is entirely mechanistic, an automaton driven by pure
-instinct. [check in the actual essay---make sure this isn't an opportunistic
-gloss by london] For his part, Roosevelt leveled petty complaints against
-*White Fang*: he saw fakery in the claim that a lynx could kill a dog (a claim,
-incidentally, which does not appear in *White Fang*, as London would later
-point out) and that a bull dog could beat a wolf dog in a fight.[ditto] 
+The question was already controversial when he first posed it at the beginning
+of the twentieth century. Even where his conclusions appeared to be limited to
+actual dogs, interrogating species as such made trouble for London, involving
+him in a controversy regarding so-called "nature-fakers" and pitting him
+against none other than the sitting president and self-appointed authority on
+all things out-of-doors, Theodore Roosevelt. The controversy began when
+a scientist named John Burroughs wrote an article called "Real and Sham Natural
+History," in which he decried the appearance of sympathetic and above all
+individualistic animal characters in the fiction of the day. Burroughs claimed
+that all animal behavior is entirely instinctual, and that the imputation of
+reason and learned behavior in individual animals on which these animal
+fictions relied constituted nature-fakery. To Burroughs, the non-human animal
+is entirely mechanistic, an automaton driven by pure instinct. For his
+part, Roosevelt leveled petty complaints against *White Fang*: he saw fakery in
+the claim that a lynx could kill a dog (a claim, incidentally, which does not
+appear in *White Fang*, as London would later point out) and that a bull dog
+could beat a wolf dog in a fight.[@london_other_1910]
 
 When these critiques began to appear, London did his best to keep out of it. As
 he wrote several years later of the incident in an essay called "The Other
 Animals": "when the word *nature-faker* was coined, I, for one, climbed into my
 tree and stayed there...and a Honolulu reporter elicited the sentiment from me
-that I thanked God I was not an authority on anything" [@london_other_???].
+that I thanked God I was not an authority on anything." [@london_other_1910 237]
 When he finally did climb down from his tree, he dismissed Roosevelt's claims
 easily enough, describing the president as an "amateur" and saying he "does not
 understand evolution, and he does not seem to have made much of an attempt to
-understand evolution" [@london_other_???]. On this basis, he excused the
+understand evolution."[@london_other_1910 240-1] On this basis, he excused the
 president's mistakes and suggested a more careful rereading of the works
 Roosevelt critiqued.
 
@@ -489,7 +499,8 @@ dogs that bear a clear relation to episodes in his fiction, analyzing them to
 demonstrate reason triumphing over instinct. The drives of instinct and reason,
 he says, come out of an evolutionary succession, with the former a "race-habit"
 that "is blind, unreasoning, mechanical" and the latter a development that
-culiminates in, but is not exlusive to, humanness itself. His concluding salvo
+culiminates in, but is not exlusive to, humanness itself.[@london_other_1910
+262] His concluding salvo
 continues to place human and non-human on an evolutionary continuum, but in
 doing so it also suggests that the process that leads to the human continues to
 exist in the humans of the present:
@@ -501,10 +512,9 @@ repudiate in them you repudiate in yourself — a pretty spectacle, truly, of an
 exalted animal striving to disown the stuff of life out of which it is made,
 striving by use of the very reason that was developed by evolution to deny the
 processes of evolution that developed it. This may be good egotism, but it is
-not good science.
+not good science.[@london_other_1910 265-6]
 
-<!--remember, "their history is your history" is from the epigraph to BA,
-and also comes up in the Kempton-Wace Letters -->Embrace the animal, London tells us (with Burroughs as
+Embrace the animal, London tells us (with Burroughs as
 a proxy), "exalted animal" though it may be. Claiming that human action is
 driven exclusively by reason gives the lie to the very utility of that reason,
 for reason paradoxically requires an admission of unreason in the form of more
