@@ -21,6 +21,14 @@ never experiences being a concept.
 > ---Dipesh Chakrabarty, "The Climate of History: Four Theses"
 
 
+<!-- This chapter will ultimately argue that Jack London's career-spanning
+attempts to narrate a phenomenology of species were not only related to, but
+culminated in the representation of anthropogenic environmental transformation
+in his late agricultural novels. Taking this line of development as a cue to
+investigate the entanglements of the human species and the natural world in the
+rest of his work, a pattern of Anthropocenic In order to pursue this argument, several
+questions must first be answered. First, ...-->
+
 ### Introduction: *Before Adam* and the Geological Human
 
 Jack London's *Before Adam* (1906-7) begins with a peculiar act of geological
