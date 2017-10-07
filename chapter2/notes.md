@@ -60,6 +60,21 @@ to exist. He cannot adjust himself to that future, because he cannot alter
 universal law, because he cannot alter his own construction or the molecules
 that compose him." 
 
+"And for us who live, no worse can happen than has happened to the earlier
+drifts of man, marked to-day by ruined cities of foreign civilizations---ruined
+cities, which, on excavation, are found to rest on ruins of earlier cities,
+city upon city, and further cities, down to a stratum where, still earlier,
+wandering herdsmen drove their flocks, and where, even preceding them, wild
+hunters chased their prey long after cave-man and the man of the
+squatting-place cracked the knuckle-bones of wild animals and vanished from the
+earth. There is nothing terrible about it. With Richard Hovey, when he faced
+death, we can say: 'Behold! I have lived!' And with another and greater one, we
+can lay ourselves down with a will. The one drop of living, the one taste of
+being, has been good; and perhaps our greatest achievement will be that we
+dreamed immortality, even though we failed to realize it."
+
+
+
 # Reading notes
 
 ## SB and Anthropocene
