@@ -76,8 +76,8 @@ history of the planet.
 In pursuing this argument, I will explore commonalities in the formal
 techniques that London uses across these works to narrate the human identity
 from without, particularly his use of typological characters to make the
-individual subjectivity stand in for a collective and the way distance between
-the narrator and the subjectivity of the protagonist is used to identify
+individual subjectivity stand in for a collective and the way he creates distance between
+the narrator and the subjectivity of the protagonist to identify
 certain experiences as indicative of the species as a whole. But I will also
 confront the difficulty of separating London's confused perspectives on race
 with his attempts to think through species as a defining category. Finally,
@@ -89,6 +89,8 @@ them). In short, an understanding of the human based on the geological
 timescale is a basis for London's understanding of what causes extensive
 environmental destruction, but taking the human species as a foundation for
 positive collective action is also his starting point for remediation.
+
+---
 
 And yet, thinking the human geologically as London does has until recently
 constituted a category error. The human is mere biology, and we had thus (until
@@ -111,67 +113,83 @@ Whether this is possible has been a matter of some debate, but such an
 experience is precisely what many of the narrative techniques of literary
 naturalism, and Jack London's work in particular, attempt to induce.
 
----
+<!--s-b-->We can name the thing London seeks to depict "species-being,"
+adopting the Marxian term for a similar concept. In the Marxian framework to which London subscribed, capitalism engenders a
+constant and conscious revolutionization of the means of production, as a
+consequence of which "all that is solid melts into air, all that is holy is
+profaned, and man is at last compelled to face with sober senses his real
+conditions of life, and his relations with his kind."[@marxmanifesto...]
+Under these conditions of constant change, the "real conditions of life" become both a revelation and a
+teleologically mutable object, something realized individually and collectively
+*through its transformation*. Species-being refers to humanity's
+conscious transformation of itself in this larger context of
+revolutionization, a transformation of the collective's defining nature that is 
+inextricable from that of the means of production. Nature, objects, and systems
+of production are simply the "inorganic body" of the human that makes this
+transformative knowledge of the collective self possible.
 
-<!--s-b-->London was not the first and would not be the last to pursue an
-understanding of the species concept on this basis. Karl Marx, building on the
-work of Ludwig Feuerbach, uses the term "species-being" to describe the
-uniquely human faculty of grasping the collective of species externally, or
-objectively, through a combination of externalizing the self through the
-"inorganic body" of object or altered nature and consciously transforming the
-human collective by mobilizing social productive forces. With the heuristic
-challenges posed by the "Anthropos" of Anthropocene, species-being as a concept
+With the heuristic challenges posed by the "Anthropos" in Anthropocene, 
+species-being as a concept
 has reemerged with a new resonance, now making it possible to question what
 role humanness-as-such plays in the environmental crisis.[^ln-sb-reemergence]
-Invoking species-being here, then, can serve to put London at once in the
+Invoking species-being here can serve to put London at once in the
 context of the Marxist theory that was central to his own thinking on a number
-of topics throughout his life[^ln-london-marxism] and the Anthropocene
-discourse he partially predicts. 
+of topics throughout his life[^ln-london-marxism] and the aspects of the 
+Anthropocene discourse he partially predicts. 
 
 [^ln-sb-reemergence]: See e.g.: @johnson_at_2017; @roelvink_rethinking_2013;
 @taylor_tennysons_2016; @wark_molecular_2015. 
 
 [^ln-london-marxism]: See @raskin_jack_2005. 
 
-But "species-being" is a useful term in thinking about London even beyond its
-contextualizing function. As I will show in more detail later, the concept of
+In London's work, as in Marxist and Anthropocene theory, species-being can be
+taken as the place where questions of the human, technology, and the
+environment collide, becoming subject to a unified 
+process of historical contingency. Such historical contingency 
+separates species-being from uncomplicated essentialism. The concept of
 species-being and London's narration of species both assert a degree of mutual
 experience and common subjectivity across members of a species without taking that
-mutuality as totally deterministic of an individual's nature. Species-being is
-therefore non-essentialist in reference to the individual; at least in
-Marx's version of the term, it also avoids ahistorical universals. Marx's version of
-species-being is largely defined by conscious production, and as such,
-transformations
+mutuality as totally deterministic of an individual's nature.  
+Just as, for Marx, transformations
 in the social and technological means of production lead to corresponding
-transformations in the nature of the human. London similarly describes
+transformations in the nature of the human, London describes
 developments
 in species-being according to a combination of individuality and changing
 socio-technological conditions, taking the Promethean symbol of fire as an
 emblem of humanness and urban environments as sites of catastrophic alienation
 from self and species alike. Insofar as human species-being itself is
 responsible for the existential threat to the planet, it will not be due to
-some immutable essence, but rather the result of an historical
-development of the abilities and characteristics that define us.
+some immutable essence in this framework, but rather the result of historical
+developments in the abilities and characteristics that define us.
 
 Considered in terms of humanity's relationship to our natural environment,
-species-being can both be grounds for a critique of humanity and the basis of
+species-being can both be grounds for a critique of the human's role in 
+environmental history and the basis of
 a mobilization. As an historically contingent essence, species-being adopts
 technological development and industrialization (common targets of
 environmentalist critique) as defining aspects of what it means to be
 human---or to be more precise, as features of what it has meant to be human at
-certain moments in an extremely long-durée history. This association in turn
+certain moments in an extremely *longue-durée* history. This association in turn
 forces us to ask whether it is humanness itself that is responsible for the
-environmental damage occasioned by, for example, the industrial revolution.
-This proposition might seem to be a particularly cynical essentialism, but an
-ability to conceive of environmental threats in terms of the species itself is
+environmental damage occasioned by, for example, the industrial revolution, or 
+something else (like capitalism or technological development).
+Such a proposition might seem to be a particularly cynical determinism, but at 
+the same time an ability to conceive of environmental change in terms of the species itself is
 the first step in any suitable response to the crisis that is implied by and
-that gave rise to the term "Anthropocene". Although technically only
+that gave rise to the term "Anthropocene", because nothing less than a 
+global remediation of the trends that led to this point will be enough to prevent 
+catastrophic change.
+
+If a conception of the human species is necessary to mobilize for change at the necessary
+scale, it is also true that this new conception of species is only possible within
+reach of this self-inflicted threat to our existence as a species. Indeed, it may
+be that the "Anthropos" in Anthropocene is always already on the verge of extinction
+at its own hand. Although technically only
 designating a geological epoch defined by the influence of collective human
 activity, the Anthropocene has always been more than a passive marker of
-a temporal boundary. Even in some of the earliest uses of the term, it was
-already shorthand for anthropogenic destruction of the planet through means as
-diverse as carbon emission, deforestation, population growth, and animal
-domestication as well as the need for immediate
+a temporal boundary,
+even in its earliest instantiations serving as shorthand at once for anthropogenic 
+destruction of the planet and the need for immediate
 remediation.[@crutzen_geology_2002, @crutzen_anthropocene_2006] Reviving the
 "human species" as a universalizing concept offers both an explanation of this
 destruction and a response to it. Indeed, as Dipesh Chakrabarty puts it in his
@@ -190,8 +208,9 @@ lifeforms coming into being and disappearing in a geological moment.
 [^ln-chak-ndw]: @chakrabarty_climate_2009 221. Nick Dyer-Witheford also picks
 up on this Benjaminian resonance: @dyer-witheford_1844/2004/2044:_2004 5.
 
-*Before Adam* ends on this same note of ephemerality---a simultaneous
-ephemerality of individual and species. The Folk, after all, do not survive to
+*Before Adam* ends on a similar note of ephemerality, of individual and species
+alike, defined by equally imminent senses of the species' coming-to-be and its 
+extinction. The Folk, after all, do not survive to
 become human. Though we don't know their fate for certain, it is clear that
 they are so diminished as to form barely a hereditary trace in the makeup of
 the modern human compared to the dominant Fire People, a mere eddy in the gene

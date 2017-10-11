@@ -1,6 +1,30 @@
 ---
 ---
 
+
+# stabs at a human expression of human species-being
+
+In the Marxian framework to which London subscribed, capitalism engenders a
+constant and conscious revolutionization of the means of production, as a
+consequence of which "all that is solid melts into air, all that is holy is
+profaned, and man is at last compelled to face with sober senses his real
+conditions of life, and his relations with his kind."[@marx_communist_... ?]
+Under these conditions of constant change, the "real conditions of life" become both a revelation and a
+teleologically mutable object, something realized individually and collectively
+*through its transformation*. Species-being refers to humanity's
+conscious transformation of itself in this larger context of
+revolutionization, a transformation of the collective's defining nature that is 
+inextricable from that of the means of production. Nature, objects, and systems
+of production are simply the "inorganic body" of the human that makes this
+transformative knowledge of the collective self possible.
+
+...With
+
+....defining
+"life-activity" within this context, but unlike in the case of other animals,
+"Marx's human [...] is a species that knows itself in what it makes."[johnson
+278] ...
+
 # The Human Drift
 
 OMG
