@@ -1,4 +1,26 @@
 
+
+
+
+<!-- due process: If there is a program of guided *genetic* evolution, it
+would appear to be through a collective decision of which Herlanders
+reproduce---which, of course, leads to a different sort of problem. In
+a peculiar departure from the precedent set by Thomas More's *Utopia* and
+followed by many utopian novels since, Gilman decides not to illuminate the
+decision-making process. The result is a worrying appearance of centralized
+authority: even though there appears to be a society-wide consensus regarding
+the values and direct actions of Herland as a state, we are never allowed to
+see how this consensus comes about. This is particularly troubling when
+considering who is allowed to reproduce, as there is no guarantee of respect
+for individual rights or authority over the processes of one's own life and
+body. Just as *Herland* predicts many of the environmental insights of the
+post-war period, then, it appears to predict some of its controversies. The
+antagonism between environmental stewardship and a booming population would
+come to a head soon after the birth of the modern environmental movement,
+particularly in the work of Garrett Hardin, Paul Ehrlich, and others.-->
+
+
+
 ## uh thesis...
 
 

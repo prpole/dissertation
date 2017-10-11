@@ -55,7 +55,7 @@ Jack London uses the narrative techniques of naturalism to represent the
 experience of species as such, taking a natural-historical category that
 touches the geological timescale as the basis of an idealized human collective.
 Focusing particularly on his well known short story "To Build a Fire" (1908)
-and the less prominent agricultural novel *The Valley of the Moon* (1915), this
+and the less prominent agricultural novel *The Valley of the Moon* (1913), this
 exploration will ultimately suggest that London had preemptively taken up one
 of the chief heuristic challenges posed by the Anthropocene as a theoretical
 discourse almost a century before that discourse began: to consider the place
@@ -259,8 +259,8 @@ program. It risks ignoring half a century of critical theory, the very basis of
 which is opposition to the kind of essentialism a discourse of the human
 species would seem to imply. At least in the humanities, a proliferation of
 alternate terms has resulted, among them the Capitalocene,
-the Plantationocene, and the Cthulucene.[@moore_capitalism_2015;
-@harraway_anthropocene_2015] These searches for an alternative term have
+the Plantationocene, and the Chthulucene.[@moore_capitalism_2015;
+@haraway_anthropocene_2015] These searches for an alternative term have
 one thing in common: they understand the "anthropos" in Anthropocene as an even
 distribution of blame for actions the benefits of which have historically been
 anything *but* even. <!--That Jack London invokes the species as a heuristic hardly
@@ -276,19 +276,19 @@ concept, points out that the Anthropocene's universalism "seems to wreak havoc
 on the key principles of historical understanding and political commitment that
 have animated not only Chakrabarty's preceding body of work, but the broader
 project of postcolonial critique to which that work has been dedicated."
-[-@baucom_human_2012 3] But to consider the species concept as a universal of
+[@baucom_human_2012 3] But to consider the species concept as a universal of
 the same type as those that postcolonial critique has opposed in the past,
 Baucom continues, would be to miss Chakrabarty's point. It is not the
 universalism that has been widely opposed in the name of a struggle for the
 "freedom of difference," but a "natural--scientific" universalism that presents
-a new paradigm entirely.[-@baucom_human_2012 3] As Baucom reads it, in this new
+a new paradigm entirely.[@baucom_human_2012 3] As Baucom reads it, in this new
 paradigm "freedom can no longer be conceived of as the freedom of difference
 against the power of the globalizing same." Rather, "freedom" now relies on
 survival through a collective effort to save the planet by transforming our
 relationship to it, and this universal concept becomes a requirement of freedom
 itself. The pursuit of freedom is now "a task of the species, as species, for
 the species. It is a universal human challenge, a challenge of humanity's
-shared natural history and its shared planetary future."[-@baucom_human_2012 3]
+shared natural history and its shared planetary future."[@baucom_human_2012 3]
 Baucom shifts the universalizing gesture of the "anthropos" prefix onto the
 commonality of a deep past and the preservation of an equally deep future (one
 hopes), temporalities that fall beyond the scope of historiographies of the
@@ -709,7 +709,7 @@ the idea that instinct is communicable is, in considering the species,
 remarkable---because one might presume that instinctual knowledge is either
 a shared *human* instinct (and does not need to be communicated) or is
 inaccessible because it belongs to another species and is, *ipso facto*, unable
-to communicated. London not only imagines a social life that goes beyond the
+to be communicated. London not only imagines a social life that goes beyond the
 species, but suggests that such a social life is an absolute necessity for
 mutual survival in certain environments.
 
@@ -1363,7 +1363,7 @@ that such universalism has been used to justify in the past.
 [^ln-reesman]: This inconsistency has recently been noted elsewhere:
 "In any twenty-first-century usage of the word, London could certainly be
 termed a racist, but...not a very good (that is, consistent)
-one"[@reesman_jack_2009 34]
+one"[@reesman_jack_1992 34]
 
 <!--[What is most startling about the note is that the two
 statements, taken together, seem to disenfranchise much of humanity. Failing
@@ -1558,7 +1558,7 @@ much of the land around Oakland, whose farms they pass through on their search.
 interprets their journey as a necessary step in their racial
 self-identification, exercising "a 'right' granted [them] by birth but
 requiring at the same time that [they] lay claim to it."[Qtd. in
-@gair_citizenship_1993 426] Gair's analysis effectively captures the
+@gair_way_1993 426] Gair's analysis effectively captures the
 motivations Billy and Saxon voice as they set out from Oakland, as well as the
 common nativist tropes they embody.
 

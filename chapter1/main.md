@@ -4,7 +4,7 @@ author: Phillip R. Polefrone
 fontsize: 12pt
 geometry: margin=1in
 bibliography: bibliography.bib
-csl: csl/mla.csl
+csl: csl/mla-note.csl
 ...
 
 ### Introduction
@@ -15,27 +15,27 @@ were cared for; a land that looked like an enormous park, only that it was even
 more evidently an enormous garden”; a land with “clean, well-built
 roads,…attractive architecture,…[and] ordered beauty”; a land more “petted”
 than any before seen (“even in Germany”), in which practically all of the trees
-are “[f]ood-bearing” (42-4). It is a world unto itself that blends the built
-and natural environments to free its human and nonhuman inhabitants from
-scarcity. The soil has been improved and the wildlife managed with such care
-that no farming is necessary in the way we understand it---the land *provides*,
-without the coercion of agricultural labor. Nobody seems to direct the
-maintenance of this environment, and yet it is maintained by the effortless and
-seemingly automatic contributions of Herland's people. Some keep careful watch
-for destructive elements of the ecology, while others bring the most
-nutritional plants and nuts to communal eating houses---taken together, they
-completely fulfill Herland's need for meals just as reliably and evenly as the
-environment provides the ingredients. This is a society that has grown together
-with its environment in mutual sustenance, a garden in which the human grows in
-tandem with other organisms, each producing naturally what the other needs to
-survive. Herland's forests are not, in other words, the “rank” and “tangled”
-vegetation that Gilman sees in the world beyond (67). The people and land alike
-have evolved beyond competition and into a degree of refinement attainable only
-through cooperation.
+are “[f]ood-bearing.”[@gilman_herland_2012 42-4] It is a world unto itself that
+blends the built and natural environments to free its human and nonhuman
+inhabitants from scarcity. The soil has been improved and the wildlife managed
+with such care that no farming is necessary in the way we understand it---the
+land *provides*, without the coercion of agricultural labor. Nobody seems to
+direct the maintenance of this environment, and yet it is maintained by the
+effortless and seemingly automatic contributions of Herland's people. Some keep
+careful watch for destructive elements of the ecology, while others bring the
+most nutritional plants and nuts to communal eating houses---taken together,
+they completely fulfill Herland's need for meals just as reliably and evenly as
+the environment provides the ingredients. This is a society that has grown
+together with its environment in mutual sustenance, a garden in which the human
+grows in tandem with other organisms, each producing naturally what the other
+needs to survive. Herland's forests are not, in other words, the “rank” and
+“tangled” vegetation that Gilman sees in the world beyond.[@gilman_herland_2012
+67] The people and land alike have evolved beyond competition and into a degree
+of refinement attainable only through cooperation.
 
 *Herland* is often read primarily for its proto-feminist vision of a society
 populated only by women---and understandably so; this is the explicit
-centerpiece of the novel. <!-- summary -->The short work consciously follows
+centerpiece of the novel.[^ln-feminist-readings] <!-- summary -->The short work consciously follows
 the utopian structure that has been standard since Thomas More: it describes an
 isolated country discovered by a small expedition, combining narrative elements
 with essayistic elaboration of a society that compares favorably with the
@@ -63,6 +63,8 @@ when they want to. All of Herland is descended from this single woman. In their
 Herland residency, the men learn from the Herland way of life, and except for
 the irredeemably chauvinistic Terry, all come away deeply influenced by the
 women of Herland and their values. 
+
+[^ln-feminist-readings]: See @sutton-ramspeck_introduction_2013 22;
 
 After being self-published in Gilman's one-woman journal, *The Forerunner*, in
 1915, the novel was largely forgotten until it was revived by feminist critics
@@ -235,53 +237,56 @@ control Ecomoderns assume out of hand is that it hubristically simplifies these
 entanglements, reducing a vast multitude of actors to a single, determining
 one. 
 
-The problem with ignoring entanglement is ethical, but it also runs up against
-the same kinds of limits the Herlanders do when they find themselves in an
-open-air biosphere, short on resources and long on hungry bellies, and above
-all ill equipped to work with their environment to solve the problem.
-Entanglement becomes a matter of cold, wet fact when we recognize that this
-multitude of actors determines how one sees the material limitations to
-economic growth. If human actors are the only thing that make a difference, we
-can surely surpass our immediate limitations, just like we always do, no matter
-how unknown the state of our future environment. This assumption undergirds the
-Manifesto's peculiar claim that "there is still remarkably little evidence that
-human population and economic expansion will outstrip the capacity to grow food
-or procure critical material resources in the foreseeable future"---a notion
-can only be maintained within the limited frame of the economist's graph. As
-Eileen Crist points out, the Manifesto only admits for evidence certain
-"insuperable obstacle[s]" to growth, "such as a hard agronomic boundary in food
-production or the depletion of some indispensable and non-substitutable
-resource" (251). These variables leave out the very real disappearance of
-biodiversity to an unheard-of degree, mass extinctions on a scale that would
-usually be understood as an epoch-defining catastrophe---or Crist puts it:
-"mass extinction does not have a technical solution" (250-1, 247). But even the
-economist's variables should not be so easily passed over. Absolute agronomic
-limits may not have been encountered yet, but rapid ecological collapses in
-response to climate change could bring those limits rapidly into play. 
+The problem with ignoring entanglement is ethical, in that it devalues the
+contributions of non-human actors, but it also runs up against the same kinds
+of limits the Herlanders do when they find themselves in an open-air biosphere,
+short on resources and long on hungry bellies, and above all ill equipped to
+work with their environment to solve the problem. Entanglement becomes a matter
+of cold, wet fact when we recognize that this multitude of actors determines
+how one sees the material limitations to economic growth. If human actors are
+the only thing that make a difference, we as a species (imagined as an
+uncomplicated collective) can surely surpass our immediate limitations, just
+like we always do, no matter how unknown the state of our future environment.
+This assumption undergirds the Manifesto's peculiar claim that "there is still
+remarkably little evidence that human population and economic expansion will
+outstrip the capacity to grow food or procure critical material resources in
+the foreseeable future"---a notion can only be maintained within the limited
+frame of the economist's graph. As Eileen Crist points out, the Manifesto only
+admits for evidence certain "insuperable obstacle[s]" to growth, "such as
+a hard agronomic boundary in food production or the depletion of some
+indispensable and non-substitutable resource" (251). These variables leave out
+the very real disappearance of biodiversity to an unheard-of degree, mass
+extinctions on a scale that would usually be understood as an epoch-defining
+catastrophe---or Crist puts it: "mass extinction does not have a technical
+solution" (250-1, 247). But even the economist's variables should not be so
+easily passed over. Absolute agronomic limits may not have been encountered
+yet, at least not in the sense of food consumption truly outstripping the
+capacity for food production, but rapid ecological collapses in response to
+climate change could bring those limits rapidly into play. 
 
 In *Herland*, Gilman offers a way of thinking through situations like the one
-we face now, in which the ethical limits of control abut the material limits of
-a full world. More specifically, her novel and its scientific context
-constitute both the deep roots of "good Anthropocene" thinking and a unique
-model of it, acknowledging the scale of human influence on the environment
-while suggesting that this influence should be guided rather than lessened. But
-Gilman's good Anthropocene realizes what more contemporary formulations of it
-too often miss: namely, that if embracing human control of natural systems can
-lead to a more sustainable world ecology, we will have to rethink some of the
-fundamental human categories that have been most impactful. Her Herlanders
-perform just such a reevaluation: revising their concepts of of labor, value,
-and inhabitation becomes the basis of their survival in the face of
-circumstances comparable to those of our full, overtaxed, and deteriorating
-planet. This version of the good Anthropocene is premised on a web of mutual
-determination between the physical environment, the economy, and social
-structures, arguing for a more nuanced understanding of "progress" that relies
-on refinement rather than growth. Despite this apparent foresight, however, it
-also foreshadows the hubris and ethical problems that mar the very notion of
-a "good" Anthropocene a century later. Reading *Herland* in the Anthropocene,
-then, demonstrates the persistence of the idea that the human is simultaneously
-the biggest threat to the health of the world ecology and its only possible
-savior. It also offers an anticipatory example of the conceptual reworking that
-the Anthropocene demands.
+faced by twenty-first-century environmentalists, in which the ethical limits of
+control abut the material limits of a full world. More specifically, her novel
+and its scientific context constitute both the deep roots of "good
+Anthropocene" thinking and a unique model of it, acknowledging the scale of
+human influence on the environment while suggesting that this influence should
+be guided rather than lessened. But Gilman's good Anthropocene realizes what
+more contemporary formulations of it too often miss: namely, that if embracing
+human control of natural systems can lead to a more sustainable world ecology,
+we will have to rethink some of the fundamental human categories that have been
+most impactful. Her Herlanders perform just such a reevaluation: revising their
+concepts of of labor, value, and inhabitation becomes the basis of their
+survival in the face of circumstances comparable to those of our full,
+overtaxed, and deteriorating planet. This version of the good Anthropocene is
+premised on a web of mutual determination between the physical environment, the
+economy, and social structures, arguing for a more nuanced understanding of
+"progress" that relies on refinement rather than growth. Despite this apparent
+foresight, however, it also foreshadows the hubris and ethical problems that
+mar the very notion of a "good" Anthropocene a century later. Reading *Herland*
+in the Anthropocene, then, demonstrates the persistence of the idea that the
+human is simultaneously the biggest threat to the health of the world ecology
+and its only possible savior. It also offers an anticipatory example of the
+conceptual reworking that the Anthropocene demands.
 
 <!--These contradictions cut to the heart of
 the naturalist philosophy in the way they deal with environmental determinism.
@@ -849,10 +854,375 @@ reifications of perspectives on nature itself, which occur in the way that
 interaction with the land occurs, and in this case, in the way in which the
 land is shaped physically and narratively. 
 
+<!--mark1-->
+
+<!--### Inhabitation as Coevolution is this still in?-->
+
+<!-- need a defining statement of how she changes the idea of inhabitation,
+just as I need/worked on it for ambient labor--> 
+
+[+Lukacs] "Inhabitation" is not a word that Gilman uses, but it describes
+perfectly Herland's careful attention to requirements and modes of living. The
+effects of human life on the immediate environment come into focus by making
+inhabitation an object of inquiry, as Herlanders do and as Gilman did
+throughout her body of work. But attention to forms of inhabitation also makes
+those forms of inhabitation mutable. Under capitalism, inhabitation has
+developed, notoriously, under the paradigm of the country and the city, with
+the country's people and resources increasingly sapped to support industrial
+development in the cities (discussed elsewhere in this work as a "metabolic
+rift"[^ln-metabolic-rift-elsewhere]). Free from the determining influence of
+market conditions, Herland is free to reimagine inhabitation just as it
+reimagined labor. Similarly, what results is a greater degree of
+sustainability, but it also introduces a degree of *guided coevolution* into
+Herland's social ecology. The Hobbesian war of all against all, so essential to
+Darwinian competition and its misapplications to social life, is deemphasized
+in favor of interspecies cooperation---a paradigm no less evolutionarily
+essential in nature, but less commonly cited in theories of social evolution.
+And yet even this seemingly more palatable social application of evolutionary
+theory presents major challenges to both human and environmental ethics that
+any form of teleological progress towards a good Anthropocene will have to
+address: challenges grounded in questions of consensus and control, of whose
+*telos* is allowed to set the agenda of progress and how it comes to be
+accepted.
+
+[^ln-metabolic-rift-elsewhere]: See my chapter on Jack London. In short, the
+metabolic rift is a widening disruption in the "metabolic" exchange of
+nutrients between town and country....
+
+Inhabitation does not come under scrutiny for its own sake in *Herland*, but as
+a way of pursuing a teleological coevolution between the human and its
+environment. An extension of Ward's theories of self-guided evolution, Gilman's
+thinking on the ecological aspects of coevolution first become visible in an
+article that she published in *Circle Magazine* in 1908, “Modern
+Beatitudes---The Newness of the Earth.” Here she suggests that the earth and
+the human species are both mere children, as yet relatively undeveloped but
+constantly growing into balance with one another. The evolution of the human
+race is framed here as a gradual accretion of understanding of the effects of
+human activity on the earth---an understanding that has erupted as the
+Anthropocene---coupled with a mass-adaptation based on that understanding.
+After describing the gradual exhaustion of the earth’s resources by “our
+present methods,” Gilman reassures us that the process will not continue to its
+catastrophic conclusion, for we 
+
+> are waking up in good earnest these days; ceasing to be a baby race, a set of
+ignorant, selfish, short-sighted infants, madly quarreling with one another
+over the fruits most easily gathered. We are young yet, but no longer mere
+children; young with the splendid hope and courage of youth, but not with the
+weakness and irresponsibility of infancy.…All we have to do is to apply
+ourselves to study the conditions of life on earth, and learn to meet them.
+
+Framing the evolution of the species in terms of the maturation of an
+individual opens Framing puts evolution in the same model of self-guided progress that Ward's
+theories lay out. As Gilman elaborates this system, humanity is saved by its
+inevitable development into a wiser, gentler race. Progress is not social
+Darwinist Herbert Spencer’s steady march from simplicity to complexity or
+continued expansion to the edges of the Earth, ignoring all limits. It is
+instead a renunciation of wastefulness and destructive behavior, which is to be
+replaced by the more careful management of the natural environment. While
+Gilman's ideal humanity is more subject to limits to growth than Ward's appears
+to be, it is also more able to effect positive ecological change. With
+anticipatory echoes of Herland and the Ecomoderns, she suggests that there “is
+absolutely nothing prevent us from reforesting our hills, checking our floods,
+preserving our soils, maintaining the balance of nature plus the art and skill
+and learning of mankind.” The paradigm of the human struggling against the
+natural world is replaced by the simultaneous development of both realms. By
+framing this development in terms of the growth of the human species---and
+indeed, of the planetary system as a whole---she defines her vision of
+coevolution by an increase in the health of human and environment alike, not an
+opposition to be resolved by conflict. Refinement of the human ecology replaces
+dominance and expansion as the means by which humanity will thrive in "Modern
+Beatitudes," just as development without growth would become the key to
+sustenance in *Herland*.
+
+<!-- this would be most useful to show, briefly, that the form this coevolution
+takes is guided by subtle cultural/educational innovations; but may not be
+necessary/evidence could be put in footnote to the claim.-->
+
+Guided evolution, however, raises questions regarding the evolutionary
+mechanism---this kind of guidance in a purely genetic understanding of
+evolution would imply a system of eugenics that is not (at least not
+explicitly) part of Gilman's system. Like Ward, she emphasizes environmental
+influences over biological variation in evolution, forwarding a version of
+Jean-Baptiste Lamarck's (now discredited) evolutionary theory rather than
+a strictly Darwinian one. The legacy of these competing theories is imported
+directly into the novel. In an exchange between Terry and the Herlander Zava,
+for example, Terry refers to August Weissmann’s refutation of Jean-Baptiste
+Lamarck,[^ln-ramsbeck] saying that “acquired traits are not transmittable.” The
+response to this refutation identifies guided cultural development and
+education as the mechanism of change, even if one were to concede a degree of
+biological determination:
+
+>“If that is so, then our improvement must be due either to mutation, or solely
+to education,” [Zava] gravely pursued. “We certainly have improved. It may be that
+all these higher qualities were latent in the original mother; that careful
+education is bringing them out; and that our personal differences depend on
+slight variations in prenatal condition.”
+
+>“I think it is more in your accumulated culture,” Jeff suggested. “And in the
+amazing psychic growth you have made.” (103)
+
+<!-- backgrounding section: the dangers of the garden paradigm applied to human
+ecologies--> 
+But there ethical problems even within the anthropocentric frame of Gilman's
+argument. The first is that "guided evolution" unavoidably introduces
+the concept of eugenics, even with biological and genetic determination
+deemphasized as it is in Gilman's understanding of evolution. These
+implications would be hashed out by Gilman herself fifteen years after
+*Herland*, in an unpublished (perhaps unpublishable) article called “Gardening
+and the Baser Passions.” Though evidently an attempt at comedy---or so it
+is described in a letter from Charlotte Barbour, one of Gilman’s editors at
+Putnam, explaining that the essay would not be accepted by horticulture
+journals (Barbour)---in such a grim context the effect is anything but. In
+sharp contrast to a sentimental view of the garden parodied early in the
+article, Gilman says that the main work of the gardener is not to plow, plant,
+or harvest---rather, “his main business, his longdrawn incessant effort, is to
+kill.” From this premise the rest of the essay describes the many and various
+ways to kill as well as the necessity to “kill without ceasing” if the
+gardener’s “plants are to live,” finally dissolving into a litany of the
+many organisms detrimental to the gardener’s efforts. Carried directly into
+*Herland* or any human context, this would foreshadow the most horrifying
+ideologies of the years to come.
+
+At least in *Herland*, however, that extension does not appear to have
+occurred: even though the garden is the operative metaphor for Herland's human
+inhabitants as well as its nonhuman ones, the presence of humans prevents
+murder as a means of evolutionary guidance. Although, as Cynthia J. Davis
+points out, it would be incorrect to suggest that none of the reprehensible and
+often racist views that defined her conservative old age had developed when she
+was writing *Herland*, it seems that not until “her later years” did “Gilman
+[become] a decided proponent of eugenics” in the way she is if her essay on
+gardening is to be taken as extending to the garden of her society (“His and
+Herland” 82). Even then, the violence of her gardening essay never presents
+itself. Indeed, a shift in the way she considers the *literal* garden is
+documented in her correspondence well after the time of *Herland*. In a letter
+to Alice Park on June 29th, 1928, some two years before the rejection of the
+“Gardening” essay and thirteen years after *Herland*, Gilman writes: 
+
+> All May the planning and planting, all June the weed-weed-Weeding. I’ve changed
+my mind about the word “fighting” as applied to weed. If the desire to kill and
+desperate efforts thereto, against the ceaseless pressure of an en-enemy
+[*sic*], a million-headed enemy which rises up like Anteus is not a fight, what
+is it? (*Selected Letters* 272)
+
+Her acceptance of gardening as "fighting" in 1928 indicates that her position
+prior to that point was a gentler (if willfully myopic) view of managed
+growth---perhaps best defined by a metaphor of “planting” rather than
+“weeding.” Though by no means a resolution to the novel’s eugenics problem (it
+merely shifts to a different type of eugenics), this emphasis on traits that
+are encouraged over those that are discouraged allows Gilman to avoid the overt
+brutality that she would later embrace regarding literal gardening.
+Accordingly, the role of the human as simultaneous producer and product of the
+environment is more complicated as it appears in *Herland* than this later
+depiction of the gardener's task.
+
+[^ln-eugenics-criticism]: The topic of eugenics, along with the question of
+race in Gilman more generally, has been a major and controversial topic of
+Gilman scholarship. The initiating essay in this strand of criticism is Susan
+S. Lanser’s 1989 essay “Feminist Criticism, ‘The Yellow Wallpaper,’ and the
+Politics of Color in America,” which Jennifer L. Fleissner says has since
+become “hegemonic” (Fleissner 95). Cynthia J. Davis provides a rigorous
+historical and biographical context to eugenics in *Herland* in her essay on
+Gilman and Lester F. Ward, “His and Herland.” In a somewhat different vein,
+Fleissner urges a re-historicization of the eugenic conversation in terms of
+middle-class women, nineteenth-century feminism, and the rise of a “therapeutic
+culture” as it relates to race in America (92-5).
+
+<!-- does this need to be right after the quote? --> At stake here are the
+comparative roles of genetics and culture to evolutionary development. The
+first sentence can be seen as weighing Darwinism against Lamarckism, but no
+clear conclusion is reached. Zava presents a unique synthesis of biological and
+environmental determinism in which everyone descended from the original
+mother---that is, all Herlanders---contains dormant unrealized powers that only
+careful nurture can bring out. In this possibility, prenatal *conditions*
+(merely a hyper-localized environment) rather than primarily genetic makeup
+determine the distinctions between individuals, with even "qualities that were
+latent in the original mother" relying on external conditions to manifest. But
+the evolutionary "environment" is not merely physical. We see in Jeff’s
+suggestion that “culture” and communal “psychic growth” are just as important,
+both of which are instilled by a process of targeted education. Gilman’s
+version of evolution thus relies on a complex interrelation between three
+elements: genetic inheritance, environmental influence, and education. Here and
+throughout the novel, none of these elements becomes central enough to be seen
+as a mechanistic determinant; the exploration of each must necessarily take
+place in terms of its interaction with the others.
+
+[^ln-ramsbeck]: See Beth Sutton-Ramsbeck’s note on on the passage in *Herland
+and Related Writings* (103 n.1).
+
+<!-- pick up here -->
+
+
+<!-- Domestic versus Ambient Labor-->
+
+To Gilman, then, guided coevolution means guidance of the environmental and
+cultural conditions in order to make human activity and the rest of the ecology
+become more mutually supporting. Ambient labor is part of this equation, in
+that making the environment itself the object of labor makes ecological
+despoliation contrary to the aims of human activity. But labor is not the only
+interaction with environment. Gilman presents a form of inhabitation in which
+she revises distinctions between the home and the world, interior and exterior,
+and the attendant modes of interacting with space. When the natural world is
+treated as though it were a home, human and environment become expressions of
+each other, mutually dependent and evolutionarily bound.
+
+This reevaluation of inhabitation developed first in Gilman's economic writing,
+in which she was less concerned with the state of the planet than with the
+economic status of domestic labor. Throughout her career, she sharply
+criticized the relegation of women to the domestic sphere and the exploitation
+inherent in domestic labor;[^ln-gilman-on-domestic-labor] among the most
+programmatic of the results was her campaign for the kitchenless household. In
+*Women and Economics*, she argues that “change in the economic position of
+woman from dependence to independence must bring with it a rearrangement of
+these home interests and industries” (224). Thus, she lays out a vision of
+“apartments…without kitchens” except those “belonging to the house from which
+meals could be served to the families in their rooms or in a common
+dining-room,” hoping thereby to liberate the “hundreds of thousands of women in
+New York City alone who are wage-earners, and who also have families”
+(242-3).[^ln-domestic-labor-refs] 
+
+Gilman carried her thoughts on domestic reform directly into her ecological
+thinking in *Herland*. In a passage that could be taken right from
+a kitchenless household pamphlet, Van says, “For food we either went to any
+convenient eating-house, ordered a meal brought in, or took it with us to the
+woods, always and equally good” (144). This might seem like a departure from
+the ambient labor paradigm that marks most of *Herland*, and indeed, it does
+imply the existence of jobs that are not directly engaged in environmental
+production---preparing and delivering food for restaurant-goers seems almost
+modern, despite not being wage-labor. Maintaining these communal eating houses,
+however, although it is not discussed directly, would bring food consumption
+into the larger, self-sustaining system of Herland as a whole. Making cooking
+and eating a public, shared activity reduces material waste and makes it
+possible to manage entirely the waste that *is* produced---and since we know
+soil health is of chief concern to Herlanders, we can assume that the nutrients
+in human and food waste are returned to circulation. Herland's communal
+kitchens would thus fertilize the soil that in turn produces the material that
+those kitchens and their dependents need to survive. The stated goal of
+Gilman’s domestic reform---of incorporating domestic labor into the sphere of
+the economy by opening it to division of
+labor[^ln-division-labor-refs]---becomes in *Herland* an incorporation of
+domestic labor into ecological management. In this ecological garden economy,
+environmental production *is* that economized version of domesticity.
+
+[^ln-gilman-on-domestic-labor]: See especially *Women and Economics*, *The
+Home: Its Work and Influence*, and “The Waste of Private Housekeeping.” For the
+wider context of domestic reform in Gilman’s work and in the context of the
+early twentieth century, see Yvonne Gaudelieus’s “Kitchenless Houses and Homes:
+Charlotte Perkins Gilman and the Reform of Architectural Space,” Polly Wynn
+Allen’s *Building Domestic Liberty*, and Dolores Hayden’s “Two Utopian
+Feminists and Their Campaigns for Kitchenless Houses.”
+
+[^ln-domestic-labor-refs]: See also Allen’s *Building Domestic Liberty*: “By
+the middle of the nineteenth century, roughly one-third of American women
+entered the paid labor force on a temporary basis, usually until they married.
+Only the poorest women---immigrants, widows, and free blacks---engaged in a
+lifelong effort to make ends meet financially by working outside of their
+homes” (12). See also Chang, especially 323-4; and Fusco 420-1.
+
+These communal kitchens are characteristic of all domestic space in Herland:
+made public and brought into a continuum with the environment beyond it.
+Permeating borders between interior and exterior space, the garden model of
+society delineates a vision of a productive home as the spatial equivalent of
+ambient labor. The complicated lines of home and world are born out by
+a conversation between Terry, the mouthpiece of domestic imprisonment, and
+Jeff, the character who eventually becomes a male Herlander and appears to
+speak the Herland party line: 
+
+> “*Home!*” [Terry] sneered. “There isn’t a home in the whole pitiful place.”
+
+> “There isn’t anything else, and you know it,” Jeff retorted hotly. (121)
+
+In Jeff’s explanation, “home” means so much that it has, to Terry, effectively
+become meaningless. By staging this argument, Gilman narrates the ambiguous
+domesticity that results when the entire world is one's "home." If foresting is
+both the base of the Herland economy and part of making dinner, can it be
+called housework? If the kitchen and pantry circumscribe the world and all
+labor, is everything housework? The rhetorical question that Gilman repeatedly
+included in lectures to women’s clubs becomes paramount: “Shall the home be our
+world? or the world our home?” (qtd. in Allen 18). The imprisonment implicit in
+the first of Gilman’s options---“the home be[ing] our world”---is based on the
+exclusion of domestic space from the systems beyond it. But taking the “world
+[as] our home” implies an application of a domestic paradigm of labor to
+a larger system.[^ln-expanding-domestic] Jennifer Fleissner has argued that
+*Herland* is an attempt to resolve the former paradigm, domesticity as
+imprisonment, which is so memorably depicted in "The Yellow Wallpaper." Whereas
+this early short story contains the image of a *walled* garden and links the
+labor of ordering to mental collapse, this very same ordering become the cure
+to that madness when women and the home comprise the entire world
+[@fleissner_women_2004 87, 95]. Considering world-as-home in the context of
+Gilman's broader environmental insights, it becomes clear that this
+reevaluation of the home and inhabitation is also part of achieving a greater
+ecological maturity, aligning human activity with ecosystem health.
+
+This ecological maturity and the new concepts that comprise it do not arise
+randomly, however. Education forms the final piece of Gilman's coevolutionary
+system and is the means by which it is developed and maintain across
+generations, allowing individual social and cultural adaptations to the
+environment to accrue over time.[^ln-simone] The Herlanders model and reinforce
+the dialectic with environment through a ludic system of education that is just
+as ambient as their system of labor. When asked about Herland schools, the
+Herlander Somel says, “With the babies…we first provide an environment which
+feeds the mind without tiring it…. But as early as possible…we provide choices,
+simple choices, with very obvious causes and consequences” (128). The system of
+education graduates from an accretion of environmental understanding to the
+gradual realization that human action affects that environment, just as Gilman
+describes in “Modern Beatitudes.” 
+
+[^ln-simone]: For a broader view of gilman’s interest in education reform, see
+Deborah M. De Simone’s “Charlotte Perkins Gilman and Educational Reform.”
+
+<!-- why bother with games? What's the point here? Is it just more ambient
+labor stuff?-->Moreover, the second stage of education is achieved through *games* that
+“develop the faculties [they] wish to encourage.” Games are shown to be
+foundations of pedagogy---and, thus, social determinants---in the incident near
+the beginning of the novel in which the men’s escape attempt is interrupted by
+an invitation to play. Three Herlanders set up a pile of stones with a yellow
+nut on top, and invite the men to throw stones at the pile. They fail miserably
+until “Jeff succeed[s] in bringing the whole structure to the ground. It took
+me [Van] still longer, and Terry, to his intense annoyance, came third.”
+Experience of the pedagogic built environment is followed by swift instruction
+and the presentation of an alternative method:
+
+> Then Celis set up the little tripod again, and looked back at us, knocking it
+down, pointing at it, and shaking her short curls severely. “No,” [Celis] said.
+“Bad---wrong!”…Then she set it up once more, put the fat nut on top, and
+returned to the others; and there those aggravating girls sat and took turns
+throwing little stones at that thing, while one stayed by as a setter-up; and
+they just popped that nut off, two times out of three, without upsetting the
+sticks. (69)
+
+The contrast between the two performances is severalfold. The men’s idea of
+victory, for which they are reprimanded, destroys the entire tower; the women
+strike only what they mean to, with minimal disruption to the larger structure.
+The men compete against each other and against the women, sulking when they
+lose and becoming divided; the women cooperate for the most efficient group
+performance, systematizing the resetting of the structure and taking turns, and
+their performance is described not according to the relative success of the
+members but according to their aggregate success rate. The difference between
+the two types of competition is the difference between boxing and a boat race:
+success of the individual in the men’s group leads to the failure of the rest
+of the group, while the success of a single Herlander contributes to communal
+benefit. The competitive tendencies of the men destroy the waste time and
+energy, in contrast with the precise and cooperative systems of the women,
+which culminate in a system of cyclical and effortless play. This basic
+structure describes the Herland school system, which becomes at the higher
+levels a system of ecological instruction. (Recall the “forester” passage
+discussed in the introduction: Ellador’s interactions with insects are guided
+by a “bug teacher,” and this guidance leads her to forestry.) Education in
+Herland discourages tendencies like competition, which disrupt the managed
+ecology of the garden, while it reinforces the gardener’s mentality of cyclical
+action and cooperative development. Social evolution brings the development of
+society into line with the development of the environment, managing the
+material interchange of human and nature.
+
+
+
+
+<!--mark2-->
+
 <!-- transition from control-limitation/world-construction subsection to
 economy/ambient labor section-->
 
-It is hard to maintain, however, any distinction of "perspectives on nature"
+<!--It is hard to maintain, however, any distinction of "perspectives on nature"
 from perspectives on human economic and social systems in Herland. It would be
 more accurate to say that these carefully shaped landscapes embody *Herland*'s
 understanding of the web of mutual determination that always unites human and
@@ -860,21 +1230,24 @@ nonhuman systems, but does so especially clearly here. Understanding this
 interdependence causes Herlanders to transform their system of labor and
 economics as well as their physical landscape, and these combined
 transformations allow them to survive the problems of a full world with scarce
-resources. 
+resources. -->
 
-Thinking about Herland through an economic lens is an especially clear way to
-demonstrate this interdependence, precisely because doing so is so difficult:
-normal economic categories fail to describe the system, and new ones are
-required. The meaning of "labor" in a world without money is always going to be
-ambiguous, but here the blending between economic, ecological, and social
-structures adds an additional level of difficulty. The wholesale transition of
-Herland's natural environment to an orderly progression of ecological zones
-appears to have happened through a process that shares the characteristics of
-a natural ecological progression (with humans included in the ecology, of
-course), of a massive public works project, and of transformations in the social
-understanding of individuals and communities. The way these elements come
-together is particularly clear when the Herlander Ellador describes the process
-of becoming a forester:
+### Ambient Labor 
+
+<!-- need intro foregrounding labor itself and stating its argument in terms of
+the work she is doing-->Thinking about Herland through an economic lens is an
+especially clear way to demonstrate this interdependence, precisely because
+doing so is so difficult: normal economic categories fail to describe the
+system, and new ones are required. The meaning of "labor" in a world without
+money is always going to be ambiguous, but here the blending between economic,
+ecological, and social structures adds an additional level of difficulty. The
+wholesale transition of Herland's natural environment to an orderly progression
+of ecological zones appears to have happened through a process that shares the
+characteristics of a natural ecological progression (with humans included in
+the ecology, of course), of a massive public works project, and of
+transformations in the social understanding of individuals and communities. The
+way these elements come together is particularly clear when the Herlander
+Ellador describes the process of becoming a forester:
 
 > “It was a butterfly that made me a forester,” said Ellador. “I was about eleven
 years old, and I found a big purple and green butterfly on a low flower. I
@@ -1362,425 +1735,6 @@ what you use and ignoring what you do not by making it external to your
 system---along with the capitalist logic of exploitation. She implicitly
 identifies market logic as incompatible with her steady-state system.
 
-<!-- dangers? -->Still basically unethically anthropocentric. There's also the
-consensus problem and the governance problem. Oddly indifferent to government
-structure, strange for a utopian novel...
-
-### Inhabitation as Coevolution
-
-<!-- need a defining statement of how she changes the idea of inhabitation,
-just as I need/worked on it for ambient labor--> 
-
-Ambient labor puts work in the background. What, then, is in the foreground of
-Herland? 
-
-The insistent answers, indelibly linked, are inhabitation and societal
-development. "Inhabitation" is not a word that Gilman uses, but it describes
-perfectly Herland's careful attention to requirements and modes of living. The
-effects of human life on the immediate environment come into focus by making
-inhabitation an object of inquiry, as Herlanders do and as Gilman did
-throughout her body of work. But attention to forms of inhabitation also makes
-those forms of inhabitation mutable. Under capitalism, inhabitation has
-developed, notoriously, under the paradigm of the country and the city, with
-the country's people and resources increasingly sapped to support industrial
-development in the cities (discussed elsewhere in this work as a "metabolic
-rift"[^ln-metabolic-rift-elsewhere]). Free from the determining influence of
-market conditions, Herland is free to reimagine inhabitation just as it
-reimagined labor. Similarly, what results is a greater degree of
-sustainability, but it also introduces a degree of *guided coevolution* into
-Herland's social ecology. The Hobbesian war of all against all, so essential to
-Darwinian competition and its misapplications to social life, is deemphasized
-in favor of interspecies cooperation---a paradigm no less evolutionarily
-essential in nature, but less commonly cited in theories of social evolution.
-And yet even this seemingly more palatable social application of evolutionary
-theory presents major challenges to both human and environmental ethics that
-any form of teleological progress towards a good Anthropocene will have to
-address: challenges grounded in questions of consensus and control, of whose
-*telos* is allowed to set the agenda of progress and how it comes to be
-accepted.
-
-[^ln-metabolic-rift-elsewhere]: See my chapter on Jack London. In short, the
-metabolic rift is a widening disruption in the "metabolic" exchange of
-nutrients between town and country....
-
-Inhabitation does not come under scrutiny for its own sake in *Herland*, but as
-a way of pursuing a teleological coevolution between the human and its
-environment. An extension of Ward's theories of self-guided evolution, Gilman's
-thinking on the ecological aspects of coevolution first become visible in an
-article that she published in *Circle Magazine* in 1908, “Modern
-Beatitudes---The Newness of the Earth.” Here she suggests that the earth and
-the human species are both mere children, as yet relatively undeveloped but
-constantly growing into balance with one another. The evolution of the human
-race is framed here as a gradual accretion of understanding of the effects of
-human activity on the earth---an understanding that has erupted as the
-Anthropocene---coupled with a mass-adaptation based on that understanding.
-After describing the gradual exhaustion of the earth’s resources by “our
-present methods,” Gilman reassures us that the process will not continue to its
-catastrophic conclusion, for we 
-
-> are waking up in good earnest these days; ceasing to be a baby race, a set of
-ignorant, selfish, short-sighted infants, madly quarreling with one another
-over the fruits most easily gathered. We are young yet, but no longer mere
-children; young with the splendid hope and courage of youth, but not with the
-weakness and irresponsibility of infancy.…All we have to do is to apply
-ourselves to study the conditions of life on earth, and learn to meet them.
-
-Framing the evolution of the species in terms of the maturation of an
-individual opens Framing puts evolution in the same model of self-guided progress that Ward's
-theories lay out. As Gilman elaborates this system, humanity is saved by its
-inevitable development into a wiser, gentler race. Progress is not social
-Darwinist Herbert Spencer’s steady march from simplicity to complexity or
-continued expansion to the edges of the Earth, ignoring all limits. It is
-instead a renunciation of wastefulness and destructive behavior, which is to be
-replaced by the more careful management of the natural environment. While
-Gilman's ideal humanity is more subject to limits to growth than Ward's appears
-to be, it is also more able to effect positive ecological change. With
-anticipatory echoes of Herland and the Ecomoderns, she suggests that there “is
-absolutely nothing prevent us from reforesting our hills, checking our floods,
-preserving our soils, maintaining the balance of nature plus the art and skill
-and learning of mankind.” The paradigm of the human struggling against the
-natural world is replaced by the simultaneous development of both realms. By
-framing this development in terms of the growth of the human species---and
-indeed, of the planetary system as a whole---she defines her vision of
-coevolution by an increase in the health of human and environment alike, not an
-opposition to be resolved by conflict. Refinement of the human ecology replaces
-dominance and expansion as the means by which humanity will thrive in "Modern
-Beatitudes," just as development without growth would become the key to
-sustenance in *Herland*.
-
-<!-- this would be most useful to show, briefly, that the form this coevolution
-takes is guided by subtle cultural/educational innovations; but may not be
-necessary/evidence could be put in footnote to the claim.-->
-
-Guided evolution, however, raises questions regarding the evolutionary
-mechanism---this kind of guidance in a purely genetic understanding of
-evolution would imply a system of eugenics that is not (at least not
-explicitly) part of Gilman's system. Like Ward, she emphasizes environmental
-influences over biological variation in evolution, forwarding a version of
-Jean-Baptiste Lamarck's (now discredited) evolutionary theory rather than
-a strictly Darwinian one. The legacy of these competing theories is imported
-directly into the novel. In an exchange between Terry and the Herlander Zava,
-for example, Terry refers to August Weissmann’s refutation of Jean-Baptiste
-Lamarck,[^ln-ramsbeck] saying that “acquired traits are not transmittable.” The
-response to this refutation identifies guided cultural development and
-education as the mechanism of change, even if one were to concede a degree of
-biological determination:
-
->“If that is so, then our improvement must be due either to mutation, or solely
-to education,” [Zava] gravely pursued. “We certainly have improved. It may be that
-all these higher qualities were latent in the original mother; that careful
-education is bringing them out; and that our personal differences depend on
-slight variations in prenatal condition.”
-
->“I think it is more in your accumulated culture,” Jeff suggested. “And in the
-amazing psychic growth you have made.” (103)
-
-At stake here are the comparative roles of genetics and culture to evolutionary
-development. The first sentence can be seen as weighing Darwinism against
-Lamarckism, but no clear conclusion is reached. Zava presents a unique
-synthesis of biological and environmental determinism in which everyone
-descended from the original mother---that is, all Herlanders---contains dormant
-unrealized powers that only careful nurture can bring out. In this possibility,
-prenatal *conditions* (merely a hyper-localized environment) rather than
-primarily genetic makeup determine the distinctions between individuals, with
-even "qualities that were latent in the original mother" relying on external
-conditions to manifest. But the evolutionary "environment" is not merely
-physical. We see in Jeff’s suggestion that “culture” and communal “psychic
-growth” are just as important, both of which are instilled by a process of
-targeted education. Gilman’s version of evolution thus relies on a complex
-interrelation between three elements: genetic inheritance, environmental
-influence, and education. Here and throughout the novel, none of these elements
-becomes central enough to be seen as a mechanistic determinant; the exploration
-of each must necessarily take place in terms of its interaction with the
-others.
-
-[^ln-ramsbeck]: See Beth Sutton-Ramsbeck’s note on on the passage in *Herland
-and Related Writings* (103 n.1).
-
-<!-- pick up here -->
-
-
-<!-- Domestic versus Ambient Labor-->
-
-To Gilman, then, guided coevolution means guidance of the environmental and
-cultural conditions in order to make human activity and the rest of the ecology
-become more mutually supporting. Ambient labor is part of this equation, in
-that making the environment itself the object of labor makes ecological
-despoliation contrary to the aims of human activity. But labor is not the only
-interaction with environment. Gilman presents a form of inhabitation in which
-she revises distinctions between the home and the world, interior and exterior,
-and the attendant modes of interacting with space. When the natural world is
-treated as though it were a home, human and environment become expressions of
-each other, mutually dependent and evolutionarily bound.
-
-This reevaluation of inhabitation developed first in Gilman's economic writing,
-in which she was less concerned with the state of the planet than with the
-economic status of domestic labor. Throughout her career, she sharply
-criticized the relegation of women to the domestic sphere and the exploitation
-inherent in domestic labor;[^ln-gilman-on-domestic-labor] among the most
-programmatic of the results was her campaign for the kitchenless household. In
-*Women and Economics*, she argues that “change in the economic position of
-woman from dependence to independence must bring with it a rearrangement of
-these home interests and industries” (224). Thus, she lays out a vision of
-“apartments…without kitchens” except those “belonging to the house from which
-meals could be served to the families in their rooms or in a common
-dining-room,” hoping thereby to liberate the “hundreds of thousands of women in
-New York City alone who are wage-earners, and who also have families”
-(242-3).[^ln-domestic-labor-refs] 
-
-Gilman carried her thoughts on domestic reform directly into her ecological
-thinking in *Herland*. In a passage that could be taken right from
-a kitchenless household pamphlet, Van says, “For food we either went to any
-convenient eating-house, ordered a meal brought in, or took it with us to the
-woods, always and equally good” (144). This might seem like a departure from
-the ambient labor paradigm that marks most of *Herland*, and indeed, it does
-imply the existence of jobs that are not directly engaged in environmental
-production---preparing and delivering food for restaurant-goers seems almost
-modern, despite not being wage-labor. Maintaining these communal eating houses,
-however, although it is not discussed directly, would bring food consumption
-into the larger, self-sustaining system of Herland as a whole. Making cooking
-and eating a public, shared activity reduces material waste and makes it
-possible to manage entirely the waste that *is* produced---and since we know
-soil health is of chief concern to Herlanders, we can assume that the nutrients
-in human and food waste are returned to circulation. Herland's communal
-kitchens would thus fertilize the soil that in turn produces the material that
-those kitchens and their dependents need to survive. The stated goal of
-Gilman’s domestic reform---of incorporating domestic labor into the sphere of
-the economy by opening it to division of
-labor[^ln-division-labor-refs]---becomes in *Herland* an incorporation of
-domestic labor into ecological management. In this ecological garden economy,
-environmental production *is* that economized version of domesticity.
-
-[^ln-gilman-on-domestic-labor]: See especially *Women and Economics*, *The
-Home: Its Work and Influence*, and “The Waste of Private Housekeeping.” For the
-wider context of domestic reform in Gilman’s work and in the context of the
-early twentieth century, see Yvonne Gaudelieus’s “Kitchenless Houses and Homes:
-Charlotte Perkins Gilman and the Reform of Architectural Space,” Polly Wynn
-Allen’s *Building Domestic Liberty*, and Dolores Hayden’s “Two Utopian
-Feminists and Their Campaigns for Kitchenless Houses.”
-
-[^ln-domestic-labor-refs]: See also Allen’s *Building Domestic Liberty*: “By
-the middle of the nineteenth century, roughly one-third of American women
-entered the paid labor force on a temporary basis, usually until they married.
-Only the poorest women---immigrants, widows, and free blacks---engaged in a
-lifelong effort to make ends meet financially by working outside of their
-homes” (12). See also Chang, especially 323-4; and Fusco 420-1.
-
-These communal kitchens are characteristic of all domestic space in Herland:
-made public and brought into a continuum with the environment beyond it.
-Permeating borders between interior and exterior space, the garden model of
-society delineates a vision of a productive home as the spatial equivalent of
-ambient labor. The complicated lines of home and world are born out by
-a conversation between Terry, the mouthpiece of domestic imprisonment, and
-Jeff, the character who eventually becomes a male Herlander and appears to
-speak the Herland party line: 
-
-> “*Home!*” [Terry] sneered. “There isn’t a home in the whole pitiful place.”
-
-> “There isn’t anything else, and you know it,” Jeff retorted hotly. (121)
-
-In Jeff’s explanation, “home” means so much that it has, to Terry, effectively
-become meaningless. By staging this argument, Gilman narrates the ambiguous
-domesticity that results when the entire world is one's "home." If foresting is
-both the base of the Herland economy and part of making dinner, can it be
-called housework? If the kitchen and pantry circumscribe the world and all
-labor, is everything housework? The rhetorical question that Gilman repeatedly
-included in lectures to women’s clubs becomes paramount: “Shall the home be our
-world? or the world our home?” (qtd. in Allen 18). The imprisonment implicit in
-the first of Gilman’s options---“the home be[ing] our world”---is based on the
-exclusion of domestic space from the systems beyond it. But taking the “world
-[as] our home” implies an application of a domestic paradigm of labor to
-a larger system.[^ln-expanding-domestic] Jennifer Fleissner has argued that
-*Herland* is an attempt to resolve the former paradigm, domesticity as
-imprisonment, which is so memorably depicted in "The Yellow Wallpaper." Whereas
-this early short story contains the image of a *walled* garden and links the
-labor of ordering to mental collapse, this very same ordering become the cure
-to that madness when women and the home comprise the entire world
-[@fleissner_women_2004 87, 95]. Considering world-as-home in the context of
-Gilman's broader environmental insights, it becomes clear that this
-reevaluation of the home and inhabitation is also part of achieving a greater
-ecological maturity, aligning human activity with ecosystem health.
-
-This ecological maturity and the new concepts that comprise it do not arise
-randomly, however. Education forms the final piece of Gilman's coevolutionary
-system and is the means by which it is developed and maintain across
-generations, allowing individual social and cultural adaptations to the
-environment to accrue over time.[^ln-simone] The Herlanders model and reinforce
-the dialectic with environment through a ludic system of education that is just
-as ambient as their system of labor. When asked about Herland schools, the
-Herlander Somel says, “With the babies…we first provide an environment which
-feeds the mind without tiring it…. But as early as possible…we provide choices,
-simple choices, with very obvious causes and consequences” (128). The system of
-education graduates from an accretion of environmental understanding to the
-gradual realization that human action affects that environment, just as Gilman
-describes in “Modern Beatitudes.” 
-
-[^ln-simone]: For a broader view of gilman’s interest in education reform, see
-Deborah M. De Simone’s “Charlotte Perkins Gilman and Educational Reform.”
-
-<!-- why bother with games? What's the point here? Is it just more ambient
-labor stuff?-->Moreover, the second stage of education is achieved through *games* that
-“develop the faculties [they] wish to encourage.” Games are shown to be
-foundations of pedagogy---and, thus, social determinants---in the incident near
-the beginning of the novel in which the men’s escape attempt is interrupted by
-an invitation to play. Three Herlanders set up a pile of stones with a yellow
-nut on top, and invite the men to throw stones at the pile. They fail miserably
-until “Jeff succeed[s] in bringing the whole structure to the ground. It took
-me [Van] still longer, and Terry, to his intense annoyance, came third.”
-Experience of the pedagogic built environment is followed by swift instruction
-and the presentation of an alternative method:
-
-> Then Celis set up the little tripod again, and looked back at us, knocking it
-down, pointing at it, and shaking her short curls severely. “No,” [Celis] said.
-“Bad---wrong!”…Then she set it up once more, put the fat nut on top, and
-returned to the others; and there those aggravating girls sat and took turns
-throwing little stones at that thing, while one stayed by as a setter-up; and
-they just popped that nut off, two times out of three, without upsetting the
-sticks. (69)
-
-The contrast between the two performances is severalfold. The men’s idea of
-victory, for which they are reprimanded, destroys the entire tower; the women
-strike only what they mean to, with minimal disruption to the larger structure.
-The men compete against each other and against the women, sulking when they
-lose and becoming divided; the women cooperate for the most efficient group
-performance, systematizing the resetting of the structure and taking turns, and
-their performance is described not according to the relative success of the
-members but according to their aggregate success rate. The difference between
-the two types of competition is the difference between boxing and a boat race:
-success of the individual in the men’s group leads to the failure of the rest
-of the group, while the success of a single Herlander contributes to communal
-benefit. The competitive tendencies of the men destroy the waste time and
-energy, in contrast with the precise and cooperative systems of the women,
-which culminate in a system of cyclical and effortless play. This basic
-structure describes the Herland school system, which becomes at the higher
-levels a system of ecological instruction. (Recall the “forester” passage
-discussed in the introduction: Ellador’s interactions with insects are guided
-by a “bug teacher,” and this guidance leads her to forestry.) Education in
-Herland discourages tendencies like competition, which disrupt the managed
-ecology of the garden, while it reinforces the gardener’s mentality of cyclical
-action and cooperative development. Social evolution brings the development of
-society into line with the development of the environment, managing the
-material interchange of human and nature.
-
-### Caveats
-
-Despite the attempted gentleness of Gilman's system---the focus on education
-and cultural development, all in the service of coevolutionary harmony---there
-are serious ethical problems in talking about any form of guided evolution.
-These challenges are not inherent in ambient labor or Gilman's vision of
-inhabitation, but are rather the result of using evolution as the means of
-developing these concepts. 
-
-In the first place, the ethical complaints levied against "An Ecomodernist
-Manifesto" can translate to Gilman: mass extinctions are both irreversible and
-inexcusable, no matter what they do for the human food supply. This will be
-true of any paradigm that asserts absolute control over non-human organisms,
-however, and may therefore be taken as a feature of the good Anthropocene and
-its anticipations. 
-
-But there ethical problems even within the anthropocentric frame of Gilman's
-argument, as well. The first is that "guided evolution" unavoidably introduces
-the concept of eugenics, even with biological and genetic determination
-deemphasized as it is in Gilman's understanding of evolution. These
-implications would be hashed out by Gilman herself fifteen years after
-*Herland*, in an unpublished (perhaps unpublishable) article called “Gardening
-and the Baser Passions.” Though evidently an attempt at comedy---or so it
-is described in a letter from Charlotte Barbour, one of Gilman’s editors at
-Putnam, explaining that the essay would not be accepted by horticulture
-journals (Barbour)---in such a grim context the effect is anything but. In
-sharp contrast to a sentimental view of the garden parodied early in the
-article, Gilman says that the main work of the gardener is not to plow, plant,
-or harvest---rather, “his main business, his longdrawn incessant effort, is to
-kill.” From this premise the rest of the essay describes the many and various
-ways to kill as well as the necessity to “kill without ceasing” if the
-gardener’s “plants are to live,” finally dissolving into a litany of the
-many organisms detrimental to the gardener’s efforts. Carried directly into
-*Herland* or any human context, this would foreshadow the most horrifying
-ideologies of the years to come.
-
-At least in *Herland*, however, that extension does not appear to have
-occurred: even though the garden is the operative metaphor for Herland's human
-inhabitants as well as its nonhuman ones, the presence of humans prevents
-murder as a means of evolutionary guidance. Although, as Cynthia J. Davis
-points out, it would be incorrect to suggest that none of the reprehensible and
-often racist views that defined her conservative old age had developed when she
-was writing *Herland*, it seems that not until “her later years” did “Gilman
-[become] a decided proponent of eugenics” in the way she is if her essay on
-gardening is to be taken as extending to the garden of her society (“His and
-Herland” 82). Even then, the violence of her gardening essay never presents
-itself. Indeed, a shift in the way she considers the *literal* garden is
-documented in her correspondence well after the time of *Herland*. In a letter
-to Alice Park on June 29th, 1928, some two years before the rejection of the
-“Gardening” essay and thirteen years after *Herland*, Gilman writes: 
-
-> All May the planning and planting, all June the weed-weed-Weeding. I’ve changed
-my mind about the word “fighting” as applied to weed. If the desire to kill and
-desperate efforts thereto, against the ceaseless pressure of an en-enemy
-[*sic*], a million-headed enemy which rises up like Anteus is not a fight, what
-is it? (*Selected Letters* 272)
-
-Her acceptance of gardening as "fighting" in 1928 indicates that her position
-prior to that point was a gentler (if willfully myopic) view of managed
-growth---perhaps best defined by a metaphor of “planting” rather than
-“weeding.” Though by no means a resolution to the novel’s eugenics problem (it
-merely shifts to a different type of eugenics), this emphasis on traits that
-are encouraged over those that are discouraged allows Gilman to avoid the overt
-brutality that she would later embrace regarding literal gardening.
-Accordingly, the role of the human as simultaneous producer and product of the
-environment is more complicated as it appears in *Herland* than this later
-depiction of the gardener's task.
-
-[^ln-eugenics-criticism]: The topic of eugenics, along with the question of
-race in Gilman more generally, has been a major and controversial topic of
-Gilman scholarship. The initiating essay in this strand of criticism is Susan
-S. Lanser’s 1989 essay “Feminist Criticism, ‘The Yellow Wallpaper,’ and the
-Politics of Color in America,” which Jennifer L. Fleissner says has since
-become “hegemonic” (Fleissner 95). Cynthia J. Davis provides a rigorous
-historical and biographical context to eugenics in *Herland* in her essay on
-Gilman and Lester F. Ward, “His and Herland.” In a somewhat different vein,
-Fleissner urges a re-historicization of the eugenic conversation in terms of
-middle-class women, nineteenth-century feminism, and the rise of a “therapeutic
-culture” as it relates to race in America (92-5).
-
-<!-- due process-->If there is a program of guided *genetic* evolution, it
-would appear to be through a collective decision of which Herlanders
-reproduce---which, of course, leads to a different sort of problem. In
-a peculiar departure from the precedent set by Thomas More's *Utopia* and
-followed by many utopian novels since, Gilman decides not to illuminate the
-decision-making process. The result is a worrying appearance of centralized
-authority: even though there appears to be a society-wide consensus regarding
-the values and direct actions of Herland as a state, we are never allowed to
-see how this consensus comes about. This is particularly troubling when
-considering who is allowed to reproduce, as there is no guarantee of respect
-for individual rights or authority over the processes of one's own life and
-body. Just as *Herland* predicts many of the environmental insights of the
-post-war period, then, it appears to predict some of its controversies. The
-antagonism between environmental stewardship and a booming population would
-come to a head soon after the birth of the modern environmental movement,
-particularly in the work of Garrett Hardin, Paul Ehrlich, and others.
-
-These ethical caveats to Gilman's concepts of ambient labor and inhabitation
-demonstrate that her utopian schema should be taken not as a model, nor as
-a route to the good Anthropocene, but as a space to think through the
-affordances and limitations of the good Anthropocene premise itself. What
-Gilman does that the facile manifestos do not is to put our most fundamental
-categories on the examination table. She recognizes that labor and living as
-they have historically developed contain fundamental contradictions with
-a sustainable future---a recognition which she was neither the first nor last
-to make. In managing our concepts as well as what they describe, she models the
-kind of thinking it would take to make human influence over natural systems
-ultimately benign. But the absolute control over these systems, a fundamental
-premise of her utopia and the philosophy on which it is based, forces us to
-reckon with the additional contradictions these alternative futures introduce
-in their own right. Good Anthropocene schemes ignore the ethical limitations at
-their peril, we see: doing so risks a complicity with eugenics and a vastly
-decreased biodiversity, all in the name of stewardship. Nevertheless, Gilman's
-example makes a strong case for considering possibilities beyond catastrophe in
-the Anthropocene, and imagining what it will take to thrive in the conditions
-of scarcity that look more and more inevitable. These solutions will not always
-be technical, she suggests. More likely, they will involve tiny revolutions in
-how we conceive of our most basic categories of thinking, living, and acting.
-
 ## Conclusion: Utopian Naturalism
 
 <!-- naturalism: determinism -->Herland's narrative, then, is an early,
@@ -1907,6 +1861,28 @@ but one thing is clear: the interactions of human and natural systems that
 define both the Anthropocene and literary naturalism necessitate that we reopen
 the fundamental categories of the human and non-human natures alike. Gilman
 presents one example of how to do so.
+
+These ethical caveats to Gilman's concepts of ambient labor and inhabitation
+demonstrate that her utopian schema should be taken not as a model, nor as
+a route to the good Anthropocene, but as a space to think through the
+affordances and limitations of the good Anthropocene premise itself. What
+Gilman does that the facile manifestos do not is to put our most fundamental
+categories on the examination table. She recognizes that labor and living as
+they have historically developed contain fundamental contradictions with
+a sustainable future---a recognition which she was neither the first nor last
+to make. In managing our concepts as well as what they describe, she models the
+kind of thinking it would take to make human influence over natural systems
+ultimately benign. But the absolute control over these systems, a fundamental
+premise of her utopia and the philosophy on which it is based, forces us to
+reckon with the additional contradictions these alternative futures introduce
+in their own right. Good Anthropocene schemes ignore the ethical limitations at
+their peril, we see: doing so risks a complicity with eugenics and a vastly
+decreased biodiversity, all in the name of stewardship. Nevertheless, Gilman's
+example makes a strong case for considering possibilities beyond catastrophe in
+the Anthropocene, and imagining what it will take to thrive in the conditions
+of scarcity that look more and more inevitable. These solutions will not always
+be technical, she suggests. More likely, they will involve tiny revolutions in
+how we conceive of our most basic categories of thinking, living, and acting.
 
 [^dreiser-collective-examples]: Some of the stuff about Hurstwood accidentally
 breaking a strike...
