@@ -1,6 +1,6 @@
 ---
 author: "Phillip R. Polefrone"
-csl: csl/mla-note.csl
+csl: csl/chicago-note-bibliography.csl
 bibliography: bibliography.bib
 toc: true
 documentclass: article

@@ -1,6 +1,104 @@
 ---
 ---
 
+
+# stabs at a human expression of human species-being
+
+In the Marxian framework to which London subscribed, capitalism engenders a
+constant and conscious revolutionization of the means of production, as a
+consequence of which "all that is solid melts into air, all that is holy is
+profaned, and man is at last compelled to face with sober senses his real
+conditions of life, and his relations with his kind."[@marx_communist_... ?]
+Under these conditions of constant change, the "real conditions of life" become both a revelation and a
+teleologically mutable object, something realized individually and collectively
+*through its transformation*. Species-being refers to humanity's
+conscious transformation of itself in this larger context of
+revolutionization, a transformation of the collective's defining nature that is 
+inextricable from that of the means of production. Nature, objects, and systems
+of production are simply the "inorganic body" of the human that makes this
+transformative knowledge of the collective self possible.
+
+...With
+
+....defining
+"life-activity" within this context, but unlike in the case of other animals,
+"Marx's human [...] is a species that knows itself in what it makes."[johnson
+278] ...
+
+# The Human Drift
+
+OMG
+
+Defines the human according to death, which is crazy, but then:
+
+"All his days, down all the past, have ben spent in killing. And from the
+fear-stricken, jungle-lurking, cave-haunting creature of long ago, he won to
+empery over the whole animal world, because he developed into the most terrible
+and awful killer of all the animals. He found himself crowded. He killed to
+make room, and as he made room ever he increased and found himself crowded, and
+ever he wnet on killing to make more room. Like a settler clearing land of its
+weeds and forest bushes in order to plant corn, so man was compelled to clear
+all manner of life away in order to plant himself. And, sword in hand, he has
+literally hewn his way through the vast masses of life that occupied the earth
+space he coveted for himself. And ever he has carried the battle wider and
+wider, until to-day not only is he a far more capable killer of men and animals
+than ever before, but he has pressed the battle home to the infinite and
+invisible hosts of menacing lives in the world of micro-organisms." 
+
+And: "We know [our ancient forebears] for what they were, and before the monkey
+cage of any menagerie we catch truer glimpses and hints and resemblances of
+what our ancestors really were long and long ago. And by killing, incessant
+killing, by making a shambles of the planet, those apelike creatures have
+developed even into you and me."
+
+The killing of men is an extension of the killing of other things: "Nations
+that faltered, that waxed prosperous in fat valleys and rich river deltas, were
+swept away by the drifts of stronger men who were nourished on the hardships of
+deserts and mountians and who were more capable with the sword." <-- an
+EXPLICITLY environmentally determined human history 
+
+Asserts that population will eventually catch up with us, reads industry purely
+as a vehicle of that increase rather than part of the destruction; except that
+increase is always by destruction in this schema
+
+On China: "There is another reputed bogie---the Yellow Peril; yet the men of
+China are only men, like any other race of men, and all men, down all history,
+have drifted hungrily, here, there and everywhere over the planet, seeking for
+something to eat. What other men do, may not the Chinese do?"
+
+Equates racial superiority and domination with peace: "The more recent drifts
+of the stronger races, carving their way through the lesser breeds to more
+earth-space, have led to peace, ever to wider and more lasting peace. The
+lesser breeds, under penalty of being killed, have been compelled to lay down
+their weapons and cease killing among themselves....The planet is being
+subdued. The wild and hurtful are either tamed or eliminated. From the beasts
+of prey and the cannibal humans down to the death-dealing microbes, no quarter
+is given; and daily, wider and wider areas of hostile territory, whether of a
+warring desert-tribe in Africa or a pestilential fever-hole like Panama, are
+made peacable and habitable for mankind." Well for fuck's sake.
+
+"Man, the latest of the ephemera, is pitifully a creature of temperature,
+strutting his brief day on the thermometer. Behind him is a past wherein it was
+too warm to exist. Ahead of him is a future wherein it will be too cold for him
+to exist. He cannot adjust himself to that future, because he cannot alter
+universal law, because he cannot alter his own construction or the molecules
+that compose him." 
+
+"And for us who live, no worse can happen than has happened to the earlier
+drifts of man, marked to-day by ruined cities of foreign civilizations---ruined
+cities, which, on excavation, are found to rest on ruins of earlier cities,
+city upon city, and further cities, down to a stratum where, still earlier,
+wandering herdsmen drove their flocks, and where, even preceding them, wild
+hunters chased their prey long after cave-man and the man of the
+squatting-place cracked the knuckle-bones of wild animals and vanished from the
+earth. There is nothing terrible about it. With Richard Hovey, when he faced
+death, we can say: 'Behold! I have lived!' And with another and greater one, we
+can lay ourselves down with a will. The one drop of living, the one taste of
+being, has been good; and perhaps our greatest achievement will be that we
+dreamed immortality, even though we failed to realize it."
+
+
+
 # Reading notes
 
 ## SB and Anthropocene

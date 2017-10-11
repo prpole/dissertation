@@ -21,6 +21,14 @@ never experiences being a concept.
 > ---Dipesh Chakrabarty, "The Climate of History: Four Theses"
 
 
+<!-- This chapter will ultimately argue that Jack London's career-spanning
+attempts to narrate a phenomenology of species were not only related to, but
+culminated in the representation of anthropogenic environmental transformation
+in his late agricultural novels. Taking this line of development as a cue to
+investigate the entanglements of the human species and the natural world in the
+rest of his work, a pattern of Anthropocenic In order to pursue this argument, several
+questions must first be answered. First, ...-->
+
 ### Introduction: *Before Adam* and the Geological Human
 
 Jack London's *Before Adam* (1906-7) begins with a peculiar act of geological
@@ -55,7 +63,7 @@ Jack London uses the narrative techniques of naturalism to represent the
 experience of species as such, taking a natural-historical category that
 touches the geological timescale as the basis of an idealized human collective.
 Focusing particularly on his well known short story "To Build a Fire" (1908)
-and the less prominent agricultural novel *The Valley of the Moon* (1913), this
+and the less prominent agricultural novel *The Valley of the Moon* (1915), this
 exploration will ultimately suggest that London had preemptively taken up one
 of the chief heuristic challenges posed by the Anthropocene as a theoretical
 discourse almost a century before that discourse began: to consider the place
@@ -68,8 +76,8 @@ history of the planet.
 In pursuing this argument, I will explore commonalities in the formal
 techniques that London uses across these works to narrate the human identity
 from without, particularly his use of typological characters to make the
-individual subjectivity stand in for a collective and the way distance between
-the narrator and the subjectivity of the protagonist is used to identify
+individual subjectivity stand in for a collective and the way he creates distance between
+the narrator and the subjectivity of the protagonist to identify
 certain experiences as indicative of the species as a whole. But I will also
 confront the difficulty of separating London's confused perspectives on race
 with his attempts to think through species as a defining category. Finally,
@@ -81,6 +89,8 @@ them). In short, an understanding of the human based on the geological
 timescale is a basis for London's understanding of what causes extensive
 environmental destruction, but taking the human species as a foundation for
 positive collective action is also his starting point for remediation.
+
+---
 
 And yet, thinking the human geologically as London does has until recently
 constituted a category error. The human is mere biology, and we had thus (until
@@ -103,67 +113,83 @@ Whether this is possible has been a matter of some debate, but such an
 experience is precisely what many of the narrative techniques of literary
 naturalism, and Jack London's work in particular, attempt to induce.
 
----
+<!--s-b-->We can name the thing London seeks to depict "species-being,"
+adopting the Marxian term for a similar concept. In the Marxian framework to which London subscribed, capitalism engenders a
+constant and conscious revolutionization of the means of production, as a
+consequence of which "all that is solid melts into air, all that is holy is
+profaned, and man is at last compelled to face with sober senses, his real
+conditions of life, and his relations with his kind."[@marx_communist_2013 64]
+Under these conditions of constant change, the "real conditions of life" become both a revelation and a
+teleologically mutable object, something realized individually and collectively
+*through its transformation*. Species-being refers to humanity's
+conscious transformation of itself in this larger context of
+revolutionization, a transformation of the collective's defining nature that is 
+inextricable from that of the means of production. Nature, objects, and systems
+of production are simply the "inorganic body" of the human that makes this
+transformative knowledge of the collective self possible.
 
-<!--s-b-->London was not the first and would not be the last to pursue an
-understanding of the species concept on this basis. Karl Marx, building on the
-work of Ludwig Feuerbach, uses the term "species-being" to describe the
-uniquely human faculty of grasping the collective of species externally, or
-objectively, through a combination of externalizing the self through the
-"inorganic body" of object or altered nature and consciously transforming the
-human collective by mobilizing social productive forces. With the heuristic
-challenges posed by the "Anthropos" of Anthropocene, species-being as a concept
+With the heuristic challenges posed by the "Anthropos" in Anthropocene, 
+species-being as a concept
 has reemerged with a new resonance, now making it possible to question what
 role humanness-as-such plays in the environmental crisis.[^ln-sb-reemergence]
-Invoking species-being here, then, can serve to put London at once in the
+Invoking species-being here can serve to put London at once in the
 context of the Marxist theory that was central to his own thinking on a number
-of topics throughout his life[^ln-london-marxism] and the Anthropocene
-discourse he partially predicts. 
+of topics throughout his life[^ln-london-marxism] and the aspects of the 
+Anthropocene discourse he partially predicts. 
 
 [^ln-sb-reemergence]: See e.g.: @johnson_at_2017; @roelvink_rethinking_2013;
 @taylor_tennysons_2016; @wark_molecular_2015. 
 
 [^ln-london-marxism]: See @raskin_jack_2005. 
 
-But "species-being" is a useful term in thinking about London even beyond its
-contextualizing function. As I will show in more detail later, the concept of
+In London's work, as in Marxist and Anthropocene theory, species-being can be
+taken as the place where questions of the human, technology, and the
+environment collide, becoming subject to a unified 
+process of historical contingency. Such historical contingency 
+separates species-being from uncomplicated essentialism. The concept of
 species-being and London's narration of species both assert a degree of mutual
 experience and common subjectivity across members of a species without taking that
-mutuality as totally deterministic of an individual's nature. Species-being is
-therefore non-essentialist in reference to the individual; at least in
-Marx's version of the term, it also avoids ahistorical universals. Marx's version of
-species-being is largely defined by conscious production, and as such,
-transformations
+mutuality as totally deterministic of an individual's nature.  
+Just as, for Marx, transformations
 in the social and technological means of production lead to corresponding
-transformations in the nature of the human. London similarly describes
+transformations in the nature of the human, London describes
 developments
 in species-being according to a combination of individuality and changing
 socio-technological conditions, taking the Promethean symbol of fire as an
 emblem of humanness and urban environments as sites of catastrophic alienation
 from self and species alike. Insofar as human species-being itself is
 responsible for the existential threat to the planet, it will not be due to
-some immutable essence, but rather the result of an historical
-development of the abilities and characteristics that define us.
+some immutable essence in this framework, but rather the result of historical
+developments in the abilities and characteristics that define us.
 
 Considered in terms of humanity's relationship to our natural environment,
-species-being can both be grounds for a critique of humanity and the basis of
+species-being can both be grounds for a critique of the human's role in 
+environmental history and the basis of
 a mobilization. As an historically contingent essence, species-being adopts
 technological development and industrialization (common targets of
 environmentalist critique) as defining aspects of what it means to be
 human---or to be more precise, as features of what it has meant to be human at
-certain moments in an extremely long-durée history. This association in turn
+certain moments in an extremely *longue-durée* history. This association in turn
 forces us to ask whether it is humanness itself that is responsible for the
-environmental damage occasioned by, for example, the industrial revolution.
-This proposition might seem to be a particularly cynical essentialism, but an
-ability to conceive of environmental threats in terms of the species itself is
+environmental damage occasioned by, for example, the industrial revolution, or 
+something else (like capitalism or technological development).
+Such a proposition might seem to be a particularly cynical determinism, but at 
+the same time an ability to conceive of environmental change in terms of the species itself is
 the first step in any suitable response to the crisis that is implied by and
-that gave rise to the term "Anthropocene". Although technically only
+that gave rise to the term "Anthropocene", because nothing less than a 
+global remediation of the trends that led to this point will be enough to prevent 
+catastrophic change.
+
+If a conception of the human species is necessary to mobilize for change at the necessary
+scale, it is also true that this new conception of species is only possible within
+reach of this self-inflicted threat to our existence as a species. Indeed, it may
+be that the "Anthropos" in Anthropocene is always already on the verge of extinction
+at its own hand. Although technically only
 designating a geological epoch defined by the influence of collective human
 activity, the Anthropocene has always been more than a passive marker of
-a temporal boundary. Even in some of the earliest uses of the term, it was
-already shorthand for anthropogenic destruction of the planet through means as
-diverse as carbon emission, deforestation, population growth, and animal
-domestication as well as the need for immediate
+a temporal boundary,
+even in its earliest instantiations serving as shorthand at once for anthropogenic 
+destruction of the planet and the need for immediate
 remediation.[@crutzen_geology_2002, @crutzen_anthropocene_2006] Reviving the
 "human species" as a universalizing concept offers both an explanation of this
 destruction and a response to it. Indeed, as Dipesh Chakrabarty puts it in his
@@ -182,8 +208,9 @@ lifeforms coming into being and disappearing in a geological moment.
 [^ln-chak-ndw]: @chakrabarty_climate_2009 221. Nick Dyer-Witheford also picks
 up on this Benjaminian resonance: @dyer-witheford_1844/2004/2044:_2004 5.
 
-*Before Adam* ends on this same note of ephemerality---a simultaneous
-ephemerality of individual and species. The Folk, after all, do not survive to
+*Before Adam* ends on a similar note of ephemerality, of individual and species
+alike, defined by equally imminent senses of the species' coming-to-be and its 
+extinction. The Folk, after all, do not survive to
 become human. Though we don't know their fate for certain, it is clear that
 they are so diminished as to form barely a hereditary trace in the makeup of
 the modern human compared to the dominant Fire People, a mere eddy in the gene
@@ -196,9 +223,9 @@ community of survivors who revert to primitive ways of living, London invokes
 the end of the world as an occasion to consider the fragility of humanity as
 a whole.
 
-For London and contemporary thinkers of the Anthropocene alike, ephemerality
-also leads to a more poignant experience of a species identity primarily by
-taking the species as a form of community in itself. In this moment of threat,
+For London and contemporary thinkers of the Anthropocene alike, ephemerality 
+leads to a more poignant experience of a species identity primarily by
+imagining it as a community. In this moment of threat,
 the narrator, speaking for Big-Tooth, subtly changes his focus from the limited
 perspective of Big-Tooth's own experiences to the fortunes of the collective,
 speaking for both Big-Tooth and the species he represents. The usual subject
@@ -207,15 +234,17 @@ could not survive in such an environment," the narrator says, and "the radical
 change in our diet was not good for us...[w]e were all lean and
 dyspeptic-looking."[@london_before_2000 237] The narrator draws attention to
 the effects of a changed environment on he Folk, and by extension to the
-relatively particular conditions they need to survive. This becomes, in effect,
+relatively particular conditions they need to survive. The moment becomes, in effect,
 an analysis of the species from within, for the rapidly dwindling species is
-composed only of those present. Speaking for a species is possible in
-conditions where it is the same as speaking for a community. Births and deaths
+composed only of those present. 
+
+When his species becomes a community, it becomes possible for Big-Tooth to 
+speak for it. Births and deaths
 in this species-community, for example, take on a new significance. When he
 says that "we died faster than new ones were born" and "our number steadily
 diminished," it is understood to be an existential threat to the species as
-a whole. This threat in turn leads to a meditation on the nature of the human
-itself: "I, the modern, am incontestably a man," we are told; "yet I,
+a whole. This threat in turn leads to a meditation on the nature of humanity: 
+"I, the modern, am incontestably a man," we are told; "yet I,
 Big-Tooth, the primitive, am not a man. Somewhere, and by straight line of
 descent, these two parties to my dual personality were connected. Were the
 Folk, before their destruction, in the process of becoming men?...I do not
@@ -252,14 +281,12 @@ further beyond the self than what normal historical consciousness requires,
 a collectivizing act that is less identification with something larger than 
 interrogation of an identity that is both *a priori* and embodied. 
 
----
-
 Herein, of course, lies the great danger of species-thinking as a theoretical
 program. It risks ignoring half a century of critical theory, the very basis of
 which is opposition to the kind of essentialism a discourse of the human
 species would seem to imply. At least in the humanities, a proliferation of
 alternate terms has resulted, among them the Capitalocene,
-the Plantationocene, and the Chthulucene.[@moore_capitalism_2015;
+the Plantationocene, and the Cthulucene.[@moore_capitalism_2015;
 @haraway_anthropocene_2015] These searches for an alternative term have
 one thing in common: they understand the "anthropos" in Anthropocene as an even
 distribution of blame for actions the benefits of which have historically been
@@ -292,7 +319,7 @@ shared natural history and its shared planetary future."[@baucom_human_2012 3]
 Baucom shifts the universalizing gesture of the "anthropos" prefix onto the
 commonality of a deep past and the preservation of an equally deep future (one
 hopes), temporalities that fall beyond the scope of historiographies of the
-human scale. Doing so makes the human species a collectivizing gesture that
+human scale. Doing so makes the human species a collectivizing figure that
 attempts to encompass everyone without asking for homogeneity. As Gerda
 Roelvink puts it, "Species, then, might refer to a kind of political
 collectivity without essence."[@roelvink_rethinking_2013 54]
@@ -302,9 +329,9 @@ multifaceted and beset with contradictions. It demands a natural-scientific
 universalism that takes the species concept as the basis for human history and
 as the starting point in the struggle for freedom. It requires an understanding
 of anthropogenic planetary change based on this species history. But in
-developing such a species history, we risk backsliding into the essentialisms
-of the past, and thus a concerted effort must be made to differentiate
-a natural-scientific universalism of collective survival from the universals of
+developing such a species history, we risk backsliding into essentialisms, and 
+thus a concerted effort must be made to differentiate
+a natural-scientific universal of collective survival from the universals of
 the past that have long been used to justify programs of domination and
 exploitation. 
 
@@ -320,12 +347,13 @@ Though differently framed, the defining questions and formal characteristics of
 literary naturalism speak directly to this set of concerns. In pursuing the
 well-trodden ground of the "determinism" question in literary naturalism,
 critics of the genre have debated the role of species characteristics in
-determining the actions and experiences of the individual. The naturalist
+determining the actions and experiences of the individual, albeit in 
+different terms. The naturalist
 character is, famously or notoriously, less notable as an individual
 subjectivity than as a nexus of warring deterministic forces. The most marked
 conflicts occur between "forces" defined by evolutionary conditioning and those
-that are a product of a physical and social environment, especially in the
-context of urban environments.[^ln-norris-examples]
+that are a product of a physical and social environment, especially in urban 
+settings.[^ln-norris-examples]
 
 [^ln-norris-examples]: DRAFT NOTE - I hope to circle back to this and broaden
 the context of species and determinism with a brief discussion of Frank Norris. 
@@ -406,7 +434,8 @@ but a comparison of ways of being that encompasses a multi-epochal humanness.
 The rest of this chapter will take three of London's works as case studies to
 show that his engagement with the species concept culminated in an attempt to
 use species-being as the basis of a unified pursuit of a single principle,
-increasing the abundance of life on Earth. First, I will discuss "To Build
+increasing the abundance of life on Earth through conscious environmental 
+transformation. First, I will discuss "To Build
 a Fire" to show how he used non-human perspectives to theorize species-being.
 The next, brief section will show how London develops a speculative version of
 future possible species-beings in a late, relatively unknown play called
@@ -451,12 +480,12 @@ a dogfighting circuit until he is rescued and finally domesticated.
 
 But London's dog stories are ironically as much about humanity as they are
 about non-human animals. The individual dog character offers London a lens to
-explore not only the subjectivity of dogs, however, but the subjective
+explore not only the subjectivity of dogs, but the subjective
 experience of species more broadly writ. On one hand, he does consider the
 degree to which the experience of a single dog is the result of its inherent
 dogness---that is, to what extent species itself can be said to account for
 individual subjectivity. On the other hand, he uses the dog figure as
-a mechanism of narrative estrangement, a vantage point from to consider the
+a mechanism of narrative estrangement, a vantage point from which to consider the
 human *from without*, and from which to ask whether humanness can be used to
 define the individual human in the same way that he thought dogness can define
 the individual dog. 
@@ -549,9 +578,9 @@ example) create the experience of a bygone economic and social moment. But
 where historical fiction and its narrative modes have a line of precedence as
 long as that of literature itself, natural history fiction has many of its
 fundamental questions unanswered: What does it mean to *live* species rather
-than think, not as a transcendent experience but as a quotidian one? What does
+than think it, and not as a transcendent experience but as a quotidian one? What does
 it mean to experience the species as a defining category contingent on a moment
-in natural history, in the way that certain historically contingent identities
+in natural history, in the way that other historically contingent identities
 can be experienced?
 
 ---
@@ -567,7 +596,7 @@ speciation and human development, in the same way that Dreiser opens the
 economic crisis of the 1870s to experience to form an argument about the
 crisis-prone nature of capitalism and finance. But neither novel does anything
 to expand the temporal scale of their narration within its own bounds,
-a expansion without which any robust experience of species remains out of
+an expansion without which any robust experience of species remains out of
 reach. 
 
 In a short story from the same period, "To Build a Fire," London performs just
@@ -583,7 +612,7 @@ that came to conflict in the "nature fakers" controversy define the experience
 of species in canine and human subjects alike. It also pursues an
 anti-essentialist definition of humanness as plastic and historically
 contingent---a definition that effectively blends the historical and
-natural-historical modes in the same manner of Marxian species-being.
+natural-historical modes in the same manner as Marxian species-being.
 
 What makes these meditations on the human stand out even more distinctly is the
 fact that they only exist in the second of the story's two versions---the one
@@ -599,14 +628,14 @@ these books prompted him to return to the events of "To Build a Fire" with
 a much more nuanced view of the human and a much more ambitious sense of the
 philosophical vision it implies.
 
-The early story forms a clear foundation for the later, canonical version. Both
+The earlier story forms a clear foundation for the later, canonical version. Both
 feature a man traveling alone in temperatures less than negative-sixty degrees
 (contrary to the advice of more experienced travelers) whose foot becomes
 soaked with water. In both, the man struggles to build a fire to dry himself
 out and stay alive, fighting the absolute numbness of his extremities to light
 birch-bark kindling with a book of matches. 
 
-But there are differences in the key events as well, inviting a comparative
+But there are differences in the key events of the two versions, inviting a comparative
 reading. In the earlier story, the man makes it back to camp with scars and an
 education. In the latter, he dies, and his canine companion (who does not
 appear in the former version) returns without him to "the other food-providers
@@ -621,8 +650,8 @@ London's preferred term for referring to the human in
 general.[@london_jack_1916 JL1310]
 
 With these changes to the events of the story come more significant
-philosophical implications, particularly about how reason and technology have
-come to define the very essence of the human. Broadly speaking, the story
+philosophical implications about how reason and technology define the 
+nature of the human. Broadly speaking, the story
 suggests that knowledge as such forms a barrier between the individual organism
 and death, laying out three forms of such knowledge: instinct, individual
 reason, and socially transmitted experience. The different proportions of each
@@ -684,7 +713,7 @@ ultimately, is the man's cardinal sin, a lack of respect for the accumulated
 knowledge of those who know the extreme environment better than he does. For
 just as the individual alone in an extreme environment is more fragile than in
 a group, the knowledge of the individual is more fragile than collective
-knowledge: subject to gaps due to a lack of both experience and so-called
+knowledge, subject to gaps due to a lack of both experience and so-called
 instinctual impulses as well as to simple forgetfulness. Indeed, the man's
 demise could well stem from having "forgotten to build a fire and thaw out"
 before sitting down to eat, which it is implied would not have occurred had he
@@ -709,7 +738,7 @@ the idea that instinct is communicable is, in considering the species,
 remarkable---because one might presume that instinctual knowledge is either
 a shared *human* instinct (and does not need to be communicated) or is
 inaccessible because it belongs to another species and is, *ipso facto*, unable
-to be communicated. London not only imagines a social life that goes beyond the
+to communicated. London not only imagines a social life that goes beyond the
 species, but suggests that such a social life is an absolute necessity for
 mutual survival in certain environments.
 
@@ -790,7 +819,7 @@ repetition throughout the story, is a statement of humanness itself in
 a distinctly material sense. 
 
 London's definition of the human by fire is one that is shared by 
-scientists of the 21st century. The primatologist Richard Wrangham, for example, argues in
+scientists of the twenty-first century. The primatologist Richard Wrangham, for example, argues in
 *Catching Fire: How Cooking Made Us Human* that cooking increased the amount of
 energy obtained from food, the effects of which not only aided in the survival
 of the species, but spurred the development of humanity itself. The
@@ -803,7 +832,7 @@ to have spurred brain growth.[@wrangham_catching_2009 105-6] Nor were these
 adaptations limited to the human as a bounded biological agent. As their
 "bodies responded by biologically adapting to cooked food" and the species, now
 more resilient, spread across the planet, there were attendant ripples in the
-area of the human's effects: "changes in anatomy, physiology, ecology, life
+area of the human's effect: "changes in anatomy, physiology, ecology, life
 history, psychology, and society"---and, we must now add in light of the
 Anthropocene, in geology. For London and Wrangham both, the development of the
 human as we know it relied on the ability to exceed the boundaries of the self,
@@ -825,9 +854,9 @@ modified in order to survive under greatly changed conditions.” (21)
 
 <!-- technology and prosthesis stuff, appendages, tobacco beard, birch,
 etc.-->Consistent with its function as a Promethean symbol, fire in London's
-story is merely the representative example of the technological appendages that
-come to define the very essence of the human. The most direct example of this
-trend is also the story's most ambiguous and least appealing. The man chews
+story is merely the representative example of the technological appendages 
+with which London defines the human. The most direct example of this
+trend is also the most ambiguous and least appealing. The man chews
 tobacco as he travels, but his frozen beard and numbed lips cause his spit to
 accumulate in his beard and freeze: "The result was that a crystal beard of the
 color and solidity of amber was increasing its length on his chin. If he fell
@@ -851,7 +880,7 @@ of attention. He notes with "a pang of regret that he had not devised
 a nose-strap of the sort Bud wore in cold snaps. Such a strap passed across the
 cheeks, as well, and saved them."[@london_build_2001 263] Lacking a natural
 protection for his cheeks against the cold, the man's best hope of survival is
-to change his very being with increasingly refined appendages, replacing the
+to change his physical being with increasingly refined appendages, replacing the
 natural with the technological. 
 
 While these appendages, like the fire, remain external, they are nonetheless
@@ -863,11 +892,11 @@ fires"---whereas non-human animals "must have their bodily structure modified
 in order to survive under greatly changed conditions."[Qtd. in
 @wrangham_catching_2009 10] The uniquely human strategies for survival,
 which in the eyes of the evolutionist (professional or amateur) are coextensive
-with the defining human character, are contingent on the degree of
+with a defining human character, are contingent on the degree of
 technological adaptation in response to a changing environment.
 
 But technology's role in this story is hardly that of an uncomplicated savior.
-London goes beyond a purely salutary view of the technological human, beyond an
+London goes beyond a purely salutary view of technological humanity, beyond an
 account in which the human as an intelligent mind fills the gaps of the human
 as an organism. The fragility of the tobacco-beard, which shatters under the
 least pressure, is symbolic of humanity's over-reliance on technology for
@@ -886,9 +915,9 @@ corporeal being made manifest by the dissolution of the body while the mind
 remains active. Whereas earlier the technological appendages appeared as
 supplements, they are now barriers between the man's consciousness and his
 physical self---between the individual intellect and the more basic substratum
-of being that is determined by species. The loss of a connection between the
+of being that is determined by species. <!--The loss of a connection between the
 mind and body comes to symbolize the loss of a connection between the
-human intellect and the human species.
+human intellect and the human species.-->
 
 Finally, this lost connection has a greater cosmic significance than the death
 of an individual character. To London, it means a loss of the connection
@@ -896,7 +925,7 @@ between humanity and our natural environment. In another telling repetition,
 London suggests that our connection with the planet is bodily rather than
 intellectual: "He glanced down at first in order to assure himself that he was
 really standing up, for the absence of sensation in his feet left him
-*unrelated to the earth*"; and on the next page, as the man runs on feet that
+*unrelated to the earth*"; and shortly thereafter, as the man runs on feet that
 are entirely numb, "He seemed to himself to skim along above the surface, and
 to have *no connection with the earth*."[@london_build_2001 269-70, emphasis
 mine.] The statement would draw attention even without repetition, but as when
@@ -1044,16 +1073,16 @@ human species-being. Marx is unequivocal on this point:
 essence of nature exists only for the *social* man; for only here does nature
 exist for him as a *bond* with other *men*, as his existence for others and
 their existence for him, as the vital element of human reality…. *Society* is
-therefore the perfected unity in essence of man with nature. (349)
+therefore the perfected unity in essence of man with nature.[@marx_early_2005 349]
 
 And later: 
 
-> "[W]hat
+> [W]hat
 I create from myself I create for society, conscious of myself as a social
 being. My *universal* consciousness is only the *theoretical* form of that
 whose *living* form is the *real* community, society…. The individual *is* the
 *social being*. His vital expression…is therefore an expression and
-confirmation of *social life*." (350)
+confirmation of *social life*.[@marx_early_2005 350]
 
 This link of sociality with the "human essence of nature" echoes with the
 regretful meditations of London's man on breaking his social bonds, as he
@@ -1083,8 +1112,8 @@ external object in general to industry, he writes: "It can be seen how the
  history of *industry* and the *objective* existence 
 of industry as it has developed is the *open* book of the essential powers of 
 man, man's psychology present in tangible form."[@marx_early_2005 354] The
-"essential powers" of the human develop in complex interrelation with the 
-evolving psychology of the human and our essential nature. This degree of 
+"essential powers" of the human develop in complex interrelation with our 
+evolving psychology and defining nature. This degree of 
 correspondence makes it possible to define the state of the human at a given
 moment by the nature of its production and social organization. 
 
@@ -1098,7 +1127,7 @@ history has replaced natural history as the determining factor of human
 species-being, then what it means to be human is not the same at different
 moments in history. Humanness is only *essentially* defined by the constant
 transformation of the collective through transformation of external
-objects---and thus environment. 
+objects, which are understood as the human's self-made environment. 
 
 The same would have to be said of different forms of social and technological
 organization geographically, as well as temporally. Different societies do not
@@ -1189,12 +1218,12 @@ can therefore contemplate himself in a world he himself has created.
 
 London's understanding of difference---different species-beings within the same
 human species---comes to its sharpest point in his attempts to imagine the
-futurity of human species-being. In turning the focus of his species-thinking
+futurity of species-being. In turning the focus of his species-thinking
 towards the future rather than the past, he moves beyond the strictly
 technological, or artificial, prosthetic humanity to adopt a perspective that
 is more concerned with the human's influence on the natural world. London's
 speculative species-being is still reminiscent of Marxian species-being in many
-of its basic characteristic. But where the historical version resembles the
+of its basic characteristics. But where the historical version resembles the
 Marx who says "industry...is the *open book* of the essential powers of man,"
 the speculative version more closely resembles the Marx who says that "man
 reproduces the whole of nature" in a form of "life-engendering
@@ -1363,7 +1392,7 @@ that such universalism has been used to justify in the past.
 [^ln-reesman]: This inconsistency has recently been noted elsewhere:
 "In any twenty-first-century usage of the word, London could certainly be
 termed a racist, but...not a very good (that is, consistent)
-one"[@reesman_jack_1992 34]
+one"[@reesman_jack_2009 34]
 
 <!--[What is most startling about the note is that the two
 statements, taken together, seem to disenfranchise much of humanity. Failing
@@ -1575,7 +1604,11 @@ opinions with full narrative backing so much as posit them while London maintain
 a degree of distance, less overt than his criticisms of "the man" in "To Build
 a Fire" but with a similar effect. Saxon's ideas about her "Viking" ancestry
 are framed as dubious questions or distant mythic fantasies rather than stable
-facts. 
+facts: "had not she [...] found this same land-hunger in her? And
+was she not going forth to satisfy that hunger, just as her people of old time
+had done, as her father and mother before her?"[@london_valley_1999 239] Questions
+that at first glance appear rhetorical might reasonably be taken seriously as 
+a questioning of the ideology she proposes.
 
 One need not rely on the subtle uncertainty London casts on this passage for
 clarity, however, for a critique of Anglo-Saxonism erupts more explicitly near
@@ -1603,7 +1636,7 @@ soil is a good working definition of successful farming. What Saxon earlier
 took as a welcome part of an inherited identity is presented back to her as
 a cause of widespread environmental destruction.
 
-Overcoming this rapacious wastefulness requires them to overcome none other
+Overcoming this rapacious wastefulness requires them to overcome nothing less
 than their sense of racial superiority. As they travel through the country
 north of Oakland on their way to the Sonoma Valley, their many agricultural
 epiphanies are occasioned by encounters with immigrants, particularly the
@@ -1626,8 +1659,8 @@ the Jack London Collection at the Huntington Library in California, containing
 pages of source material from which he drew liberal inspiration for the novel's
 insights on farming and the state of rural California. More of this material
 will be discussed in the next chapter, but on the connection between
-horticulture and nationality, several pieces stand out. Two pieces in
-a *Saturday Evening Post* series entitled "Lessons From Our Alien Farmers" were
+horticulture and nationality, several pieces stand out. A *Saturday Evening Post* 
+series entitled "Lessons From Our Alien Farmers" was
 particularly fruitful for London's composition of the novel. Written by Forrest
 Crissey, a regular contributor to the *Post* who would go on to write a book
 called *The Story of Foods* on similar issues, two articles from October 7 and
