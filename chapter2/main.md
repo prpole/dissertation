@@ -117,8 +117,8 @@ naturalism, and Jack London's work in particular, attempt to induce.
 adopting the Marxian term for a similar concept. In the Marxian framework to which London subscribed, capitalism engenders a
 constant and conscious revolutionization of the means of production, as a
 consequence of which "all that is solid melts into air, all that is holy is
-profaned, and man is at last compelled to face with sober senses his real
-conditions of life, and his relations with his kind."[@marxmanifesto...]
+profaned, and man is at last compelled to face with sober senses, his real
+conditions of life, and his relations with his kind."[@marx_communist_2013 64]
 Under these conditions of constant change, the "real conditions of life" become both a revelation and a
 teleologically mutable object, something realized individually and collectively
 *through its transformation*. Species-being refers to humanity's
@@ -287,7 +287,7 @@ which is opposition to the kind of essentialism a discourse of the human
 species would seem to imply. At least in the humanities, a proliferation of
 alternate terms has resulted, among them the Capitalocene,
 the Plantationocene, and the Cthulucene.[@moore_capitalism_2015;
-@harraway_anthropocene_2015] These searches for an alternative term have
+@haraway_anthropocene_2015] These searches for an alternative term have
 one thing in common: they understand the "anthropos" in Anthropocene as an even
 distribution of blame for actions the benefits of which have historically been
 anything *but* even. <!--That Jack London invokes the species as a heuristic hardly
@@ -1587,7 +1587,7 @@ much of the land around Oakland, whose farms they pass through on their search.
 interprets their journey as a necessary step in their racial
 self-identification, exercising "a 'right' granted [them] by birth but
 requiring at the same time that [they] lay claim to it."[Qtd. in
-@gair_citizenship_1993 426] Gair's analysis effectively captures the
+@gair_way_1993 426] Gair's analysis effectively captures the
 motivations Billy and Saxon voice as they set out from Oakland, as well as the
 common nativist tropes they embody.
 
