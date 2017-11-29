@@ -5,50 +5,48 @@ bibliography: bibliography.bib
 csl: csl/chicago-note.csl
 ---
 
-In Charlotte Perkins Gilman’s 1915 utopian novel *Herland*, three male
-explorers discover an eponymous lost nation that is distinguished by two
-features. The first, which has been widely discussed since the novel’s
-revival by feminist scholars in the 1980s, is that the country is
-populated entirely by women who reproduce parthenogenetically. The
-second, which has only recently entered the critical conversation in a
-sustained way, is the way the Herlanders relate to the land itself. To
-put it simply, there is no “nature” apart from the human in Herland. It
-is “a land in a state of perfect cultivation, where even the forests
-looked as if they were cared for; a land that looked like an enormous
-park, only that it was even more evidently an enormous garden”---a land
-more “petted” than any before seen (“even in Germany,” the birthplace of
-modern forestry), and in which practically all of the trees are
-“[f]ood-bearing."[@gilman_herland_2012 42-4] Though part of these systems, the humans of
-Herland also guide them, increasing through the same subtle methods
-their environment’s vitality and its capacity to sustain human life. The
-place of the human in this system is ubiquitous but decentered: they are
-the ghost in the machine of a mechanistic “nature.” But it is not
-mechanistic in the familiar Baconian sense of nature as inert and
-masterable. Rather, the very mechanism of Gilman’s nature makes it
-powerful in its own right, and it is made even more so by the guidance
-of the humans who are very much a part of it. As a result of this
-relationship, there is no economics that is not also ecology. The
-product of labor in Herland is not saleable produce but edible forests,
-guided to become self-improving systems that include the human. As such,
-the products, if they can be called that, are held in common, not only
-among humans but across all life in the Herland ecosystem. In the
-absence of a money economy, such guiding intervention constitutes the
-*raison d’être* of human activity. Extending it to the scale of the
-society, we might call this activity *ambient labor*: a conception of
-environments as objects of economic production, produced by methods that
-are themselves understood as part of the environment they produce.
-Economic activity at once fades into the background and creates it.
+There is no “nature” apart from the human in Charlotte Perkins Gilman’s Herland
+(1915), a utopian novel in which three male explorers discover a land of
+parthenogenetically reproducing women. They find a land “in a state of perfect
+cultivation, where even the forests looked as if they were She cared for; a
+land that looked like an enormous park, only that it was even more evidently an
+enormous garden”; a land more “petted” than any before seen (“even in Germany,”
+the birthplace of modern forestry), as a result of which nearly all of the
+trees are “[f]ood-bearing.”[@gilman_herland_2012 42-4] This is not to say that the land is all cleared and
+tilled, plastered over with monocultural production in the manner so familiar
+to the twenty-first century. Rather, the humans of Herland guide these systems
+as part of them, increasing through the same subtle methods their environment’s
+vitality and its capacity to sustain human life. They are ubiquitous but
+decentered, ghosts in the machine of a mechanistic nature. And yet, despite
+this mechanism, which in the Baconian legacy makes nature something to be
+dominated, Herland’s culture is marked by a profound respect for and
+cooperation with the natural world, a recognition of the consequences of action
+without attention to the material entanglements on which civilization relies.
+The result of this respect is that, while there is no “nature” without the
+human, there is also, conversely, no economics that is not also ecology. The
+product of labor in Herland is not saleable produce but life-sustaining
+environments, self-improving systems that include the human. As such, the
+products, if they can be called that, are held in common, not only among humans
+but across all life in the Herland ecosystem. In the absence of a money
+economy, such guiding intervention constitutes the *raison d’être* of human
+activity. Extending this activity to the scale of the society as a whole, we
+might call it *ambient labor*: a conception of environments as objects of
+economic production, produced by methods that are themselves understood as part
+of the environment they produce. In such a system, economic activity at once
+fades into the background and creates it.
 
 This is the utopian wing of Anthropocene literature, born at least a
 century ago, when the Anthropocene was not so much an object of thought
 as an uneasy premonition, the conditions that would create it immature
-but nascent and ominously powerful.[^4] *Herland* is due not just an
-ecocritical rereading, which it has already begun to receive, but
+but nascent and ominously powerful.[^4] *Herland*, traditionally read for 
+its proto-feminist insights, is due not just the
+ecocritical rereading it has recently begun to receive, but
 recognition as part of the intellectual prehistory of one of our most
-important contemporary concepts.[^5] Herland’s Anthropocene begins with
-a geological event ironically beyond the reach of human activity, a
-volcanic eruption that seals the only passage out of their peculiarly
-isolated land formation, a “high spur of rock” set above the surrounding
+important contemporary concepts.[^5] Herland has an Anthropocene of its own,
+one that begins (ironically) with
+a geological event beyond the reach of human activity, namely, a
+volcanic eruption that seals the only passage out of their  “high spur of rock” 
+set above the surrounding
 forest; the resulting isolation forces them to come to terms with their
 own destructive and, eventually, productive potential as agents of
 environmental change and ecological guidance. Yet Gilman’s response to
@@ -63,36 +61,39 @@ an environmental future defined by human activity.
 
 The twenty-first-century instantiation of this optimism is often
 referred to as the “good Anthropocene,” a diverse collection of
-perspectives united by the premise that we can have an Anthropocene that
-will *not* result in catastrophe for humans and nonhuman nature, and
+perspectives that imagine an Anthropocene without catastrophe and suggest
 that embracing human influence over the planetary ecology could
 ultimately benefit all involved. One of the the most extreme versions of the good
-Anthropocene, "An Ecomodernist Manifesto," boasts many influential signatories
-and celebrates the apparently boundless expanses of human
+Anthropocene, "An Ecomodernist Manifesto," celebrates the apparently boundless expanses of human
 ingenuity, viewing limits to growth as temporary obstacles---a view that
 many, especially in the environmental humanities, understandably see as
 an uncomplicated justification of our domination over nature or as yet
 another vehicle for capital investment.[^6] Another version of the good
-Anthropocene more reasonably emphasize the necessity to adapt and
+Anthropocene more reasonably emphasizes the necessity to adapt and
 mitigate, acknowledging the scale of human influence on the planet
-without falling prey to a dystopian vision of the future.[@bennett_bright_2016] Whatever
+without giving in to a dystopian vision of the future.[@bennett_bright_2016] Whatever
 the version, though, the good Anthropocene is hardly new except in
 name---though perhaps not in the sense its critics might assume, as an
-uncomplicated return to the bad old days of exploitation. Rather, the
-twenty-first century conception of a good Anthropocene reflects a moment
-in the history of ecological and evolutionary history that has faded
-behind more hegemonic intellectual lineages. This moment, though
-scientifically flawed, was a notable early attempt to think of
-environmental stewardship as a process of reforming humanity’s
-interactions with the natural world rather than lessening them. This
-article will examine *Herland*’s ecological vision as a theory of the
+uncomplicated return to the bad old days of exploitation. In fact, the
+twenty-first century conception of a good Anthropocene reflects an earlier moment
+in the history of ecological and evolutionary history, one that has faded
+behind more hegemonic intellectual lineages, in which humanity was seen as neither fully
+subject to Darwinian determinism nor an omnipotent force of waste and destruction, 
+but nature's own consciousness. 
+
+Reading it in the context of Lester F. Ward's
+*Dynamic Sociology*, a work by which Gilman was influenced both sociologically
+and for its environmental thinking, it becomes clear that *Herland* is a
+literary representation of an environmental stewardship seen as a process of 
+reforming humanity’s interactions with the natural world rather than 
+lessening them. This article will examine *Herland*’s ecological vision as a theory of the
 good Anthropocene *avant la lettre*, showing that Gilman saw reform of
 humanity’s economic systems (into ambient labor) as a way to reconcile
 humanity’s omnipresent and determinative influence on nature with the
-desire for a more verdant world. Reading *Herland* as literature of the
-good Anthropocene is an opportunity to extract an ecological-economic
+desire for a more verdant world. Such a reading is an opportunity to 
+extract an ecological-economic
 conception of labor that is tailored to conditions that anticipate those
-of the twenty-first century; such a reading also can, and must, be taken
+of the twenty-first century; it also can, and must, be taken
 as a test-case for the Promethean optimism of the good Anthropocene,
 grounds to explore the less salutary outcomes that are elided when the
 impact of humanity on the natural world is embraced rather than
@@ -101,7 +102,7 @@ lessened.
 If such a reading complicates the way the Anthropocene is commonly
 mobilized in the humanities, it will also call for a reconsideration of
 Gilman’s literary moment. Formally and narratively, *Herland* strains
-the ideological and aesthetic purviews of *Herland*’s genre, American
+the ideological and aesthetic purviews of its genre, American
 literary naturalism, forcing us to reconsider some of the genre’s
 defining characteristics as they have traditionally been constituted by
 its critics. Jennifer Fleissner’s influential rereading of naturalism in
@@ -202,7 +203,7 @@ contemporary theories of the good Anthropocene, which paradoxically
 acknowledge the dystopian potential of unmanaged human activity while
 responding with a utopian vision of collective environmental management.
 
-To depict this intersection, Gilman backgrounds human activit both in
+To depict this intersection, Gilman backgrounds human activity both in
 the setting and the country’s history. By *backgrounding* I refer to a
 double operation of deemphasizing human activity, making the people and
 their products appear as part of the natural environment, and using the
@@ -210,8 +211,7 @@ descriptive rendering of the environment as a vehicle for the novel’s
 arguments. Through this process, Gilman’s novel formally reflects the
 new form of human inhabitation it theorizes, and in so doing complicates
 the traditional reading of description in the naturalist genre. But the
-term “backgrounding” is chosen to reflect the status of women’s labor,
-as well. Where contemporary ecofeminists name and resist instances where
+term “backgrounding” is also chosen to reflect the status of women’s labor. Where contemporary ecofeminists name and resist instances where
 the contributions of environments and women are placed in the
 background,[^16] especially the acts of motherhood and reproduction that
 unite historical conceptions of both, Gilman backgrounds everything,
@@ -220,7 +220,7 @@ processes. Finally, backgrounding as a term reflects the potential for
 concealment, for the utopia of Herland’s gardenic present is built on
 the dystopia of its full-world past. Like the modernity celebrated in
 the Ecomodernist manifesto, Gilman’s utopianism has strategic elision of
-historical trauma and past inequality as a precondition.
+historical traumas and inequalities as a precondition.
 
 Gilman’s narrative backgrounding begins with her environmental
 descriptions, in which she establishes the omnipresence of human
@@ -248,14 +248,7 @@ spaces, as it clears the way for transportation between an interior
 network of small cities throughout the interior.[^19] They are connected
 by “clean, well-built roads” that permit the speed with which three
 Herlanders on foot are able to distance themselves from the male
-intruders and the speed of their electric ground vehicles---"an easy rate of some thirty miles an hour."[@gilman_herland_2012 42, 47, 71] As one
-might expect given the trend of integrating the built and natural
-environments, there is not one single, sprawling urban center to
-Herland, nor the corresponding separation of urban and rural divisions
-of labor. Instead, there are small towns in what appears to be a loosely
-unified political relationship---regions governed by local
-“Over-Mothers”---a structure that benefits from easy transportation
-between the cities.[@gilman_herland_2012 114, 151] The relegation of the forest to the edges of
+intruders and the speed of their electric ground vehicles---"an easy rate of some thirty miles an hour."[@gilman_herland_2012 42, 47, 71] The relegation of the forest to the edges of
 Herland, then, and the creation of various types of landscape that exist
 throughout, creates a setting that appears natural but is catered to
 human use.
@@ -274,10 +267,7 @@ the broader ecology.[@hemenway_gaias_2009 33-4] Here as throughout the novel, Gi
 a land that is constructed for a purpose; but more accurately, it is
 constructed for multiple purposes cutting across the human and
 extra-human communities, its human uses coextensive with natural
-fecundity rather than in tension with it. In contrast to wild spaces,
-these spaces are reifications of perspectives on nature themselves,
-visible in the way that interaction with the land occurs, and in this
-case, in the way in which the land is shaped physically and narratively.
+fecundity rather than in tension with it. 
 
 The human is reflected in natural landscapes through the ideologies that
 have been used to shape them; human Herlanders are also integrated into
@@ -290,16 +280,12 @@ hymenoptera order that includes bees and ants, as when their
 commonplaces are compared to “the way the ants and bees would talk---do
 talk, maybe” and their nurseries to an “ant-hill.”[@gilman_herland_2012 61, 93, 97, 102] The metaphors
 range freely into the plant kingdom, as well, particularly in the case
-of child rearing. The children “gr[o]w up as naturally as young trees”
+of child rearing. The children grow up "as naturally as young trees”
 because they are given an environment that promotes this growth, using
 methods “they had found in their work with plants”; the result is a
 community that is compared to “the most perfectly cultivated richly
 developed roses” despite the fact that they do not “seem ‘cultivated’ at
-all---it had all become a natural condition.”[@gilman_herland_2012 98, 102, 118] This recasting of
-humans in the background of plants and animals puts a particular
-importance on a punning reference to the “virgin” land, which takes on
-not only the idea of an uncultivated space but defines the land by the
-sexual virginity of parthenogenetic human women.[@gilman_herland_2012 85] This backgrounding
+all---it had all become a natural condition.”[@gilman_herland_2012 98, 102, 118] This backgrounding
 ultimately leads to invisibility (or concealment) for the humans of
 Herland. After a fruitless escape attempt early in the novel, the men
 are returned to their comfortable captivity and realize they had been
@@ -309,34 +295,20 @@ individuals become part of the environment just as easily as their
 ideologies do. Indeed, becoming part of the environment in the
 background *is* the ideology.
 
-Background constitutes a unique form of description, or at least a
+Backgrounding constitutes a unique form of description, or at least a
 unique literary use to which description can be put. Georg Lukács’s
 foundational essay “Narrate or Describe,” for example, singularly fails
 to capture the integration of event and background as it appears in
-*Herland*. Comparing two analogous depictions of horse races in Zola’s
-*Nana* and Tolstoy’s *Anna Karenina*, Lukács criticizes Zola’s and
-elevates Tolstoy’s according to the following criterion: “In Zola the
-race is *described* from the standpoint of the observer; in Tolstoy it
-is *narrated* from the standpoint of a participant.” That Tolstoy’s
-description is “integrated into the total action of the novel” through
-ironic and symbolic means makes it part of its narrative inevitability,
-while Zola’s description is excessive, “mere filler” that “could easily
-be eliminated.” Theinevitability that Lukács lauds in authors who
-privilege narration is an inevitability contained to human activity and
-human narratives, presupposing a foregrounding of human actions against
-a background of inert natural and built environments. In Balzac, for
-example, “the theatre and performance serve as the setting for an inner
-drama of his characters”; in Flaubert, the setting of an agricultural
-fair “is incidental,” mere “background for the decisive love scene
-between Rudolf and Emma Bovary.” The reason for this decisive
-privileging of narration is its effectiveness in depicting the
-contradictory relationships and social structures of capitalism. While
-in the descriptive paradigm, these relationships “are simply described
-as social facts, as results, as *caput mortuum* of a social process,” it
-is the process itself that narration is supposedly in a unique position
-to capture: while Zola tells us that the theater *is* prostituted under
-capitalism, Balzac “depicts *how* the theater *becomes* prostituted
-under capitalism.”[@kahn_narrate_2005 111-115] By this logic, the majority of Gilman’s
+*Herland*. Lukács privileges works in which events are "*narrated* from the
+standpoint of the participant" over those in which they are "*described* 
+from the standpoint of the observer" because the former integrates description
+into the "total action of the novel" while the latter constitutes 
+"mere filler." Human "action" is forgrounded against a background of 
+inert natural and built environments. Of course, for Lukács, the point
+of this distinction is the relative ability to capture the contradictions
+of capitalism. Description fails because it presents "social facts...as *caput
+mortuum* of a social process" where narration captures the process itself.[@kahn_narrate_2005 111-115] 
+By this logic, the majority of Gilman’s
 intensely descriptive novel would surely be considered a crypt of
 *capita mortua*.
 
@@ -347,8 +319,7 @@ of non-human environments as *mise-en-scene* (in the case of the
 agricultural fair, dead animals). If description fails to capture
 the processes by which capitalist contradictions come to be, an
 anthropocentric narration can never capture the processes by which
-*environments* come to be---a much more materialist, and even
-historical-materialist, concern than a love scene at a fair.[^30] It is
+*environments* come to be.[^30] It is
 not that Gilman privileges description over narration, but that in
 putting people in the background as one part (albeit a decisive one) of
 the processes by which environments come to be, narration and
@@ -359,14 +330,9 @@ the management of natural systems that defines the content of its
 descriptions. But these events are subordinated to the needs of the
 setting rather than the other way around. Any human-centric chain of
 events essentially concludes when the men’s attempted escape from
-Herland is thwarted. Indeed, the typical adventure narrative that leads
-to that point appears to be a slightly tongue-in-cheek red herring:
-brave, masculine explorers reconnoiter and infiltrate an unheard of
-land, are captured and imprisoned, effect a daring escape---only to be
-re-captured by laughing women who were a step ahead of them the whole
-time. The adventure plot gives way instead to an ecosystem-focused
+Herland is thwarted, giving way instead to a system-focused
 narrative in which three new elements, the three men, are considered for
-introduction into the overlapping human and non-human systems. Only when
+introduction into the overlapping human and non-human processes. Only when
 they are “tamed and trained to a degree [the Herlanders] considered
 safe” are the men “at last brought out to see the country, to know the
 people.”[@gilman_herland_2012 98] The three men represent three different outcomes: Jeff is
@@ -374,8 +340,7 @@ fully integrated, marrying into the Herland society and accepting their
 values wholesale; Terry is fully rejected, having resisted integration
 entirely from start to finish; and Vandyck is essentially accepted but
 decides to leave and take with him, or even replicate, the system of
-values into which he has been accepted (in the form of the Herlander
-Ellador, whom he marries, and who accompanies him back to our world). If
+values into which he has been accepted. If
 the women of Herland are already backgrounded in the descriptions that
 define the novel’s setting, the human plot is one of the process of
 backgrounding.
@@ -385,6 +350,8 @@ event-driven narrative in favor of one in which the human “protagonists”
 become the dual subjects and objects of a human-ecological system. And
 to the extent that they become part of this system, the background
 itself becomes the true protagonist.
+
+<!-- pick up here -->
 
 Putting humans in the background, combining event and description, and
 decentering the human from the protagonist role are narrative
