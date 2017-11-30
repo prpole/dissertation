@@ -351,29 +351,30 @@ become the dual subjects and objects of a human-ecological system. And
 to the extent that they become part of this system, the background
 itself becomes the true protagonist.
 
-<!-- pick up here -->
+
 
 Putting humans in the background, combining event and description, and
 decentering the human from the protagonist role are narrative
-reflections of a coevolutionary form of inhabitation. Coevolutionary
-inhabitation means, simply, that the changes in the human realm are
-mutually determinative with changes to the environment, a human-nonhuman
+reflections of what we might call coevolutionary inhabitation,
+in which changes in the human realm are mutually determinative with 
+changes to the environment, creating a human-nonhuman
 feedback loop. The resulting relationship between human Herlanders and
 their environment is defined not by the Hobbesian war of all against
 all, so essential to Darwinian evolution and its misapplications to
 social life, but by guided transformation in which competition is
 deemphasized in favor of mutual sustenance. Linking the fates of the
 human and the environment in this way leads to an ecological reformism
-similar to that of the domestic reform movements that were a prominent
-feature of Gilman’s early writings.
+similar to that of the domestic reform movements championed in Gilman’s 
+early writings.
 
-In some of the essays preceding *Herland*, Gilman espoused a vision of
-the human-nature relationship in which environmental transformation was
-part of a larger process of human evolution. That is to say, the natural
-world is arrogated to the human by default, in this view, but so is
+Coevolutionary inhabitation does not begin with *Herland*. In earlier 
+essays, Gilman espoused a vision of
+the human-nature relationship in which environmental transformation is seen as
+part of a larger process of human evolution. In such a vision, the natural
+world is arrogated to the human by default, but so is
 responsibility for its stewardship. She saw the human species and its
-environment both as mutable, and indeed, as in need of conscious
-mutation to avoid unconscionable waste and suffering. In a 1908 article
+environment both as mutable and, indeed, in need of
+mutation to avoid waste and suffering. In a 1908 article
 “Modern Beatitudes---The Newness of the Earth,” for example, she suggests
 that Earth and humanity are both mere children, as yet relatively
 undeveloped but always growing into greater harmony. The evolution of
@@ -404,11 +405,13 @@ floods, preserving our soils, maintaining the balance of nature plus the
 art and skill and learning of mankind.” By framing this development in
 terms of the growth of the human species---and indeed, of the planetary
 system as a whole---she builds her vision of coevolution on a simultaneous
-development of human and environment, not by on opposition to be
-resolved through conflict. Joining with the environment replaces
+development of human and environment rather than opposition and conflict. 
+Joining with the environment replaces
 dominating it as the means by which humanity will thrive in “Modern
 Beatitudes,” just as entering the background becomes the key to survival
 in *Herland*.
+
+<!-- pick up here -->
 
 This account of teleological human evolution was largely an artifact of
 her extrapolations from the theories of Lester F. Ward. Ward was a
