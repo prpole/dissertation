@@ -2,7 +2,7 @@
 title: Gilman’s Garden&#58; *Herland*, Literary Naturalism, and the Good Anthropocene
 author: Phillip R. Polefrone
 bibliography: bibliography.bib
-csl: csl/chicago-note.csl
+csl: csl/chicago-note-bibliography-nodoi.csl
 ---
 
 There is no “nature” apart from the human in Charlotte Perkins Gilman’s Herland
@@ -411,32 +411,29 @@ dominating it as the means by which humanity will thrive in “Modern
 Beatitudes,” just as entering the background becomes the key to survival
 in *Herland*.
 
-<!-- pick up here -->
-
-This account of teleological human evolution was largely an artifact of
-her extrapolations from the theories of Lester F. Ward. Ward was a
+This account of teleological coevolution was influenced by 
+the theories of Lester F. Ward. Ward was a
 friend and inspiration to Gilman who would go on to become an important
 founding figure in sociology, but only after serving as the chief
 paleobotanist for the U.S. Geological Survey in an environment rife with
 conservationist ideas and ideals---ideals that led him to differ from
 Herbert Spencer, the figure more commonly seen as the naturalists’
 gateway to evolutionary theory.[^34] Ward understood humanity’s
-potential for destructive transformation of the planet and was
-unequivocal in pointing out the destructive trend of humanity’s
-interactions with the natural world, pointing out the rapidity with
+potential for destructive transformation of the planet, pointing out the rapidity with
 which resources from forests to soil to animals are exhausted to satisfy
 “temporary wants” of the “first occupants, who know only the immediate
-present.”[@ward_dynamic_1926 2:88-9] This is not grounds for lessening humanity’s impact on
-its environment, however---precisely the opposite. From Ward’s
+present.”[@ward_dynamic_1926 2:88-9] He did not see this as grounds for lessening 
+humanity’s impact on the environment, however---precisely the opposite. From Ward’s
 perspective, this wastefulness and “wanton disregard of the future” are
 the traits that make the human most *natural*. What he sees in humanity,
 he sees to an even greater degree in nature. The “wasteful methods
 [that] prevail in society” derive from those “in the animal and
 vegetable kingdoms,” and nature itself “acts on the assumption that her
-resources are inexhaustible.”[@ward_dynamic_1926 2:87-8] The only hope is for the human
+resources are inexhaustible.”[@ward_dynamic_1926 2:87-8] The only 
+possible alternative is for the human
 species to fulfil its rightful role as the source of teleology in the
 natural world, replacing the randomness and suffering of Darwinian
-nature and genetic mutation. And yet, for all this talk of the human
+natural selection. And yet, for all this talk of the human
 responsibility to take over where nature has fallen short, the human
 remains *part* of “this great unconscious creative whole called nature”
 nature: the solution is not to get out of nature but to fix it.[@ward_dynamic_1926 2:11] It
@@ -473,82 +470,47 @@ decision-making process determining reproductive rights receives much
 less attention than the perceived benefits. Nor does couching this
 process in the management of other species, ethically dubious in its own
 right, redeem it. One need only remember that Francis Galton’s original
-case for eugenics is built from a foundation of different sects of
-humanity (racial or otherwise) with different species in a zoo to see
+case for eugenics is built on a comparison of different sects of
+humanity (racial or otherwise) to different species in a zoo to see
 how easily the management of non-human species can bleed dangerously
-into the management of human Others. Finally, the men discover that
-women, the rational managers of this ecological and social system, were
+into the management of human Others. It is perhaps no coincidence that 
+the men discover that women, the rational managers of this ecological and social system, were
 only able to come to power---only able to experience the birth of their
-all-female race---after quelling a slave uprising that killed the free men
-of the pre-Herland nation, the free women killing in turn all the
-formerly enslaved men (though they do appear to have welcomed the
-formerly enslaved women who remained to at least some extent).
+all-female race---after quelling a slave uprising.
 Backgrounding human actions in submerged historical narratives and the
 seemingly agentless transformation of physical space let Herlanders off
 the hook for, as Benjamin might have it, the barbarism that undergirds
 their civilization.
 
-And yet, though Gilman’s support of eugenic intervention is
-irredeemable, it is also not the whole or even the primary story in
-*Herland*’s conception of guided change in the social ecology. The
-process by which their social ecology is transformed has much more to do
+And yet, though Gilman’s support of eugenics is
+irredeemable, it is also not the whole or even the primary story. The
+process by which Herland's social ecology is transformed has much more to do
 with the alteration of physical and social structures to repair what
 Marx called the “metabolic rift” in the energetic and material
 circulation between town and country.[^41] Reform of the physical
-environment preoccupied Gilman’s work well before *Herland*, cutting
-through her domestic reform activism as well as her theoretical writing,
-but these earlier explorations of the topic focused less on the natural
-environment than the built environment. Throughout her career, she
+environment (albeit mostly the built environment) preoccupied Gilman’s work well before *Herland*, cutting
+through her domestic reform activism as well as her theoretical writing. Throughout her career, she
 sharply criticized the relegation of women to the domestic sphere and
 the exploitation inherent in domestic labor;[^42] among the most
-programmatic of the results was her campaign for the kitchenless
-household, that is, a change in physical structures that she hoped would
-change something fundamental to human society. In *Women and Economics*,
-she argues that “change in the economic position of woman from
-dependence to independence must bring with it a rearrangement of these
-home interests and industries.”[@gilman_women_1966 224] Thus, she lays out a vision of
-“apartments…without kitchens” except those “belonging to the house from
-which meals could be served to the families in their rooms or in a
-common dining-room” in larger domiciles, hoping thereby to liberate the
-“hundreds of thousands of women in New York City alone who are
-wage-earners, and who also have families.”[^44] Objecting to the
-cultural backgrounding of women’s domestic labor, she brings the sites
-of their labor into the foreground---the precise opposite of what she
-would do in *Herland*. But in both cases, economic and social change
-begins with alteration of the physical environment.
-
-Though the relationship of foreground to background is reversed, in
-*Herland* Gilman’s meditations on kitchenless households combine with
-her Wardian evolutionary theory to form a system in which the constant
-transformations that define human inhabitation of space consciously feed
-into a self- and environment-forming feedback loop. Domestic reform
-easily becomes environmental reform because the country itself becomes
-one big home. As Jeff, the eventual male Herlander, puts it in response
-to Terry’s complaints that “There isn’t a home in the whole pitiful
-place”: “There isn’t anything else [than home], and you know it.”
-Descriptions of the physical infrastructure contain many passages that
-could be taken right from a kitchenless household pamphlet, as when Van
-explains that for “food we either went to any convenient eating-house,
-ordered a meal brought in, or took it with us to the woods, always and
-equally good.”[@gilman_herland_2012 144] In this context, unlike in the more purely social
-texts like *Women and Economics*, the ramifications of such a change are
-not limited to a bounded realm of humanity. By bringing consumption into
-the larger, self-sustaining system of Herland as a whole and making
-cooking and eating a public activity, these communal eating-houses also
-reduce material waste and make it possible to manage entirely the waste
-that *is* produced. Centralization makes it possible to incorporate food
-production into their “perfect scheme of refeeding the soil with all
-that came out of it”: “All the scraps and leavings of their food, plant
+programmatic of the results was her campaigning for the kitchenless
+household, a change in physical structures that she hoped would
+change something historically central to human society.[^44] In *Herland*,
+a coevolutionary system, the change cuts both ways. Taking pains
+to point out, via Jeff, that the entire world is a home, she 
+scatters eating-houses throughout the landscape that replace kitchens.[@gilman_herland_2012 144]
+But now, this centralization of food production has a positive ecological
+effect coextensive with its economic significance: it contributes to the 
+“perfect scheme of refeeding the soil with all
+that came out of it” in which "the scraps and leavings of their food, plant
 waste from lumber work or textile industry, all the solid matter from
 the sewage, properly treated and combined---everything which came from the
-earth went back to it.”[@gilman_herland_2012 104] Herland’s communal kitchens would thus
+earth went back to it.”[@gilman_herland_2012 104] Herland’s communal kitchens
 fertilize the soil while eliminating the need for private domestic
 labor, as such labor is incorporated into the ecology and the economy at
 once.
 
 It is a shift that has defining ecological benefits, as the industrial
-economy of “Ourland” (what Gilman would call the world beyond Herland in the novel's
-the sequel) is replaced by an encompassing domestic one in Herland,
+economy of twentieth-century America is replaced by an encompassing domestic one in Herland,
 focused on sustenance of human and environment alike as well as their
 increasing codependence. It is difficult to separate taking care of
 oneself from taking care of one’s environment when the natural
@@ -562,11 +524,9 @@ activity with the health of an ecosystem. The backgrounding that so
 defines *Herland*’s narrative form is merely a device for embedding this
 alignment within the substance of the novel itself.
 
-Coevolutionary inhabitation represents a concomitance of Gilman’s
-evolutionary theory with her theories of domestic reform; it is also a
-basis for a social ecology of the type demanded by any version of the
+Coevolutionary inhabitation represents a social ecology of the type demanded by any version of the
 good Anthropocene. The mutually sustaining social-ecological feedback
-loop that defines her system resolves in miniature the problems of the
+loop that defines her system proposes to resolve in miniature the problems of the
 too-human natural environment by putting a “better” human in the
 background, as a determinative element of the larger system.
 
@@ -601,36 +561,17 @@ discusses production, ecological economics focuses on *re*production,
 seeking to limit resource depletion and pollution within the constraints
 that will allow the ecosystem to continually reproduce itself and
 develop. Herman Daly, in one of the founding texts of the field,
-describes the resulting system as a “steady-state economy.”[^48] Though
-a recent and relatively minor economic sub-field, ecological economics
-will be essential to any economically focused vision of a good
-Anthropocene.
-
-These descriptions of ecological economics might just as well describe
-*Herland* from an ecological perspective. And yet, texts included in
-surveys of ecological economics do not usually predate the 1970s. It
-took the twentieth century’s Great Acceleration to bring into focus the
-necessity of an economics that could act as “a response to the pressing
-environmental problems of the twentieth century” and explain, as
-standard economics could not, “the unprecedented decline in
-biodiversity, the changing climate, [and] increased generation of waste,
-all caused by the pursuit of economic growth.”[@shmelev_ecological_2012 3-8] Like the
-Anthropocene itself, however, ecological economics has a prehistory that
-extends at least into the nineteenth century. John Bellamy Foster points
-out that the roots of ecological economics can be found in strains of
-early Marxian economics in which soil science and the study of
-energetics, such as Sergei Podoloski in 1880 and, even earlier, Marx’s
-own interest in the work of Justus von Liebig.[@foster_marxs_2000 166-7] There is no evidence
+describes the resulting system as a “steady-state economy.”[^48] These 
+descriptions of ecological economics might just as well describe
+*Herland* from an ecological perspective. There is no evidence
 that Gilman was familiar with this work, but *Herland* should
 nevertheless be considered as an early literary precursor of ecological
-economics for its own material economic insights, which respond to the
-conditions that are now known as the Anthropocene and more generally
-result from the problems of a full world.
+economics.
 
 Gilman’s depiction of labor is the most interesting aspect of *Herland*
-from the perspective of ecological economics, for the system of
-backgrounded, environment-forming activity constitutes what I am calling
-“ambient labor.” Herland’s ambient labor is distinct from labor under
+from this perspective, for the system of
+backgrounded, environment-forming activity introduces a unique form of labor, 
+what I am calling “ambient labor.” Herland’s system of ambient labor is distinct from labor under
 extractive capitalism primarily in that it conceives of its product as
 the *environment itself* and the systems that make it up, not
 commodities. At the same time, this ambient labor is also understood as
