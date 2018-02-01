@@ -1,5 +1,5 @@
 ---
-title: The Measureless Ranch of Vision: Frank Norris's Capitalocene Aesthetic
+title: The Measureless Ranch of Vision - Frank Norris's Capitalocene Aesthetic
 author: Phillip R. Polefrone
 ---
 
@@ -173,7 +173,7 @@ aesthetic, the chapter will conclude with a brief discussion of areas
 where similar hybrids of financial and agricultural themes arise in the
 naturalist canon.
 
-### The Case for a Capitalocene Reading of *The Octopus*
+### Frank Norris's Capitalocene
 
 *The Octopus* obsessively returns to illustrations of natural and industrial
 forces colliding and coupling. More often than not, these passages are
@@ -1132,8 +1132,7 @@ cues and inspiration from Joseph LeConte’s theory of the Psychozoic Era
 in its emphasis on organization and domestication, but it replaces “Man”
 as the defining agent with financial markets and the capitalist system.
 
-**“The Measureless Ranch of Vision”: Landscape and Capitalocene
-Aesthetics **
+###“The Measureless Ranch of Vision”: Landscape and Capitalocene Aesthetics 
 
 As Minna Hooven, separated from what is left of her family, approaches a
 quaint cottage in San Francisco where she has been told she might find
@@ -1597,7 +1596,127 @@ proceeds *through* nature. Depicting this relationship requires an attention
 to markets that is simultaneous with attention to the natural world, a mixture
 that the unfinished Epic of the Wheat is uniquely suited to pursuing.
 
-**Conclusion: Finance and Farming in the Naturalist Canon**
+###Conclusion: Finance and Farming in the Naturalist Canon
+
+[Note: this is a little rough, and I will return to this
+when the project is done to draw some more connections and flesh
+out the ones below. This is a combination of hunches and mini-
+readings, all of which have to be confirmed.]
+
+While *The Octopus* is unique in its direct anticipation of a Capitalocene
+theory and its translation of that theory into an aesthetic, much of
+what this discussion can be expanded to reconsider
+trends in the naturalist canon more broadly. To conclude, I will briefly
+consider a few possible lines of inquiry.
+
+In the first place, the "metabolic rift" in Norris criticism between 
+economic and natural-scientific studies also characterizes
+the genre's criticism as a whole, and there are many more in the former 
+camp than the latter. The reason this can be so in a genre that is
+still called "naturalism" is the abstraction of Darwinian evolutionary
+theory to economic contexts through social darwinism, and the resultant
+obsession (in some naturalist writers and early naturalist critics alike) 
+with understanding cities and markets as a site for evolutionary dynamics.
+This in turn leads to naturalization of the market. On one hand,
+naturalizing the market concedes to capitalism's inevitability in a way
+that forecloses utopian alternatives like Quien Sabe or, as in the next 
+chapter, Charlotte Perkins Gilman's *Herland*. On the other hand, 
+as discussed briefly above, naturalizing capitalism makes it difficult 
+to see the capitalization of nature. While not all naturalist novels
+operate on the planetary scale required for a 'cene, 
+there are other opportunities in canonical and non-canonical naturalist
+works to read naturalist settings for the co-deterministic systems that
+create them. If naturalist novels compulsively chart economic interactions,
+and economic interactions necessarily occlude the natural conditions that
+underlie them, there is a considerable ecocritical utility in 
+uncovering the exploitation of nature that economic interactions imply. 
+This is particularly true of novels or clusters of novels where detailed
+settings and literary landscapes coexist with complex financial operations.
+
+There is perhaps no novel besides *The Octopus* where this is more true
+than in Jack London's *Burning Daylight*.[@london_burning_1910] Like
+Norris's Epic of the Wheat, London's lesser-known novel moves through 
+three regimes of value production. First, it chronicles the extractive
+production of value as Elam Harnish, known in the Yukon as "Burning
+Daylight," claims lucrative gold strikes and comes away rich. His riches
+lead him to a speculative mode of value production, reminiscent
+of *The Pit* or Theodore Dreiser's *The Financier*, in which he takes the 
+instincts of a Yukon gold rusher to the markets of San Francisco. 
+On one hand, this is a clear naturalization of the market: what he 
+discovers about the survival of the fittest in the frozen north
+helps him succeed in business. But on the other hand, it leads him to
+a renunciation of speculative and extractive value production in
+favor of producing use-value. In love with Dede, a woman who recognizes 
+and despises the ephemerality of speculative wealth, Harnish commits himself
+to an agricultural life that frees him from his alienation. When he 
+discovers a gold strike on his land in a freak 
+mudslide, he feels the call of extractive value again, but resists it,
+finally covering the gold back up and pretending it was never there. It
+is a story of speculation that yields a utopian agriculture like 
+that of Quien Sabe, an alternative to the total system of capitalism
+that is more connected with the land and repairs the metabolic rift.
+The themes uncovered in this critique of financial "value" would
+be expanded in *The Valley of the Moon*'s extended exploration of
+sustainable agriculture, discussed in the previous chapter.
+
+In Ellen Glasgow's excellent and under-studied novel *Barren Ground*,
+scientific agriculture presents an
+alternative to the systems of value propogated by capitalist
+exchange.[@glasgow_barren_1985] Though it hardly deals with finance 
+directly, Glasgow's novel resists the logic of short-term 
+manipulations for bonanza gains of which finance is the ultimate
+extension. Its investments are instead rendered in use value and
+soil health. Dorinda Oakley grows up feeling trapped in a poor farming
+community whose farming methods *keep* them poor. They 
+persist in these methods despite the 
+efforts of Dorinda and Nathan Pedler to introduce experimental methods that 
+improve the soil, such as growing clover as a cover crop and 
+ploughing it under at the end of the season. The contrasting 
+figure, broom-sedge, is all over the novel as a symbol of
+both economic and ecological poverty. It prevents growth of 
+other crops and retakes failing fields, but it also propagates
+primarily in poor soils, especially those that have been over-
+grazed or have been the sites of mining. In other words, it
+thrives on areas ruined by extractive value production. Dorinda's rise to
+prominence after a disastrous engagement and fiscal insecurity
+coincides with replacing broom-sedge---a symbol of extractive, 
+capitalist farming like that of Magnus Derrick---with clover-
+improved fields that support a lucrative dairy farm. The determinism
+of capitalism and its natures alike are overcome by creating
+an alternative system.[^ln-dorinda]
+
+[^ln-dorinda]: To be fair, Dorinda's dairy farm is hardly 
+a complete alternative to involvement in capitalist enterprise. 
+It only is able to support her because her high-quality
+products attract the attention of luxury buyers in
+eastern resorts. It is an almost identical setup to
+that which Billy and Saxon are told to adopt in 
+*The Valley of the Moon*. If anything, these examples
+show the extent to which anything approaching pastoralism
+after enclosure
+requires support by wealth that, somewhere along the way,
+is probably extractive. Nevertheless, they *do* present an 
+agricultural alternative, which is the extent of my claim here.
+
+Of course, the difficulty of a theory like the Capitalocene
+is that, whatever its potential for politically astute critique, it 
+often seems to run short on alternatives like those of 
+Dorinda, Annixter, and Burning Daylight. It is from this 
+anti-catastrophist feeling that the "good Anthropocene" arises, 
+a loosely bound set of theories united by the claim
+that it is possible to respond to the threats of the Anthropocene
+by embracing humanity's guidance of nature, and that doing so
+could have beneficial results for human and non-human alike. And 
+yet, good-Anthropocene alternatives have their own set of difficulties that
+are at once ethical, practical, and political. In the following
+chapter I will explore a naturalist version of the good Anthropocene, 
+Charlotte Perkins Gilman's *Herland*. While its
+economic and ecological insights deserve to be taken seriously, 
+so must its drawbacks be. Regardless of its success, it is
+a notable attempt to address the effects of capitalism on the
+planet in a way that foregrounds the utopian alternative as a means
+of critique.
+
 
 [^1]: @marx_machine_2000. On *The Octopus*, see 343-4. Cf. @freitag_naturalism_2009.
 
