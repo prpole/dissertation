@@ -1,5 +1,5 @@
 ---
-title: The Measureless Ranch of Vision - Frank Norris's Capitalocene Aesthetic
+title: The Stock Ticker in the Garden - Frank Norris's Capitalocene Aesthetic
 author: Phillip R. Polefrone
 ---
 
@@ -53,7 +53,7 @@ own ranch, the “effects of causes thousands of miles distant” in rains
 and freezes and a “hot wind.” As the market becomes a vast system, a
 network in which they are a node, the Derricks in turn become bigger
 than themselves, their own sense of their capacities increased to the
-scale of the network entire. As much as they are farmers, they have
+scale of the entire network. As much as they are farmers, they have
 become the commodities market embodied; and as much as the land is
 farmed by the Derricks, it is farmed by impersonal market forces.
 
@@ -78,15 +78,15 @@ imaginations of *The Octopus*’s protagonists, the ambitions of
 commodities speculators, and, to a considerable extent, literally. What has to be grappled with is not only the wheat itself but the
 planetary scale of capitalism’s environmental transformations. This set
 of relations is best captured in the the term “Capitalocene” that many
-have come to prefer to “Anthropocene.” Coined by Jason W. Moore, the
+have come to prefer to “Anthropocene.” Developed by Jason W. Moore, the
 Capitalocene concept disputes the centrality of the “Anthropos,” the
 human as a collective actor, in framing our planetary crisis, and places
-responsibility instead with capitalism. The import of this distinction
-is considerable. The mode of inquiry becomes historical as well as
+responsibility instead with capitalism. The mode of inquiry thus becomes historical as well as
 scientific, a matter of a multifarious and shifting communities of
 actants rather than the human considered as a unified population. The
-Anthropocene framing is long on a sense of urgency but short on
-historicity, Moore says, permitting its proponents to “not challenge the
+problem with the Anthropocene framing, Moore says, is that it is 
+long on a sense of urgency but short on
+historicity, permitting its proponents to “not challenge the
 naturalized inequalities, alienation, and violence inscribed in
 modernity’s strategic relations of power and production...*at all”* in
 their attempts to avert a crisis that remains, to them, purely
@@ -100,41 +100,41 @@ mind, what the equivalent would be for wheat monocultures that both
 stabilize the food supply and destabilize the world ecology by
 decreasing biodiversity and creating the conditions of disease and soil
 exhaustion, and how a Capitalocene reading of Norris’s *magnum opus*
-changes the way we see its political critique.
+might change the way we see its political critique.
 
 The Capitalocene is a particularly apposite concept for understanding
 *The Octopus*, so apposite that the inherent anachronism of introducing
-it in the first nearly falls away. The novel insists on addressing systems rather
+it in the first place nearly falls away. The novel insists on addressing systems rather
 than people as the agents of environmental destruction---insists on 
 confronting the impersonal market forces that drive agriculture and 
 into which the Derricks are
-subsumed. The novel presents the transactions between economic and natural
+subsumed. It presents the transactions between economic and natural
 systems as a process of what Moore would call “co-determination” in ways
 that go beyond what even Norris seems to have realized. And beneath this
-conceptual resonance lies a more tangible historical basis in
+conceptual resonance lies a more tangible, historical basis in
 the form of Joseph LeConte's “Psychozoic Era,” an anticipation of the 
 Anthropocene that emphasizes the rule of mind and thus humanity's teleological 
-organization of non-human life on the planet. LeConte was Norris's favorite
+organization of non-human life on the planet. (LeConte was Norris's favorite
 professor at Berkeley and an acknowledged intellectual influence in other realms,
 but the relevance of the Psychozoic theory to *The Octopus* has so far escaped 
-notice. Norris adapts this theory into something resembling the Capitalocene by 
+notice.) Norris adapts this theory into something resembling the Capitalocene by 
 combining it with an environmental critique of capitalism. He does so through what 
 I will refer to as his Capitalocene aesthetic, a literary landscape aesthetic in
-which descriptions of heavily modified landscapes make visible the logic
+which descriptions of heavily modified environments make visible the logic
 of the capitalist system that has transformed them. This aesthetic relies
 on a paradox: Norris adopts the sublime and its diminution of agency, but 
 he simultaneously invokes the sensation of a limitless
-increase of individual agency through incorporation into a planet-spanning
-system. This aesthetic tension makes visible the imaginative crisis of the 
-Capitalocene. We are confronted with a post-nature, transformed by processes 
+*increase* of agency through incorporation of individuals into a planet-spanning
+system. This aesthetic tension mirrors the imaginative crisis of the 
+Capitalocene: we are confronted with a post-nature, transformed by processes 
 that exceed
 the scale of the imagination, and yet we somehow still experience ourselves
 as part of the system responsible. Under capitalism, the scale of our 
-transformations exceed even our own imaginations. What terrifies us in this
+transformations exceeds even our own imaginations. What terrifies us in this
 form of the sublime is ourselves. 
 
-This reading will implicitly address a rift that exists in Norris criticism
-separating economic from natural-scientific readings of his works. 
+This reading will implicitly address a rift in Norris criticism,
+between economic from natural-scientific readings of his work. 
 The rift begins as early as 1963, when Donald Pizer's attempt to reconcile 
 market-based and proto-ecocritical readings of the novel concludes 
 by instead encouraging a critical "eclecticism" that would seem to discourage further such acts of synthesis.[^ln-pizer] As if in response, these 
@@ -149,35 +149,33 @@ landscape built on imperialism, and throughout his work a persistent
 reference to animality.[^4] Recognizing the eco-centric critique
 of capitalism in *The Octopus* will require a reconciliation of a 
 different sort, one that is more dialectical than synthetic and that
-recognizes the co-production of natural and human history. It will not
-be a matter of naturalizing capitalism, but rather of attending to
+recognizes the co-production of natural and human history. It will 
+be a matter not of naturalizing capitalism, as Pizer does, but of attending to
 the ways in which nature is capitalized.
 
 The rest of this chapter will argue for a Capitalocene reading of *The
 Octopus* and develop a theory of a Capitalocene aesthetic based on
-Norris’s landscape descriptions. The case for the Capitalocene will be
-made on both historical and thematic grounds, examining Norris’s
-appropriation of Joseph LeConte’s Psychozoic theory for use in his own
-environmental critique of capitalism. The aesthetic that erupts from
-this proto-Capitalocene theory and into Norris’s literary landscapes is
-based on an implicit critique of earlier aesthetics of nature. These
-landscapes by turns adopt and subvert the Romantic aesthetics of the
+Norris’s literary landscapes. The case for Norris's Capitalocene will be
+made on both historical and thematic grounds, examining his
+appropriation of Joseph LeConte’s Psychozoic theory and also attending
+to its use in his own
+environmental critique of capitalism. The resulting aesthetic adopts and subverts the Romantic aesthetics of the
 sublime, the pastoral, and the picturesque, resulting in a paradox in
-which the viewer is at once crushed by sublime terror and feels
+which viewers are at once crushed by sublime terror and feel
 themselves part of the forces that created the sublimity. The viewers
 are imaginatively incapable of grasping the scale of capitalism’s
 transformation of nature, but at the same time, feel their own
 capacities for transformative action increased by integration into the
 capitalist division of labor. After examining and theorizing this
 aesthetic, the chapter will conclude with a brief discussion of areas
-where similar hybrids of financial and agricultural themes arise in the
+where similar hybrids of financial and agricultural themes arise elsewhere in the
 naturalist canon.
 
 ### Frank Norris's Capitalocene
 
-*The Octopus* obsessively returns to illustrations of natural and industrial
+*The Octopus* returns, again and again, to illustrations of natural and industrial
 forces colliding and coupling. More often than not, these passages are
-of the type extensively critiqued by ecofeminist critics: agriculture is
+of the type extensively critiqued by ecofeminism: agriculture is
 depicted, graphically, as a violent sexual encounter, in the long
 Baconian tradition of conflating women’s bodies with nature to justify
 the domination of both.[^5] As an endless line of ploughs rolls over the
@@ -195,8 +193,8 @@ to its core, outlining “an infinite desire, at once terrible and divine,
 knowing no law, untamed, savage, natural,
 sublime.”[@moore_capitalism_2015 126-31]
 
-Whatever it suggests to a modern reader about Norris’s sexual attitudes,
-it also reveals a broader ambiguity in the novel’s representation of
+Whatever they suggest to a modern reader about Norris’s sexual attitudes,
+moments like these also reveal a broader ambiguity in the novel’s representation of
 agriculture as an industrial-natural assemblage. It is at once a rape
 and, perversely, folded into the life of the planet, both a system of
 extraction and a system of reproduction. This binary opposition,
@@ -205,26 +203,26 @@ suggests a reading of the scene in the Leo Marxian mode many critics of
 *The Octopus* have adopted, as a conflict between images of the machine
 and the garden.[^6] Elsewhere, however, and perhaps more
 characteristically of the novel as a whole, this binarism breaks down,
-and not in the idealized, symbolic reconciliation of the “middle
+and not in the idealized, symbolic reconciliation of a “middle
 landscape.” In her terror when faced with the farm’s unnatural
 sublimity, Annie Derrick has a vision of the struggle of humanity
 against “nature,” but it is a struggle that is ultimately finished by
-something else entirely, a terrifying and chimeric force with aspects of
+something else entirely, a terrifying and chimeric third force with aspects of
 both. Should humanity "strive to make head against the power of this nature,"
 
 > at once it
-> became relentless, a gigantic engine, a vast power, huge, terrible; a
+> bec[omes] relentless, a gigantic engine, a vast power, huge, terrible; a
 > leviathan with a heart of steel, knowing no compunction, no
 > forgiveness, no tolerance; crushing out the human atom with soundless
 > calm, the agony of destruction sending never a jar, never a faintest
 > tremour through all that prodigious mechanism of wheels and
 > cogs.[@norris_octopus:_1986 180-1]
 
-This is the same set of terms used to describe the railroad. The farm
+It is the same set of terms used to describe the railroad. The farm
 becomes just the most local site of a much larger force that can only be
-defined by breaking the natural-industrial, the natural-human binarism
-of the sexualized ploughing. That ploughing *is* an assault on the
-Earth, and it *is* part of planetary reproduction; both are so because
+defined by breaking the natural-industrial and natural-human binarisms
+of the sexualized scenes of ploughing. That ploughing *is* an assault on the
+Earth, and it *is* part of planetary reproduction; both can be so because
 the constant assault has fundamentally transformed the processes of
 reproduction into Annie Derrick’s unforgiving
 leviathan, which can pass as "nature" until it is suddenly, terribly, machine.
@@ -240,29 +238,28 @@ transformation of it into a new force that embodies the hybrid of nature
 and capital, which, elevated to a geological and planetary scale, form a
 theory of the Capitalocene.
 
-The a Capitalocene reading of *The Octopus* will be made in four
+This Capitalocene reading of *The Octopus* will be made in four
 movements. First, I will make the historical case for introducing the term
 Capitalocene, elaborating the connection between Norris’s
 geological-planetary thinking and Joseph LeConte’s theory of the
 Psychozoic Era. Next, the focus will shift to the abstract “forces” that
-clash in Annie Derrick’s waking nightmare and throughout the novel---the
-human, nature, and capitalism---showing that as an assemblage they form a new
+clash in Annie Derrick’s waking nightmare and throughout the novel---humanity, nature, and capitalism---showing that as an assemblage they form a new
 world-ecological force, a dramatized figuration of
 the Capitalocene. The third section will then return to the
 question from the introduction, “Who farms the wheat?”, to show that
 this new hybrid force is motivated by financial markets and operated
 through the division of labor, a cyborg with the Chicago wheat pits as a
-head and the farmers of the San Joaquin and beyond as its hands. The
+head and farmers like those of the San Joaquin as its hands. The
 final section will show how the logic of domestication established in
 LeConte’s Psychozoic theory is extended from the plant and animal
 kingdoms to labor, an evocative image of capitalism’s
-exploitation-through-organization of human and non-human work at once.
+exploitation-through-organization of human and non-human work.
 
 *THE PSYCHOZOIC AND THE CAPITALOCENE*
 
 In his time at Berkeley, Frank Norris was hardly a model student. No
 doubt because he “hated study of the methodical sort and employed every
-means to avoid it,” he was hopeless in math. Even in history, one of his
+means to avoid it,” he was hopeless in math, and even in history, one of his
 favorite subjects, he only gradually improved from near-failing grades
 to a steady mediocrity. He distinguished himself more, apparently, as a
 “paragon of true fraternity men,” as one of his brothers would reminisce
@@ -273,18 +270,18 @@ inclination to the subject matter, and it was led by the well known
 geologist Joseph LeConte. “Uncle Joe” LeConte was among Norris’s
 favorite professors, and he took two of LeConte’s year-length courses,
 geology and “Reproduction” (biology), between 1892 and
-1893.[@crisler_frank_2014 103, @pizer_evolutionary_1961 553] In both
+1893.[^ln-leconte-class] In both
 of these courses, but the first most notably for the topic at hand, he
 encountered theories of the human and the extra-human that would guide
 his work in *The Octopus*.
 
 Joseph LeConte’s influence on Norris has been well documented in the
-context of evolution,[^7] but it has an unexplored geological component:
-in 1879, LeConte proposed a “Psychozoic Era.” Subtitled the “Age of
+context of evolution,[^7] but it has an unexplored geological component.
+In 1879, LeConte proposed a theory of the “Psychozoic Era.” Subtitled the “Age of
 Man,” the Psychozoic theory arose out of the conviction that the “reigns
 of *brute force* and *animal ferocity*” that had prevailed in “all
 previous ages...was inconsistent with the supremacy of man.” He
-therefore defines the new era not according to humanness *per se*, but
+therefore defined the new era not according to humanness *per se*, but
 to the “*reign of mind*” that humanity represents. LeConte found this
 reign of mind so significant as to constitute not only part of geologic
 time, but its final act---the end of history, and not just human history:
@@ -296,7 +293,7 @@ suggest that Norris would have been exposed to this theory in his
 successive geology textbooks he released in 1882 and 1886, at least one
 of which was reissued in 1891, the year before Norris took his class.[@leconte_elements_1882, @leconte_compend_1886, @leconte_elements_1891]
 
-The Psychozoic theory is sometimes mentioned as one of several theories
+The Psychozoic theory one of several theories
 that anticipate the Anthropocene, alongside the Anthropozoic Era
 proposed by Italian geologist Antonio Stoppani around 1873, and the
 Noösphere of Vladimir Vernadsky and Pierre Teilhard de Chardin in
@@ -314,9 +311,9 @@ This dismissal itself is significant, in that its arguments against the Psychozo
 > the distinctness of a lower boundary---either stratigraphic, faunal or
 > floral.[@berry_term_1926 16]
 
-Setting these complaints alongside a recent analysis of ongoing
+Setting these complaints alongside the
 critiques leveled at the Anthropocene, as catalogued and categorized by
-Jan Zalasiewicz and his coauthors, the similarities are hard to miss.
+Jan Zalasiewicz *et al.*, the similarities are hard to miss.
 Berry argues that the Psychozoic atavistically recenters the human; 
 contemporary critics note that “it is anthropocentric to
 suggest that we are special”. The temporal boundaries implied by the Psychozoic
@@ -332,22 +329,22 @@ In comparison with the Anthropocene, however, the Psychozoic Era is at
 once further reaching and qualitatively, if subtly, distinct. As a
 periodization, it reaches well beyond the bounds of the
 Anthropocene epoch in establishing a new era (in geologic time, eras
-contain periods, and periods contain epochs). Rather than beginning with
+contain periods and periods contain epochs). Rather than beginning with
 the Great Acceleration of the twentieth century, it coincides in human
-history with the Neolithic, a period beginning at around 10,000 B.C. and
+history with the Neolithic, a period beginning around 10,000 B.C. and
 marked by the invention of agriculture, the domestication of animals,
 and the use of technologies such as pottery and stone-grinding. Herein
 lies the qualitative difference: the Psychozoic's emphasis on the “mind,” implicit in
 the choice of “Psycho-” over “Anthropo-” as a prefix, draws focus to the
-capacities for organization, and through it, domination and
-appropriation of plant and animal life. Domestication is the crucial
+human capacity for organization, and through it, domination and
+appropriation of plant and animal life rather than humanness *per se*. Domestication is the crucial
 marker for LeConte's proposed era, and is made the defining feature of the
 Neolithic in a chart from the 1986 edition of *Elements of Geology*:
 ![](media/image2.png)
-What changes with the Neolithic is that the human started “organizing”
+What changes with the Neolithic is that humanity started “organizing”
 populations of other organisms, such that “the dangerous animals
 decreased in size and number, and the useful animals and plants were
-introduced, or else preserved by man.” The cataloguing and
+introduced, or else preserved by man.”[@leconte_elements_1882 586] The cataloguing and
 taxonomization of organisms could also be taken as a natural extension of
 this logic. In any case, it is the scale and nature of human
 organization that defines LeConte’s epoch and unifies human history with
@@ -355,11 +352,11 @@ geological history.
 
 Emphasizing organization as part of humanity’s domination and
 transformation of the planet makes the Psychozoic Era particularly
-friendly to integration with a theory of the Capitalocene. It does not
-take the Anthropos as the driving force *per se*, though its
-understanding of mind is undoubtedly anthropocentric; organization as a
-focal point is not a far cry from management, the basis of economic
-activity; and technology becomes central to both without being 
+friendly to integration with a theory of the Capitalocene. Neither the former nor the latter
+takes the Anthropos itself as the driving force, though the former's
+understanding of mind is undoubtedly anthropocentric; organization as 
+the Psychozoic's focal point is not a far cry from management, the basis of economic
+activity; and technology becomes central to both theories without being 
 constitutive of either. The larger view of human and natural
 history that drives Moore’s conception of the Capitalocene is based on
 the premise that humans and environments “co-produce” each other, or in
@@ -368,7 +365,7 @@ humans---and human organization.”[@moore_capitalism_2015 3] This is
 true of human history beyond the ambit of capitalism, from the point
 (perhaps the Neolithic) where humanity began increasing its capacities
 to transform environments. In a certain sense, *all* moments in human
-history can be defined by the ways in which they organize nature. The
+history can be defined by how they organize nature. The
 difference, and the reason why capitalism rather than human history as a
 whole defines Moore’s epochal term, is that the relations of production
 that define capitalism rely on the constant revolutionization of
@@ -383,7 +380,7 @@ accumulation through appropriation became the *raison d’être* of an
 transformation in the Atlantic world and
 beyond” as agricultural labor was freed for use elsewhere by the 
 agricultural revolution of the low countries.[@moore_capitalism_2015 182] 
-Capitalism is the point at which
+In sort, capitalism is the point at which
 a particular regime of organization takes hold that is different from
 all others in both category and scale---because it categorically must
 continue to increase its scale to maintain growth, and because it must
@@ -405,20 +402,19 @@ subdivision within it.
 The theories are fundamentally different, however, in their motivations
 and the tenor of their responses. LeConte, like many of his
 contemporaries, sees the geologic reign of the human as an improvement
-to a natural history based on violence and waste. Moore, in touch with
+to a "nature" understood in terms of violence and waste. Moore, in touch with
 the catastrophic outcomes of capitalism’s planetary transformations,
 frames the Capitalocene as a theory that is necessary to calibrate
 political resistance, part of a broader tradition of anti-capitalist
 critique. Norris’s place on this spectrum does not have the clarity of
 LeConte’s or Moore’s theories, of course, but two things *are* clear.
 First, that Norris depicts the capacities of human-natural-technological
-assemblages to transform the environment on a planetary scale, but only 
+assemblages to transform environments on a planetary scale, but only 
 when those elements
 are brought together by economic forces. And second, that *The Octopus*,
 if not in the programmatic or orthodox manner of someone like Jack
 London, contains a powerful critique of capitalism’s effects on the
-planet. With these two threads of his magnum opus, Norris’s
-interpretation of LeConte’s Psychozoic comes to resemble something
+planet. In Norris's hands, LeConte’s Psychozoic comes to resemble something
 closer to Moore’s Capitalocene.
 
 *FORCE AS ASSEMBLAGE: NATURE, HUMAN, CAPITAL*
@@ -434,11 +430,13 @@ between economic and ecocritical readings is partially to blame. Donald
 Pizer’s take on “the concept of nature” in *The Octopus*, for example,
 reconciles the conflict between religious and evolutionary
 understandings of nature through the evolutionary theism central to
-LeContian force.[@pizer_concept_1962] Russ
-Castronovo discusses the “geo-aesthetics” and the tension between
-democratic and proto-fascist impulses in Norris’s depiction of the globe
-without touching on the planet, taking up the economic and political
-without considering their environmental
+LeContian force without incorporating the economic insight of W. F.
+Taylor that he addresses in his rejoinder to synthetic 
+criticisms.[@pizer_concept_1962] Russ
+Castronovo discusses “geo-aesthetics” and the tension between
+democratic and proto-fascist impulses in Norris’s depiction of the globe, but does so
+without touching on the planet, taking up the economic and political significance of that figure
+without considering its environmental
 implications.[@castronovo_geo-aesthetics:_2003] Florian Freitag brings
 a more agricultural lens to the novel as part of a broader argument
 about the farm novel as the “natural environment” of American literary
@@ -454,12 +452,11 @@ Formisano reads the broader conflict of distinct cultures and interests
 over the right to determine California’s future, demonstrating “how
 violence and conquest...go hand in hand with the state’s economic
 development.”[@formisano_presleys_2015 15] But without thinking on a 
-planetary-geological scale of space and time,
+scale of space and time broader than California,
 what Norris reveals about the influence of the capitalist system itself
 on the fate of the planet cannot come into focus. Whereas the competing 
 forces of nature, humanity, and captial seem to contradict each other and
-remain distinct in the novel, attending to the ways they combine and
-co-determine each other reveals a logic similar to that of the Capitalocene.
+remain distinct in the novel, a Capitalocene reading reveals how they combine and co-determine each other.
 
 And yet, the case for a Capitalocene reading of *The Octopus* might seem
 easily dismissed by reference to the following passage, one of Presley’s
@@ -501,8 +498,8 @@ its enormous power, he is already giving the lie to his own claims about
 the limited scope of human influence on the natural world in the context
 of capitalism.
 
-What is most curious is that, despite Presley’s interpretation of the
-wheat dwarfing human agency, the capitalist (and therefore partially 
+What is most curious is that, despite Presley’s interpretation of 
+wheat as dwarfing human agency, the capitalist (and therefore partially 
 human) origins of wheat are folded
 deliberately into the consciousness of the novel and Presley’s own
 consciousness. He overhears a Mexican centenarian observe as much over
@@ -514,15 +511,15 @@ Señor Derrick plants these days? Ten thousand acres of wheat! Nothing
 but wheat from the Sierra to the Coast Range.”[@norris_octopus:_1986
 21] Presley knows shorty after the novel begins, then, that the wheat 
 only exists in California
-because of the “human agency” of the first colonizers, and that it is
+because of the “human agency” of the first colonizers, and that it
 only exists at the scale it does because of “Señor Derrick” and his ilk.
 If he can still claim, four hundred pages later, that human agency
 cannot touch the immensity of the wheat, one has to ask what different
 forms of agency are at play here. Perhaps the “squabbles” among
 individuals cannot touch the wheat, and perhaps not even collective
 action could do so. But the kind of organization of humanity and nature
-alike that capitalism represents---the assemblages represented when the
-Derricks’ “no longer felt their individuality” as they commune with the
+alike that capitalism represents---the assemblages invoked when the
+Derricks’ “no longer [feel] their individuality” as they commune with the
 global wheat markets---demonstrably can.
 
 Indeed, recognizing the multiplicity of forces at play, which come 
@@ -533,9 +530,9 @@ read the “colossus” as wild nature or to read human influence as
 restricted to individual actions will fall short. The sentence in which
 the wheat is most powerful is also the one in which its hybridity is most
 apparent: “Indifferent, gigantic, resistless, it moved in its appointed
-grooves.” The first question this sentence raises is, Grooves appointed by whom?
+grooves.” The first question this sentence raises is, grooves appointed by whom?
 Whoever farms the land, apparently, particularly if the immediate referent for “grooves” is taken
-to be the furrows of industrial ploughs. There is a
+to be the furrows of industrial plows. There is a
 distinctly mechanistic character to the metaphor that will
 recur in other descriptions of the valley’s wheat land and that implies
 agency on the part of the farmers. And yet, how can the
@@ -546,7 +543,7 @@ various species of wheat. The
 wheat as an organism is not resistless, certainly, otherwise it could
 not have been domesticated; as we have already seen, humanity itself is a mere
 gnat; but in this industrial-natural assemblage, humanity and wheat
-become the elements of a colossus.
+become the elements of a capitalist colossus.
 
 The term "assemblage" here needs some definition for this context. I take it,
 as have Haraway and many others, from Deleuze and Guattari to refer to the 
@@ -558,7 +555,7 @@ geographies alike."[@moore_capitalism_2015 179] The kind of agency at work
 in *The Octopus* is unable to be reduced to any of its component parts or 
 a unity of them. Rather, it is the heterogeneous whole organized by
 capitalism in order to epxloit the relations between human and natural labor.
-What is produced is meant to be an exchange-value producing machine, but 
+What is created is meant to be an exchange-value producing machine, but 
 ends up becoming the autonomous force of capitalism itself, destroying the 
 capitalist through recurring crises but becoming indomitable as a force
 in its own right. 
@@ -566,16 +563,15 @@ in its own right.
 [^ln-assemblage]: Cf. @nail_what_2017.
 
 While this heterogeneity might seem to contradict the apparent unity implied
-by "force," the inconsistent use of the term itself shows the same logic 
+by "force," Norris's inconsistent use of the term itself shows the same logic 
 as an assemblage: parts and relations working as a whole without losing
-their distinctness. Norris uses of the term to
-refer first to life, then to the machine, and then to wheat as an interaction
+their distinctness. Norris's "force"
+refers first to life, then to the machine, and then to wheat as an interaction
 between these entities and human labor within the larger systems
 of the market and world consumption. Though defined by evolutionary theism 
-in the LeContian mode,[@pizer_evolutionary_1961] its signification in the novel
-tells a slightly different story. In the most quoted passage on the force 
-alone, it comes to
-signify that which “brought men into the world” as well as “crowded them
+in the LeContian mode,[@pizer_evolutionary_1961] the term's signification in the novel
+tells a slightly different story. In a single passage, it
+signifies at once that which “brought men into the world” as well as “crowded them
 out of it to make way for the succeeding generation,” that which “made
 the wheat grow” as well as “garnered it from the soil to give place to
 the succeeding crop.”[@norris_octopus:_1986 634] It is life and death,
@@ -587,8 +583,8 @@ between industry and nature. That first sense in which force is used, the
 cycle of life, death, and decay that paves the way
 for more life, is the first one encountered in the novel. After the
 harvest, the wheat stubble covers the plains, dessicated by the sun, but
-“the natural forces seemed to hang suspended” and “there was no growth,
-no life; the very stubble had no force even to
+“the natural forces seem[] to hang suspended” and “there [i]s no growth,
+no life; the very stubble ha[s] no force even to
 rot.”[@norris_octopus:_1986 13-14] We see natural force *via negativa* in
 the suspension of the life cycle. But the natural domain of force is 
 quickly extended to the railroad,
@@ -627,12 +623,12 @@ through the various dematerialized operations of the financier, but
 confronting it on the material plane is categorically different. He has
 been responsible for planning and executing the accumulation through
 appropriation that has led to this moment of confrontation, having
-“watched it harvested...watched it hauled to the railway,” and now
+“watched it harvested" and "watched it hauled to the railway,” and now he
 intends to revel in his success by watching “as it pour[s] into the hold
-of the ship” and as that ship sails away---it is a depiction of the entire
+of the ship” and as that ship sails away. It is a depiction of the entire
 supply line from the perspective of the financier. But the reduction of
 Behrman to an individual here---it is the first time he is humanized, the
-first time his emotions are on view---makes a distinction between the man
+first time he exists emotionally or as a subjectivity---makes a distinction between the man
 and the system in which he has played the crucial role. Having created
 this assemblage, he removes himself from it, and thus sees it from
 without.
@@ -644,17 +640,17 @@ make it out of this confrontation alive; the wheat will crush him. The
 sorcerer has lost control of his spells. His mistake is in unleashing
 it, apparently, for what distinguishes his operation is the refusal to
 pay the four cents for bags, and he lets it flow in bulk into the hold
-of a ship. The other fatal mistake is in letting it get fully beyond the
-human: it is not that it has reverted to wildness, but that its new
-form, one that at once encompasses the organism, the processed grain, 
+of a ship de-atomized---a single force. The other fatal mistake is in letting it get fully beyond the
+human: it is not that it has reverted to wildness, but that it has 
+taken on a *new* extra-human form, one that at once encompasses the organism, the processed grain, 
 the elevator, the men working on the docks, the waiting
 consumers, and of course, the market. It is because of this
 transcendence of the individual that it is possible for Behrman to
-observe that “[n]o human agency seemed to be back of the movement of the
+marvel that “[n]o human agency seemed to be back of the movement of the
 wheat. Rather, the grain seemed impelled with a force of its own, a
 resistless, huge force, eager, vivid, impatient for the sea”---*even
 though* it is his own actions that have caused the wheat to tumble into
-the hold.[^10] The autonomy of this force is finally asserted as, having
+the hold. The autonomy of this force is finally asserted as, having
 tripped and fallen into the hold, Behrman is crushed by his own
 appropriated wheat and the mechanisms used to monetize it. What might
 appear to be a moment of optimistic determinism---especially given the
@@ -679,7 +675,7 @@ is a more complicated question than it might seem.
 If monocultural farming of the land is responsible for this colossal force,
 that does not mean the buck stops with the farmer, for the farmer exists
 within a larger market system. The wheat moving within its
-“appointed grooves” takes on a different cast in light of the commodities 
+“appointed grooves,” which in a purely agricultural sense might be taken to mean plowed crop rows, takes on a different cast in light of the commodities 
 market. Commodities traders speculate on the price of “futures,”
 which are just contracts to deliver a quantity of the commodity at a
 certain time, fixing a sale through a mechanism that ostensibly guards against
@@ -687,21 +683,25 @@ fluctuations in price and supply. In practice, futures trading can
 *itself* create price fluctuations, as speculators who have an incentive
 to drive the price of a commodity up or down do so by means that are
 psychological rather than material: influencing the price just means influencing
-the confidence of other investors and buying stock through the cover of
-agents. Taking into account Norris’s Epic of the Wheat as a whole, the
+the confidence of other investors and buying stock, often through the cover of
+anonymous agents. Taking into account Norris’s Epic of the Wheat as a whole, the
 assemblage that makes the wheat so powerful would be composed not only
 of the process of production (the domain of *The Octopus*), but also of
 distribution and speculation (the topic of *The Pit*).
 
-In a short story “A Deal in Wheat,” which anticipates Norris’s epic, he
-makes clear just where the power lies in this assemblage, and it is
+In a short story “A Deal in Wheat,” which was published between the two 
+existing volumes of Norris’s epic and acts as a schema for the intended
+whole, he
+hints at just where the power lies in this assemblage, and it is
 distinctly not with the farmer. The commodity market cuts both ways,
 lowering and raising prices, and in this story the farmer Sam Lewison is hurt by both: he is
-driven off his ranch by artificially low wheat prices, then sees the
-breadline closed in his face because the price of wheat has since gone too high. The
+driven off his ranch by artificially low wheat prices, then sees a
+breadline closed in his face because the price of wheat has since gone too 
+high---which would have let him keep his farm had it happened sooner. The
 cause is a speculator’s duel between Truslow, who was driving prices
 down, and Hornung, who was driving them up. When they go up even further
-than Hornung wanted, however, Truslow is to blame. Truslow finally profits by a scam that
+than Hornung wanted, however, Truslow is ironically to blame, his strategy
+having since shifted. Truslow finally wins out by a scam that
 provides the *reductio ad absurdum* of finance’s dematerialization of
 material goods: he keeps unloading and reloading the same shipment of
 wheat, selling it many times over to Hornung at higher and higher prices; Hornung is
@@ -714,9 +714,9 @@ dematerialization of wheat and relies on being able to treat the market
 as an autonomous zone of action.
 
 But as Lewison, the farmer, reflects on the whole incident, he recognizes that the
-structures Truslow and Hornung manipulate are not the bounded arena of
+structure Truslow and Hornung manipulate is not the bounded arena of
 unlimited agency they think it is. They are entangled with a much larger set
-of overlapping systems and unintended consequences, which as a whole
+of overlapping systems and unintended consequences, which
 Norris represents as a single machine:
 
 > Caught once in the cogs and wheels of a great and terrible engine, he
@@ -762,9 +762,8 @@ involve themselves in the same operations.
 In the end, what *The Octopus* reveals about the relationship between
 farming and finance is the extent to which farmers, on
 “bonanza” farms and smallholdings alike, have themselves become
-speculators. Dyke’s example is a brief one and primarily shows how
-finance influences agricultural planning and planting. The more explicit
-argument for the financialization of agriculture comes in the figure of
+speculators. The most explicit
+display of agriculture's financialization comes in the figure of
 Magnus Derrick and those like him. That he understands wheat first and
 foremost in market terms is clear from the comparison of wheat with
 gold. The “miner’s instinct of wealth acquired in a single night
@@ -786,7 +785,7 @@ knowledge of agriculture with extrapolative musings on future markets:
 > westward, finally arriving at its starting
 > point.[@norris_octopus:_1986 320-1]
 
-More than forgiving a lack of agricultural acumen, the market in wheat
+The market is at least forgiving a lack of agricultural acumen, and
 seems actually to reward it. Magnus’s downfall comes because he is
 beaten in his market manipulations, not because of his extractive
 methods *per se*.
@@ -794,7 +793,7 @@ methods *per se*.
 In fact, the extent to which the farmers, the ostensible heroes of the
 fight against the villainous railroads, become indistinguishable from
 any other sort of capitalist could be taken as evidence that *The
-Octopus* is not a critique of capitalism *per se* at all so much as it
+Octopus* is not a critique of capitalism at all so much as it
 is a critique of monopoly---and the latter would be easily assimilable
 within an economistic worship of competition and “free” markets. In a
 certain reading, the defeat of the Derricks and death of the farmers,
@@ -856,7 +855,7 @@ ecology, preventing crucial elements such as
 nitrogen and phosphorous from returning to the soil through human and animal
 waste as well as unharvested plant matter. A similar metabolic metaphor
 appears in the strange form of Annixter’s compulsive eating of prunes to
-aid a disrupted digestive system. It is a repeated fact about Annixter, one that
+aid a disrupted digestive system. This prune-eating is a repeated fact about Annixter, one that
 receives the most emphasis when his farming techniques are being
 discussed, and which is simply too strange to mean nothing at all. 
 Furthermore, digestive imagery links his "genius" to his farming 
@@ -888,7 +887,7 @@ alternatives that are broken up by the monocultures of capitalism.
 Who farms the wheat, then? It could have been farmer-stewards like
 Annixter, improving the soil. But it is not. It is the capitalist
 instantiation of agriculture that is extractive, leaves ruin in its
-wake, and is in the moment of the *The Octopus* sweeping over the face
+wake, and was, in the moment of the *The Octopus*, sweeping over the face
 of the Earth. Financial markets determine planting decisions, but
 perhaps more importantly structure the collective common sense of the
 biggest agricultural producers. And their assemblages are not local 
@@ -900,9 +899,9 @@ produces monsters.
 
 In adapting LeConte's Psychozoic theory into a green critique of capitalism,
 Norris envisions a planetary force in the form of a natural-industrial-economic
-assemblage---a force driven by capitalism, not individuals. But what does 
-this force actually do to the Earth? Finally, the issue comes to the fore 
-of domestication, and the human’s---or capital’s---“organization” of 
+assemblage---a force driven by capitalism, not individuals. But the question of what 
+this force actually does to the Earth is only really posed in the 
+context of domestication, and the human’s---or capital’s---“organization” of 
 the environment entire. The Psychozoic rests on the idea that domestication is the means by which
 humanity has assumed a geological status, which for him is the defining
 factor of the Neolithic and speaks to a larger process of artificial
@@ -954,8 +953,8 @@ marching in an unbroken line, they drive them into a corral where they
 are killed to supply a “Homeric” feast.[@norris_octopus:_1986 505] The
 depiction of this roundup draws on the same reservoir of
 collectivization imagery that characterized the herd of sheep. Even
-though “[n]o two acted precisely alike,” the rabbits are able to be made into a
-single monolith. As the sheep “hid the earth,” so do the rabbits: here
+though “[n]o two acted precisely alike,” the rabbits become a
+monolith. As the sheep “hid the earth,” so do the rabbits: here
 and there “what seemed to be ground resolved itself, when seen through
 the glasses, into a maze of small, moving bodies…. The earth was alive
 with rabbits.” The language describing them moves from their individual
@@ -979,7 +978,8 @@ normal feast, like the one Annixter holds in his new barn? The answer
 rests on the specific jackrabbit population dynamics that result from
 capitalist agriculture. The jackrabbit drive is a cultural form adapted
 for use in the industrial landscape from prehistoric and pre-colonial
-indigenous traditions. As European colonies began transforming the
+indigenous traditions, though originally on a much smaller scale. 
+As European colonies began transforming the
 landscape, they inadvertently created the conditions for
 periodic jackrabbit population booms, as shrublands and agricultural
 fields make perfect jackrabbit habitats---and consequently, the potential
@@ -1017,7 +1017,7 @@ presented simply as violence.[@norris_octopus:_1986 499-502]
 
 Whether Norris was thinking of the rabbit drive as profit-protection is
 unclear, but it certainly sets up the final scene of capitalism
-dominating by organizing, its final target the abortive mass movement against the
+dominating by organizing, its final target the abortive mass movement that has mobilized against the
 railroad. In the first example, a sustainability-minded farmer organized
 sheep for the purpose of revitalizing the soil, and in the second,
 farmer-capitalists organized jackrabbits for the purpose of protecting
@@ -1037,35 +1037,36 @@ movement---but it quickly begins to deal in aggregates. Finally they become a
 “crowd, a solid mass” from which “this single unit, this living,
 breathing organism---the People” is born. Again individuals become a
 single but distinct lifeform, and again they are motivated to do so by
-the normal workings of the capitalist system: for it is the railroad’s
-appropriative actions that compel them into the streets. Whereas the
-jackrabbits lose their individual differences, Presley’s perspective
+the normal workings of the capitalist system: it is the railroad’s
+appropriative actions that drive them into the streets. Whereas the
+jackrabbits lose their individual differences, here Presley’s perspective
 continues to provide the narrative lens and thus some sense of 
 individuality. But his individual *agency* is
 stripped from him as he is “caught in the current” with his arms
 “pinioned to his sides by the press.” Likewise, the individual people
 become “wave after wave of faces, hundreds upon hundreds, thousands upon
 thousands, red, lowering, sullen. All were set in one direction.”
-Particles become wave as terms of liquid dynamics and aggregation
+Particles become wave as the language of liquid dynamics and submersion
 provide the operative metaphors: Presley is “an atom on the crest of a
 storm-driven wave” and is carried off, here by a “groundswell” and there
-by a “surge.” Finally, there is a direct visual echo to the jackrabbits
+by a “surge.” In the final motion, there is a direct visual echo to the jackrabbits
 being herded into the corral. Here the corral is the terminus of the
 march as it sweeps “up the steps of the Opera House, on into the
 vestibule, through the doors, and at last into the auditorium of the
 house itself.”[@norris_octopus:_1986 544-5] The Opera House becomes the
 site of a metaphorical taming and slaughter, the disappointing result 
-when the People rise up against the indomitable force of capitalism.
+of the People rising up against the indomitable force of capitalism.
 
 The analogue to domestication here is a co-opting of the existing
 collective labor movement such that it defeats itself and exploitation
-can continue apace. The League---the political collective the farmers form
+can continue apace, the same kind of soft control seen in the previous
+two scenes. The League---the political collective the farmers form
 to resist the railroad---is defeated for two reasons. First, the
 plutocratic corruption of the democratic system is such that the only
 way they can succeed is by buying seats on the commission that controls
 tariffs. In other words, the political system is so imbued with monetary
-influence that participating means participating in the corrupt
-marketplace of that influence. Magnus, as the agent of this scheme once
+influence that participating at all means participating in the corrupt
+marketplace of power. Magnus, as the agent of this scheme once
 his principled opposition to it is worn down, becomes tarnished, and the
 railroad successfully runs a smear campaign against him. The march to
 the Opera House ultimately founders on the rock of its compromised
@@ -1073,7 +1074,7 @@ principles, as paid hecklers reveal Magnus’s bribery. In this sense, one
 leader of the movement is seduced, however unwillingly, by plutocratic
 politics. The second reason the League fails is that the seat it “buys”
 on the tariff commission has already been bought by the railroad---even
-though it is Magnus’s own son, Lyman. Thus another sense in which the
+though it is Magnus’s own son, Lyman. Again the
 movement, and more specifically its legitimation within the existing
 structures of government, is co-opted in advance by the capitalist basis
 of political power, just as existing alternative forms of social
@@ -1097,7 +1098,7 @@ redress; they own the courts.”[@norris_octopus:_1986 549-52] Yet it is
 not just the corrupting influence of money in government that Presley
 condemns. Since the death of his friends, he has embraced the
 perspective of Caraher the “Red” saloon owner and been radicalized into some
-form of revolutionary collectivist politics.[@norris_octopus:_1986 535]
+form of revolutionary collective politics.[@norris_octopus:_1986 535]
 He thus rounds on the monetary structures themselves. “They swindle a
 nation of a hundred million and call it Financiering; they levy a
 blackmail and call it Commerce;....they hire blacklegs to carry out
@@ -1140,7 +1141,7 @@ work, she encounters an unexpected symbol of capitalism’s unintended
 natural consequences: alongside the native fan palm and magnolias
 more characteristic of the southeastern United States, the cottage is shaded
 by “the inevitable eucalyptus.”[@norris_octopus:_1986 584] It is indeed
-“inevitable” in *The Octopus*. Norris uses a mixed grove of oak,
+“inevitable” in the pages of *The Octopus*: Norris uses a mixed grove of oak,
 cypress, and eucalyptus trees to define the setting of the Los Muertos
 ranch house, which is often seen from a distance as “a roof or two
 between the dull green of cypress and eucalyptus,” and it seems like
@@ -1152,11 +1153,10 @@ geographically. Indifferent to the Derricks’ struggle against S.
 Behrman, eucalyptus groves surround the houses of both, and the tree seems 
 to pop up wherever the action is. It is an invasive species in the text of the
 novel itself just as it is in the California landscape of today,
-mentioned more often than any tree other than the California live-oak
-despite being indigenous to Australia.[^11]
-
+mentioned more often than any tree other than the California live-oak---despite being indigenous not to California, but to Australia.[^11]
+ 
 To see capital in the landscapes of *The Octopus*---and to begin to see
-why landscape as an aesthetic matters in the novel more broadly---one has to look
+why landscape aesthetics matter in the novel more broadly---one has to look
 beyond the controlled transformations of the wheat growers and into
 accidents like the eucalyptus tree. If an encounter with the eucalyptus
 is “inevitable” across California, it is only so because of the close
@@ -1178,14 +1178,15 @@ profitability.[@london_jack_1916 JLE 2639] Eucalyptus wood was not
 suited for railroad ties, in the end. It cracked, split, and became
 twisted too easily to withstand the conditions of the tracks. But long
 after the scheme collapsed, the trees remained
-standing.[@wolf_management_2016] The species became invasive and
+standing---but not static: the species became invasive and
 spread across the state, the side-effects of which have been as
-disastrous as they were unanticipated. Besides being ill-suited to an
+disastrous as they were unanticipated.[@wolf_management_2016] 
+Besides being ill-suited to an
 environment like the San Joaquin Valley, which gets so little annual
 rainfall that some argue it should be treated as a desert biome, its
 bark and sap are highly flammable, and it transformed the fire regimes
-of the grasslands it invaded.[^12] Recently, eucalyptus came back into
-the spotlight when a viral Reddit post entitled “The Great Australian
+of the grasslands it invaded.[^12] Indeed, eucalyptus came back into
+the spotlight more recently when a viral Reddit post entitled “The Great Australian
 Shitpost, 100 years in the making” facetiously blamed century-old,
 unscrupulous Australian profiteering for 2017’s devastating fires. But
 from the perspective of the Capitalocene, capitalism itself is the more
@@ -1199,13 +1200,12 @@ well beyond the obvious purview.
 Norris’s most ambitious novel halts its progress periodically to record the
 state of the landscape, a structuring device that most obviously traces
 the growth cycle of the wheat crop, but more subtly reveals the
-environmental transformations that accompany the actions of the primary
+environmental transformations that accompany the
 economic and agricultural narrative. In the scale of these intentional
 changes, accompanied by their unforeseen consequences, there arises what
-can be called a Capitalocene aesthetic. Norris's Capitalocene aesthetic is
-defined by landscapes that evoke a tension between natural-seeming
+can be called a Capitalocene aesthetic: of landscapes that evoke a tension between natural-seeming
 sublimity and the increase of humanity’s capacities through aggregation
-into the global capitalist system. On one hand, in the Kantian mode of
+by the global capitalist system. On one hand, in the Kantian mode of
 the sublime, Norris’s landscapes have the sense of “transcending every
 standard of the senses” by forcing a confrontation with that “in
 comparison with which all else is small,”[@kant_critique_2007 80-1]
@@ -1222,11 +1222,10 @@ Wordsworth’s “huge Cliff” that “As if with voluntary power instinct, /
 Uprear'd its head” over the “bound of the horizon”: it is the former
 rendered in the latter, and the latter created by the former.
 
-What distinguishes this aesthetic from other
-theorizations of sublimity in adjacent contexts is the phenomenology of
-being integrated into a system, opening the possibility of feeling
-oneself as both part of and crushed by a world-historical, sublime force. Daniel
-Darvay, for example, similarly recognizes Norris’s assumption of a
+What distinguishes this aesthetic from similar
+theorizations of sublimity is the phenomenology of
+integration into a system, of being both part of and crushed by a world-historical, sublime force. Daniel
+Darvay, for example, recognizes Norris’s assumption of a
 sublime aesthetic in *The Octopus*, but not the extent to which
 the characters’ senses of agency are simultaneously increased to the
 same scale through aggregation. Referring to a “naturalist sublime” in
@@ -1252,7 +1251,7 @@ do by cornering the wheat trade, but Norris always eventually crushes these
 individual attempts at control, as Zimmerman rightly points out. Extending 
 these insights to *The Octopus*, it is worth lingering on the moments 
 before the collapse, however, for writ large, that is the situation of
-the 21st-century, on the precipice of an inevitable-seeming annihilation 
+the 21st-century, on the precipice of an inevitable-seeming breakdown 
 that has not yet arived.
 
 ***
@@ -1295,7 +1294,7 @@ critique of the academic art promoted by nineteenth-century France’s
 Hartrath’s---a school of thought in which Norris would have been well
 steeped, having studied art at the Académie Julian from
 1887 to 1889.[@teague_frank_1994] Here, academicism and technical
-virtuosity come to mean blithe acceptance of, or even complicity in, the
+virtuosity denote a blithe acceptance of, or even complicity in, the
 economic status quo. When Hartrath expresses hope that his inoffensive
 painting of a lost Eden will attract “Eastern capitalists” to spend
 money at the fair and invest in San Francisco, a hostile interlocutor
@@ -1312,7 +1311,7 @@ the real conditions of exploitation that govern nature and labor alike.
 
 If Hartrath’s landscape invests in the arcadian simplicity of the 
 picturesque, Norris’s
-insistently repeat the pastoral rejoinder: *Et in Arcadia ego*. And yet
+insistently repeat the pastoral rejoinder: *et in Arcadia ego*. And yet
 even the simplicity of the pastoral mode is symbolically rejected, both
 the neo-classical pastoral that, as Raymond Williams points out, excises
 all “living tensions” from rural life and the more complex pastoral of
@@ -1321,8 +1320,8 @@ the pleasures of rural settlement and the threat of loss and
 eviction.”[@williams_country_1975 16-8] Presley, searching for
 material for his neoclassical epic of the West, sees the pastoral scenes
 from which he drew inspiration violently retracted: the herd of sheep
-that he watches from a high vantage point, which can be taken to
-symbolize pastoralism, are slaughtered by a passing train, a massacre
+that he watches from a high vantage point, self-conscious
+symbols of pastoralism, are slaughtered by a passing train, a massacre
 that Norris lavishes with gory detail---“backs were snapped against fence
 posts; brains knocked out” and the tracks run with blood. From that
 point on, understandably, “The sweetness was gone from the evening, the
@@ -1340,9 +1339,7 @@ neoclassical aesthetic of his Académie training to consciously expose
 the exploitative relations of capital that inhere in the alluvial soil
 of the San Joaquin Valley.
 
-***
-
-Norris's own literary landscapes are insistently visual and
+His own literary landscapes are insistently visual and
 multimedial without replicating the picturesque or the pastoral. 
 Rather, Norris does something that in some
 senses anticipates documentary landscape photographers of the late
@@ -1385,7 +1382,7 @@ insistent visuality of the passage has as much to do with the painter in
 front of the canvas as it does with the observer on the hill.
 
 The main visual tension, however, is between the two sources of
-infinite expanse, horizon line and the “illimitable” wire---in other words, precisely what
+infinite expanse, the horizon line and the “illimitable” wire---in other words, precisely what
 violates the visual frame. The first indicates the scale of of the 
 altered landscape, while the second, which concludes the passage, points
 to its source: the husbandry of land symbolized by the fence. While the
@@ -1408,9 +1405,9 @@ and north” Bonneville. Everything else is lost in a haze, as “other
 points” that “detached themselves, swimming in a golden mist, projecting
 blue shadows far before them,” like Caspar David Freidrich’s “Wanderer
 Above the Sea of Fog” of a different hue. Were it to stop here, this
-landscape would stay with the Romantic landscape tradition of the
+landscape would stay within the Romantic landscape tradition of the
 sublime, invoking the feeling of immensity but not doing anything
-particularly new.[@norris_octopus:_1986 45-6]
+particularly unusual.[@norris_octopus:_1986 45-6]
 
 But this second landscape pushes further, as literary extrapolation takes it
 beyond the frame of the visual---and the only reason it is able to surpass
@@ -1435,14 +1432,14 @@ shaved close in the recent harvest.” The operative metaphor of the
 “scroll” here invokes both the materiality of a landscape sketch (like
 “smudge”) and the image of writing, agriculture becoming in turn a kind
 of human signature on the land in the form of bare, shaved crops.
-Further, as in the first landscape, the “illimitable”
+Further, as in the first landscape, “illimitable”
 distinguishes the technological sublime from the natural: through the
 human signature, the technology of writing breaks the visual frame that
 contained purely natural sublimity.[@norris_octopus:_1986 46-7]
 
 As this capitalized agency continues to expand, it does so through
 reproducibility---and it is this process that creates the new sublimity
-in tension with the natural sublime. The natural sublime is a
+in tension with the natural sublime. The scens' natural sublime comes from a
 confrontation with the whole web of interconnections of which the self
 is a small part, agency diminished by context. The capitalist process
 of standardization attempts to reduce the web of interconnections to only those that are
@@ -1465,14 +1462,15 @@ of reduction:
 > Beyond the fine line of the horizons, over the curve of the globe, the
 > shoulder of the earth, were other ranches, equally vast, and beyond
 > these, others, and beyond these, still others, the immensities
-> multiplying, lengthening out vaster and vaster.
+> multiplying, lengthening out vaster and vaster.[@norris_octopus:_1986 46-7]
 
 What was just “illimitable” becomes, somehow, “mere foreground,” because
 the purview is no longer the framed landscape, but the “measureless
 ranch of vision”---vision serving double-duty here as literal visual
 perception and “vision” in the sense of imaginative extrapolation. The
 ranches spread out in front of Presley, however endless they seem,
-matter most in what they indicate, the endlessly repeating ranches, the
+matter most in what they indicate, the endlessly repeating ranches beyond
+what's visible, the
 scale of which only becomes apprehensible when the frame is widened
 enough, encompasses enough, that one can see the “curve of the globe.”
 In other words, Norris must invoke an image of planetarity to account
@@ -1482,13 +1480,13 @@ capitalist organization of nature into Cheap Nature that the planet can
 be grasped at all.
 
 As Norris’s landscape-making extends beyond Presley and
-assumes the perspective of those more integrated into the system of
+assumes the perspective of the workers integrated into the system of
 production and profit, the passages become something between a
 landscape and a cyborg self-portrait, depicting the expanse of land as at once
 beyond the viewer in every sense and an extension of self. 
-Where before the “illimitable parallels of the wire fence” marked the
+Where earlier the “illimitable parallels of the wire fence” marked the
 human side of conquest, and were observed from afar, a similar image is
-repeated as Vanamee joins the line of ploughs---but now he is *part* of
+repeated as Vanamee joins the line of plows---but now he is *part* of
 that illimitable line. Having been discharged as a shepherd when the
 railroad killed his flock, Vanamee has joined the workforce on Quien
 Sabe to help with the ploughing. In the buildup to the moment of
@@ -1499,10 +1497,10 @@ turning about, look[s] back along the line, then all around him at the
 landscape inundated with the brilliant glow of the early morning.” What
 he sees, besides the wet earth, revitalized by rain and ready for the
 sexualized ploughing scene, is the extent of the transformation in which
-he himself is involved. The ploughs “stretched in an interminable line,
+he himself is involved. The ploughs “stretch[] in an interminable line,
 nearly a quarter of a mile in length, behind and ahead of Vanamee,”
 organized “*en echelon*.”[@norris_octopus:_1986 126-7] Again there is a
-paradox of measurement: both limitless and a quarter-mile, as the
+paradox of measurement: both interminable and a quarter-mile, as the
 ploughing of Quien Sabe ceases to be merely itself.
 
 Vanamee, too, ceases to be merely himself as the landscape is
@@ -1514,7 +1512,7 @@ of the ploughs as he becomes part of the wave motion: as the
 ploughmen receive the signal to begin, a “prolonged movement ripple[s]
 from team to team” and the clicks, creaks, and clashes of the industrial
 laborers become of a piece with the cracks, breaths, and commands of the
-pre-industrial, equine laborers. Here again collective becomes organism
+pre-industrial, equestrian labor teams. Here again collective becomes organism
 as Vanamee feels the “moist living reigns slipping and tugging in his
 hands” and he loses his own sense of self and humanity in the
 “confusion of constantly varying sensation”---the “vibrating seat” easily
@@ -1525,7 +1523,7 @@ encountered, that he did not receive the swift impression of it through
 all his body.”[@norris_octopus:_1986 128-9] What interrupts the
 landscape, in other words, is Vanamee becoming coextensive with the
 landscape itself by participating in its total and mechanized
-transformation. He becomes lost in the mechanical echelon of
+transformation. He is lost in the mechanical echelon of
 ploughs, but those ploughs themselves are hard to separate from the
 earth (and the Earth) that has been made to rely on them in its natural
 cycle of reproductions---the Earth that is itself, as in the eyes of 
@@ -1594,20 +1592,14 @@ part and product of human systems, which are themselves always part and
 product of nature. In other words, that nature is historical and history
 proceeds *through* nature. Depicting this relationship requires an attention
 to markets that is simultaneous with attention to the natural world, a mixture
-that the unfinished Epic of the Wheat is uniquely suited to pursuing.
+that the unfinished Epic of the Wheat is uniquely able to pursue.
 
 ###Conclusion: Finance and Farming in the Naturalist Canon
-
-[Note: this is a little rough, and I will return to this
-when the project is done to draw some more connections and flesh
-out the ones below. This is a combination of hunches and mini-
-readings, all of which have to be confirmed.]
 
 While *The Octopus* is unique in its direct anticipation of a Capitalocene
 theory and its translation of that theory into an aesthetic, much of
 what this discussion can be expanded to reconsider
-trends in the naturalist canon more broadly. To conclude, I will briefly
-consider a few possible lines of inquiry.
+trends in the naturalist canon more broadly.
 
 In the first place, the "metabolic rift" in Norris criticism between 
 economic and natural-scientific studies also characterizes
@@ -1616,7 +1608,7 @@ camp than the latter. The reason this can be so in a genre that is
 still called "naturalism" is the abstraction of Darwinian evolutionary
 theory to economic contexts through social darwinism, and the resultant
 obsession (in some naturalist writers and early naturalist critics alike) 
-with understanding cities and markets as a site for evolutionary dynamics.
+with understanding cities and markets as sites of evolutionary dynamics.
 This in turn leads to naturalization of the market. On one hand,
 naturalizing the market concedes to capitalism's inevitability in a way
 that forecloses utopian alternatives like Quien Sabe or, as in the next 
@@ -1643,7 +1635,7 @@ lead him to a speculative mode of value production, reminiscent
 of *The Pit* or Theodore Dreiser's *The Financier*, in which he takes the 
 instincts of a Yukon gold rusher to the markets of San Francisco. 
 On one hand, this is a clear naturalization of the market: what he 
-discovers about the survival of the fittest in the frozen north
+discovers about the "survival of the fittest" in the frozen north
 helps him succeed in business. But on the other hand, it leads him to
 a renunciation of speculative and extractive value production in
 favor of producing use-value. In love with Dede, a woman who recognizes 
@@ -1678,7 +1670,7 @@ other crops and retakes failing fields, but it also propagates
 primarily in poor soils, especially those that have been over-
 grazed or have been the sites of mining. In other words, it
 thrives on areas ruined by extractive value production. Dorinda's rise to
-prominence after a disastrous engagement and fiscal insecurity
+prominence after a disastrous marriage engagement and fiscal insecurity
 coincides with replacing broom-sedge---a symbol of extractive, 
 capitalist farming like that of Magnus Derrick---with clover-
 improved fields that support a lucrative dairy farm. The determinism
@@ -1720,34 +1712,30 @@ of critique.
 
 [^1]: @marx_machine_2000. On *The Octopus*, see 343-4. Cf. @freitag_naturalism_2009.
 
-[^2]: Qtd. in @pizer_synthetic_1963 534.
+[^2]: 
 
 [^ln-pizer]: Donald Pizer’s “Synthetic Criticism and Frank Norris; Or,
 Mr. Marx, Mr. Taylor, and The Octopus” compares two influential readings
 of themes in *The Octopus*: Leo Marx’s use of the novel to
 confirm the trend of conflict between nature and the machine as symbols
 in the American consciousness, and W. F. Taylor’s theory in *The
-Economic Novel in America* (1942) that American novelists have a problem
+Economic Novel in America* (1942) that American novelists have a problem with
 “not industrialism *per se*, but the workings of an industrial order
-administered by a *laissez-faire* capitalism.”[^2] How Pizer attempts to
-resolve these mainlines is indicative of the difficulty in doing so
-without a tool to think with like the Capitalocene. He presents a moral
+administered by a *laissez-faire* capitalism.” Pizer's attempts to
+resolve these mainlines ipoints to the difficulty in doing so
+without a concept like the Capitalocene. He presents a moral
 reading of nature in suggesting that the “moral center of the novel
 is...nature, and evil is the failure to understand the processes of
 nature or the attempt to thwart them.” But somehow, in bringing economic
 critique to the table, this reading of nature also reads any critique of
-capitalism straight out of the novel: as well as failing to comprehend
+capitalism straight out of the novel: he claims that, as well as failing to comprehend
 the birth-death-rebirth cycle, “the ranchers and the railroad fail to
 realize the omnipotence and benevolence of the demand which determines
-the production and the distribution of wheat.”[@pizer_synthetic_1963
-535-6] In other words, in order to reconcile a nature-focused reading of
-*The Octopus* and an economic reading of it, Pizer has to not only
-naturalize but celebrate, almost deify, the market logics of capitalism
-through the “natural” laws of supply and demand. The purpose of this
-reconciliation, however, is to push back against the "synthetic 
-criticism" that both authors embody in favor of a "critical eclecticism"
-that would allow both threads to be explored in isolation. That is
-largely what has happened.
+the production and the distribution of wheat.” In other words, in order to reconcile a nature-focused reading  and an economic reading of
+*The Octopus*, Pizer has to not only
+naturalize, but celebrate, almost deify, the market logics of capitalism
+through the “natural” laws of supply and demand. (@pizer_synthetic_1963
+534-6)
 
 [^3]: E.g. @michaels_gold_1987, @jennings_economy_2014,
     @zimmerman_frank_2003, @dorson_rates_2017.
@@ -1763,26 +1751,20 @@ largely what has happened.
 [^6]: @freitag_naturalism_2009, @pizer_synthetic_1963,
     @marx_machine_2000.
 
+[^ln-leconte-class]: @crisler_frank_2014 103, @pizer_evolutionary_1961 553.
+
 [^7]: See @pizer_evolutionary_1961, @pizer_concept_1962,
     @feldman_physics_2006, @jennings_economy_2014.
 
-[^8]: See @clive_hamilton_was_2015 60. Hamilton and Grinevald seek to
+[^8]: See, e.g., @clive_hamilton_was_2015 60. Hamilton and Grinevald seek to
     downplay the significance of these precursors, for the explicit
     reason that they fear a “deflationary effect” on the theory of the
-    Anthropocene.] While the Psychozoic is certainly not credible in
+    Anthropocene. While the Psychozoic is certainly not credible in
     stratigraphic terms---the “golden spikes” that constitute
     stratigraphic evidence would not be formed until the Great
     Acceleration---it is hard to understand why a theory that is
     explicitly termed an “Age of Man” in geologic time would not be
     taken as a precursor, however flawed.
-
-[^10]: Elsewhere, the meanings multiply. In an often quoted passage, the
-    “FORCE,” all in capitals, comes to signify that which “brought men
-    into the world” as well as “crowded them out of it to make way for
-    the succeeding generation,” that which “made the wheat grow” as well
-    as “garnered it from the soil to give place to the succeeding
-    crop.”[@norris_octopus:_1986 634] It is life and death, but also
-    planting and harvest.
 
 [^11]: An inventory of plants mentioned in the novel would read:
     oak/live-oak: 23; eucalyptus: 15; magnolia: 8; chaparral: 7;
