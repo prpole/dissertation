@@ -563,7 +563,7 @@ ends up becoming the autonomous force of capitalism itself, destroying the
 capitalist through recurring crises but becoming indomitable as a force
 in its own right. 
 
-[^ln-assemblage]: Cf. @nail_assemblage_2017.
+[^ln-assemblage]: Cf. @nail_what_2017.
 
 While this heterogeneity might seem to contradict the apparent unity implied
 by "force," the inconsistent use of the term itself shows the same logic 
