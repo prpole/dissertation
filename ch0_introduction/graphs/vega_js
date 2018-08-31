@@ -1,0 +1,156 @@
+{
+  "name": "lifelines",
+  "width": 600,
+  "height": 400,
+  "data": [
+    {
+      "name": "people",
+      "values": [
+        {"label":"proto-Anthropocene", "born":-3345040977000, "died":-1325440739000},
+        {"label":"American Literary Naturalism",      "born":-2461427939000, "died":-1388599139000}
+      ]
+    },
+    {
+      "name": "events",
+      "format": {"type":"json", "parse":{"when":"date"}},
+      "values": [
+        {"name":"George Perkins Marsh's 'Man and Nature'", "when":"1864"},
+        {"name":"Antonio Stoppani's Anthropozoic Era",     "when":"1873"},
+        {"name":"Joseph LeConte's Psychozoic Era",    "when":"1877"},
+        {"name":"Lester F. Ward's 'Dynamic Sociology'", "when": "1888"},
+        {"name":"Pierre Teilhard de Chardin's Noösphere","when": 1922},
+        {"name":"Vladimir Vernadsky's Noösphere","when": 1927}
+      ]
+    },
+
+    {
+      "name": "novels",
+      "format": {"type":"json", "parse":{"when":"date"}},
+      "values": [
+        {"name":"Theodore Dreiser's 'An American Tragedy'",     "when":"1925"},
+        {"name":"The Yellow Wallpaper","when":"1892"},
+        {"name":"The Octopus","when":"1899"},
+        {"name":"The Valley of the Moon","when":"1913"},
+        {"name":"Herland","when":"1915"}
+      ]
+    }
+
+  ],
+  "scales": [
+    {
+      "name": "y",
+      "type": "ordinal",
+      "range": "height",
+      "domain": {"data": "people", "field": "data.label"}
+    },
+    {
+      "name": "x",
+      "type": "time",
+      "range": "width",
+      "round": true,
+      "nice": "year",
+      "domain": {"data": "people", "field": ["data.born", "data.died"]}
+    }
+  ],
+  "axes": [
+    {"type": "x", "scale": "x"}
+  ],
+  "marks": [
+    {
+      "type": "text",
+      "from": {"data": "events"},
+      "properties": {
+        "enter": {
+          "x": {"scale": "x", "field": "data.when"},
+          "y": {"value": -9},
+          "angle": {"value": -25},
+          "fill": {"value": "#000"},
+          "text": {"field": "data.name"},
+          "font": {"value": "Helvetica Neue"},
+          "fontSize": {"value": 10}
+        }
+      }
+    },
+    {
+      "type": "rect",
+      "from": {"data": "events"},
+      "properties": {
+        "enter": {
+          "x": {"scale": "x", "field": "data.when"},
+          "y": {"value": -8},
+          "width": {"value": 1},
+          "height": {"group": "height", "offset": -390},
+          "fill": {"value": "#888"}
+        }
+      }
+    },
+    {
+      "type": "text",
+      "from": {"data": "novels"},
+      "properties": {
+        "enter": {
+          "x": {"scale": "x", "field": "data.when"},
+          "y": {"value": 190},
+          "angle": {"value": -25},
+          "fill": {"value": "#e44"},
+          "text": {"field": "data.name"},
+          "font": {"value": "Helvetica Neue"},
+          "fontSize": {"value": 10}
+        }
+      }
+    },
+    {
+      "type": "rect",
+      "from": {"data": "novels"},
+      "properties": {
+        "enter": {
+          "x": {"scale": "x", "field": "data.when"},
+          "y": {"value": 190},
+          "width": {"value": 1},
+          "height": {"group": "height", "offset": -390},
+          "fill": {"value": "#e44"}
+        }
+      }
+    },
+    {
+      "type": "text",
+      "from": {"data": "people"},
+      "properties": {
+        "enter": {
+          "x": {"scale": "x", "field": "data.born"},
+          "y": {"scale": "y", "field": "data.label", "offset": 12},
+          "fill": {"value": "#000"},
+          "text": {"field": "data.label"},
+          "font": {"value": "Helvetica Neue"},
+          "fontSize": {"value": 10}
+        }
+      }
+    },
+    {
+      "type": "rect",
+      "from": {"data": "people"},
+      "properties": {
+        "enter": {
+          "x": {"scale": "x", "field": "data.born"},
+          "x2": {"scale": "x", "field": "data.died"},
+          "y": {"scale": "y", "field": "data.label"},
+          "height": {"value": 2},
+          "fill": {"value": "#557"}
+        }
+      }
+    },
+    {
+      "type": "rect",
+      "from": {"data": "people"},
+      "properties": {
+        "enter": {
+          "x": {"scale": "x", "field": "data.enter"},
+          "x2": {"scale": "x", "field": "data.leave"},
+          "y": {"scale": "y", "field": "data.label", "offset":-1},
+          "height": {"value": 4},
+          "fill": {"value": "#e44"}
+        }
+      }
+    }
+  ]
+}
